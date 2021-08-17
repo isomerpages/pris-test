@@ -15,9 +15,9 @@ locations:
       - 990 Upper Changi Road North
       - Singapore 506968
       - ""
-    title: Prison Link Centre (Changi)
     operating_hours: []
     maps_link: ""
+    title: Prison Link Centre (Changi)
 contacts:
   - content:
       - phone: 1 800 774 7667
