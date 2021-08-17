@@ -13,18 +13,18 @@ sections:
       background: /images/banners/web-banner_sps75th_1920x600_v1_15062021-compressed.jpg
       url: /contact-us/
       key_highlights:
-        - title: For Members of Public
-          description: ""
-          url: https://google.com
-        - title: NEXT OF KIN / Lawyers
-          description: ""
-          url: https://gmail.com
-        - title: Join Singapore Prison Service
-          description: ""
-          url: /privacy/
-        - title: Contact Us
-          description: ""
-          url: /contact-us/
+        - title: Yellow ribbon project
+          description: Read More
+          url: https://www.yellowribbon.gov.sg/community-engagement/yellow-ribbon-project
+        - title: Visit Booking
+          description: Online Application
+          url: https://www.ipris.sps.gov.sg/sps-vms3-web/#/home/index
+        - title: E-Letters
+          description: "Read and Write E-letters "
+          url: https://eservice.sps.gov.sg/eletters
+        - title: Inmates Release Locations
+          description: Read More
+          url: https://www.sps.gov.sg/connect-us/other-matters/inmates-release-locations
   - infopic:
       title: Mission
       description: As a correctional agency, we enforce secure custody of offenders
