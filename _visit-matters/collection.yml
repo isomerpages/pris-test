@@ -1,5 +1,5 @@
 collections:
-  example-collection:
+  visit-matters:
     output: true
     order:
       - organisation/.keep
