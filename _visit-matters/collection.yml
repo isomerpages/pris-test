@@ -4,3 +4,4 @@ collections:
     order:
       - organisation/.keep
       - organisation/about-us.md
+      - first-time-visitor.md
