@@ -30,11 +30,13 @@ sections:
       description: As a correctional agency, we enforce secure custody of offenders
         and rehabilitate them for a safe Singapore.
       alt: Image alt text
+      image: /images/image-library/1994_1.jpg
   - infopic:
       title: Vision
       description: As Captains of Lives, we inspire everyone, at every chance, towards
         a society without re-offending.
       alt: Image alt text
+      image: /images/image-library/1b_0.jpg
   - infobar:
       title: Infobar title
       subtitle: Subtitle
