@@ -25,6 +25,16 @@ sections:
         - title: Contact Us
           description: ""
           url: /contact-us/
+  - infopic:
+      title: Mission
+      description: As a correctional agency, we enforce secure custody of offenders
+        and rehabilitate them for a safe Singapore.
+      alt: Image alt text
+  - infopic:
+      title: Vision
+      description: As Captains of Lives, we inspire everyone, at every chance, towards
+        a society without re-offending.
+      alt: Image alt text
   - infobar:
       title: Infobar title
       subtitle: Subtitle
