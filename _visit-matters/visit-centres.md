@@ -9,6 +9,9 @@ Operating Hours:
 | Mondays to Fridays| 	8:00am to 5:00pm |
 | -------- | -------- | 
 | Saturday:    | 8:00am to 4:00pm   | 
-| (Closed on Sundays and Public Holidays)|  | 
+| (Closed on Sundays and Public Holidays)|  |
 
+**Prison Link Centres **
+
+![Alt text for image on Isomer site](/images/image-library/Prison%20Link%20Centres.png)
 
