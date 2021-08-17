@@ -2,4 +2,5 @@ collections:
   example-collection:
     output: true
     order:
+      - organisation/.keep
       - about-us.md
