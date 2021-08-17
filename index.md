@@ -37,12 +37,6 @@ sections:
         a society without re-offending.
       alt: Image alt text
       image: /images/image-library/1b_0.jpg
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
   - resources:
       title: Media
       subtitle: Learn more
