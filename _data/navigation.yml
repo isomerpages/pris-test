@@ -1,9 +1,11 @@
 logo: /images/sps.logo
 links:
-  - title: Careers
-    url: /careers
+  - title: About Us
+    collection: visit-matters
   - title: Visit Matters
     collection: visit-matters
+  - title: Careers
+    url: /careers
   - title: Resource
     resource_room: true
   - title: Contact Us
