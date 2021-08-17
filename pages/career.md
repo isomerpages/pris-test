@@ -2,6 +2,3 @@
 title: Career
 permalink: /career
 ---
-```
-
-```
