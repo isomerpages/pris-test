@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - first-time-visitor.md
+      - example-title.md
