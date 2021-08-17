@@ -39,6 +39,6 @@ sections:
       image: /images/image-library/1b_0.jpg
   - resources:
       title: Media
-      subtitle: Learn more
+      subtitle: Latest news
       button: View More
 ---
