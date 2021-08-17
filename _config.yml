@@ -2,8 +2,8 @@ title: Singapore Prison Service
 url: ""
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#14275e"
-  secondary-color: "#cdcdd9"
+  primary-color: "#cdcdd9"
+  secondary-color: "#14275e"
   media-colors:
     - title: media-color-one
       color: "#49759a"
