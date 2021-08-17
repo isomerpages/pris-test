@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - organisation/.keep
+      - organisation/about-us.md
