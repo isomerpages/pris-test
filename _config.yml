@@ -1,4 +1,4 @@
-title: Title
+title: Singapore Prison Service
 url: ""
 favicon: /images/favicon-isomer.ico
 colors:
@@ -52,3 +52,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://pris-test-staging.netlify.app
 prod: https://pris-test-prod.netlify.app
+is_government: true
