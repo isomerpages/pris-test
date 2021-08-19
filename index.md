@@ -37,6 +37,15 @@ sections:
         a society without re-offending.
       alt: Image alt text
       image: /images/image-library/1b_0.jpg
+  - infopic:
+      title: Yellow Ribbon Project
+      description: The Yellow Ribbon Project (YRP) is a national public engagement
+        campaign aimed at changing society’s mindset in giving ex-offenders a
+        second chance in life.
+      button: Read More
+      url: https://www.yellowribbon.gov.sg/community-engagement/yellow-ribbon-project
+      image: /images/image-library/yrsg-logo-3d.jpg
+      alt: Image alt text
   - resources:
       title: Media
       subtitle: Latest news
