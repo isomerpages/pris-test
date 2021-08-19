@@ -1,7 +1,8 @@
 ---
 title: Vision, Mission & Values
-permalink: /about-us/mission-vision-values
+permalink: /about-us/vision-mission-values
 ---
+
 ![Alt text for image on Isomer site](/images/banners/col-turning-sentences-into-new-chapters.jpg)
 ### **Vision**
 
