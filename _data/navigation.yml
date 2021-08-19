@@ -10,3 +10,8 @@ links:
     resource_room: true
   - title: Contact Us
     url: /contact-us/
+  - title: Test Submenu
+    url: /testsubmenu
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
