@@ -13,12 +13,12 @@ sections:
       background: /images/banners/web-banner_sps75th_1920x600_v1_15062021-compressed.jpg
       url: /contact-us/
       key_highlights:
-        - title: Next of Kin / lawyers
-          description: Read More
-          url: https://www.sps.gov.sg/connect-us
         - title: Members of Public
           description: Click here for more about SPS
           url: https://www.sps.gov.sg/who-we-are/organisation
+        - title: Next of Kin / lawyers
+          description: Read More
+          url: https://www.sps.gov.sg/connect-us
         - title: Recruitment Matters
           description: Join Singapore Prison Service
           url: https://www.sps.gov.sg/career
