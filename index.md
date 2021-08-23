@@ -10,7 +10,7 @@ notification: For your safety, tele-visits at PLC (Geylang Bahru) will be
   You many schedule your tele-visits at other PLCs instead. Thank you
 sections:
   - hero:
-      background: /images/banners/web-banner_sps75th_1920x600_v1_15062021-compressed.jpg
+      background: /images/The%20Test%20Gif.gif
       url: /contact-us/
       key_highlights:
         - title: Members of Public
