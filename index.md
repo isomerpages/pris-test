@@ -13,18 +13,15 @@ sections:
       background: /images/The%20Test%203.gif
       url: /contact-us/
       key_highlights:
+        - title: Next of Kin
+          description: Read More
+          url: https://www.sps.gov.sg/connect-us
         - title: Members of Public
           description: Click here for more about SPS
           url: https://www.sps.gov.sg/who-we-are/organisation
-        - title: Next of Kin / lawyers
+        - title: Volunteers and Community
           description: Read More
-          url: https://www.sps.gov.sg/connect-us
-        - title: Recruitment Matters
-          description: Join Singapore Prison Service
-          url: https://www.sps.gov.sg/career
-        - title: Contact Us
-          description: ""
-          url: /contact
+          url: https://www.sps.gov.sg/volunteer/sps-volunteering-journey
   - infopic:
       title: Mission
       description: As a correctional agency, we enforce secure custody of offenders
