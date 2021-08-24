@@ -15,13 +15,13 @@ sections:
       key_highlights:
         - title: Next of Kin
           description: Information and Services
-          url: https://pris-test-staging.netlify.app/visit-matters/1st-time-visitor
+          url: /visit-matters/1st-time-visitor
         - title: Members of Public
           description: Click here for more on SPS
-          url: https://pris-test-staging.netlify.app/organisation
+          url: /organisation
         - title: Volunteers and Community
           description: Join us to make a difference
-          url: https://pris-test-staging.netlify.app/sps-volunteer
+          url: /sps-volunteer
   - infopic:
       title: Mission
       description: As a correctional agency, we enforce secure custody of offenders
