@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - sps-volunteer.md
+      - sps-volunteering-journey.md
