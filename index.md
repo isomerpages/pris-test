@@ -21,7 +21,7 @@ sections:
           url: https://www.sps.gov.sg/who-we-are/organisation
         - title: Volunteers and Community
           description: Read More
-          url: https://www.sps.gov.sg/volunteer/sps-volunteering-journey
+          url: https://pris-test-staging.netlify.app/sps-volunteer
   - infopic:
       title: Mission
       description: As a correctional agency, we enforce secure custody of offenders
