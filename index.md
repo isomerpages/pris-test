@@ -15,10 +15,10 @@ sections:
       key_highlights:
         - title: Next of Kin
           description: Information and Services
-          url: https://www.sps.gov.sg/connect-us
+          url: https://pris-test-staging.netlify.app/visit-matters/1st-time-visitor
         - title: Members of Public
           description: Click here for more on SPS
-          url: https://www.sps.gov.sg/who-we-are/organisation
+          url: https://pris-test-staging.netlify.app/organisation
         - title: Volunteers and Community
           description: Join us to make a difference
           url: https://pris-test-staging.netlify.app/sps-volunteer
