@@ -13,7 +13,7 @@ sections:
       background: /images/The%20Test%203.gif
       url: /contact-us/
       key_highlights:
-        - title: <img src="quicklinks-directrelease.jpg" alt="">
+        - title: Next of Kin
           description: Information and Services
           url: https://pris-test-staging.netlify.app/visit-matters/1st-time-visitor
         - title: Members of Public
