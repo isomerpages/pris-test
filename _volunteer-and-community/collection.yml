@@ -1,4 +1,5 @@
 collections:
   volunteer-and-community:
     output: true
-    order: []
+    order:
+      - sps-volunteer.md
