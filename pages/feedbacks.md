@@ -1,0 +1,4 @@
+---
+title: Feedbacks
+permalink: /feedback
+---
