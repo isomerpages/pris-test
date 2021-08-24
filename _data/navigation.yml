@@ -4,11 +4,9 @@ links:
     collection: about-us
   - title: Next of Kin / Lawyers
     collection: visit-matters
-  - title: Careers
-    url: /career
+  - title: Volunteer And Community
+    collection: volunteer-and-community
   - title: News About Us
     resource_room: true
   - title: Contact Us
     url: /contact-us/
-  - title: Volunteer And Community
-    collection: volunteer-and-community
