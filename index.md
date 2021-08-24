@@ -14,13 +14,13 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: Next of Kin
-          description: Read More
+          description: Information and Services
           url: https://www.sps.gov.sg/connect-us
         - title: Members of Public
-          description: Click here for more about SPS
+          description: Click here for more on SPS
           url: https://www.sps.gov.sg/who-we-are/organisation
         - title: Volunteers and Community
-          description: Read More
+          description: Join us to make a difference
           url: https://pris-test-staging.netlify.app/sps-volunteer
   - infopic:
       title: Mission
