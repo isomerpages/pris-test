@@ -49,5 +49,5 @@ sections:
       button: View More
   - infobar:
       description: <img src="/images/banners/Awards%202.png"
-        alt="awards"style="width:500px;height:600px;>
+        alt="awards"style="width:600px;height:250px;>
 ---
