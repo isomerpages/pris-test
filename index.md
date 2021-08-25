@@ -47,4 +47,6 @@ sections:
       title: Media
       subtitle: Latest news
       button: View More
+  - infobar:
+      title: <img src="/images/banners/Awards.png" alt="awards">
 ---
