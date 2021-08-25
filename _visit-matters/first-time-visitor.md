@@ -12,7 +12,7 @@ Your First Visit Booking
 To schedule a visit, you can visit our online portal at [www.ipris.sps.gov.sg](https://www.ipris.sps.gov.sg/sps-vms3-web/#/home/index) using your SingPass. Alternatively, you can contact our visit booking hotlines at 6546 7169/ 7170/ 7171/ 7172.
 
 Our visit hotline operating hours are:
-</p>
+
 <table class="tablewrap" border="1" cellspacing="0" cellpadding="0">
   <tbody class="table">
     <tr>
@@ -29,6 +29,5 @@ Our visit hotline operating hours are:
     </tr>
   </tbody>
 </table>
-<p>&nbsp;</p>
 <h4 class="spsblue"><strong><span style="color: rgb(0, 38, 97);">What to bring for your first visit</span></strong></h4>
 <p>You are required to bring your identity card or passport and all relevant original documentary proof of relationship, such as birth certificate and marriage certificate, for the purpose of verifying your relationship with the inmate.</p>
