@@ -15,3 +15,16 @@ As a correctional agency, we enforce secure custody of offenders and rehabilitat
 Our Prison officers are committed to balance the needs of secure custody and discipline, while providing opportunities for rehabilitation for inmates who are deserving and capable of rehabilitation.
 
 As Captains of Lives, our officers are guided by a set of core values, namely, **Synergy, Vigilance, Integrity and Care (SVIC)**.
+
+<table>
+<tr>
+<td width="50%">
+<iframe width="400" height="315" src="https://www.youtube.com/embed/knDRqi0zBXg" frameborder="0" allowfullscreen></iframe>
+</td>
+<td width="50%">
+	<h3>Mission</h3>
+As a correctional agency, we enforce secure custody of offenders and rehabilitate them, for a safe Singapore.
+
+</td>
+</tr>
+</table>
