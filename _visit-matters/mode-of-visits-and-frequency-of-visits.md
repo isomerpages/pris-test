@@ -81,12 +81,13 @@ permalink: /visit-matters/mode-of-visits-and-frequency
     <td valign="top"><p>9:00am to   4:00pm</p></td>
   </tr>
 </tbody></table>
+
 <h2>Televisit</h2>
 
 
 |Monday to Saturday: | for Penal inmate, DRC inmate and IAs | 
 | -------- | -------- | 
-| **Monday to Friday:**| **for Remand inmates  **   | 
+| **Monday to Friday:**| **for Remand inmates **   | 
 
 
 <p><strong>Visit frequency</strong> differs for different category of inmates:</p>
