@@ -10,7 +10,7 @@ notification: For your safety, tele-visits at PLC (Geylang Bahru) will be
   You many schedule your tele-visits at other PLCs instead. Thank you
 sections:
   - hero:
-      background: /images/The%20Test%203.gif
+      background: /images/The%20Test%204.gif
       url: /contact-us/
       key_highlights:
         - title: Next of Kin
