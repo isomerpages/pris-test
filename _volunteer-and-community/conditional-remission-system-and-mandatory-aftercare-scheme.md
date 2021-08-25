@@ -2,3 +2,10 @@
 title: Conditional Remission System and Mandatory Aftercare Scheme
 permalink: /conditional-remission-system-and-aftercare
 ---
+The current remission system allows for offenders to be released with no conditions after serving two-thirds of a sentence of imprisonment. This will be replaced by the Conditional Remission System (CRS), which seeks to deter ex-offenders from re-offending by subjecting them to conditions upon their release. Most ex-offenders will generally still be released at the two-thirds mark of their sentence, with the basic condition of not to re-offend during the remission period and be sentenced to an imprisonment term (excluding a default sentence) or given any other sentence such as reformative training, corrective training and preventive detention. For breaching the basic condition, the Court may impose an enhanced sentenced as penalty. The maximum length of the enhanced sentence shall not exceed the remaining duration of the remission order from the date of the “new” offence. This will be in addition to any sentence that may be imposed for committing an offence in breach of the basic condition. There shall be no one-third remission for the enhanced sentence.
+
+A selected group of ex-offenders will have mandatory aftercare conditions imposed in addition to the basic condition. The Mandatory Aftercare Scheme (MAS) is a structured aftercare regime that provides enhanced community support, counselling and case management with tight supervision for a selected group of ex-offenders at risk of re-offending and also those who need more support in reintegration into society. It aims to support ex-offenders in staying crime-free and deter them from re-offending.
+
+The scheme will consist of supervision and restrictions such as curfew hours and electronic monitoring, as well as counselling and case management. Upon release at the two-thirds mark of their sentence, ex-offenders who are required to undergo MAS will be placed progressively through these step-down aftercare support and supervision.
+
+![Alt text for image on Isomer site](/images/image-library/conditional-remission.jpg)
