@@ -17,7 +17,7 @@ sections:
           description: Information and Services
           url: /visit-matters/1st-time-visitor
         - title: Members of Public
-          description: Click here for more on SPS
+          description: Find out more about SPS
           url: /organisation
         - title: Volunteers and Community
           description: Join us to make a difference
