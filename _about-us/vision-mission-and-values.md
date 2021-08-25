@@ -2,7 +2,7 @@
 title: Vision, Mission & Values
 permalink: /about-us/vision-mission-values
 ---
-<div style="text-align: center;"><iframe width="1000" height="315" src="https://www.youtube.com/embed/knDRqi0zBXg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style="text-align: center;"><iframe width="800" height="315" src="https://www.youtube.com/embed/knDRqi0zBXg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ### **Vision**
 
