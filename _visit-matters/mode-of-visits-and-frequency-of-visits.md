@@ -82,17 +82,13 @@ permalink: /visit-matters/mode-of-visits-and-frequency
   </tr>
 </tbody></table>
 <h2>Televisit</h2>
-<p>Televisit is available:</p>
-	  <table style="margin-bottom: 20px;" cellpadding="5" width="70%">
-	  <tbody><tr>
-		  <td width="30%" class="cellheader">Monday to Saturday:</td>
-		  <td width="70%" class="cell">for Penal inmate, DRC inmate and IAs</td>
-	  </tr>
-	  <tr>
-		  <td width="30%" class="cellheader">Monday to Friday:</td>
-		  <td width="70%" class="cell">for Remand inmates</td>
-	</tr>
-	</tbody></table>
+
+
+|Monday to Saturday: | for Penal inmate, DRC inmate and IAs | 
+| -------- | -------- | 
+| Monday to Friday:| for Remand inmates     | 
+
+
 <p><strong>Visit frequency</strong> differs for different category of inmates:</p>
 <table cellpadding="10" cellspacing="0" border="1" class="table">
   <tbody><tr class="headerbox headerwhite">
