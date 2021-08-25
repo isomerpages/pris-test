@@ -2,7 +2,8 @@
 title: Vision, Mission & Values
 permalink: /about-us/vision-mission-values
 ---
-![Alt text for image on Isomer site](/images/banners/Banner%20Gif.gif)
+<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/knDRqi0zBXg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 ### **Vision**
 
 As Captains of Lives, we inspire everyone, at every chance, towards a society without re-offending.
