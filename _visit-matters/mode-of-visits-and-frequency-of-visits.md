@@ -86,7 +86,7 @@ permalink: /visit-matters/mode-of-visits-and-frequency
 
 |Monday to Saturday: | for Penal inmate, DRC inmate and IAs | 
 | -------- | -------- | 
-| Monday to Friday:| for Remand inmates     | 
+| **Monday to Friday:**| **for Remand inmates  **   | 
 
 
 <p><strong>Visit frequency</strong> differs for different category of inmates:</p>
