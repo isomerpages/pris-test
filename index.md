@@ -4,10 +4,10 @@ title: Singapore Prison Service
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: For your safety, tele-visits at PLC (Geylang Bahru) will be
-  suspended until further notice due to a fire incident near the PLC. We will be
-  contacting affected visitors to assist with the rescheduling of their visits.
-  You many schedule your tele-visits at other PLCs instead. Thank you
+notification: We are pleased to inform you that face-to-face visits will resume
+  from 1 September 2021. Up to two visitors will be allowed for each visit
+  session. We will no longer facilitate phone calls in place of visits after 31
+  August 2021.
 sections:
   - hero:
       background: /images/banners/The%20Test%204.gif
