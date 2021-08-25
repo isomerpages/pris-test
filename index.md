@@ -48,6 +48,5 @@ sections:
       subtitle: Latest news
       button: View More
   - infobar:
-      description: <img src="/images/banners/Awards%202.png"
-        alt="awards"style="width:1200px;height:150px;>
+      title: <img src="/images/banners/Awards%202.png" alt="awards">
 ---
