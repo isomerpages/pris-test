@@ -57,7 +57,8 @@ As Captains of Lives, we are akin to the first drop of water that touches the po
 </table>
 <p style="text-align: left;" class="copytext">
 </p>
-</div>
+	</div>
+	</p>
 <!--Salary-->
 <div class="container">
 <p class="subtitle"><strong><em><span style="color: #002661;">Salary</span></em></strong></p>
