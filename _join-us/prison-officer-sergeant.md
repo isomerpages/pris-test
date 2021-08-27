@@ -49,8 +49,8 @@ permalink: /careers/prison-officer-sergeant
 </tbody>
 </table>
 <div class="container">
-<p class="copytext"><em>* with effect from 1 June 2020</em></p>
-<p class="copytext">Indicative starting salary for fresh graduates with the completion of full-time National Service (for males only). Additional increments may be granted for relevant work experience.</p>
+<p class="copytext" style="text-align: left;"><em>* with effect from 1 June 2020</em></p>
+<p class="copytext" style="text-align: left;">Indicative starting salary for fresh graduates with the completion of full-time National Service (for males only). Additional increments may be granted for relevant work experience.</p>
 <p class="copytext">&nbsp;</p>
 </div>
 <div class="container">
