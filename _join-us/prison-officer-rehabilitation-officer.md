@@ -95,8 +95,8 @@ As Captains of Lives, we are akin to the first drop of water that touches the po
 <p class="copytext"><i>* with effect from 1 June 2020</i></p>
 <p class="copytext">
 Indicative starting salary for fresh graduates with the completion of full-time National Service (for males only). Additional increments may be granted for relevant work experience.
-		</p></div>
-	</p>
+	</div>
+</p>
 <!--Sign On Bonus-->
 	<div class="container">	
 <p class="subtitle"><strong><em><span style="color: #002661;">Benefits</span></em></strong></p></div><div class="container">
