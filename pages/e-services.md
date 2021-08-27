@@ -2,15 +2,16 @@
 title: e-Services
 permalink: /e-services
 ---
-<table style="height: 273px; width: 100%; border-collapse: collapse; margin-left: auto; margin-right: auto;" border="0">
+
+<table style="width: 100%; border-collapse: collapse; margin-left: auto; margin-right: auto;" border="0">
 <tbody>
-<tr style="height: 255px;">
-<td style="width: 33.3333%; height: 255px; text-align: center;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://d33wubrfki0l68.cloudfront.net/1db1b3bb513ba074d225f9d0c109f97baaba8fa2/beaa1/images/quicklinks-visit.jpg" alt="" width="300" height="200" /><span style="text-align: center; color: #0000ff;"><strong>Online Visit Booking</strong></span></td>
-<td style="width: 33.3333%; height: 255px; text-align: center;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://d33wubrfki0l68.cloudfront.net/76a27f5f3cc1f3d5cb6ea5ca401ffdd09ab7a1ef/9a82e/images/quicklinks4_eletters.jpg" alt="" width="300" height="200" /><span style="text-align: center; color: #0000ff;"><strong>E-Letters</strong></span></td>
+<tr>
+<td style="width: 50%; text-align: center;"><a href="https://www.ipris.sps.gov.sg/sps-vms3-web/#/home/index"><img src="https://raw.githubusercontent.com/isomerpages/pris-test/staging/images/image-library/ovb.png" alt="" width="300" height="200" /></a></td>
+<td style="width: 50%; text-align: center;"><a href="https://eservice.sps.gov.sg/eletters/#/landing"><img src="https://raw.githubusercontent.com/isomerpages/pris-test/staging/images/image-library/eletters.png" alt="E Letters" width="300" height="200" /></a></td>
 </tr>
-<tr style="height: 18px;">
-<td style="width: 33.3333%; height: 18px; text-align: center;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://d33wubrfki0l68.cloudfront.net/1d926199ed83f4317dbf4b62d1d040f946c6bf6d/554a3/images/quicklinks-directrelease.jpg" alt="" width="291" height="200" /><span style="text-align: center; color: #0000ff;"><strong>Inmate Release Location</strong></span></td>
-<td style="width: 33.3333%; height: 18px;">&nbsp;</td>
+<tr>
+<td style="width: 50%; text-align: center;"><a href="https://www.sps.gov.sg/connect-us/other-matters/inmates-release-locations"><img src="https://raw.githubusercontent.com/isomerpages/pris-test/staging/images/image-library/irl.png" alt="" /></a></td>
+<td style="width: 50%; text-align: center;">&nbsp;</td>
 </tr>
 </tbody>
 </table>
