@@ -10,7 +10,7 @@ notification: We are pleased to inform you that face-to-face visits will resume
   August 2021.
 sections:
   - hero:
-      background: /images/banners/Clusters%20Crop.gif
+      background: /images/banners/web-banner_sps75th_1920x600_v1_15062021-compressed.jpg
       url: /contact-us/
       key_highlights:
         - title: Next of Kin
