@@ -5,7 +5,7 @@ permalink: /careers/prison-officer-sergeant
 <p><strong>A UNIFORM CAREER WITH SPS - ARE YOU THE ONE WE ARE LOOKING FOR?</strong></p>
 <p class="copytext">As Captains of Lives, we are akin to the first drop of water that touches the pond and creating a ripple effect. Our work goes beyond being a guard; we aspire to create&nbsp;a positive impact in the lives of offenders, and inspire everyone at every chance towards a society without re-offending.</p>
 <p style="text-align: center;"><strong>Prison Officer (Sergeant)</strong><br><em>Be part of the team to enforce secure custody of offenders and rehabilitate them, for a safe Singapore.</em></p>
-<div style="text-align: center;"><iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/CshxKg00Oao" title="YouTube video player"></iframe>
+<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/CshxKg00Oao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <table border="1" style="border-collapse: collapse; width: 100%; height: 100px;">
 <tbody>
 <tr style="height: 46px;">
@@ -73,7 +73,7 @@ permalink: /careers/prison-officer-sergeant
 </td>
 </tr>
 <tr>
-<td class="cellpadding">MHA Sponsorship/MHA Study Award*&nbsp;</td>
+<td class="cellpadding">MHA Sponsorship/MHA Study Award*</td>
 <td class="cellpadding">Part-time studies (PhD, Masters, Graduate Diploma, Degree, Diploma &amp; formal certificate)&nbsp;</td>
 </tr>
 <tr>
