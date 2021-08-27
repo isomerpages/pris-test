@@ -102,5 +102,3 @@ permalink: /careers/prison-officer-sergeant
 </tr>
 </tbody>
 </table>
-</div>
-</div>
