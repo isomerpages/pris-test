@@ -5,7 +5,7 @@ permalink: /careers/prison-officer-sergeant
 <p><strong>A UNIFORM CAREER WITH SPS - ARE YOU THE ONE WE ARE LOOKING FOR?</strong></p>
 <p class="copytext">As Captains of Lives, we are akin to the first drop of water that touches the pond and creating a ripple effect. Our work goes beyond being a guard; we aspire to create&nbsp;a positive impact in the lives of offenders, and inspire everyone at every chance towards a society without re-offending.</p>
 <p style="text-align: center;"><strong>Prison Officer (Sergeant)</strong><br /><em>Be part of the team to enforce secure custody of offenders and rehabilitate them, for a safe Singapore.</em></p>
-
+<div style="text-align: center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/CshxKg00Oao" height="315" width="560"></iframe>
 <table style="border-collapse: collapse; width: 100%; height: 100px;" border="1">
 <tbody>
 <tr style="height: 46px;">
