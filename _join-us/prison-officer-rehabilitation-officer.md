@@ -2,7 +2,6 @@
 title: Prison Officer (Rehabilitation Officer)
 permalink: /careers/prison-officer
 ---
-
 <div class="container">
 <p>
 <span style="color: #002661;"><strong>A UNIFORM CAREER WITH SPS - ARE YOU THE ONE WE ARE LOOKING FOR?</strong></span>
@@ -98,7 +97,8 @@ As Captains of Lives, we are akin to the first drop of water that touches the po
 Indicative starting salary for fresh graduates with the completion of full-time National Service (for males only). Additional increments may be granted for relevant work experience.
 </p></div>
 <!--Sign On Bonus-->
-	<div class="container"></p>
+	<div class="container">
+		</p>
 <p class="subtitle"><strong><em><span style="color: #002661;">Benefits</span></em></strong></p></div><div class="container">
 <p class="copytext">
 1. Annual Leave 18 – 21 days (Rehabilitation Officer)<br>
