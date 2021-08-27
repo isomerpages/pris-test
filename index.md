@@ -23,7 +23,7 @@ sections:
           description: Join us to make a difference
           url: /sps-volunteer
         - title: Join Us
-          description: Be the Next Captains of Lives
+          description: Be a Captain of Lives
           url: /careers
   - infopic:
       title: Mission
