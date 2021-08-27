@@ -22,6 +22,9 @@ sections:
         - title: Volunteers and Community
           description: Join us to make a difference
           url: /sps-volunteer
+        - title: Join Us
+          description: Be the Next Captains of Lives
+          url: /careers
   - infopic:
       title: Mission
       description: As a correctional agency, we enforce secure custody of offenders
