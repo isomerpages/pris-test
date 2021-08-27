@@ -140,8 +140,7 @@ permalink: /careers/prison-officer
 <tbody>
 <tr style="height: 46px;">
 <td style="text-align: center; width: 99.9999%;" colspan="2">
-<h4 style="text-align: left;"><strong>Postings </strong></h4>
-<h4 style="text-align: left;"><strong>Captains of Lives can look forward to a wide range of career choices and opportunities</strong></h4>
+<h5 style="text-align: left;"><strong>Postings <br><br>Captains of Lives can look forward to a wide range of career choices and opportunities</strong></h5>
 </td>
 </tr>
 <tr>
