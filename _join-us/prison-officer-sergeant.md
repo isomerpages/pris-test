@@ -4,12 +4,14 @@ permalink: /careers/prison-officer-sergeant
 ---
 <p><strong>A UNIFORM CAREER WITH SPS - ARE YOU THE ONE WE ARE LOOKING FOR?</strong></p>
 <p class="copytext">As Captains of Lives, we are akin to the first drop of water that touches the pond and creating a ripple effect. Our work goes beyond being a guard; we aspire to create&nbsp;a positive impact in the lives of offenders, and inspire everyone at every chance towards a society without re-offending.</p>
-<p style="text-align: center;"><strong>Prison Officer (Sergeant)</strong><br><em>Be part of the team to enforce secure custody of offenders and rehabilitate them, for a safe Singapore.</em></p>
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/CshxKg00Oao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<table border="1" style="border-collapse: collapse; width: 100%; height: 100px;">
+<p style="text-align: center;"><strong>Prison Officer (Sergeant)</strong><br /><em>Be part of the team to enforce secure custody of offenders and rehabilitate them, for a safe Singapore.</em></p>
+<div style="text-align: center;"><iframe title="YouTube video player" src="https://www.youtube.com/embed/CshxKg00Oao" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div style="text-align: center;">&nbsp;</div>
+<div style="text-align: center;">
+<table style="border-collapse: collapse; width: 100%; height: 100px;" border="1">
 <tbody>
 <tr style="height: 46px;">
-<td colspan="3" style="text-align: center; width: 99.9999%;">
+<td style="text-align: center; width: 99.9999%;" colspan="3">
 <h4><strong>Eligibility Requirements</strong></h4>
 </td>
 </tr>
@@ -25,12 +27,12 @@ permalink: /careers/prison-officer-sergeant
 </tr>
 <tr style="height: 18px;">
 <td style="width: 33.3333%; height: 18px; text-align: left;">Vision</td>
-<td colspan="2" style="text-align: center; width: 66.6666%;">Normal Colour Vision</td>
+<td style="text-align: center; width: 66.6666%;" colspan="2">Normal Colour Vision</td>
 </tr>
 </tbody>
 </table>
 <h5 style="text-align: left;"><strong>Salary</strong></h5>
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 33.3333%; text-align: center;"><strong>Educational Qualification</strong></td>
@@ -38,7 +40,7 @@ permalink: /careers/prison-officer-sergeant
 <td style="width: 33.3333%; text-align: center;"><strong>*Starting Salary Range</strong></td>
 </tr>
 <tr>
-<td style="width: 33.3333%; text-align: center;">Diploma/ GCE ‘A’ Levels/ Higher Nitec</td>
+<td style="width: 33.3333%; text-align: center;">Diploma/ GCE &lsquo;A&rsquo; Levels/ Higher Nitec</td>
 <td style="width: 33.3333%; text-align: center;">Sergeant</td>
 <td style="width: 33.3333%; text-align: center;">$1,916 - $2,748</td>
 </tr>
@@ -50,18 +52,16 @@ permalink: /careers/prison-officer-sergeant
 <p class="copytext">&nbsp;</p>
 </div>
 <div class="container">
-<p style="text-align: left;" class="subtitle"><strong><em>Sign-On Bonus</em></strong></p>
-<p style="text-align: left;" class="copytext">Newly appointed Captains of Lives may receive a sign-on bonus of $10,000 (given in 2 tranches of $3,000 and $7,000 respectively).</p>
-<p style="text-align: left;" class="copytext">&nbsp;</p>
+<p class="subtitle" style="text-align: left;"><strong><em>Sign-On Bonus</em></strong></p>
+<p class="copytext" style="text-align: left;">Newly appointed Captains of Lives may receive a sign-on bonus of $10,000 (given in 2 tranches of $3,000 and $7,000 respectively).</p>
+<p class="copytext" style="text-align: left;">&nbsp;</p>
 </div>
 <div class="container">
-<p style="text-align: left;" class="subtitle"><strong><em>Career Progression</em></strong></p>
-<p style="text-align: left;" class="copytext">To signal SPS’s commitment to look beyond academic qualifications, non-graduate officers can look forward to seamless and faster career progression up the ranks even without a degree, based on performance and potential. Sergeants who performed well and have the demonstrated potential, can be considered for direct emplacement to the Rehabilitation Officer rank within the first few years of service.</p>
-<p style="text-align: left;" class="copytext">&nbsp;</p>
-<p style="text-align: left;" class="subtitle"><em><strong>Upgrading Opportunities</strong></em></p>
-<p style="text-align: left;" class="copytext">SPS supports the professional and personal growth of our Captains of Lives through various upgrading and developmental schemes.</p>
-</div>
-</div>
+<p class="subtitle" style="text-align: left;"><strong><em>Career Progression</em></strong></p>
+<p class="copytext" style="text-align: left;">To signal SPS&rsquo;s commitment to look beyond academic qualifications, non-graduate officers can look forward to seamless and faster career progression up the ranks even without a degree, based on performance and potential. Sergeants who performed well and have the demonstrated potential, can be considered for direct emplacement to the Rehabilitation Officer rank within the first few years of service.</p>
+<p class="copytext" style="text-align: left;">&nbsp;</p>
+<p class="subtitle" style="text-align: left;"><em><strong>Upgrading Opportunities</strong></em></p>
+<p class="copytext" style="text-align: left;">SPS supports the professional and personal growth of our Captains of Lives through various upgrading and developmental schemes.</p>
 <table class="table">
 <tbody>
 <tr>
@@ -73,7 +73,7 @@ permalink: /careers/prison-officer-sergeant
 </td>
 </tr>
 <tr>
-<td class="cellpadding">MHA Sponsorship/MHA Study Award*</td>
+<td class="cellpadding">MHA Sponsorship/MHA Study Award*&nbsp;</td>
 <td class="cellpadding">Part-time studies (PhD, Masters, Graduate Diploma, Degree, Diploma &amp; formal certificate)&nbsp;</td>
 </tr>
 <tr>
@@ -97,7 +97,7 @@ permalink: /careers/prison-officer-sergeant
 <p>Enhanced Learning &amp; Development Subsidy Scheme</p>
 </td>
 <td class="cellpadding">
-<p>$2000 per annum in the last 5 years prior to an officer’s retirement to support transition to a second career post retirement</p>
+<p>$2000 per annum in the last 5 years prior to an officer&rsquo;s retirement to support transition to a second career post retirement</p>
 </td>
 </tr>
 </tbody>
@@ -140,7 +140,5 @@ permalink: /careers/prison-officer-sergeant
 <p class="copytext" style="text-align: left;">SPS provides a dynamic and well-structured career advancement route map for our Captains of Lives. Besides operational roles in an institution, you may also be posted to different functional areas such as in Intelligence, Provost, community corrections, programme management, technology, training, corporate services, Prison Special Operations etc. for your career development. You will undergo the relevant leadership milestone programs and training at each stage, as you advance in your career with SPS.</p>
 <p class="copytext" style="text-align: left;">Under the Expert Career Tracks for Prison Special Operations and Intelligence respectively, officers selected for these tracks will hone their expertise to develop deep specialisation and receive recognition for their expertise (i.e. Senior Specialist, Principal Specialist and Expert).</p>
 <p class="copytext" style="text-align: left;"><a href="https://careers.pageuppeople.com/688/cwlive/en/filter/?=&amp;search-keyword=singapore%20prison&amp;brand=mha%20-%20singapore%20prison%20service%20(sps)&amp;job-mail-subscribe-privacy=agree"><img src="https://raw.githubusercontent.com/isomerpages/pris-test/staging/images/career-tabs-application-button.png" alt="" /></a></p>
-</div>
-</div>
 </div>
 </div>
