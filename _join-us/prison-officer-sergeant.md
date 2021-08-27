@@ -24,8 +24,8 @@ permalink: /careers/prison-officer-sergeant
 </tr>
 <tr style="height: 18px;">
 <td style="width: 33.3333%; height: 18px;">PES Status</td>
-<td style="width: 33.3333%; height: 18px;">PES B1 and Above</td>
-<td style="width: 33.3333%; height: 18px;">Exempted</td>
+<td style="width: 33.3333%; height: 18px; text-align: center;">PES B1 and Above</td>
+<td style="width: 33.3333%; height: 18px; text-align: center;">Exempted</td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 33.3333%; height: 18px; text-align: left;">Vision</td>
