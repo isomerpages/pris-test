@@ -7,7 +7,8 @@ permalink: /careers/prison-officer-sergeant
 <p class="copytext">&nbsp;</p>
 <div style="text-align: center;"><iframe title="YouTube video player" src="https://www.youtube.com/embed/CshxKg00Oao" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 <div style="text-align: center;">&nbsp;</div>
-<p style="text-align: center;"><strong>Prison Officer (Sergeant)</strong><br /><em>Be part of the team to enforce secure custody of offenders and rehabilitate them, for a safe Singapore.</em></p>
+<h4 style="text-align: center;"><strong>Prison Officer (Sergeant)</strong></h4>
+<p style="text-align: center;"><em>Be part of the team to enforce secure custody of offenders and rehabilitate them, for a safe Singapore.</em></p>
 <div style="text-align: center;">&nbsp;</div>
 <div style="text-align: center;">
 <table style="border-collapse: collapse; width: 100%; height: 100px;" border="1">
