@@ -102,4 +102,45 @@ permalink: /careers/prison-officer-sergeant
 </tr>
 </tbody>
 </table>
-
+<div class="sfContentBlock">
+<div class="container">
+<p class="copytext" style="text-align: left;">* All permanent and confirmed officers are eligible to apply, subject to the criteria and guidelines.</p>
+<p class="copytext" style="text-align: left;">&nbsp;</p>
+</div>
+<div class="container" style="text-align: left;">
+<p class="subtitle"><strong><em>Benefits</em></strong></p>
+<p class="copytext">1. Annual Leave 14 &ndash; 18 days (Sergeant)<br />2. Annual medical leave of 14 days or 60 days with hospitalisation<br />3. Annual study leave of 12 days (subject to approval)<br />4. Subsidised medical and dental care<br />5. Marriage/Child birth benefits</p>
+<p class="copytext">&nbsp;</p>
+</div>
+<div class="container" style="text-align: left;">
+<p><strong><em>INVEST Retirement Benefits</em></strong></p>
+<p>As a uniformed officer, you will also be eligible for retirement benefits under the INVEST scheme. A contribution equivalent to&nbsp;7.75%&nbsp;of your gross salary will be credited monthly into your retirement account, starting from your fifth year in service and will cease when you reach 55 years old. The monies are invested to earn investment returns. Upon retirement, you can withdraw the full sum in your account.</p>
+<p>&nbsp;</p>
+</div>
+<div class="container" style="text-align: left;">
+<p><strong><em>Strategic Payment Scheme</em></strong></p>
+<p>New officers can look forward to cash payouts of 3 months (ASP and below) quantum upon reaching their 3rd, 6th, 9th, 12th, 15th, 20th, and 25th year in service.</p>
+<p>&nbsp;</p>
+</div>
+<div class="container" style="text-align: left;">
+<p class="subtitle"><em><strong>Training</strong></em></p>
+<p class="copytext">New Entrant Captains of Lives are required to undergo a 28-week Basic Officer Course (Sergeant) at the Home Team Academy.</p>
+</div>
+<div class="container" style="text-align: left;">
+<p class="copytext">The Prison&nbsp;Officer Course (SGT)&nbsp;comprise physical training, tactical readiness and academic components to prepare new Captains of Lives&nbsp;with the mindset, skillsets and toolsets&nbsp;for work in SPS.</p>
+<p class="copytext">All new Captains of Lives&nbsp;are required&nbsp;to serve a 2-year bond after they graduate from the course.</p>
+</div>
+</div>
+<div class="sfContentBlock">
+<div class="container" style="text-align: left;">
+<p>&nbsp;</p>
+</div>
+<div class="container">
+<p class="subtitle" style="text-align: left;"><em><strong>Career Development</strong></em></p>
+<p class="copytext" style="text-align: left;">SPS provides a dynamic and well-structured career advancement route map for our Captains of Lives. Besides operational roles in an institution, you may also be posted to different functional areas such as in Intelligence, Provost, community corrections, programme management, technology, training, corporate services, Prison Special Operations etc. for your career development. You will undergo the relevant leadership milestone programs and training at each stage, as you advance in your career with SPS.</p>
+<p class="copytext" style="text-align: left;">Under the Expert Career Tracks for Prison Special Operations and Intelligence respectively, officers selected for these tracks will hone their expertise to develop deep specialisation and receive recognition for their expertise (i.e. Senior Specialist, Principal Specialist and Expert).</p>
+<p class="copytext" style="text-align: left;"><a href="https://careers.pageuppeople.com/688/cwlive/en/filter/?=&amp;search-keyword=singapore%20prison&amp;brand=mha%20-%20singapore%20prison%20service%20(sps)&amp;job-mail-subscribe-privacy=agree"><img src="https://raw.githubusercontent.com/isomerpages/pris-test/staging/images/career-tabs-application-button.png" alt="" /></a></p>
+</div>
+</div>
+</div>
+</div>
