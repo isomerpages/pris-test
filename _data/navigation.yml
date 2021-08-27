@@ -7,10 +7,8 @@ links:
   - title: Volunteer And Community
     collection: volunteer-and-community
   - title: Join Us
-    url: /careers
+    collection: join-us
   - title: News About Us
     resource_room: true
   - title: e-Services
     url: /e-services
-  - title: Join Us
-    collection: join-us
