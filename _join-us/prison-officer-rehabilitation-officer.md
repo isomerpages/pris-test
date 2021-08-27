@@ -9,73 +9,72 @@ permalink: /careers/prison-officer
 <p class="copytext">
 As Captains of Lives, we are akin to the first drop of water that touches the pond and creating a ripple effect. Our work goes beyond being a guard; we aspire to create&nbsp;a positive impact in the lives of offenders, and inspire everyone at every chance towards a society without re-offending.</p>
 <div style="text-align: center;"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/CshxKg00Oao" height="315" width="560"></iframe>
-<p style="text-align: center;" class="copytext"><span style="font-size: 20px;"><strong style="color: #002661;">Prison Officer (Rehabilitation Officer)</strong><br>
+<p class="copytext" style="text-align: center;"><span style="font-size: 20px;"><strong style="color: #002661;">Prison Officer (Rehabilitation Officer)</strong><br>
 <em>Inspire and motivate a team in achieving a society without re-offending.</em></span></p>
 </div>
 <p style="text-align: center;">
 <!--Eligibility Table-->
 </p>
-<div style="text-align: center;" class="tablewrap">
+<div class="tablewrap" style="text-align: center;">
 <table class="table">
     <tbody>
         <tr>
-            <th colspan="3" style="margin: 0px; padding: 0px 20px; color: white; font-weight: bold; background-color: rgba(2, 62, 155, 0.5);">
+            <th style="margin: 0px; padding: 0px 20px; color: white; font-weight: bold; background-color: rgba(2, 62, 155, 0.5);" colspan="3">
             <p style="text-align: center; color: black;">Eligibility Requirements</p>
             </th>
         </tr>
         <tr>
-            <td style="width: 34%;" class="cellheader">
-            <p style="color: rgba(0, 38, 97, 1); font-weight: 600; text-align: center; margin: 0;" class="centre">&nbsp;</p>
+            <td class="cellheader" style="width: 34%;">
+            <p class="centre" style="color: rgba(0, 38, 97, 1); font-weight: 600; text-align: center; margin: 0;">&nbsp;</p>
             </td>
-            <td style="width: 33%;" class="cellheader">
-            <p style="color: rgba(0, 38, 97, 1); font-weight: 600; text-align: center; margin: 0;" class="centre">Male</p>
+            <td class="cellheader" style="width: 33%;">
+            <p class="centre" style="color: rgba(0, 38, 97, 1); font-weight: 600; text-align: center; margin: 0;">Male</p>
             </td>
-            <td style="width: 33%;" class="cellheader">
-            <p style="color: rgba(0, 38, 97, 1); font-weight: 600; text-align: center; margin: 0;" class="centre">Female</p>
+            <td class="cellheader" style="width: 33%;">
+            <p class="centre" style="color: rgba(0, 38, 97, 1); font-weight: 600; text-align: center; margin: 0;">Female</p>
             </td>
         </tr>
         <tr>
-            <td style="text-align: left; vertical-align: middle;" class="cellheader">
+            <td class="cellheader" style="text-align: left; vertical-align: middle;">
             <p style="color: rgba(0, 38, 97, 1); font-weight: 600; margin: 0;">PES Status</p>
             </td>
             <td class="cellpadding">
-            <p style="margin: 0;" class="centre">PES B1 and above</p>
+            <p class="centre" style="margin: 0;">PES B1 and above</p>
             </td>
             <td class="cellpadding">
-            <p style="margin: 0;" class="centre">Exempted</p>
+            <p class="centre" style="margin: 0;">Exempted</p>
             </td>
         </tr>
         <tr>
-            <td style="text-align: left; vertical-align: middle;" class="cellheader">
+            <td class="cellheader" style="text-align: left; vertical-align: middle;">
             <p style="color: rgba(0, 38, 97, 1); font-weight: 600;margin: 0;">Vision</p>
             </td>
-            <td colspan="2" style="text-align: center;" class="cellpadding">
-            <p style="margin: 0;" class="centre">Normal Colour Vision</p>
+            <td class="cellpadding" style="text-align: center;" colspan="2">
+            <p class="centre" style="margin: 0;">Normal Colour Vision</p>
             </td>
         </tr>
     </tbody>
 </table>
-<p style="text-align: left;" class="copytext">
+<p class="copytext" style="text-align: left;">
 </p>
-	</div>
-	</p>
+</div>
 <!--Salary-->
 <div class="container">
 <p class="subtitle"><strong><em><span style="color: #002661;">Salary</span></em></strong></p>
 </div>
 <!--Salary Table-->
-<div style="text-align: center;" class="tablewrap">
+<div class="tablewrap" style="text-align: center;">
 <table class="table">
     <tbody>
         <tr>
             <th class="cellheader">
-            <p style="text-align: center; color: rgba(0, 38, 97, 1); font-weight: 600;" class="centre">Educational Qualification</p>
+            <p class="centre" style="text-align: center; color: rgba(0, 38, 97, 1); font-weight: 600;">Educational Qualification</p>
             </th>
 			<th class="cellheader">
-            <p style="text-align: center; color: rgba(0, 38, 97, 1); font-weight: 600;" class="centre">Entry Rank </p>
+            <p class="centre" style="text-align: center; color: rgba(0, 38, 97, 1); font-weight: 600;">Entry Rank </p>
             </th>
             <th class="cellheader">
-            <p style="text-align: center; color: rgba(0, 38, 97, 1); font-weight: 600;" class="centre">*Starting Salary Range</p>
+            <p class="centre" style="text-align: center; color: rgba(0, 38, 97, 1); font-weight: 600;">*Starting Salary Range</p>
             </th>
         </tr>
         <tr>
@@ -96,10 +95,9 @@ As Captains of Lives, we are akin to the first drop of water that touches the po
 <p class="copytext"><i>* with effect from 1 June 2020</i></p>
 <p class="copytext">
 Indicative starting salary for fresh graduates with the completion of full-time National Service (for males only). Additional increments may be granted for relevant work experience.
-	</div>
-</p>
+</p></div>
 <!--Sign On Bonus-->
-	<div class="container">	
+<div class="container">
 <p class="subtitle"><strong><em><span style="color: #002661;">Benefits</span></em></strong></p></div><div class="container">
 <p class="copytext">
 1. Annual Leave 18 – 21 days (Rehabilitation Officer)<br>
@@ -115,8 +113,7 @@ Indicative starting salary for fresh graduates with the completion of full-time 
 </div>
 <!--Application Successful-->
 <div class="container">
-	<p>
-</p><p class="subtitle"><em><strong><span style="color: #002661;">Training</span></strong></em></p>
+<p class="subtitle"><em><strong><span style="color: #002661;">Training</span></strong></em></p>
 <p class="copytext">
 New Entrant Captains of Lives are required to undergo a 35-week Basic Officer Course (Rehabilitation Officer) at the Home Team Academy.
 </p>
@@ -127,12 +124,12 @@ New Entrant Captains of Lives are required to undergo a 35-week Basic Officer Co
 <p class="copytext">All new Captains of Lives&nbsp;are required&nbsp;to serve a 2-year bond after they graduate from the course.</p>
 </div>
 <!--Posting-->
-<div style="text-align: center;" class="tablewrap">
+<div class="tablewrap" style="text-align: center;">
 <!--Posting Table-->
 <table class="table">
     <tbody>
         <tr>
-            <th colspan="2" style="margin: 0px; padding: 0px 20px; color: white; font-size: 14px; font-weight: bold; background-color: rgba(2, 62, 155, 0.5);">
+            <th style="margin: 0px; padding: 0px 20px; color: white; font-size: 14px; font-weight: bold; background-color: rgba(2, 62, 155, 0.5);" colspan="2">
             <p style="text-align: center; color: black;"><span>Postings<br>
             Captains of Lives can look forward to a wide range of career choices and opportunities
             </span></p>
@@ -140,10 +137,10 @@ New Entrant Captains of Lives are required to undergo a 35-week Basic Officer Co
         </tr>
         <tr>
             <td class="cellheader">
-            <p style="color: rgba(0, 38, 97, 1); font-size: 12px; font-weight: 600;" class="centre">(A) Foundation Posting</p>
+            <p class="centre" style="color: rgba(0, 38, 97, 1); font-size: 12px; font-weight: 600;">(A) Foundation Posting</p>
             </td>
             <td class="cellheader">
-            <p style="color: rgba(0, 38, 97, 1); font-size: 12px; font-weight: 600;" class="centre">(B) Developmental Posting</p>
+            <p class="centre" style="color: rgba(0, 38, 97, 1); font-size: 12px; font-weight: 600;">(B) Developmental Posting</p>
             </td>
         </tr>
         <tr>
