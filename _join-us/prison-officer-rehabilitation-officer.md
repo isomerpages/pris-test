@@ -1,7 +1,8 @@
 ---
 title: Prison Officer (Rehabilitation Officer)
-permalink: /prison-officer
+permalink: /careers/prison-officer
 ---
+
 <div class="container">
 <p>
 <span style="color: #002661;"><strong>A UNIFORM CAREER WITH SPS - ARE YOU THE ONE WE ARE LOOKING FOR?</strong></span>
