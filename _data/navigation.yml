@@ -12,3 +12,5 @@ links:
     resource_room: true
   - title: e-Services
     url: /e-services
+  - title: Join Us
+    collection: join-us
