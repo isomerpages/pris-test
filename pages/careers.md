@@ -8,6 +8,7 @@ We as Captains of Lives, enforce secure custody of offenders & rehabilitate them
 
 Click on the icons below to learn more!
 
-| [![Click for more](/images/image-library/poro.png)](https://pris-test-staging.netlify.app/careers/prison-officer) | [![Alt text for image on Isomer site](/images/image-library/posgt.png)](https://pris-test-staging.netlify.app/careers/prison-officer-sergeant)|[ ![Alt text for image on Isomer site](/images/image-library/civi.png)](https://www.sps.gov.sg/career/civilian) |
-| -------- | -------- | -------- |
-| ![Alt text for image on Isomer site](/images/image-library/scho.png)   |  ![Alt text for image on Isomer site](/images/image-library/spon.png)   |  ![Alt text for image on Isomer site](/images/image-library/inte.png)   |
+|[ ![Alt text for image on Isomer site](/images/image-library/poro%202.png)](https://pris-test-staging.netlify.app/careers/prison-officer) | [![Alt text for image on Isomer site](/images/image-library/POS.png)](https://pris-test-staging.netlify.app/careers/prison-officer-sergeant) |[ ![Alt text for image on Isomer site](/images/image-library/civ.png)](https://www.sps.gov.sg/career/civilian) |
+|  -------- | -------- | -------- |
+| [![Alt text for image on Isomer site](/images/image-library/schol.png) ](https://www.sps.gov.sg/career/scholarships)    |[ ![Alt text for image on Isomer site](/images/image-library/spons.png)](https://www.sps.gov.sg/career/home-team-sponsorships)     |[ ![Alt text for image on Isomer site](/images/image-library/intern.png) ](https://www.sps.gov.sg/career/internships)  |
+
