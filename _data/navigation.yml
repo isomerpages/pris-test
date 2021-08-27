@@ -6,9 +6,9 @@ links:
     collection: visit-matters
   - title: Volunteer And Community
     collection: volunteer-and-community
+  - title: Join Us
+    url: /careers
   - title: News About Us
     resource_room: true
   - title: e-Services
     url: /e-services
-  - title: Join Us
-    url: /careers
