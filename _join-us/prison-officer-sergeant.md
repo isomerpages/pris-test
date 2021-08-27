@@ -62,3 +62,45 @@ permalink: /careers/prison-officer-sergeant
 <p class="copytext" style="text-align: left;">SPS supports the professional and personal growth of our Captains of Lives through various upgrading and developmental schemes.</p>
 </div>
 </div>
+<table class="table">
+<tbody>
+<tr>
+<td class="cellpadding">
+<p>MHA Degree Scholarship</p>
+</td>
+<td class="cellpadding">
+<p>Full sponsorship for full-time Degree programs, including full pay during course of study</p>
+</td>
+</tr>
+<tr>
+<td class="cellpadding">MHA Sponsorship/MHA Study Award*&nbsp;</td>
+<td class="cellpadding">Part-time studies (PhD, Masters, Graduate Diploma, Degree, Diploma &amp; formal certificate)&nbsp;</td>
+</tr>
+<tr>
+<td class="cellpadding">
+<p>Professional Development Leave*</p>
+</td>
+<td class="cellpadding">
+<p>Up to 10 weeks paid leave to take courses relevant to SPS</p>
+</td>
+</tr>
+<tr>
+<td class="cellpadding">
+<p>Learning &amp; Development Subsidy Scheme</p>
+</td>
+<td class="cellpadding">
+<p>$700 per annum to support lifelong learning and personal development</p>
+</td>
+</tr>
+<tr>
+<td class="cellpadding">
+<p>Enhanced Learning &amp; Development Subsidy Scheme</p>
+</td>
+<td class="cellpadding">
+<p>$2000 per annum in the last 5 years prior to an officer&rsquo;s retirement to support transition to a second career post retirement</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
