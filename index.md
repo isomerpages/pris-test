@@ -25,18 +25,25 @@ sections:
         - title: Join Us
           description: Be a Captain of Lives
           url: /careers
-  - infopic:
-      title: Mission
-      description: As a correctional agency, we enforce secure custody of offenders
-        and rehabilitate them for a safe Singapore.
-      alt: Image alt text
-      image: /images/image-library/1994_1.jpg
+  - infobar:
+      title: Latest Visit News
+      description: " We are pleased to inform that Prison Link Centre Geylang Bahru
+        will resume operation from 1st Sept 2021 and the visit sessions are now
+        available for booking.  "
+      button: Click for More Info
+      url: https://www.sps.gov.sg/connect-us/updated-visit-information
   - infopic:
       title: Vision
       description: As Captains of Lives, we inspire everyone, at every chance, towards
         a society without re-offending.
       alt: Image alt text
       image: /images/image-library/1b_0.jpg
+  - infopic:
+      title: Mission
+      description: As a correctional agency, we enforce secure custody of offenders
+        and rehabilitate them for a safe Singapore.
+      alt: Image alt text
+      image: /images/image-library/1994_1.jpg
   - infopic:
       title: Yellow Ribbon Project
       description: The Yellow Ribbon Project (YRP) is a national public engagement
@@ -52,11 +59,4 @@ sections:
       button: View More
   - infobar:
       title: <img src="/images/banners/Awards%202.png" alt="awards">
-  - infobar:
-      title: Latest Visit News
-      description: " We are pleased to inform that Prison Link Centre Geylang Bahru
-        will resume operation from 1st Sept 2021 and the visit sessions are now
-        available for booking.  "
-      button: Click for More Info
-      url: https://www.sps.gov.sg/connect-us/updated-visit-information
 ---
