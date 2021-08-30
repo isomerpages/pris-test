@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Singapore Prison Service
+title: Singapore Prison Service (SPS)
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
