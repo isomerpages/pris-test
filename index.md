@@ -4,10 +4,8 @@ title: Singapore Prison Service (SPS)
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: We are pleased to inform you that face-to-face visits will resume
-  from 1 September 2021. Up to two visitors will be allowed for each visit
-  session. We will no longer facilitate phone calls in place of visits after 31
-  August 2021.
+notification: "Singapore Prison Service website will be undergoing maintenance
+  on 21 August 2021. We apologize for any inconvenience caused. "
 sections:
   - hero:
       background: /images/banners/web-banner_sps75th_1920x600_v1_15062021-compressed.jpg
