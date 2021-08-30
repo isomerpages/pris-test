@@ -25,9 +25,9 @@ sections:
           url: /careers
   - infobar:
       title: Latest Visit News
-      description: " We are pleased to inform that Prison Link Centre Geylang Bahru
-        will resume operation from 1st Sept 2021 and the visit sessions are now
-        available for booking.  "
+      description: We are pleased to inform that Prison Link Centre Geylang Bahru will
+        resume operation from 1st Sept 2021 and the visit sessions are now
+        available for booking.
       button: Click for More Info
       url: https://www.sps.gov.sg/connect-us/updated-visit-information
   - infopic:
