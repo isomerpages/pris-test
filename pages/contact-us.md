@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Singapore Prison Services
+agency_name: Singapore Prison Service
 locations:
   - address:
       - 980, Upper Changi Rd North
