@@ -10,7 +10,7 @@ Main Card Holder and visitors authorised by the Main Card Holder can also make v
 
 | Mondays to Fridays | 8:45am to 5:00pm | 
 | -------- | -------- | 
-| Saturday | 8:45am to 12:30pm     | 
+| **Saturday** | **8:45am to 12:30pm**     | 
 |(Closed on Sundays and Public Holidays) |  
 
  
