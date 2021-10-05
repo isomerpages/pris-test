@@ -49,7 +49,7 @@ sections:
         second chance in life.
       button: Read More
       url: https://www.yellowribbon.gov.sg/community-engagement/yellow-ribbon-project
-      image: /images/image-library/yrsg-logo-3d.jpg
+      image: /images/yrsg-logo-nobackground.png
       alt: Image alt text
   - resources:
       title: Media
