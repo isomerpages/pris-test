@@ -9,20 +9,17 @@ notification: "Singapore Prison Service website will be undergoing maintenance
 sections:
   - hero:
       background: /images/banners/web-banner_sps75th_1920x600_v1_15062021-compressed.jpg
-      url: /contact-us/
-      key_highlights:
-        - title: Next of Kin
-          description: Information and Services
-          url: /visit-matters/1st-time-visitor
-        - title: Members of Public
-          description: Find out more about SPS
-          url: /organisation
-        - title: Volunteers and Community
-          description: Join us to make a difference
-          url: /sps-volunteer
-        - title: Join Us
-          description: Be a Captain of Lives
-          url: /careers
+      dropdown:
+        title: I want to...
+        options:
+          - title: Connect with my Loved Ones
+            url: ""
+          - title: Volunteer with SPS
+            url: ""
+          - title: "Join SPS "
+            url: ""
+          - title: Access e-Services
+            url: ""
   - infobar:
       title: Latest Visit News
       description: We are pleased to inform that Prison Link Centre Geylang Bahru will
