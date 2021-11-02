@@ -9,17 +9,19 @@ notification: "Singapore Prison Service website will be undergoing maintenance
 sections:
   - hero:
       background: /images/banners/web-banner_sps75th_1920x600_v1_15062021-compressed.jpg
-      dropdown:
-        title: I want to...
-        options:
-          - title: Connect with my Loved Ones
-            url: ""
-          - title: Volunteer with SPS
-            url: ""
-          - title: "Join SPS "
-            url: ""
-          - title: Access e-Services
-            url: ""
+      key_highlights:
+        - title: About Us
+          description: Read More about SPS
+          url: https://pris-test-staging.netlify.app/organisation
+        - title: Next of Kin
+          description: Connect with your Loved Ones
+          url: https://pris-test-staging.netlify.app/visit-matters/1st-time-visitor
+        - title: Volunteers
+          description: Join us as a volunteer
+          url: https://pris-test-staging.netlify.app/sps-volunteer
+        - title: Join Us
+          description: Be a Captain of Lives
+          url: https://pris-test-staging.netlify.app/careers
   - infobar:
       title: Latest SPS Updates
       description: We are pleased to inform that Prison Link Centre Geylang Bahru will
