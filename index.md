@@ -21,7 +21,7 @@ sections:
           - title: Access e-Services
             url: ""
   - infobar:
-      title: Latest Visit News
+      title: Latest SPS Updates
       description: We are pleased to inform that Prison Link Centre Geylang Bahru will
         resume operation from 1st Sept 2021 and the visit sessions are now
         available for booking.
