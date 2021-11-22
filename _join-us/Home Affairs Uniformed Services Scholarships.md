@@ -4,7 +4,7 @@ permalink: /join-us/scholarships
 description: ""
 ---
 ### Scholarships and Sponsorships
-* SINGAPORE MERIT SCHOLARSHIP (SMS)
+
 * <p><a href="#Singapore Merit Scholarship">
   Singapore Merit Scholarship
 </a></p>
