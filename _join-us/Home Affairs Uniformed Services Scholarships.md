@@ -3,9 +3,9 @@ title: Home Affairs Uniformed Services Scholarships
 permalink: /join-us/scholarships
 description: ""
 ---
-```
 
-```### Scholarships and Sponsorships
+
+### Scholarships and Sponsorships
 
 * <p><a href="#Singapore Merit Scholarship">
   Singapore Merit Scholarship
