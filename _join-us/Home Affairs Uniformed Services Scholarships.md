@@ -3,7 +3,9 @@ title: Home Affairs Uniformed Services Scholarships
 permalink: /join-us/scholarships
 description: ""
 ---
-### Scholarships and Sponsorships
+```
+
+```### Scholarships and Sponsorships
 
 * <p><a href="#Singapore Merit Scholarship">
   Singapore Merit Scholarship
@@ -71,3 +73,43 @@ Condition of Award
 The bond is 6 years (overseas universities, English-speaking countries), 5 years (overseas universities, non-English-speaking countries), or 4 years (local universities), starting from the day you assume duty after completing your course of study.
 
 To apply for the scholarship, please visit the PSC scholarship portal.
+
+<details class="accordion">
+  <summary class='header'>
+    Extra Options Available
+  </summary>
+  <div class="body">
+    <ul class="unorderd-list">
+      <li>$5 onion</li>
+      <li>$5 onion</li>
+    </ul>
+  </div>
+</details>
+<details class="accordion">
+  <summary class='header'>
+    Extra Options Available
+  </summary>
+  <div class="body">
+    <P>
+      Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.
+    </p>
+        <ul class="unorderd-list">
+      <li>$5 onion</li>
+      <li>$5 onion</li>
+    </ul>
+        <P>
+      Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+    </p>
+  </div>
+</details>
+<details class="accordion">
+  <summary class='header'>
+    Extra Options Available
+  </summary>
+  <div class="body">
+    <ul class="">
+      <li>$5 onion</li>
+      <li>$5 onion</li>
+    </ul>
+  </div>
+</details>
