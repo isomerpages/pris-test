@@ -5,10 +5,5 @@ date: 2021-12-21
 layout: post
 description: ""
 ---
-Normal Text
+> This is Quote Module
 
-**Bold Text**
-
-*Italics*
-
-~~Strikeout~~
