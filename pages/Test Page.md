@@ -8,5 +8,5 @@ description: ""
 | Header 1 | Header 2 | Header 3 |
 | -------- | -------- | -------- |
 |Content    | Content   | Content     |
-|<img src="https://d33wubrfki0l68.cloudfront.net/76a27f5f3cc1f3d5cb6ea5ca401ffdd09ab7a1ef/9a82e/images/quicklinks4_eletters.jpg" alt="" width="234" height="161" />   | Content   | Content     |
+|<p><img src="/images/quicklinks4_eletters.jpg" alt="E-letters" width="96" height="65"></p>   | Content   | Content     |
 |Content    | Content   | Content     |
