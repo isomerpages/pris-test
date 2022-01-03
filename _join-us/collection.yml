@@ -2,6 +2,7 @@ collections:
   join-us:
     output: true
     order:
+      - SPS Volunteer/.keep
       - Volunteer with Us.md
       - our-employee-value-proposition.md
       - careers/.keep
