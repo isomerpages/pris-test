@@ -2,8 +2,8 @@ collections:
   rehabilitation-process:
     output: true
     order:
-      - conditional-remission-system-and-mandatory-aftercare-scheme.md
       - rehabilitation-process.md
+      - conditional-remission-system-and-mandatory-aftercare-scheme.md
       - For Inmates/.keep
       - For Next of Kin/.keep
       - For Public/.keep
