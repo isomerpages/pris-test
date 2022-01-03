@@ -1,5 +1,5 @@
 collections:
-  volunteer-and-community:
+  rehabilitation-process:
     output: true
     order:
       - sps-volunteer.md
