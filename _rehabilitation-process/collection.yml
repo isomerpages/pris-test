@@ -2,6 +2,5 @@ collections:
   rehabilitation-process:
     output: true
     order:
-      - sps-volunteering-journey.md
       - rehabilitation-process.md
       - conditional-remission-system-and-mandatory-aftercare-scheme.md
