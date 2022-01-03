@@ -42,6 +42,12 @@ sections:
       alt: Image alt text
       image: /images/image-library/1994_1.jpg
   - infopic:
+      title: Our Rehabilitation Process
+      button: Click here to find out more
+      url: /rehabilitation-process
+      image: /images/image-library/rehab%20process.jpg
+      alt: Image alt text
+  - infopic:
       title: Yellow Ribbon Project
       description: The Yellow Ribbon Project (YRP) is a national public engagement
         campaign aimed at changing society’s mindset in giving ex-offenders a
