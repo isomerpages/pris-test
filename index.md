@@ -44,7 +44,7 @@ sections:
   - infopic:
       title: Our Rehabilitation Process
       button: Click here to find out more
-      url: /rehabilitation-process
+      url: /rehabilitation-process-menu
       image: /images/image-library/rehab%20process.jpg
       alt: Image alt text
   - infopic:
