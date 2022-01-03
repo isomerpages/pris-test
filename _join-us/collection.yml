@@ -2,12 +2,12 @@ collections:
   join-us:
     output: true
     order:
-      - SPS Volunteer/.keep
-      - SPS Volunteer/Volunteer with Us.md
-      - SPS Volunteer/Volunteer Journey.md
       - our-employee-value-proposition.md
       - careers/.keep
       - careers/prison-officer-rehabilitation-officer.md
       - careers/prison-officer-sergeant.md
       - careers/civilian-officer.md
       - Home Affairs Uniformed Services Scholarships.md
+      - SPS Volunteer/.keep
+      - SPS Volunteer/Volunteer with Us.md
+      - SPS Volunteer/Volunteer Journey.md
