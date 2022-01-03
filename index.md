@@ -18,7 +18,7 @@ sections:
           url: https://pris-test-staging.netlify.app/visit-matters/1st-time-visitor
         - title: Volunteers
           description: Join us as a volunteer
-          url: https://pris-test-staging.netlify.app/sps-volunteer
+          url: https://pris-test-staging.netlify.app/join-us/volunteer
         - title: Join Us
           description: Be a Captain of Lives
           url: https://pris-test-staging.netlify.app/careers
