@@ -2,5 +2,6 @@ collections:
   rehabilitation-process:
     output: true
     order:
+      - For Inmates/.keep
       - rehabilitation-process.md
       - conditional-remission-system-and-mandatory-aftercare-scheme.md
