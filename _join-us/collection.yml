@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - our-employee-value-proposition.md
+      - careers/Our Employee Value Proposition.md
       - careers/.keep
       - careers/prison-officer-rehabilitation-officer.md
       - careers/prison-officer-sergeant.md
