@@ -2,6 +2,7 @@ collections:
   join-us:
     output: true
     order:
+      - Scholarships/Home Affairs Uniformed Services Scholarships.md
       - Scholarships/.keep
       - careers/Our Employee Value Proposition.md
       - careers/.keep
