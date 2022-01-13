@@ -10,7 +10,7 @@ sections:
   - hero:
       background: /images/banners/web-banner_sps75th_1920x600_v1_15062021-compressed.jpg
       key_highlights:
-        - title: Learn about SPS
+        - title: Know about SPS
           description: ""
           url: https://pris-test-staging.netlify.app/organisation
         - title: Visit my loved one
