@@ -10,17 +10,17 @@ sections:
   - hero:
       background: /images/banners/web-banner_sps75th_1920x600_v1_15062021-compressed.jpg
       key_highlights:
-        - title: Know about SPS
-          description: Read More about SPS
+        - title: Learn about SPS
+          description: ""
           url: https://pris-test-staging.netlify.app/organisation
-        - title: Visit our loved ones
-          description: Connect with your Loved Ones
+        - title: Visit my loved one
+          description: ""
           url: https://pris-test-staging.netlify.app/visit-matters/1st-time-visitor
-        - title: Know about Rehabilitation
-          description: Join us as a volunteer
+        - title: Learn about Rehabilitation
+          description: ""
           url: https://pris-test-staging.netlify.app/join-us/volunteer
         - title: Join SPS
-          description: Be a Captain of Lives
+          description: ""
           url: https://pris-test-staging.netlify.app/careers
   - infobar:
       title: Latest SPS Updates
