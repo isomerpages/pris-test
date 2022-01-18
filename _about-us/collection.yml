@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - International Cooperation.md
-      - Accolades & Acheivements.md
-      - Captains of Lives.md
-      - Our Heritage.md
       - organisation.md
       - vision-mission-and-values.md
+      - Accolades & Acheivements.md
+      - International Cooperation.md
+      - Captains of Lives.md
+      - Our Heritage.md
