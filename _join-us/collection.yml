@@ -2,7 +2,6 @@ collections:
   join-us:
     output: true
     order:
-      - Internship.md
       - careers/.keep
       - careers/Our Employee Value Proposition.md
       - careers/prison-officer-rehabilitation-officer.md
@@ -11,6 +10,7 @@ collections:
       - Scholarships/.keep
       - Scholarships/Home Affairs Uniformed Services Scholarships.md
       - Sponsorship.md
+      - Internship.md
       - SPS Volunteer/.keep
       - SPS Volunteer/Volunteer with Us.md
       - SPS Volunteer/Volunteer Journey.md
