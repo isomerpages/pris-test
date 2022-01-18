@@ -2,6 +2,7 @@ collections:
   visit-matters:
     output: true
     order:
+      - Visit Information/.keep
       - first-time-visitor.md
       - visit-centres.md
       - mode-of-visits-and-frequency-of-visits.md
