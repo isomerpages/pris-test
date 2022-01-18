@@ -18,7 +18,7 @@ sections:
           url: /visit-matters/visit-announcement
         - title: Learn about Rehabilitation
           description: ""
-          url: https://pris-test-staging.netlify.app/join-us/volunteer
+          url: /rehabilitation-process-menu
         - title: Join SPS
           description: ""
           url: https://pris-test-staging.netlify.app/careers
