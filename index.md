@@ -15,7 +15,7 @@ sections:
           url: https://pris-test-staging.netlify.app/organisation
         - title: Visit my loved one
           description: ""
-          url: https://pris-test-staging.netlify.app/visit-matters/1st-time-visitor
+          url: https://pris-test-staging.netlify.app/visit-matters/visit-announcement
         - title: Learn about Rehabilitation
           description: ""
           url: https://pris-test-staging.netlify.app/join-us/volunteer
