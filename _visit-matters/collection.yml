@@ -2,7 +2,7 @@ collections:
   visit-matters:
     output: true
     order:
-      - Visit Announcement.md
+      - Visit Announcements.md
       - Visit Information/.keep
       - Visit Information/Who can Visit.md
       - Visit Information/Where can I Visit.md
