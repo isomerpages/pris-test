@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Know about SPS
           description: ""
-          url: https://pris-test-staging.netlify.app/organisation
+          url: /organisation
         - title: Visit my loved one
           description: ""
           url: /visit-matters/visit-announcement
@@ -21,7 +21,7 @@ sections:
           url: /rehabilitation-process-menu
         - title: Join SPS
           description: ""
-          url: https://pris-test-staging.netlify.app/careers
+          url: /careers
   - infobar:
       title: Latest SPS Updates
       description: We are pleased to inform that Prison Link Centre Geylang Bahru will
