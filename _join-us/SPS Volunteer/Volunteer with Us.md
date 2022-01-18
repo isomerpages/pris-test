@@ -44,12 +44,12 @@ The Yellow Ribbon Community Project (YRCP) was introduced to provide community s
 
 **For enquiries on volunteering in Prisons, you may contact us at:**
 
-Community & Family Policy Branch
-Singapore Prison Service Headquarters
-980 Upper Changi Road North
+Community & Family Policy Branch <br>
+Singapore Prison Service Headquarters <br>
+980 Upper Changi Road North<br>
 Singapore 507708
 
-Tel: 6546 9539
+Tel: 6546 9539 <br>
 Fax: 6546 2459
 
 Alternatively, you may email us at PRIS_Volunteers@pris.gov.sg
