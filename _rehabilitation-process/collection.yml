@@ -4,11 +4,11 @@ collections:
     order:
       - rehabilitation-process.md
       - conditional-remission-system-and-mandatory-aftercare-scheme.md
-      - For Offenders/Aftercare.md
-      - For Offenders/Halfway Care.md
+      - For Offenders/.keep
       - For Offenders/First Timers.md
       - For Offenders/Incare.md
-      - For Offenders/.keep
+      - For Offenders/Halfway Care.md
+      - For Offenders/Aftercare.md
       - For Next of Kin/Community Resources.md
       - For Next of Kin/.keep
       - For Public/.keep
