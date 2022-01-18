@@ -34,13 +34,13 @@ sections:
       description: As Captains of Lives, we inspire everyone, at every chance, towards
         a society without re-offending.
       alt: Image alt text
-      image: /images/image-library/1b_0.jpg
+      image: /images/stock-photos/75A_1109.jpg
   - infopic:
       title: Mission
       description: As a correctional agency, we enforce secure custody of offenders
         and rehabilitate them for a safe Singapore.
       alt: Image alt text
-      image: /images/image-library/1994_1.jpg
+      image: /images/stock-photos/Officers-ICC.jpg
   - infopic:
       title: Our Rehabilitation Process
       button: Click here to find out more
