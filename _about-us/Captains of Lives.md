@@ -3,6 +3,8 @@ title: Captains of Lives
 permalink: /about-us/captain-of-lives
 description: ""
 ---
+![Alt text for image on Isomer site](/images/stock-photos/Josephine.png)
+
 **We make a real impact**
 
 Our Captains of Lives keep Singapore safe by ensuring the secure custody of inmates in an impartial and humane manner.
