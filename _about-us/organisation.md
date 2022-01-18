@@ -19,4 +19,4 @@ SPS currently administers 15 institutions. They make up SPS’s line units and a
 
 At the staff level, SPS has 11 staff divisions - Corporate Communications and Relations, Operations, Staff Development, Rehabilitation & Reintegration, Logistics & Finance, Intelligence, Strategic Planning, Psychological & Correctional Rehabilitation, Transformational & Technology, Inspectorate & Review and Provost. 
 
-[Singapore Prison Service Organisation chart](https://www.sps.gov.sg/images/default-source/about-us/sps_org_chart_20190515_web.jpg?sfvrsn=9fea4adf_6) (JPEG, 1.4MB)
+![Alt text for image on Isomer site](/images/Directorates%202021.jpg)
