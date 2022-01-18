@@ -1,12 +1,12 @@
 logo: /images/SPS%20Logo.jpg
 links:
-  - title: Who We Are
+  - title: Know About SPS
     collection: about-us
-  - title: Visit Matters
+  - title: Visit my Loved One
     collection: visit-matters
-  - title: Rehabilitation Process
+  - title: Learn about Rehabilitation
     collection: rehabilitation-process
-  - title: Join Us
+  - title: Join SPS
     collection: join-us
   - title: News About Us
     resource_room: true
