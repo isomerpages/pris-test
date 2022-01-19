@@ -2,7 +2,7 @@ collections:
   rehabilitation-process:
     output: true
     order:
-      - rehabilitation-process.md
+      - About Rehabilitation.md
       - conditional-remission-system-and-mandatory-aftercare-scheme.md
       - For Offenders/.keep
       - For Offenders/First Timer.md
