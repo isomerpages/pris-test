@@ -15,7 +15,7 @@ sections:
           url: /organisation
         - title: Visit my loved one
           description: ""
-          url: /visit-matters/visit-announcement
+          url: /visit-matters/visit-announcements
         - title: Learn about Rehabilitation
           description: ""
           url: /rehabilitation-process-menu
