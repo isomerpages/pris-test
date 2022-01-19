@@ -2,7 +2,6 @@ collections:
   rehabilitation-process:
     output: true
     order:
-      - Correctional Research Application.md
       - rehabilitation-process.md
       - conditional-remission-system-and-mandatory-aftercare-scheme.md
       - For Offenders/.keep
@@ -16,3 +15,4 @@ collections:
       - For Next of Kin/Halfway Care.md
       - For Next of Kin/Aftercare.md
       - For Next of Kin/Community Resources.md
+      - Correctional Research Application.md
