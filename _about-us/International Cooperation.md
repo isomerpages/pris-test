@@ -3,6 +3,8 @@ title: International Cooperation
 permalink: /about-us/international-cooperation
 description: ""
 ---
+<div align="justify">
+	
 SPS’s regular engagements with its international counterparts provide opportunities for SPS to showcase its latest correctional capabilities, and learn from other leading jurisdictions. These knowledge exchanges enable SPS to sharpen its capabilities for better correctional outcomes and organisational results.
 
 The (i) [Asian and Pacific Conference of Correctional Administrators (APCCA)](http://www.apcca.org/) which is a forum for government officials responsible for prison or correctional administration in the Asia Pacific region, and the (ii) [International Corrections and Prisons Association (ICPA)](http://icpa.org/) which is an international association spanning government agencies, academic groups, NGOs and private sector service providers.
