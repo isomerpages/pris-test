@@ -28,8 +28,16 @@ description: ""
 | |Accreditation as Approved Training Organisation (ATO) conduct of in-house leadership modules under the Leadership & People Management-Workforce Skills Qualification (LPM-WSQ) framework |
 | |BCA Green Mark GoldPlus Award - Prison Link Centre (Changi) |
 ||Public Service Premier Award |
-|2017|AON Best Employer Award |
-|2017|AON Best Employer Award |
-|2017|AON Best Employer Award |
-|2017|AON Best Employer Award |
-|2017|AON Best Employer Award |
+|2015|BCA Green Mark Award (Gold, Green Mark for District version 2.0) - CPC |
+| |TÜV SÜD PSB Pte Ltd’s SS577:2012 Water Efficiency Management System Certified – CPC |
+| |TÜV SÜD PSB Pte Ltd’s GCIO ISO9001:2008 QMS Surveillance Audit 2015 – SPS – Pass |
+| |PUB’s Friends of Water – SPS |
+| |SPH iink Awards (Silver) – Recruitment Branch |
+| |PUB’s Water Efficient Building (Gold) Award for TMP and CWP |
+|2014|FutureGov Award 2014 for Community Care category for Prison Case Management System (PCMS) |
+| |CIO 100 Honouree 2014 (Automated Communication via Cloud-Based Short Message Service) |
+| |Best Site Award 2014 |
+|2013|FutureGov Award 2013 for Service Innovation category for Prison Medical System (PrisMS) |
+| |CIO 100 Honouree 2013 (Complex Access Management System) |
+| |Aon Hewitt’s Best Employers Award |
+|2012|ISO 9001:2008 (Provision of Tactical Training Services) |
