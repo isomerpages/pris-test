@@ -2,6 +2,7 @@ collections:
   rehabilitation-process:
     output: true
     order:
+      - Correctional Research Application.md
       - rehabilitation-process.md
       - conditional-remission-system-and-mandatory-aftercare-scheme.md
       - For Offenders/.keep
