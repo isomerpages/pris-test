@@ -24,10 +24,10 @@ description: ""
 | |Occupational Health and Safety Assessment Series 18001 (OHSAS 18001) certification by PSTS; along with the local equivalent of SS506 : Part 1, under the scope of “Provision of Training in Prison Staff Training School (PSTS)” |
 | |PUB Watermark Award |
 | |Home Team Training Excellence (HT TraX) Award:<br>- 1 x Individual (Merit) Awards<br>- 1 x Team (Merit) Awards |
-|2016|Home Team Training Excellence (HT TraX) Award <br>– 2 x Individual (Merit) Awards |
+|2016|Home Team Training Excellence (HT TraX) Award <br>– 1 x Individual (Merit) Awards |
 | |Accreditation as Approved Training Organisation (ATO) conduct of in-house leadership modules under the Leadership & People Management-Workforce Skills Qualification (LPM-WSQ) framework |
 | |BCA Green Mark GoldPlus Award - Prison Link Centre (Changi) |
-|2017|AON Best Employer Award |
+||Public Service Premier Award |
 |2017|AON Best Employer Award |
 |2017|AON Best Employer Award |
 |2017|AON Best Employer Award |
