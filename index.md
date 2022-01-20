@@ -5,7 +5,7 @@ description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
 notification: "Singapore Prison Service website will be undergoing maintenance
-  on 21 August 2021. We apologize for any inconvenience caused. "
+  on 21 August 2021. We apologise for any inconvenience caused. "
 sections:
   - hero:
       background: /images/banners/web-banner_sps75th_1920x600_v1_15062021-compressed.jpg
