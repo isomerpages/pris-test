@@ -4,16 +4,13 @@ permalink: /join-us/scholarships
 description: ""
 third_nav_title: Scholarships
 ---
-
-
-
 ### Scholarships and Sponsorships
 
 * <p><a href="#Singapore Merit Scholarship">
   Singapore Merit Scholarship
 </a></p>
-* <p><a href="#SINGAPORE GOVERNMENT SCHOLARSHIP (SGS)">
-  SINGAPORE GOVERNMENT SCHOLARSHIP (SGS)
+* <p><a href="#Singapore Government Scholarship (SGS)">
+  Singapore Government Scholarship (SGS)
 </a></p>
 
 
@@ -48,7 +45,7 @@ The bond is 6 years (overseas universities, English-speaking countries), 5 years
 
 To apply for the scholarship, please visit the PSC scholarship portal.
 
-<h4 id="SINGAPORE GOVERNMENT SCHOLARSHIP (SGS)">SINGAPORE GOVERNMENT SCHOLARSHIP (SGS)</h4>
+<h4 id="Singapore Government Scholarship (SGS)">Singapore Government Scholarship(SGS)</h4>
 
 The Singapore Government Scholarship is awarded to promising students to pursue undergraduate studies at overseas and local universities. Upon graduation, you will pursue a career in the Central Narcotics Bureau, or any uniformed service in the Home Team, where you will be exposed to various areas of work through regular postings to acquire staff and command competencies.
 
