@@ -61,5 +61,5 @@ sections:
       subtitle: Latest news
       button: View More
   - infobar:
-      title: <img src="/images/banners/awardsnobg.png" alt="awards">
+      title: <img src="/images/banners/awardsnobg.png" width="100%">
 ---
