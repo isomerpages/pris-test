@@ -5,8 +5,7 @@ third_nav_title: Careers
 ---
 <p><strong>A UNIFORM CAREER WITH SPS - ARE YOU THE ONE WE ARE LOOKING FOR?</strong></p>
 <p class="copytext">As Captains of Lives, we are akin to the first drop of water that touches the pond and creating a ripple effect. Our work goes beyond being a guard; we aspire to create&nbsp;a positive impact in the lives of offenders, and inspire everyone at every chance towards a society without re-offending.</p>
-<div style="text-align: center;"><iframe title="YouTube video player" src="https://www.youtube.com/embed/CshxKg00Oao" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-<div style="text-align: center;">&nbsp;</div>
+
 <h4 style="text-align: center;"><strong>Prison Officer (Sergeant)</strong></h4>
 <p style="text-align: center;"><em>Be part of the team to enforce secure custody of offenders and rehabilitate them, for a safe Singapore.</em></p>
 <div style="text-align: center;">&nbsp;</div>
