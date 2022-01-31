@@ -13,13 +13,13 @@ sections:
         - title: Know about SPS
           description: ""
           url: /organisation
-        - title: Visit my loved one
+        - title: Connect with my loved one
           description: ""
           url: /visit-matters/visit-announcements
         - title: Learn about Rehabilitation
           description: ""
           url: /rehabilitation-process-menu
-        - title: Join SPS
+        - title: Join / Partner with SPS
           description: ""
           url: /careers
   - infobar:
