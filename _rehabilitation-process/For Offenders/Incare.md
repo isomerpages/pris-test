@@ -21,5 +21,10 @@ third_nav_title: For Offenders
 | Programme Type| Programme Title| Objectives / Learning Outcome|
 | -------- | -------- | -------- |
 | Vocational  | Text     | Text     |
-| Vocational  | Text     | Text     |
-| Vocational  | Text     | Text     |
+| Pre-release | Text     | Text     |
+| Pre-release  | Text     | Text     |
+
+4. Work Programme <br>
+	a. Inmates will be given the opportunity to participate in the various work programmes available in Prisons depending on your interest and suitability.
+
+	b. Work programmes available in Prisons includes being a call operator, working in a central kitchen or being involved in warehouse operations.
