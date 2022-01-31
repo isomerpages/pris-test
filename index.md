@@ -19,7 +19,7 @@ sections:
         - title: Learn about Rehabilitation
           description: ""
           url: /rehabilitation-process-menu
-        - title: Join / Partner with SPS
+        - title: Join / Partner SPS
           description: ""
           url: /careers
   - infobar:
