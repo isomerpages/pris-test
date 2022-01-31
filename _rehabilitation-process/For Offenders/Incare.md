@@ -20,9 +20,9 @@ third_nav_title: For Offenders
 
 | Programme Type| Programme Title| Objectives / Learning Outcome|
 | -------- | -------- | -------- |
-| Vocational  | Text     | Text     |
-| Pre-release | Text     | Text     |
-| Pre-release  | Text     | Text     |
+| Vocational| WSQ courses/ other workshops| Text     |
+| Pre-release|Release Preparation Programme| Text     |
+| Pre-release|Family Reintegration Programme/Family Joint Sessions | Text     |
 
 4. Work Programme <br>
 	a. Inmates will be given the opportunity to participate in the various work programmes available in Prisons depending on your interest and suitability.
