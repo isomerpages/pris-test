@@ -29,4 +29,18 @@ third_nav_title: For Offenders
 
 	b. Work programmes available in Prisons includes being a call operator, working in a central kitchen or being involved in warehouse operations.
 <br>
-5.
+5.[Pictures]
+
+6. DIRECT <br>
+DIRECT e-learning is an app within DIRECT Tablet
+Through the app, you can access pre-loaded materials including psychology-based correctional programmes (PCPs), motivational talks and useful brochures
+You can access e-learning during your free time.
+Education Courses
+Education enhances the employability of inmates after they are released.
+Inmate must be able to complete all Psychology-Based Correctional Programmes (PCP) before studies or have sufficient time left to complete his PCP after his studies.
+Inmates who are interested and meet the application criteria could apply to study.
+
+7. In-care skills training <br>
+Vocational training and deeper skills training enhances the employability of inmates after they are release.
+Inmate must be able to complete all Psychology-Based Correctional Programmes (PCP) before skills training or have sufficient time left to complete his PCP after his skills training.
+Inmates who are interested and meet the application criteria could apply for the courses.
