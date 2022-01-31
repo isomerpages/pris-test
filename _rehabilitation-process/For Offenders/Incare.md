@@ -20,9 +20,9 @@ third_nav_title: For Offenders
 
 | Programme Type| Programme Title| Objectives / Learning Outcome|
 | -------- | -------- | -------- |
-| Vocational| WSQ courses/ other workshops| Text     |
-| Pre-release|Release Preparation Programme| Text     |
-| Pre-release|Family Reintegration Programme/Family Joint Sessions | Text     |
+| Vocational| WSQ courses/ other workshops| The programmes aim to equip inmates with skills in the relevant industries such as F&B and Logistics. <br>A variety of WSQ courses are provided:<br>- WSQ Perform Warehouse Operations <br>- WSQ Apply Workplace Safety & Health <br>- WSQ Apply Teamwork in the Workplace <br>- WSQ Maintain Food & Beverage Production Environment <br>- WSQ Prepare Equipment and Ingredients <br><br>Inmates are also able to acquire marketable skills through to other workshops which may give rise to opportunities for flexi-work and or self-employment. Some examples are the Barista Workshop and the micro-business programmes. |
+| Pre-release|Release Preparation Programme|This programme is for Penal inmates and DRC who are selected for CBP or who will be directly released from prisons within 2-3 months.  |
+| Pre-release|Family Reintegration Programme/Family Joint Sessions |The programme prepares inmates and their families for their reintegration, by equipping them with the knowledge and skills to enhance relational bonds with a focus on skills practice. It is followed by sessions to share the reintegration plan with the family members.  |
 
 4. Work Programme <br>
 	a. Inmates will be given the opportunity to participate in the various work programmes available in Prisons depending on your interest and suitability.
