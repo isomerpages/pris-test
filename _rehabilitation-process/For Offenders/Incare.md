@@ -45,3 +45,5 @@ b. Work programmes available in Prisons includes being a call operator, working 
 * Vocational training and deeper skills training enhances the employability of inmates after they are release.
 * Inmate must be able to complete all Psychology-Based Correctional Programmes (PCP) before skills training or have sufficient time left to complete his PCP after his skills training.
 * Inmates who are interested and meet the application criteria could apply for the courses.
+![Alt text for image on Isomer site](/images/IFSP.jpg)
+![Alt text for image on Isomer site](/images/ES.png)
