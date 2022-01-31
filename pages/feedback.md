@@ -11,7 +11,7 @@ permalink: /feedback
 #### Here are some of our key topics:
 
 * Rehabilitation Process : [In-Care Programmes](https://www.sps.gov.sg/volunteer/rehabilitation-process) / [Community Based Programmes](https://www.sps.gov.sg/volunteer/conditional-remission-system-and-mandatory-aftercare-scheme)
-* [Visit Bookings](https://www.ipris.sps.gov.sg/sps-vms3-web/#/home/index)
+* [Visit Bookings](https://www.ipris.sps.gov.sg/sps-vms3-web/#/home/index)<br>
 *[ E-Letters](https://eservice.sps.gov.sg/eletters/#/landing) (For technical support with e-letters, you may contact our tech support team [here](https://form.gov.sg/#!/5f0ff5e79e6a4a0011f1eaa2).)
 * [Inmate Release Locations](https://www.sps.gov.sg/connect-us/other-matters/inmates-release-locations)
 * Apply for Compassionate Leave for Inmates: [Login with Singpass](https://form.gov.sg/#%21/5fc06709bd168e00112d7f10)  /  [Login without Singpass](https://form.gov.sg/#%21/5e016875df378700118eae8c)
