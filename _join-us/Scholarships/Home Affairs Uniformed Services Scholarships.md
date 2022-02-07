@@ -4,111 +4,293 @@ permalink: /join-us/scholarships
 description: ""
 third_nav_title: Scholarships
 ---
-### Scholarships and Sponsorships
 
-* <p><a href="#Singapore Merit Scholarship">
-  Singapore Merit Scholarship
-</a></p>
-* <p><a href="#Singapore Government Scholarship (SGS)">
-  Singapore Government Scholarship (SGS)
-</a></p>
-
-
-
-<h4 id="Singapore Merit Scholarship">Singapore Merit Scholarship</h4>
-
-The Singapore Merit Scholarship is awarded to promising students to pursue undergraduate studies at overseas and local universities. Upon graduation, you will pursue a career in the Central Narcotics Bureau, or any uniformed service in the Home Team, where you will be exposed to various areas of work through regular postings to acquire staff and command competencies.
-
-You will also have the opportunity to be placed on the Public Service Leadership Programme where you will acquire specialist knowledge and capabilities to take on key leadership positions in the Home Team Departments, if you meet the criteria.
-
-##### Eligibility
-* Singapore Citizens or Permanent Residents intending to take up Singapore Citizenship
-* GCE 'A' Levels (with at least 10 academic units), International Baccalaureate (IB), Polytechnic Diploma (with Merit), or equivalent
-* Strong leadership qualities and good co-curricular activities (CCA) record
-* Keen interest in a career with the Home Team
-* Candidates must qualify and excel in Officer Cadet School (OCS)
-* Male applicants must have a medical fitness of PES status ‘A’ or ‘B’
-
-##### Value of Awards
-* Tuition and other approved fees
-* Monthly overseas or local maintenance allowance
-* Pre-studies allowance e.g. settling in, warm clothing, computer
-* Return airfare for those who pursue their studies in overseas universities
-* Sponsorship for Masters and exchange programmes (if requirements are met)
-* Full salary for the duration of study
-* Countries and Courses of Study
-* Most countries and disciplines (except Medicine, Dentistry and Architecture)
-	* Applicants intending to pursue a degree in Law will not be called to the Bar while serving in the Home Team.
-
-##### Condition of Award
-The bond is 6 years (overseas universities, English-speaking countries), 5 years (overseas universities, non-English-speaking countries), or 4 years (local universities), starting from the day you assume duty after completing your course of study.
-
-To apply for the scholarship, please visit the PSC scholarship portal.
-
-<h4 id="Singapore Government Scholarship (SGS)">Singapore Government Scholarship(SGS)</h4>
-
-The Singapore Government Scholarship is awarded to promising students to pursue undergraduate studies at overseas and local universities. Upon graduation, you will pursue a career in the Central Narcotics Bureau, or any uniformed service in the Home Team, where you will be exposed to various areas of work through regular postings to acquire staff and command competencies.
-
-You will also have the opportunity to be placed on the Public Service Leadership Programme where you will acquire specialist knowledge and capabilities to take on key leadership positions in the Home Team Departments, if you meet the criteria.
-
-Eligibility
-Singapore Citizens or Permanent Residents intending to take up Singapore Citizenship
-GCE 'A' Levels (with at least 10 academic units), International Baccalaureate (IB), Polytechnic Diploma (with Merit), or equivalent
-Strong leadership qualities and good co-curricular activities (CCA) record
-Keen interest in a career with the Home Team
-Good performance in National Service with a medical fitness of PES status ‘A’ or ‘B’
-Value of Awards
-Tuition and other approved fees
-Monthly overseas or local maintenance allowance
-Pre-studies allowance e.g. settling in, warm clothing, computer
-Return airfare for those who pursue their studies in overseas universities
-Sponsorship for Masters and exchange programmes (if requirements are met)
-Courses of Study
-Most countries and disciplines (except Medicine, Dentistry and Architecture)
-
-* Applicants intending to pursue a degree in Law will not be called to the Bar while serving in the Home Team.
-
-Condition of Award
-The bond is 6 years (overseas universities, English-speaking countries), 5 years (overseas universities, non-English-speaking countries), or 4 years (local universities), starting from the day you assume duty after completing your course of study.
-
-To apply for the scholarship, please visit the PSC scholarship portal.
 
 <details class="accordion">
-  <summary class='header'>
-    Extra Options Available
-  </summary>
-  <div class="body">
-    <ul class="unorderd-list">
-      <li>$5 onion</li>
-      <li>$5 onion</li>
+    <summary class="headeraccordion">Singapore Merit Scholarship (Singapore Prison Service)
+    </summary>
+    <p>&nbsp;</p>
+    <div style="text-align:justify;">The Singapore Merit Scholarship (SMS) is offered to individuals with excellent academic results and&nbsp;<span style="background-color:transparent;color:inherit;text-align:inherit;text-transform:inherit;white-space:inherit;word-spacing:normal;caret-color:auto;font-size:inherit;font-weight:400;">leadership capabilities. Your journey begins with an education at a prestigious local or overseas&nbsp;</span>
+        <span style="background-color:transparent;color:inherit;text-align:inherit;text-transform:inherit;white-space:inherit;word-spacing:normal;caret-color:auto;font-size:inherit;font-weight:400;">university before being groomed to take on key positions in Singapore Prison Service, where you will&nbsp;</span>
+        <span style="background-color:transparent;color:inherit;text-align:inherit;text-transform:inherit;white-space:inherit;word-spacing:normal;caret-color:auto;font-size:inherit;font-weight:400;">play an integral role in shaping the future of corrections.</span>
+    </div>
+    <p style="text-align:justify;">&nbsp;</p>
+    <table>
+        <tbody>
+            <tr style="height:50%;">
+                <td style="width:50%;">
+                    <h3>ELIGIBILITY</h3>
+                </td>
+                <td style="width:50%;">
+                    <h3>VALUE OF AWARD</h3>
+                </td>
+            </tr>
+            <tr style="height:50%;">
+                <td style="width:50%;">
+                    <ul>
+                        <li>Singapore Citizen or Singapore Permanent Resident who intends to take up Singapore Citizenship</li>
+                        <li>Have strong leadership qualities and potential</li>
+                        <li>Possess strong interest in safeguarding the safety and security of Singapore</li>
+                        <li>Have good academic and Co-Curricular Activities (CCAs) records</li>
+                        <li>Have a GCE A-Levels, International Baccalaureate, Polytechnic, NUS High School, or other high school diploma/certificate</li>
+                        <li>Qualify and excel in Officer Cadet School</li>
+                    </ul>
+                </td>
+                <td style="width:50%;">
+                    <div></div>
+                    <ul>
+                        <li>Tuition fees and other approved charges</li>
+                        <li>Monthly overseas or local maintenance allowance (including accommodation)</li>
+                        <li>Pre-studies allowance e.g. settling in, warm clothing, computer</li>
+                        <li>Return economy class airfare (if studying overseas)</li>
+                        <li>NS disruption</li>
+                        <li>Sponsorship of Master&rsquo;s and exchange programmes (if requirements are met)</li>
+                        <li>Full salary for the duration of your studies (including bonuses)</li>
+                    </ul>
+                </td>
+            </tr>
+        </tbody>
+    </table><span style="background-color:transparent;color:inherit;font-family:inherit;text-align:inherit;text-transform:inherit;white-space:inherit;word-spacing:normal;caret-color:auto;font-size:inherit;font-weight:400;"></span>
+    <h3>COUNTRIES AND COURSES OF STUDY</h3>
+    <p dir="ltr">Most countries and disciplines (except medicine, dentistry and architecture).<br />*<em>&nbsp;Applicants intending to pursue a degree in Law will not be called to the Bar while serving in the SPS.</em></p>
+    <h3 dir="ltr">CONDITION OF AWARD</h3>
+    <p dir="ltr">Scholarship holders need to fulfil a bond of:</p>
+    <ul>
+        <li>Have strong leadership qualities and potential</li>
+        <li>4 years (for local studies)</li>
+        <li>5 years (for studies in non-English speaking countries)</li>
+        <li>6 years (for studies in English speaking countries)</li>
     </ul>
-  </div>
+    <div>
+        <p>The bond period starts on the day they assume official duty after completing their studies.</p>
+    </div>
+    <h3 dir="ltr">YOUR LEADERSHIP JOURNEY</h3>
+    <p dir="ltr">You will be exposed to various areas of work through regular postings to develop staff and command competencies.
+    </p>
+    <p dir="ltr">You will also have the opportunity to be placed on the Public Service Leadership Programme (PSLP) where you will acquire specialist knowledge and capabilities to take on key leadership positions in SPS.
+    </p>
+    <p><a data-sf-ec-immutable="" href="https://www.psc.gov.sg/Scholarships/public-sector-scholarships/browse-by-scholarship/singapore-merit-scholarship-MHA"><strong>Click here to Apply</strong></a></p>
+    <div><em>Note: To apply for a SPS scholarship, please indicate 'Uniformed Services &ndash; SPS&rsquo; as your 1st choice on the PSC application.</em></div>
+    <p>&nbsp;</p>
 </details>
 <details class="accordion">
-  <summary class='header'>
-    Extra Options Available
-  </summary>
-  <div class="body">
-    <P>
-      Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.
-    </p>
-        <ul class="unorderd-list">
-      <li>$5 onion</li>
-      <li>$5 onion</li>
-    </ul>
-        <P>
-      Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
-    </p>
-  </div>
+    <summary class="headeraccordion">Singapore Government Scholarship (Singapore Prison Service)
+    </summary>
+    <p>&nbsp;</p>
+    <div class="body">
+        <p style="text-align:justify;">The Singapore Government Scholarship (SGS) provides highly qualified individuals opportunities to pursue undergraduate studies in top overseas or local universities. Upon graduation, you will embark on an exciting and rewarding career as a Prison
+            Officer to transform lives and influence communities towards a society without re-offending. With a SGS, you will be given opportunities to take on leadership positions in the Singapore Prison Service and shape the future of corrections. Mid-term
+            scholarship is available.</p>
+        <table>
+            <tbody>
+                <tr style="height:50%;">
+                    <td style="width:50%;">
+                        <h3>ELIGIBILITY</h3>
+                    </td>
+                    <td style="width:50%;">
+                        <h3>VALUE OF AWARD</h3>
+                    </td>
+                </tr>
+                <tr style="height:50%;">
+                    <td style="width:50%;">
+                        <ul>
+                            <li>Singapore Citizen or Singapore Permanent Resident who intends to take up Singapore Citizenship</li>
+                            <li>Have strong leadership qualities and potential</li>
+                            <li>Possess strong interest in safeguarding the safety and security of Singapore</li>
+                            <li>Have good academic and Co-Curricular Activities (CCAs) records</li>
+                            <li>Have a GCE A-Levels, International Baccalaureate, Polytechnic, NUS High School, or other high school diploma/certificate. [Current Undergraduate students (not in final year of studies) with good academic results may also apply.
+                                Check out more details on a mid-term scholarship.]</li>
+                            <li>Perform well in National Service (for male applicants)</li>
+                        </ul>
+                    </td>
+                    <td style="width:50%;">
+                        <ul>
+                            <li>Tuition fees and other approved charges</li>
+                            <li>Monthly overseas or local maintenance allowance (including accommodation)</li>
+                            <li>Pre-studies allowance e.g. settling in, warm clothing, computer</li>
+                            <li>Return economy class airfare (if studying overseas)</li>
+                            <li>Sponsorship of Master&rsquo;s and exchange programmes (if requirements are met)</li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <h3>COUNTRIES AND COURSES OF STUDY</h3>
+        <p dir="ltr">Most countries and disciplines (except medicine, dentistry and architecture).<br />*&nbsp;<em>Applicants intending to pursue a degree in Law will not be called to the Bar while serving in the SPS.</em></p>
+        <h3 dir="ltr">CONDITION OF AWARD</h3>
+        <p dir="ltr">Scholarship holders need to fulfil a bond of:&nbsp;</p>
+        <ul>
+            <li>4 years (for local studies)</li>
+            <li>5 years (for studies in non-English speaking countries)</li>
+            <li>6 years (for studies in English speaking countries)</li>
+        </ul>
+        <p dir="ltr">The bond period starts on the day they assume official duty after completing their studies.</p>
+        <h3 dir="ltr">YOUR LEADERSHIP JOURNEY</h3>
+        <p dir="ltr">You will be exposed to various areas of work through regular postings to develop staff and command competencies.<br /><br />You will also have the opportunity to be placed on the Public Service Leadership Programme (PSLP) where you will acquire
+            specialist knowledge and capabilities to take on key leadership positions in SPS.</p>
+        <p><a data-sf-ec-immutable="" href="https://www.psc.gov.sg/Scholarships/public-sector-scholarships/browse-by-scholarship/singapore-government-scholarship-MHA"></a><a data-sf-ec-immutable="" href="https://www.psc.gov.sg/Scholarships/public-sector-scholarships/browse-by-scholarship/singapore-government-scholarship-MHA"><strong></strong></a><strong><a data-sf-ec-immutable="" href="https://www.psc.gov.sg/Scholarships/public-sector-scholarships/browse-by-scholarship/singapore-government-scholarship-MHA">Click here to Apply&nbsp;</a></strong></p>
+        <p><em>Note: To apply for a SPS scholarship, please indicate 'Uniformed Services &ndash; SPS&rsquo; as your 1st choice on the PSC application.</em></p>
+    </div>
 </details>
 <details class="accordion">
-  <summary class='header'>
-    Extra Options Available
-  </summary>
-  <div class="body">
-    <ul class="">
-      <li>$5 onion</li>
-      <li>$5 onion</li>
-    </ul>
-  </div>
+    <summary class="headeraccordion">Local Merit Scholarship (Singapore Prison Service)
+    </summary>
+    <p>&nbsp;</p>
+    <div class="body">
+        <p style="text-align:justify;">The Local Merit Scholarship (LMS) provides highly qualified and promising individuals with an undergraduate education at a local university. Upon graduation, you will embark on an exciting and rewarding career as a Prison Officer to transform
+            lives and influence communities towards a society without re-offending. With a LMS, you will be given opportunities to take on leadership positions in the Singapore Prison Service and shape the future of corrections. Mid-term scholarship is
+            available.</p>
+        <table>
+            <tbody>
+                <tr style="height:50%;">
+                    <td style="width:50%;">
+                        <h3>ELIGIBILITY</h3>
+                    </td>
+                    <td style="width:50%;">
+                        <h3>VALUE OF AWARD</h3>
+                    </td>
+                </tr>
+                <tr style="height:50%;">
+                    <td style="width:50%;">
+                        <ul>
+                            <li>Singapore Citizen or Singapore Permanent Resident who intends to take up Singapore Citizenship</li>
+                            <li>Have strong leadership qualities and potential</li>
+                            <li>Possess strong interest in safeguarding the safety and security of Singapore</li>
+                            <li>Have good academic and Co-Curricular Activities (CCAs) records</li>
+                            <li>Have a GCE A-Levels, International Baccalaureate, Polytechnic, NUS High School, or other high school diploma/certificate. [Current Undergraduate students (not in final year of studies) with good academic results may also apply.
+                                Check out more details on a mid-term scholarship.]</li>
+                            <li>Perform well in National Service (for male applicants)</li>
+                        </ul>
+                    </td>
+                    <td style="width:50%;">
+                        <ul>
+                            <li>Tuition fees and other approved charges</li>
+                            <li>Monthly local maintenance allowance (including accommodation)</li>
+                            <li>Pre-studies allowance e.g. computer</li>
+                            <li>Hostel allowance</li>
+                            <li>Sponsorship of Master&rsquo;s and exchange programmes (if requirements are met)<br /></li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <h3 dir="ltr">COURSES OF STUDY</h3>
+        <p dir="ltr">Most disciplines in local universities (except medicine, dentistry and architecture).<br />*<em>&nbsp;Applicants intending to pursue a degree in Law will not be called to the Bar while serving in the SPS.</em></p>
+        <h3 dir="ltr">CONDITION OF AWARD</h3>
+        <p dir="ltr">Scholarship holders will be bonded for four years, commencing on the day you assume official duty after completing your studies.</p>
+        <h3 dir="ltr">YOUR LEADERSHIP JOURNEY</h3>
+        <p dir="ltr">You will be exposed to various areas of work through regular postings to develop staff and command competencies.<br /><br />You will also have the opportunity to be placed on the Public Service Leadership Programme (PSLP) where you will acquire
+            specialist knowledge and capabilities to take on key leadership positions in SPS.</p>
+        <p><a data-sf-ec-immutable="" href="https://www.psc.gov.sg/Scholarships/public-sector-scholarships/browse-by-scholarship/singapore-government-scholarship-MHA"></a><a data-sf-ec-immutable="" href="https://www.psc.gov.sg/Scholarships/public-sector-scholarships/browse-by-scholarship/local-merit-scholarship-MHA"><strong>Click here to Apply&nbsp;</strong></a></p>
+        <p><em>Note: To apply for a SPS scholarship, please indicate 'Uniformed Services &ndash; SPS&rsquo; as your 1st choice on the PSC application.</em></p>
+    </div>
+</details>
+<details class="accordion">
+    <summary class="headeraccordion">Home Team Local Study Award (Singapore Prison Service)
+    </summary>
+    <p>&nbsp;</p>
+    <div class="body">
+        <p style="text-align:justify;">The Home Team Local Study Award (HTLSA) enables you to pursue a meaningful and rewarding career with the Singapore Prison Service. Upon completion of your undergraduate education at a reputable local university, you will be appointed as Prison
+            Officer in the Singapore Prison Service to transform lives and influence communities towards a society without re-offending.</p>
+        <table>
+            <tbody>
+                <tr style="height:50%;">
+                    <td style="width:50%;">
+                        <h3>ELIGIBILITY</h3>
+                    </td>
+                    <td style="width:50%;">
+                        <h3>VALUE OF AWARD</h3>
+                    </td>
+                </tr>
+                <tr style="height:50%;">
+                    <td style="width:50%;">
+                        <ul>
+                            <li>Singapore Citizen or Singapore Permanent Resident who intends to take up Singapore Citizenship</li>
+                            <li>Have strong leadership qualities and potential</li>
+                            <li>Possess strong interest in safeguarding the safety and security of Singapore</li>
+                            <li>Have good academic and Co-Curricular Activities (CCAs) records</li>
+                            <li>Have a GCE A-Levels, International Baccalaureate, Polytechnic, NUS High School, or other high school diploma/certificate. [Current Undergraduate students (not in final year of studies) with good academic results may also apply.
+                                Check out more details on a mid-term scholarship.]</li>
+                            <li>Perform well in National Service (for male applicants)</li>
+                        </ul>
+                    </td>
+                    <td style="width:50%;">
+                        <ul>
+                            <li>Tuition fees and other approved charges</li>
+                            <li>Monthly local maintenance allowance (including accommodation)</li>
+                            <li>Pre-studies allowance e.g. computer</li>
+                            <li>Hostel allowance</li>
+                            <li>Sponsorship of Master&rsquo;s and exchange programmes (if requirements are met)</li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <h3>COURSES OF STUDY</h3>
+        <div>Most disciplines in local universities (except medicine, dentistry and architecture).</div>
+        <div>* <em>Applicants intending to pursue a degree in Law will not be called to the Bar while serving in the SPS.</em></div>
+        <div><br /></div>
+        <h3>CONDITION OF AWARD</h3>
+        <div>
+            <p>Scholarship holders will be bonded for four years, commencing on the day you assume official duty after completing your studies.</p>
+        </div>
+        <h3 dir="ltr">YOUR LEADERSHIP JOURNEY</h3>
+        <p dir="ltr">You will be exposed to various areas of work through regular postings to develop staff and command competencies.<span style="background-color:transparent;color:inherit;text-align:inherit;text-transform:inherit;white-space:inherit;word-spacing:normal;caret-color:auto;font-size:inherit;font-weight:400;"></span></p>
+        <p><a data-sf-ec-immutable="" href="https://www.psc.gov.sg/apply-for-scholarships"><strong>Click here to apply</strong></a></p>
+        <p><em>Note: To apply for a SPS scholarship, please indicate 'Uniformed Services &ndash; SPS&rsquo; as your 1st choice on the PSC application.</em></p>
+    </div>
+</details>
+<details class="accordion">
+    <summary class="headeraccordion">MHA Mid-Term Scholarship
+    </summary>
+    <p>&nbsp;</p>
+    <p><span style="background-color:transparent;color:inherit;font-family:inherit;font-size:inherit;text-align:inherit;text-transform:inherit;white-space:inherit;word-spacing:normal;caret-color:auto;font-weight:400;">If you are a current undergraduate with excellent results and an interest in SPS&rsquo; mission, you may&nbsp;</span>
+        <span
+            style="background-color:transparent;color:inherit;font-family:inherit;font-size:inherit;text-align:inherit;text-transform:inherit;white-space:inherit;word-spacing:normal;caret-color:auto;font-weight:400;">consider applying for a mid-term scholarship.&nbsp;</span>
+    </p>
+    <div>
+        <p><span style="background-color:transparent;color:inherit;text-align:inherit;text-transform:inherit;white-space:inherit;word-spacing:normal;caret-color:auto;font-size:inherit;font-weight:400;"></span><span style="background-color:transparent;color:inherit;text-align:inherit;text-transform:inherit;white-space:inherit;word-spacing:normal;caret-color:auto;font-size:inherit;font-weight:400;">Tuition and compulsory fees you incurred before the award will be back-paid.</span></p>
+    </div>
+    <div class="body">
+        <table>
+            <tbody>
+                <tr style="height:50%;">
+                    <td style="width:50%;">
+                        <h3>ELIGIBILITY</h3>
+                    </td>
+                    <td style="width:50%;">
+                        <h3>VALUE OF AWARD</h3>
+                    </td>
+                </tr>
+                <tr style="height:50%;">
+                    <td style="width:50%;">
+                        <ul>
+                            <li>Be pursuing full-time undergraduate studies</li>
+                            <li>Be on track for graduation with at least 2nd Upper Honours or equivalent</li>
+                            <li>Have completed at least 1 semester and not be in the final year of undergraduate study</li>
+                        </ul>
+                    </td>
+                    <td style="width:50%;">
+                        <ul>
+                            <li>Tuition fees and other approved charges (Tuition fees and compulsory fees incurred before the award will be back-paid)</li>
+                            <li>Monthly overseas or local maintenance allowance</li>
+                            <li>Return economy class airfare (if studying overseas)</li>
+                            <li>Sponsorship of Master&rsquo;s and exchange programmes (if requirements are met)</li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div>
+            <div>The scholarships below are available as mid-term scholarships. To find out about eligibility and&nbsp;<span style="background-color:transparent;color:inherit;text-align:inherit;text-transform:inherit;white-space:inherit;word-spacing:normal;caret-color:auto;font-size:inherit;font-weight:400;">terms, visit the individual scholarship pages.</span></div>
+            <ul>
+                <li>Singapore Government Scholarship (Singapore Prison Service)<br /></li>
+                <li>Local Merit Scholarship (Singapore Prison Service)<br /></li>
+                <li>Home Team Local Study Award (Singapore Prison Service)</li>
+            </ul>
+            <p>To apply for the scholarship, please visit the PSC scholarship portal.</p>
+            <p><a data-sf-ec-immutable="" href="https://www.mha.gov.sg/careers/scholarships/mha-mid-term-scholarship"><strong>Click here to apply</strong></a></p>
+            <p><em>Note: To apply for a SPS scholarship, please indicate 'Uniformed Services &ndash; SPS&rsquo; as your 1st choice on the PSC application.</em></p>
+        </div>
+    </div>
 </details>
