@@ -9,7 +9,7 @@ The Singapore Prison Service (SPS) is a key partner in the criminal justice syst
 SPS adopts a throughcare approach in the rehabilitation of offenders. This change process begins in prison and continues when the offender returns to society. Programmes and interventions, informed by evidence and the Risk-Needs-Responsivity (RNR) Model, are designed to address the offenders’
 criminogenic thinking and behaviour, improve prosocial skills, enhance employability and other protective factors.
 
-The rehabilitation journey for the offender can be divided into two key phases – Incare (in prison) and Aftercare (in the community).
+The rehabilitation journey for the offender can be divided into two key phases – [Incare (in prison)](https://pris-test-staging.netlify.app/rehabilitation-process/for-inmates/incare) and[ Aftercare (in the community)](https://pris-test-staging.netlify.app/rehabilitation-process/for-offenders/aftercare).
 [![Alt text for image on Isomer site](/images/image-library/rehab%20process.jpg)](https://pris-test-staging.netlify.app/images/image-library/rehab%20process.jpg)
 
 #### Incare
@@ -28,6 +28,6 @@ At the pre-release phase, offenders are provided the relevant support to secure 
 
 
 #### Aftercare
-In the aftercare phase, SPS continues to build on the knowledge and skills that offenders have gained in prisons, via a structured and gradual reintegration process in the community. Offenders may be emplaced on Community-Based Programmes (CBP), where they reside at home or at approved residential facilities such as halfway houses. Mandatory supervision, counselling, and casework sessions are also extended to individuals who require additional support in the aftercare phase.
+In the aftercare phase, SPS continues to build on the knowledge and skills that offenders have gained in prisons, via a structured and gradual reintegration process in the community. Offenders may be emplaced on [Community-Based Programmes (CBP)](https://pris-test-staging.netlify.app/rehabilitation-process/for-offenders/halfway-care), where they reside at home or at approved residential facilities such as halfway houses. Mandatory supervision, counselling, and casework sessions are also extended to individuals who require additional support in the aftercare phase.
 
 Eligible offenders will be assessed for CBP towards the tail-end of the sentence. SPS makes a holistic assessment of the offender’s suitability for CBP, taking into consideration his/her latest rehabilitation progress, general conduct, and reintegration plans. Please be assured that SPS considers all eligible offenders for CBP emplacement. If your loved ones are assessed suitable for CBP, the next-of-kin or person appointed will be informed in due course.
