@@ -11,7 +11,7 @@ third_nav_title: For Next of Kin
 *  Information about drug addiction and family members' role in supporting their loved ones’ recovery
 
 #### CBP<br>
- 1. What is CBP? 
+ 1. [What is CBP?](https://pris-test-staging.netlify.app/rehabilitation-process/for-offenders/halfway-care) 
  	<br>a.  Overview and description of CBP.
  2. Suitability Assessment for CBP  <br>a. Description and explanation of inmates' eligibility and suitability for CBP.
  3. Types of CBP <br>a. Home Detention Scheme / Residential Scheme<br>b.   Halfway House Scheme <br> c. Work Release Scheme / Day Release Scheme 
