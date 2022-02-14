@@ -13,12 +13,6 @@ third_nav_title: For Offenders
 	
 
 
-| ![Alt text for image on Isomer site](/images/BBB.jpg) | ![Alt text for image on Isomer site](/images/NBB.jpg) | ![Alt text for image on Isomer site](/images/RBB.png) |
-| -------- | -------- | -------- |
-| **BROADCAST BEYOND BARS (BBB)** <BR>BBB will feature important announcements, inspirational quotes and stories for inmates and will inform and provide information readily at a glance.| **NEWS BEYOND BARS (NBB)** <BR>NBB is an in-house video production by inmates, for inmates. NBB serves as a mass communication platform for inmates.   |**RADIO BEYOND BARS (RBB)** <BR>RBB comprises podcasts and audio clips to be played on DIRECT, dayroom TV or over the PA system after closing muster. It includes educational dialogues, music and motivational snippets or messages to encourage inmates in their change journey.|
-
-
-
 ##### Criminogenic Programmes that target their crime needs e.g. ICP, PCP
 * PCRD may have more suitable write-up and infographics
 * [PCRD] Information on PCP for General Violence and Sexual Violence
