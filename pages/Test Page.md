@@ -10,7 +10,7 @@ description: ""
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Simple</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>This is a simple one line item <img src="/images/Family%20Reintegration.jpg" alt=""></p>
     </div>
 	</li>  
   <li>
