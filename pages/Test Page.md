@@ -10,7 +10,7 @@ description: ""
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Simple</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>This is a simple one line item ![](/images/169315451_10159252030259169_4339591614260395891_n.jpg)</p>
     </div>
 	</li>  
   <li>
