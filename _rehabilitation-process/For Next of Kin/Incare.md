@@ -10,17 +10,21 @@ third_nav_title: For Next of Kin
 *  PDF copy
 *  Information about drug addiction and family members' role in supporting their loved ones’ recovery
 
-#### CBP<br>
- 1. [What is CBP?](https://pris-test-staging.netlify.app/rehabilitation-process/for-offenders/halfway-care) 
- 	<br>a.  Overview and description of CBP.
- 2. Suitability Assessment for CBP  <br>a. Description and explanation of inmates' eligibility and suitability for CBP.
- 3. Types of CBP <br>a. Home Detention Scheme / Residential Scheme<br>b.   Halfway House Scheme <br> c. Work Release Scheme / Day Release Scheme 
- 4. Pre-Emplacement <br> a. Overview on pre-emplacement programmes and YRSG job placement.
- 5. Family Engagement <br> a. Information for on how family members will be notified on inmates' CBP emplacement.
- 6. On the Day of Emplacement <br>a. Information on how inmates will be transferred and what they will be undergoing during the day of their CBP emplacement.
- 7.  Enquiries information.
+#### **Community Based Programmes**
+##### What is the Community Based Programme (CBP)?
+CBP promotes the reintegration of eligible and suitable inmates into society with the help of their family members and the community, by emplacing them out into the community towards the tail-end of their incarceration. It provides an opportunity for the inmates to reconnect with their families and be gainfully employed as contributing members of the society. 
 
-i.  Supporting families through incarceration; Supporting your loved ones’ rehabilitation
+##### Is my loved one suitable for CBP?
+
+**Penal inmates:** All penal inmates will be screened and assessed for their eligibility and suitability. There is no need to submit an application for CBP as those who qualify for it will automatically be considered. Eligible inmates will only be assessed for CBP after they have served half their sentence in prison. Some inmates are legally excluded from CBP consideration due to the type of offence committed. Eligible inmates assessed to be suitable for CBP may be emplaced for a maximum period of 12 months prior to their release. This allows the Institution Assessment Panel to make a holistic assessment on the inmate’s suitability for CBP, taking into consideration the inmate’s latest rehabilitation progress, general conduct, and reintegration plan.
+
+**Drug Rehabilitation Centre (DRC) inmates:** For inmates detained at the DRC, CBP is part of their Drug Rehabilitation Regime. Hence, they will be emplaced on a suitable CBP scheme upon completion of their in-care rehabilitation regime, subject to their progress and conduct during their rehabilitation programme. 
+
+##### What are the various types of CBP available?
+<u>The following table provides a brief description of the CBP schemes available for penal inmates: </u>
+
+
+##### i.  Supporting families through incarceration; Supporting your loved ones’ rehabilitation
 
 SPS recognizes that incarceration of a loved one can be a difficult period for you and your family. In the Letter of Notification, you will also find a list of relevant helping resources in the community that can help you and your families. You may also approach the Family Resource Centre located at Prison Link Centre (Changi) to speak to a Social Worker.
 
