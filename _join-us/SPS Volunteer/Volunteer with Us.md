@@ -32,7 +32,17 @@ Prison volunteers come in to work with the offenders, in the areas of religious 
       <p>Academic education is one of the rehabilitation programmes available to offenders. Together with full-time teachers from MOE and independent adjunct teachers, as a Volunteer Tutor, you support the offenders’ aspirations towards academic qualifications.</p>
     </div>
   </li>
-  <li>
+		<li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">Be a Facilitator of religious, family, or other personal development programmes or services</label>
+    <div>
+      <ol>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+      </ol>
+    </div>
+  </li>
 
 **Religious Programmes and Services**
 
