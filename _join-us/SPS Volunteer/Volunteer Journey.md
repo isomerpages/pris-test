@@ -4,10 +4,6 @@ permalink: /join-us/SPS-Volunteer/Volunteer-Journey
 description: ""
 third_nav_title: SPS Volunteer
 ---
-**Registration and Process**
-
-
-
 ### Apply Now
 You may volunteer as an individual or under any of the Social Service Agencies (SSAs) or organisations that are currently partnering with SPS to provide rehabilitative programmes. 
  
