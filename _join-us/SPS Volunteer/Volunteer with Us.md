@@ -34,9 +34,9 @@ Prison volunteers come in to work with the offenders, in the areas of religious 
   </li>
 		<li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">Be a Facilitator of religious, family, or other personal development programmes or services</label>
+    <label for="accordion3">Be a Facilitator of religious, family, or other personal development programmes or services</label>
     <div>
-      <ol>
+      <ol type="a">
         <li>Volunteers facilitating religious programmes and services provide spiritual guidance and emotional support to offenders.
 </li>
         <li>When volunteers facilitate family programmes or services, you help offenders and their families gain useful knowledge and skills to become more effective members of the family, gain stability and strength to move forward as a family including in the aftercare. Children also benefit both directly and indirectly when families are supported by volunteers.
@@ -45,6 +45,15 @@ Prison volunteers come in to work with the offenders, in the areas of religious 
       </ol>
     </div>
   </li>
+	<li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion4">Be a Yellow Ribbon Community Project (YRCP) volunteer</label>
+    <div>
+      <p>YRCP is a grassroots-led initiative that provides community support and assistance to families impacted by incarceration through grassroots organisations. As a YRCP volunteer, you will engage and befriend these families and where necessary, link them up with helping agencies in the local community.</p>
+    </div>
+  </li>
+
+While the activity may differ, the higher purpose of volunteering is the same, to be the second chances of the offenders, ex-offenders, and their families. 
 
 **Religious Programmes and Services**
 
