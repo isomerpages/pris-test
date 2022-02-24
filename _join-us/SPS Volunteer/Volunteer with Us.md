@@ -20,7 +20,7 @@ The path to recovery and desistance can be challenging and is rarely straightfor
 
 
  
-### b. AREAS YOU CAN VOLUNTEER IN
+### b. Areas You Can Volunteer In
 
 The programmes and services facilitated by volunteers complement the rehabilitative initiatives provided by SPS to better prepare offenders for eventual return to the society. Hence, volunteering can be done in various forms, within and/or beyond the prison walls. You can volunteer to:
 
