@@ -4,12 +4,6 @@ permalink: /rehabilitation-process/For-Next-of-Kin/incare
 description: ""
 third_nav_title: For Next of Kin
 ---
-1. Letter of Notification (including community resources for families and visit process) 
-2. Role of family to support rehab journey (various touch points such as YRCP, IIMAC, FSC, FRC and facilitated joint session to involve families in inmate's rehab process)
-3. Family Resource Book
-*  PDF copy
-*  Information about drug addiction and family members' role in supporting their loved ones’ recovery
-
 #### **Community Based Programmes**
 ##### What is the Community Based Programme (CBP)?
 CBP promotes the reintegration of eligible and suitable inmates into society with the help of their family members and the community, by emplacing them out into the community towards the tail-end of their incarceration. It provides an opportunity for the inmates to reconnect with their families and be gainfully employed as contributing members of the society. 
@@ -99,4 +93,3 @@ Prior to emplacement for HDS/RS, the Main Visit Cardholder will receive an SMS p
 For further enquiries on Community Based Programme, you may write to us by filling in the online form at [http://go.gov.sg/cbpenquiry](http://go.gov.sg/cbpenquiry).
 
 For enquiries on the terms and conditions of the Halfway Houses and Work Release Centre, you may contact Selarang Park Community Supervision Centre (SPCSC) at 1800-543 1825.
-
