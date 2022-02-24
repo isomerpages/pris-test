@@ -21,7 +21,7 @@ CBP promotes the reintegration of eligible and suitable inmates into society wit
 **Drug Rehabilitation Centre (DRC) inmates:** For inmates detained at the DRC, CBP is part of their Drug Rehabilitation Regime. Hence, they will be emplaced on a suitable CBP scheme upon completion of their in-care rehabilitation regime, subject to their progress and conduct during their rehabilitation programme. 
 
 ##### What are the various types of CBP available?
-The following provides a brief description of the CBP schemes available for <Strong><u>Penal Inmates</Strong></u>:
+The following provides a brief description of the CBP schemes available for <Strong><u>Penal Inmates</u></Strong>:
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
@@ -46,7 +46,7 @@ The following provides a brief description of the CBP schemes available for <Str
   </li>
 	</ul>
 	
-The following provides a brief description of the CBP schemes available for <Strong><u>DRC Inmates</Strong></u>:
+The following provides a brief description of the CBP schemes available for <Strong><u>DRC Inmates</u></Strong>:
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
