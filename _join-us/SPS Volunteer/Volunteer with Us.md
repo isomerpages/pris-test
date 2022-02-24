@@ -5,17 +5,22 @@ description: ""
 third_nav_title: SPS Volunteer
 ---
 ![Alt text for image on Isomer site](/images/pvac-46.jpg)
-### ROLE OF A PRISON VOLUNTEER
-**Why do we want to engage volunteers in our Rehabilitation Efforts?**
-
-Prisons recognises that the community including volunteers and non-government organisations have important roles to play in the rehabilitation and re-integration of ex-offenders. Volunteers bring with them their expertise in the various fields, and impart their knowledge to the offenders through the various programmes / activities. Being in the community, the volunteers can also help to link the released offenders back to the community, facilitating the reintegration process.
-
-**Where does the Volunteer fit in this process?**
-
 Prison volunteers come in to work with the offenders, in the areas of religious programmes and services, social programmes, academic and enrichment programmes. Volunteers are also one of the sources of pro-social support for the released offenders in the community.
+### a. Role of a Volunteer in the offender’s rehabilitation journey
+ 
+Volunteers play an integral role in the offender’s rehabilitation and desistance journey. When volunteers engage the offenders, ex-offenders and their families, you give hope and help rebuild lives.
+ 
+As a volunteer, you:
+* Share knowledge and impart skills to help the offenders increase their reintegration potential.
+* Provide the emotional support that encourages offenders to stay focused and committed to their rehabilitation while serving sentence.
+* Assist to stabilise and strengthen families left vulnerable when a loved one is incarcerated.
+* Form part of the prosocial network in the community, to reinforce the ex-offenders’ resolve to desist and support the reunification of families after release.
+ 
+The path to recovery and desistance can be challenging and is rarely straightforward. SPS welcomes you to join us on our journey towards a society without re-offending.
+
 
  
-### AREAS YOU CAN VOLUNTEER IN
+### b. AREAS YOU CAN VOLUNTEER IN
 
 The programmes and services facilitated by volunteers complement the rehabilitative initiatives provided by SPS to better prepare offenders for eventual return to the society. Hence, volunteering can be done in various forms, within and/or beyond the prison walls. You can volunteer to:
 
