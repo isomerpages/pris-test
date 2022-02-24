@@ -17,6 +17,9 @@ Prison volunteers come in to work with the offenders, in the areas of religious 
  
 ### AREAS YOU CAN VOLUNTEER IN
 
+The programmes and services facilitated by volunteers complement the rehabilitative initiatives provided by SPS to better prepare offenders for eventual return to the society. Hence, volunteering can be done in various forms, within and/or beyond the prison walls. You can volunteer to:
+
+
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
