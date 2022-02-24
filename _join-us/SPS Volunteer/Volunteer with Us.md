@@ -37,9 +37,11 @@ Prison volunteers come in to work with the offenders, in the areas of religious 
     <label for="accordion4">Be a Facilitator of religious, family, or other personal development programmes or services</label>
     <div>
       <ol>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
+        <li>Volunteers facilitating religious programmes and services provide spiritual guidance and emotional support to offenders.
+</li>
+        <li>When volunteers facilitate family programmes or services, you help offenders and their families gain useful knowledge and skills to become more effective members of the family, gain stability and strength to move forward as a family including in the aftercare. Children also benefit both directly and indirectly when families are supported by volunteers.
+</li>
+        <li>Volunteers possess a wealth of experience and competencies. You can volunteer to impart skills (e.g., IT literacy) and share knowledge (financial planning) with the offenders and their families.</li>
       </ol>
     </div>
   </li>
