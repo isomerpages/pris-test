@@ -21,9 +21,32 @@ CBP promotes the reintegration of eligible and suitable inmates into society wit
 **Drug Rehabilitation Centre (DRC) inmates:** For inmates detained at the DRC, CBP is part of their Drug Rehabilitation Regime. Hence, they will be emplaced on a suitable CBP scheme upon completion of their in-care rehabilitation regime, subject to their progress and conduct during their rehabilitation programme. 
 
 ##### What are the various types of CBP available?
-The following table provides a brief description of the CBP schemes available for <u>**penal inmates**</u>: 
-
-The following table provides a brief description of the CBP schemes available for <u>**DRC inmates**</u>: 
+The following provides a brief description of the CBP schemes available for <u>**penal inmates**</u>: 
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">Home Detention Scheme </label>
+    <div>
+      <p>The Home Detention Scheme (HDS) aims to promote reintegration of inmates into society with the help of their family members and community. Suitable inmates will serve their remaining sentences at their residences under specified conditions, which include curfew monitoring, urine testing and counselling. They could either be working, studying, or be involved in community service. </p>
+    </div>
+	</li>  
+  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Halfway House Scheme</label>
+    <div>
+      <p>The Halfway House Scheme (HWH) provides a more structured environment to support inmates’ reintegration back to society gradually with the help of community partners. Inmates residing at halfway houses undergo various interventions, such as counselling and employment-related programmes. </p>
+    </div>
+  </li>
+	<li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">Work Release Scheme</label>
+    <div>
+      <p>The Work Release Scheme (WRS) aims to engage inmates in meaningful and productive work outside of the prison premises and to guide them towards a gradual reintegration into society. WRS also provides inmates with a chance to contribute to society by being productive, inculcate good work habits and develop a sense of responsibility to support their families. They will serve their remaining sentence at the Selarang Park Complex and commute to work daily</p>
+    </div>
+  </li>
+	</ul>
+	
+The following provides a brief description of the CBP schemes available for <u>**DRC inmates**</u>: 
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
