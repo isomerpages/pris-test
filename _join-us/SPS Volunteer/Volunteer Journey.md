@@ -8,7 +8,7 @@ third_nav_title: SPS Volunteer
 You may volunteer as an individual or under any of the Social Service Agencies (SSAs) or organisations that are currently partnering with SPS to provide rehabilitative programmes. 
  
 All applications will be processed. SPS will contact you to update you on your application status. All new volunteers will attend the Prison Volunteer Training as part of your onboarding to become a SPS volunteer. SPS also provides various trainings and developmental courses for volunteers, to equip you with the necessary skills and knowledge to aid in the work with offenders.
-1. FormSG
+1. FormSG <br>
 2. Contact Us
 
 If you have queries relating to volunteering with SPS, you can email us at 
