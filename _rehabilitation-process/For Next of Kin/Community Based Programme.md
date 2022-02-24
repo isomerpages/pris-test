@@ -43,15 +43,15 @@ The following provides a brief description of the CBP schemes available for <Str
 The following provides a brief description of the CBP schemes available for <Strong><u>DRC Inmates</u></Strong>:
 <ul class="jekyllcodex_accordion">
   <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">Residential Scheme</label>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">Residential Scheme</label>
     <div>
       <p>The Residential Scheme (RS) aims to promote reintegration of inmates into society with the help of their family members and community. Suitable inmates will serve their remaining sentences at their residences under specified conditions, which include curfew monitoring, urine testing and counselling. They could either be working, studying, or be involved in community service. </p>
     </div>
 	</li>  
   <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">Day Release Scheme</label>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">Day Release Scheme</label>
     <div>
       <p>The Day Release Scheme (DRS) aims to engage inmates in meaningful and productive work or skills training outside of the prison premises and to guide them towards a gradual reintegration into society. WRS also provides inmates with a chance to contribute to society by being productive, inculcate good work habits and develop a sense of responsibility to support their families. They will serve their remaining sentence at the Selarang Park Complex and commute to work daily.</p>
     </div>
