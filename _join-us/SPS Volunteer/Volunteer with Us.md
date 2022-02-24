@@ -33,7 +33,7 @@ Prison volunteers come in to work with the offenders, in the areas of religious 
     </div>
   </li>
 		<li>
-    <input type="checkbox" id="accordion4">
+    <input type="checkbox" id="accordion3">
     <label for="accordion3">Be a Facilitator of religious, family, or other personal development programmes or services</label>
     <div>
       <ol type="a">
@@ -46,12 +46,13 @@ Prison volunteers come in to work with the offenders, in the areas of religious 
     </div>
   </li>
 	<li>
-    <input type="checkbox" id="accordion2">
+    <input type="checkbox" id="accordion4">
     <label for="accordion4">Be a Yellow Ribbon Community Project (YRCP) volunteer</label>
     <div>
       <p>YRCP is a grassroots-led initiative that provides community support and assistance to families impacted by incarceration through grassroots organisations. As a YRCP volunteer, you will engage and befriend these families and where necessary, link them up with helping agencies in the local community.</p>
     </div>
   </li>
+	</ul>
 
 While the activity may differ, the higher purpose of volunteering is the same, to be the second chances of the offenders, ex-offenders, and their families. 
 
