@@ -13,7 +13,7 @@ All applications will be processed. SPS will contact you to update you on your a
 	ii. Contact us
 
 If you have queries relating to volunteering with SPS, you can email us at 
-<a href="PRIS_Volunteers@pris.gov.sg?subject= ">PRIS_Volunteers@pris.gov.sg</a>
+<a href="PRIS_Volunteers@pris.gov.sg">PRIS_Volunteers@pris.gov.sg</a>
 
 
 ### Frequently Asked Questions
