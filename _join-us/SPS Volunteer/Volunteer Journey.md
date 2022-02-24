@@ -29,3 +29,29 @@ In appreciation of our volunteers’ contribution in offenders’ rehabilitation
 <h5>How long does the process of an application take?</h5>
 <p>The process of an application may take up to three months</p>
 <hr>
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">What is the age limit to join as a SPS Volunteer?</label>
+    <div>
+      <p>To be a volunteer, you will need to be above 21 years old.<img src="/images/Family%20Reintegration.jpg" alt=""></p>
+    </div>
+	</li>  
+  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">What is the minimum commitment level as a volunteer?</label>
+    <div>
+      <p>The minimum commitment level subjects to the Volunteer Welfare Organisation’s (VWO) requirement. For Befrienders, the volunteer will have to commit to engage the inmate of up to 16 months.</p>
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">How long does the process of an application take?</label>
+    <div>
+      <p>
+        The process of an application may take up to three months
+      </p>
+    </div>
+  </li>
+  
