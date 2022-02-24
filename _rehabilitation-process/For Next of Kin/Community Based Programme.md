@@ -4,7 +4,6 @@ permalink: /rehabilitation-process/For-Next-of-Kin/CBP
 description: ""
 third_nav_title: For Next of Kin
 ---
-
 #### **Community Based Programmes**
 ##### What is the Community Based Programme (CBP)?
 CBP promotes the reintegration of eligible and suitable inmates into society with the help of their family members and the community, by emplacing them out into the community towards the tail-end of their incarceration. It provides an opportunity for the inmates to reconnect with their families and be gainfully employed as contributing members of the society. 
@@ -67,6 +66,14 @@ Prior to emplacement for HDS/RS, the Main Visit Cardholder will receive an SMS p
 <br>For emplacement to HWH/WRS/DRS, a notification letter providing details on the scheme and the appointed Reintegration Officer (RO) for the inmate will also be sent to the Next-of-Kin prior to emplacement.
 
 ##### On the Day of Emplacement
+
+| Scheme |What Happens?  | 
+| -------- | -------- | 
+| Home Detention Scheme / Residential Scheme  | Inmates will be transferred to the Selarang Park Community Supervision Centre (CSC) on the day of emplacement. They will undergo a briefing on the supervision conditions by their assigned RO. Arrangement for tagging will also be done prior to their release. All their property will be released to them and they will be issued a standard set of clothing. If you wish to send in clothing, you may make an appointment by calling the visit booking hotline at <u>6546 7169/70/71/72</u>. Due to the ongoing COVID-19 situation, family members are advised not to receive the inmate from CSC. Inmates will be allowed to make a phone call to notify their NOK ahead of their release.| 
+| Halfway House Scheme  | Inmates will be transferred to the allocated Halfway Houses according to their assessed suitability. They will undergo a briefing on their accommodation and employment by their assigned RO. All their property will be released to them and they will be issued a standard set of clothing. If you wish to send in clothing, you may make an appointment by calling the visit booking hotline at <u>6546 7169/70/71/72</u>. Within 2-3 months of adjustments in the scheme with good conduct, the inmate may be given structured home leave and/or time off to return to their residence to connect with their family.| 
+| Work Release Scheme / Day Release Scheme  | IInmates will be transferred to the Work Release Centre at Selarang Park Complex. They will undergo a briefing on their accommodation and employment by their assigned RO. All their property will be released to them and they will be issued a standard set of clothing. If you wish to send in clothing, you may make an appointment by calling the visit booking hotline at <u>6546 7169/70/71/72</u>. Within 2-3 months of adjustments in the scheme with good conduct, the inmate may be given structured home leave and/or time off to return to their residence to connect with their family.| 
+
+
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
