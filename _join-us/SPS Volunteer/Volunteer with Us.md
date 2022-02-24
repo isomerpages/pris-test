@@ -5,7 +5,7 @@ description: ""
 third_nav_title: SPS Volunteer
 ---
 ![Alt text for image on Isomer site](/images/pvac-46.jpg)
-## ROLE OF A PRISON VOLUNTEER
+### ROLE OF A PRISON VOLUNTEER
 **Why do we want to engage volunteers in our Rehabilitation Efforts?**
 
 Prisons recognises that the community including volunteers and non-government organisations have important roles to play in the rehabilitation and re-integration of ex-offenders. Volunteers bring with them their expertise in the various fields, and impart their knowledge to the offenders through the various programmes / activities. Being in the community, the volunteers can also help to link the released offenders back to the community, facilitating the reintegration process.
@@ -16,6 +16,24 @@ Prison volunteers come in to work with the offenders, in the areas of religious 
 
  
 ### AREAS YOU CAN VOLUNTEER IN
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">Be a SPS Befriender</label>
+    <div>
+      <p>Prosocial support is among the key factors that prevent reoffending. You can volunteer to be a SPS Befriender and be a friend to offenders who want to restart their lives among positive peers. As a Befriender, you will support offenders who may be at any phase of their incarceration through letter-writing, phonecalls and visitations. The befriending journey continues into the aftercare as your befriendee prepares to re-enter society with yours and the community’s support.</p>
+    </div>
+	</li>  
+  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Be an Academic Tutor</label>
+    <div>
+      <p>Academic education is one of the rehabilitation programmes available to offenders. Together with full-time teachers from MOE and independent adjunct teachers, as a Volunteer Tutor, you support the offenders’ aspirations towards academic qualifications.</p>
+    </div>
+  </li>
+  <li>
+
 **Religious Programmes and Services**
 
 Volunteers and organisations have an important role to play in the provision of religious-based programmes and in assisting the offender’s integration back into society. Spiritual guidance facilitates in the offender's rehabilitation. It provides the necessary emotional and mental support for offenders to cope with life's experiences. Spiritual support also forms an important aspect of offenders' psychological well-being. It can give them the mental strength to maintain a positive outlook in life. The religious services are provided by volunteers from the following various religious organisations such as FITRAH (En-Naeem Mosque), Prison Fellowship Singapore, Roman Catholic Prison Ministry, Sikh Welfare Council, Singapore Buddhist Federation, and The Hindu Centre.
@@ -41,6 +59,9 @@ We welcome passionate individuals to sign up as a befriender. Volunteers will fo
 Families of offenders and ex-offenders play important roles in their rehabilitation and reintegration process. To many of them, their families have been a major source of motivation for them to change their ways. In addition, families can also provide ex-offenders with the financial and social support that these individuals need, while they pick up their lives after release from prisons. Enhancing support given to families of offenders can reduce re-offending and help prevent intergenerational patterns of incarceration.
 
 The Yellow Ribbon Community Project (YRCP) was introduced to provide community support and assistance to families of offenders through grassroots organisations. This grassroots-led initiative provides support to families of incarcerated persons, help stabilises the families as they cope with the uncertainties arising from the incarceration of the offenders. It also sends a message to the offender that the community is also proactively providing support to his family and that he could focus on his rehabilitation and reintegration.
+
+
+
 
 **For enquiries on volunteering in Prisons, you may contact us at:**
 
