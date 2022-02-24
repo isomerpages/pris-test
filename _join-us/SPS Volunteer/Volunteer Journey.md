@@ -9,8 +9,8 @@ You may volunteer as an individual or under any of the Social Service Agencies (
  
 All applications will be processed. SPS will contact you to update you on your application status. All new volunteers will attend the Prison Volunteer Training as part of your onboarding to become a SPS volunteer. SPS also provides various trainings and developmental courses for volunteers, to equip you with the necessary skills and knowledge to aid in the work with offenders.
  
-	i. FormSG  
-	ii. Contact us
+1. FormSG
+2.Contact us
 
 If you have queries relating to volunteering with SPS, you can email us at 
 <a href="mailto:PRIS_Volunteers@pris.gov.sg">PRIS_Volunteers@pris.gov.sg</a>
