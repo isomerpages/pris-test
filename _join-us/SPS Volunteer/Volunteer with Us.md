@@ -76,4 +76,4 @@ Singapore 507708
 Tel: 6546 9539 <br>
 Fax: 6546 2459
 
-Alternatively, you may email us at <a href="mailto:PRIS_Volunteers@pris.gov.sg">PRIS_Volunteers@pris.gov.sg</a>.<br>
+Alternatively, you may email us at <a href="mailto:PRIS_Volunteers@pris.gov.sg">**PRIS_Volunteers@pris.gov.sg**</a>.<br>
