@@ -302,9 +302,37 @@ third_nav_title: Scholarships
     <div>
       <p>The Singapore Merit Scholarship (SMS) is offered to individuals with excellent academic results and leadership capabilities. Your journey begins with an education at a prestigious local or overseas university before being groomed to take on key positions in Singapore Prison Service, where you will  play an integral role in shaping the future of corrections.
 
-| ELIGIBILITY | VALUE OF AWARD | 
-| -------- | -------- | 
-|&#8226; Singapore Citizen or Singapore Permanent Resident who intends to take up Singapore Citizenship<br>&#8226; Have strong leadership qualities and potential<br>&#8226; Possess strong interest in safeguarding the safety and security of Singapore <br>&#8226; Have good academic and Co-Curricular Activities (CCAs) records<br>&#8226; Have a GCE A-Levels, International Baccalaureate, Polytechnic, NUS High School, or other high school diploma/certificate<br>&#8226; Qualify and excel in Officer Cadet School |&#8226; Tuition fees and other approved charges<br>&#8226; Monthly overseas or local maintenance allowance (including accommodation)<br>&#8226; Pre-studies allowance e.g. settling in, warm clothing, computer<br>&#8226; Return economy class airfare (if studying overseas)<br>&#8226; NS disruption<br>&#8226; Sponsorship of Master’s and exchange programmes (if requirements are met)<br>&#8226; Full salary for the duration of your studies (including bonuses)| 
+<table style="border-collapse: collapse; width: ;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><strong>ELIGIBILITY</strong></td>
+<td style="width: 50%;"><strong>VALUE OF AWARD</strong></td>
+</tr>
+<tr>
+<td style="width: 50%;">
+<ul>
+<li>Singapore Citizen or Singapore Permanent Resident who intends to take up Singapore Citizenship</li>
+<li>Have strong leadership qualities and potential</li>
+<li>Possess strong interest in safeguarding the safety and security of Singapore</li>
+<li>Have good academic and Co-Curricular Activities (CCAs) records</li>
+<li>Have a GCE A-Levels, International Baccalaureate, Polytechnic, NUS High School, or other high school diploma/certificate</li>
+<li>Qualify and excel in Officer Cadet School</li>
+</ul>
+</td>
+<td style="width: 50%;">
+<ul>
+<li>Tuition fees and other approved charges</li>
+<li>Monthly overseas or local maintenance allowance (including accommodation)</li>
+<li>Pre-studies allowance e.g. settling in, warm clothing, computer</li>
+<li>Return economy class airfare (if studying overseas)</li>
+<li>NS disruption</li>
+<li>Sponsorship of Master&rsquo;s and exchange programmes (if requirements are met)</li>
+<li>Full salary for the duration of your studies (including bonuses)</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 
 ##### COUNTRIES AND COURSES OF STUDY
 *Most countries and disciplines (except medicine, dentistry and architecture).*
