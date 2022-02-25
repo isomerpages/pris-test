@@ -4,8 +4,6 @@ permalink: /join-us/scholarships
 description: ""
 third_nav_title: Scholarships
 ---
-
-
 <details class="accordion">
     <summary class="headeraccordion">Singapore Merit Scholarship (Singapore Prison Service)
     </summary>
@@ -294,3 +292,33 @@ third_nav_title: Scholarships
         </div>
     </div>
 </details>
+
+<img src="https://www.sps.gov.sg/images/default-source/career-with-us/scholarship-officer.png?sfvrsn=da2af6d3_2" alt="">
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">Singapore Merit Scholarship (Singapore Prison Service)</label>
+    <div>
+      <p>The Singapore Merit Scholarship (SMS) is offered to individuals with excellent academic results and leadership capabilities. Your journey begins with an education at a prestigious local or overseas university before being groomed to take on key positions in Singapore Prison Service, where you will  play an integral role in shaping the future of corrections.
+
+| ELIGIBILITY | VALUE OF AWARD | 
+| -------- | -------- | 
+|&#8226; Singapore Citizen or Singapore Permanent Resident who intends to take up Singapore Citizenship<br>&#8226; Have strong leadership qualities and potential<br>&#8226; Possess strong interest in safeguarding the safety and security of Singapore <br>&#8226; Have good academic and Co-Curricular Activities (CCAs) records<br>&#8226; Have a GCE A-Levels, International Baccalaureate, Polytechnic, NUS High School, or other high school diploma/certificate<br>&#8226; Qualify and excel in Officer Cadet School |&#8226; Tuition fees and other approved charges<br>&#8226; Monthly overseas or local maintenance allowance (including accommodation)<br>&#8226; Pre-studies allowance e.g. settling in, warm clothing, computer<br>&#8226; Return economy class airfare (if studying overseas)<br>&#8226; NS disruption<br>&#8226; Sponsorship of Master’s and exchange programmes (if requirements are met)<br>&#8226; Full salary for the duration of your studies (including bonuses)| 
+
+##### COUNTRIES AND COURSES OF STUDY
+*Most countries and disciplines (except medicine, dentistry and architecture).*
+* Applicants intending to pursue a degree in Law will not be called to the Bar while serving in the SPS.
+
+##### CONDITION OF AWARD
+Scholarship holders need to fulfil a bond of:
+
+* Have strong leadership qualities and potential
+* 4 years (for local studies)
+* 5 years (for studies in non-English speaking countries)
+* 6 years (for studies in English speaking countries)
+The bond period starts on the day they assume official duty after completing their studies.			
+</p>
+</div>
+	</li>  
+  <li>
