@@ -355,7 +355,7 @@ third_nav_title: Scholarships
 	<li>
 <input id="accordion2" type="checkbox">
 <label for="accordion2">Singapore Government Scholarship (Singapore Prison Service)</label>
-	<p>The Singapore Government Scholarship (SGS) provides highly qualified individuals opportunities to pursue undergraduate studies in top overseas or local universities. Upon graduation, you will embark on an exciting and rewarding career as a Prison Officer to transform lives and influence communities towards a society without re-offending. With a SGS, you will be given opportunities to take on leadership positions in the Singapore Prison Service and shape the future of corrections. Mid-term scholarship is available.</p>
+The Singapore Government Scholarship (SGS) provides highly qualified individuals opportunities to pursue undergraduate studies in top overseas or local universities. Upon graduation, you will embark on an exciting and rewarding career as a Prison Officer to transform lives and influence communities towards a society without re-offending. With a SGS, you will be given opportunities to take on leadership positions in the Singapore Prison Service and shape the future of corrections. Mid-term scholarship is available.
 <table style="border-collapse: collapse; width: 100%; height: 36px;" border="1">
 <tbody>
 <tr style="height: 18px;">
@@ -392,5 +392,5 @@ third_nav_title: Scholarships
 <p>You will also have the opportunity to be placed on the Public Service Leadership Programme (PSLP) where you will acquire specialist knowledge and capabilities to take on key leadership positions in SPS.</p>
 <p><a href="https://www.psc.gov.sg/Scholarships/public-sector-scholarships/browse-by-scholarship/singapore-government-scholarship-MHA">Click here to Apply</a></p>
 <p><em>Note: To apply for a SPS scholarship, please indicate 'Uniformed Services &ndash; SPS&rsquo; as your 1st choice on the PSC application.</em></p>
-	</div>
-  </li>
+</div>
+</li>
