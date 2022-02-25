@@ -300,7 +300,7 @@ third_nav_title: Scholarships
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Singapore Merit Scholarship (Singapore Prison Service)</label>
     <div>
-      <p>The Singapore Merit Scholarship (SMS) is offered to individuals with excellent academic results and leadership capabilities. Your journey begins with an education at a prestigious local or overseas university before being groomed to take on key positions in Singapore Prison Service, where you will  play an integral role in shaping the future of corrections.
+      <p>The Singapore Merit Scholarship (SMS) is offered to individuals with excellent academic results and leadership capabilities. Your journey begins with an education at a prestigious local or overseas university before being groomed to take on key positions in Singapore Prison Service, where you will play an integral role in shaping the future of corrections.
 
 <table style="border-collapse: collapse; width: ;" border="1">
 <tbody>
