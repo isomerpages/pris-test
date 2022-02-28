@@ -4,6 +4,39 @@ permalink: /rehabilitation-process/For-Inmates/Incare
 description: ""
 third_nav_title: For Offenders
 ---
+##### Work Programmes
+SPS partners Yellow Ribbon Singapore (YRSG) to provide opportunities for inmates to undergo work programmes. Across SPS, inmates engage in work programmes in various areas such as the prison kitchens, bakery, laundry facility, logistics workshops, multimedia workshops and call centres. The key objective of the work programmes is to instil good work ethics and discipline in the inmates as most of them may not have held stable jobs before their incarceration. Inmates who are engaged in work programmes are also given an allowance, which they can use to purchase items which include personal grooming items and snacks.
+![](/images/Incare.png)
+Inmates can also remit part of their work allowance to their families, under the Inmates’ Caring Act through Remittance of Earning (iCARE) scheme. The Inmates’ Families Support Fund (IFSF) provides a dollar-to-dollar matching to the families, capped at $400 per year. This scheme provides the opportunity for inmates to continue contributing to their families financially despite their incarceration, while instilling in them a sense of responsibility towards their families.
+
+##### Vocational Skills Training
+SPS’ partnership with YRSG also offers inmates opportunities to attend Skills Training courses. These courses, accredited with the Singapore Workforce Skills Qualification (WSQ), improve the inmates’ employability and increase their chances of securing a job after their release. Each year, about 5,300 inmates undergo Skills Training courses. These training courses cover areas in Precision Engineering, Media [Specialist Diploma in Social Media Marketing and Online Content Creation and WSQ Diploma in Media (Content Management)] and Logistics. In the pipeline are more training courses in food services. Inmates are able to develop their foundational skills and attain job-specific competencies needed to perform job tasks at higher levels.
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+    <img alt="" src="https://raw.githubusercontent.com/isomerpages/pris-test/staging/images/IFSP.jpg">
+    </div>
+    <div class="col">
+      <img alt="" src="https://raw.githubusercontent.com/isomerpages/pris-test/staging/images/ES.png">
+    </div>
+  </div>
+
+##### Education
+Education has been offered in prisons since the 1960s. SPS strongly advocates and recognises that education in prisons is one of the vital elements to reintegrate inmates into society. Today, Prison School runs academic classes at various levels, including General Education pegged at Secondary 1 Normal Academic (NA), GCE NA, Normal Technical (NT), Ordinary (O) and Advanced (A) levels. Each year, about 450 inmates undertake education studies in the Prison School. In 2018, in collaboration with Ngee Ann Polytechnic, Prison School started offering the Diploma in Business Practice (International Supply Chain Management) course to students.
+
+Since July 2020, a self-study and self-funding degree programme has been offered as a progression opportunity for those who have completed their Diploma course in prisons. In partnership with the Singapore University of Social Sciences, the Bachelor of Science in Logistics & Supply Chain Management programme is conducted. Despite being a self-study programme, the students get to meet their lecturers once a week for lessons.
+
+Yellow Ribbon Fund collaborates with Singapore Federation of Chinese Clan Association (SFCCA) to fund GCE ‘A’ level or Diploma students of any race who wish to continue their studies and take up the Bachelor of Science programme in Logistics and Supply Chain Management.
+
+##### Release Preparation Programmes
+SPS prepares inmates to be released for re-integration into the society. The programme aims to equip inmates with useful self-motivation, problem-solving and coping skills to handle the challenges and immediate issues faced upon their release.
+
+##### Personal Development Activities
+SPS keeps inmates meaningfully engaged by providing Personal Development Activities that would complement the regime that they are going through. These activities aim to cultivate or further inmates’ interests in areas such as performing arts and arts and craft.
+
+> old content below
+
 ##### News Beyond Bars, Broadcast Beyond Bars and Radio Beyond Bars
 
 | ![Alt text for image on Isomer site](/images/BBB.jpg) | **BROADCAST BEYOND BARS (BBB)** <BR>BBB will feature important announcements, inspirational quotes and stories for inmates and will inform and provide information readily at a glance.| 
