@@ -21,7 +21,9 @@ SPS’ partnership with YRSG also offers inmates opportunities to attend Skills 
       <img alt="" src="https://raw.githubusercontent.com/isomerpages/pris-test/staging/images/ES.png">
     </div>
   </div>
-
+ </div>
+  </div>
+	
 ##### Education
 Education has been offered in prisons since the 1960s. SPS strongly advocates and recognises that education in prisons is one of the vital elements to reintegrate inmates into society. Today, Prison School runs academic classes at various levels, including General Education pegged at Secondary 1 Normal Academic (NA), GCE NA, Normal Technical (NT), Ordinary (O) and Advanced (A) levels. Each year, about 450 inmates undertake education studies in the Prison School. In 2018, in collaboration with Ngee Ann Polytechnic, Prison School started offering the Diploma in Business Practice (International Supply Chain Management) course to students.
 
