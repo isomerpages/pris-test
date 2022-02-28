@@ -37,6 +37,16 @@ SPS prepares inmates to be released for re-integration into the society. The pro
 ##### Personal Development Activities
 SPS keeps inmates meaningfully engaged by providing Personal Development Activities that would complement the regime that they are going through. These activities aim to cultivate or further inmates’ interests in areas such as performing arts and arts and craft.
 
+##### Programmes for intervention 
+
+
+| Team | About | 
+| -------- | -------- | 
+| General Violence    | HERO (Honour, Empathy, Resilience, Ownership) is an open-group psychology-based correctional programme developed for offenders who have committed violent offences.<br><br>The open group format in HERO is modular based consisting of four core modules and two electives. New participants enter the group at the start of each module and those who have completed all required modules can graduate from the programme. Participants who have demonstrated necessary qualities and indicated their willingness to contribute to the HERO community, remain in the programme as Peer Facilitators.<br><br>HERO is for offenders assessed to be at a higher risk and needs of violent reoffending. Some of the main objectives of the programme are to increase participants’ understanding on how their thoughts, beliefs, emotions, and behaviours are interrelated, and to help participants develop helpful thoughts and beliefs, adaptive emotional regulation skills, prosocial conflict resolution, and effective communication skills. It also aims to help participants develop a non-violent identity that is aligned to their prosocial values and goals, and to assist them with the development of effective and feasible risk management strategies. Those with more entrenched violent beliefs or present with risk of violence toward their family members will also attend elective modules to address these additional needs. |
+|Sexual Violence|ExCEL+ is for sexual offenders assessed to be at a higher risk and needs of sexual reoffending. It was developed in consultation with Dr. Liam Marshall, both a practitioner and researcher who is a leading Subject-Matter-Expert in sexual offender intervention. Some of the intervention targets for the ExCEL+ programme include addressing issues related to self-esteem, shame and guilt, increasing insight into unhealthy sexual behaviours, developing healthy emotional and sexual self-regulation skills, addressing cognitive distortions that support sexual offending, and improving interpersonal and relational skills. At the end of the programme, offenders are also guided to develop individualised risk management strategies to mitigate their risks of sexual re-offending and achieve pro-social goals as part of their reintegration. | 
+
+
+
 > old content below
 
 ##### News Beyond Bars, Broadcast Beyond Bars and Radio Beyond Bars
