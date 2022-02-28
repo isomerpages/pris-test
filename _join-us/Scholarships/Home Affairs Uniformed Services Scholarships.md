@@ -354,8 +354,9 @@ third_nav_title: Scholarships
   </ul>
 <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Singapore Government Scholarship (SGS)</label>
-    <div>The Singapore Government Scholarship (SGS) provides highly qualified individuals opportunities to pursue undergraduate studies in top overseas or local universities. Upon graduation, you will embark on an exciting and rewarding career as a Prison Officer to transform lives and influence communities towards a society without re-offending. With a SGS, you will be given opportunities to take on leadership positions in the Singapore Prison Service and shape the future of corrections. Mid-term scholarship is available.
+    <label for="accordion2">Multi-line Block</label>
+    <div>
+			The Singapore Government Scholarship (SGS) provides highly qualified individuals opportunities to pursue undergraduate studies in top overseas or local universities. Upon graduation, you will embark on an exciting and rewarding career as a Prison Officer to transform lives and influence communities towards a society without re-offending. With a SGS, you will be given opportunities to take on leadership positions in the Singapore Prison Service and shape the future of corrections. Mid-term scholarship is available.
 <table style="border-collapse: collapse; width: 100%; height: 36px;" border="1">
 <tbody>
 <tr style="height: 18px;">
