@@ -133,7 +133,7 @@ description: ""
   </li>
 	<li>
   <input type="checkbox" id="accordion8">
-    <label for="accordion8">2012</label>
+   <label for="accordion8">2012</label>
     <div>
       <ul>
         <li>ISO 9001:2008 (Provision of Tactical Training Services)</li>
