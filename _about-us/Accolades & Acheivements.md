@@ -109,7 +109,6 @@ description: ""
       </ul>
     </div>
   </li>
-</ul>
 <li>
     <input type="checkbox" id="accordion6">
     <label for="accordion6">2014</label>
@@ -121,7 +120,6 @@ description: ""
       </ul>
     </div>
   </li>
-</ul>
 <li>
     <input type="checkbox" id="accordion7">
     <label for="accordion7">2013</label>
@@ -133,7 +131,6 @@ description: ""
       </ul>
     </div>
   </li>
-</ul>
   <input type="checkbox" id="accordion8">
     <label for="accordion8">2012</label>
     <div>
