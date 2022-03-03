@@ -101,7 +101,50 @@ third_nav_title: Scholarships
     <input type="checkbox" id="accordion5">
     <label for="accordion5">MHA Mid-Term Scholarship</label>
     <div>
-			<p>If you are a current undergraduate with excellent results and an interest in SPS’ mission, you may  consider applying for a mid-term scholarship. <br><br>Tuition and compulsory fees you incurred before the award will be back-paid.</p>
+			<p><span style="background-color:transparent;color:inherit;text-align:inherit;text-transform:inherit;white-space:inherit;word-spacing:normal;caret-color:auto;font-size:inherit;font-weight:400;"></span><span style="background-color:transparent;color:inherit;text-align:inherit;text-transform:inherit;white-space:inherit;word-spacing:normal;caret-color:auto;font-size:inherit;font-weight:400;">Tuition and compulsory fees you incurred before the award will be back-paid.</span></p>
+    </div>
+    <div class="body">
+        <table>
+            <tbody>
+                <tr style="height:50%;">
+                    <td style="width:50%;">
+                        <h3>ELIGIBILITY</h3>
+                    </td>
+                    <td style="width:50%;">
+                        <h3>VALUE OF AWARD</h3>
+                    </td>
+                </tr>
+                <tr style="height:50%;">
+                    <td style="width:50%;">
+                        <ul>
+                            <li>Be pursuing full-time undergraduate studies</li>
+                            <li>Be on track for graduation with at least 2nd Upper Honours or equivalent</li>
+                            <li>Have completed at least 1 semester and not be in the final year of undergraduate study</li>
+                        </ul>
+                    </td>
+                    <td style="width:50%;">
+                        <ul>
+                            <li>Tuition fees and other approved charges (Tuition fees and compulsory fees incurred before the award will be back-paid)</li>
+                            <li>Monthly overseas or local maintenance allowance</li>
+                            <li>Return economy class airfare (if studying overseas)</li>
+                            <li>Sponsorship of Master’s and exchange programmes (if requirements are met)</li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div>
+            <div>The scholarships below are available as mid-term scholarships. To find out about eligibility and&nbsp;<span style="background-color:transparent;color:inherit;text-align:inherit;text-transform:inherit;white-space:inherit;word-spacing:normal;caret-color:auto;font-size:inherit;font-weight:400;">terms, visit the individual scholarship pages.</span></div>
+            <ul>
+                <li>Singapore Government Scholarship (Singapore Prison Service)<br></li>
+                <li>Local Merit Scholarship (Singapore Prison Service)<br></li>
+                <li>Home Team Local Study Award (Singapore Prison Service)</li>
+            </ul>
+            <p>To apply for the scholarship, please visit the PSC scholarship portal.</p>
+            <p><a href="https://www.mha.gov.sg/careers/scholarships/mha-mid-term-scholarship" data-sf-ec-immutable=""><strong>Click here to apply</strong></a></p>
+            <p><em>Note: To apply for a SPS scholarship, please indicate 'Uniformed Services – SPS’ as your 1st choice on the PSC application.</em></p>
+        </div>
+    </div></p>
     </div>
   </li>
 </ul>
