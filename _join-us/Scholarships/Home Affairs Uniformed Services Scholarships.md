@@ -11,7 +11,30 @@ third_nav_title: Scholarships
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Singapore Merit Scholarship (Singapore Prison Service)</label>
     <div>
-      <p>The Singapore Merit Scholarship (SMS) is offered to individuals with excellent academic results and leadership capabilities. Your journey begins with an education at a prestigious local or overseas university before being groomed to take on key positions in Singapore Prison Service, where you will  play an integral role in shaping the future of corrections.</p>
+      <p>The Singapore Merit Scholarship (SMS) is offered to individuals with excellent academic results and leadership capabilities. Your journey begins with an education at a prestigious local or overseas university before being groomed to take on key positions in Singapore Prison Service, where you will  play an integral role in shaping the future of corrections.
+			
+##### COUNTRIES AND COURSES OF STUDY
+Most countries and disciplines (except medicine, dentistry and architecture).
+<br>*Applicants intending to pursue a degree in Law will not be called to the Bar while serving in the SPS.*
+
+##### CONDITION OF AWARD
+Scholarship holders need to fulfil a bond of:
+
+* Have strong leadership qualities and potential
+* 4 years (for local studies)
+* 5 years (for studies in non-English speaking countries)
+* 6 years (for studies in English speaking countries)
+* The bond period starts on the day they assume official duty after completing their studies.
+
+##### YOUR LEADERSHIP JOURNEY
+You will be exposed to various areas of work through regular postings to develop staff and command competencies.
+
+You will also have the opportunity to be placed on the Public Service Leadership Programme (PSLP) where you will acquire specialist knowledge and capabilities to take on key leadership positions in SPS.
+
+[Click here to Apply](https://www.psc.gov.sg/Scholarships/public-sector-scholarships/browse-by-scholarship/singapore-merit-scholarship-MHA)
+
+*Note: To apply for a SPS scholarship, please indicate 'Uniformed Services – SPS’ as your 1st choice on the PSC application.*
+			</p>
     </div>
 	</li>  
   <li>
