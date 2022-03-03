@@ -18,9 +18,7 @@ third_nav_title: Scholarships
     <input type="checkbox" id="accordion2">
     <label for="accordion2">Singapore Government Scholarship (Singapore Prison Service)</label>
     <div>
-      <p>This is line 1</p>
-      <p>This is line 2<br>
-        This is line 3</p>
+      <p>The Singapore Government Scholarship (SGS) provides highly qualified individuals opportunities to pursue undergraduate studies in top overseas or local universities. Upon graduation, you will embark on an exciting and rewarding career as a Prison Officer to transform lives and influence communities towards a society without re-offending. With a SGS, you will be given opportunities to take on leadership positions in the Singapore Prison Service and shape the future of corrections. Mid-term scholarship is available.</p>
     </div>
   </li>
   <li>
@@ -28,20 +26,14 @@ third_nav_title: Scholarships
     <label for="accordion3">Local Merit Scholarship (Singapore Prison Service</label>
     <div>
       <p>
-        This is all going
-        to become just one line\n even though there are multiple lines
-      </p>
+        The Local Merit Scholarship (LMS) provides highly qualified and promising individuals with an undergraduate education at a local university. Upon graduation, you will embark on an exciting and rewarding career as a Prison Officer to transform lives and influence communities towards a society without re-offending. With a LMS, you will be given opportunities to take on leadership positions in the Singapore Prison Service and shape the future of corrections. Mid-term scholarship is available.</p>
     </div>
   </li>
   <li>
     <input type="checkbox" id="accordion4">
     <label for="accordion4">Home Team Local Study Award (Singapore Prison Service)</label>
     <div>
-      <ol>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
-      </ol>
+			<p>The Home Team Local Study Award (HTLSA) enables you to pursue a meaningful and rewarding career with the Singapore Prison Service. Upon completion of your undergraduate education at a reputable local university, you will be appointed as Prison Officer in the Singapore Prison Service to transform lives and influence communities towards a society without re-offending.</p>
     </div>
   </li>
     
@@ -49,11 +41,7 @@ third_nav_title: Scholarships
     <input type="checkbox" id="accordion5">
     <label for="accordion5">MHA Mid-Term Scholarship</label>
     <div>
-      <ul>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
-      </ul>
+			<p>If you are a current undergraduate with excellent results and an interest in SPS’ mission, you may  consider applying for a mid-term scholarship. <br><br>Tuition and compulsory fees you incurred before the award will be back-paid.</p>
     </div>
   </li>
 </ul>
