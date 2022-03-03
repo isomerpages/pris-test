@@ -9,14 +9,14 @@ third_nav_title: Scholarships
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">Simple</label>
+    <label for="accordion1">Singapore Merit Scholarship (Singapore Prison Service)</label>
     <div>
       <p>This is a simple one line item <img src="/images/Family%20Reintegration.jpg" alt=""></p>
     </div>
 	</li>  
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Multi-line Block</label>
+    <label for="accordion2">Singapore Government Scholarship (Singapore Prison Service)</label>
     <div>
       <p>This is line 1</p>
       <p>This is line 2<br>
@@ -25,7 +25,7 @@ third_nav_title: Scholarships
   </li>
   <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">Multi-line Folded</label>
+    <label for="accordion3">Local Merit Scholarship (Singapore Prison Service</label>
     <div>
       <p>
         This is all going
@@ -35,7 +35,7 @@ third_nav_title: Scholarships
   </li>
   <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">Ordered List</label>
+    <label for="accordion4">Home Team Local Study Award (Singapore Prison Service)</label>
     <div>
       <ol>
         <li>Item 1</li>
@@ -47,7 +47,7 @@ third_nav_title: Scholarships
     
   <li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5">Unordered List</label>
+    <label for="accordion5">MHA Mid-Term Scholarship</label>
     <div>
       <ul>
         <li>Item 1</li>
