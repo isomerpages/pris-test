@@ -145,7 +145,6 @@ third_nav_title: Scholarships
             <p><a href="https://www.mha.gov.sg/careers/scholarships/mha-mid-term-scholarship" data-sf-ec-immutable=""><strong>Click here to apply</strong></a></p>
             <p><em>Note: To apply for a SPS scholarship, please indicate 'Uniformed Services – SPS’ as your 1st choice on the PSC application.</em></p>
         </div>
-    </div></p>
     </div>
   </li>
 </ul>
