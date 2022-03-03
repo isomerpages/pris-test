@@ -108,10 +108,10 @@ third_nav_title: Scholarships
             <tbody>
                 <tr style="height:50%;">
                     <td style="width:50%;">
-                        <h3>ELIGIBILITY</h3>
+                        <h5>ELIGIBILITY</h5>
                     </td>
                     <td style="width:50%;">
-                        <h3>VALUE OF AWARD</h3>
+                        <h5>VALUE OF AWARD</h5>
                     </td>
                 </tr>
                 <tr style="height:50%;">
