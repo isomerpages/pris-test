@@ -18,7 +18,7 @@ As a COL, you can look forward to a fulfilling and diverse range of career oppor
 ##### **Career Route Map (For Prison Officers)**
 Explore the different career paths as a Captains of Lives:
 
-**Reintegration Officer **
+<strong>Reintegration Officer </strong>
 <br>Work with a team of ROs to oversee supervisees who are undergoing the Community-Based Programme (CBP) at various community facilities.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1dgPfxSh5Dc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
