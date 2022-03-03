@@ -11,11 +11,7 @@ third_nav_title: Scholarships
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Singapore Merit Scholarship (Singapore Prison Service)</label>
     <div>
-      <p>The Singapore Merit Scholarship (SMS) is offered to individuals with excellent academic results and leadership capabilities. Your journey begins with an education at a prestigious local or overseas university before being groomed to take on key positions in Singapore Prison Service, where you will  play an integral role in shaping the future of corrections.
-			
-##### COUNTRIES AND COURSES OF STUDY
-Most countries and disciplines (except medicine, dentistry and architecture).
-<br>*Applicants intending to pursue a degree in Law will not be called to the Bar while serving in the SPS.*
+      <p>The Singapore Merit Scholarship (SMS) is offered to individuals with excellent academic results and leadership capabilities. Your journey begins with an education at a prestigious local or overseas university before being groomed to take on key positions in Singapore Prison Service, where you will  play an integral role in shaping the future of corrections.<br><br>##### COUNTRIES AND COURSES OF STUDY<br>Most countries and disciplines (except medicine, dentistry and architecture).<br>*Applicants intending to pursue a degree in Law will not be called to the Bar while serving in the SPS.*
 
 ##### CONDITION OF AWARD
 Scholarship holders need to fulfil a bond of:
