@@ -33,3 +33,31 @@ Explore the different career paths as a Captains of Lives:
 **SPEAR Officer**
 <br>A select group of highly trained officers within SPS equipped to handle a range of high-risk situations.  
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/HnyTLHCYBo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<table style="width: 100%; border-collapse: collapse;" border="0">
+<tbody>
+<tr>
+<td style="width: 37.6274%;">Job Role</td>
+<td style="width: 62.3726%;"><strong>Description</strong></td>
+</tr>
+<tr>
+<td style="width: 37.6274%;">Reintegration Officer</td>
+<td style="width: 62.3726%;">Work with a team of ROs to oversee supervisees who are undergoing the Community-Based Programme (CBP) at various community facilities. <iframe title="YouTube video player" src="https://www.youtube.com/embed/1dgPfxSh5Dc" width="100%" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></td>
+</tr>
+<tr>
+<td style="width: 37.6274%;">Housing Unit Officer</td>
+<td style="width: 62.3726%;">
+<p>Engage inmates and support them on their rehabilitation journey on a daily basis, overseeing their progress and participation in various rehabilitation programmes and counselling.</p>
+<p><iframe title="YouTube video player" src="https://www.youtube.com/embed/12TDAdBmDGY" width="100%" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+</td>
+</tr>
+<tr>
+<td style="width: 37.6274%;">Psychologist</td>
+<td style="width: 62.3726%;">Rehabilitating offenders through group therapy sessions. <iframe title="YouTube video player" src="https://www.youtube.com/embed/_4uk1APv0zc" width="100%" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></td>
+</tr>
+<tr>
+<td style="width: 37.6274%;">SPEAR Officer</td>
+<td style="width: 62.3726%;">A select group of highly trained officers within SPS equipped to handle a range of high-risk situations. <iframe title="YouTube video player" src="https://www.youtube.com/embed/HnyTLHCYBo0" width="100%" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></td>
+</tr>
+</tbody>
+</table>
