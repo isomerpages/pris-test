@@ -85,24 +85,60 @@ description: ""
   </li>
   <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">Ordered List</label>
+    <label for="accordion4">2016</label>
     <div>
       <ul>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
+        <li>Home Team Training Excellence (HT TraX) Award<br>– 1 x Individual (Merit) Awards</li>
+        <li>Accreditation as Approved Training Organisation (ATO) conduct of in-house leadership modules under the Leadership & People Management-Workforce Skills Qualification (LPM-WSQ) framework</li>
+        <li>BCA Green Mark GoldPlus Award - Prison Link Centre (Changi)</li>
+				<li>Public Service Premier Award</li>
+      </ul>
+    </div>
+  </li>  
+  <li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">2015</label>
+    <div>
+      <ul>
+        <li>BCA Green Mark Award (Gold, Green Mark for District version 2.0) - CPC</li>
+        <li>TÜV SÜD PSB Pte Ltd’s SS577:2012 Water Efficiency Management System Certified – CPC</li>
+        <li>TÜV SÜD PSB Pte Ltd’s GCIO ISO9001:2008 QMS Surveillance Audit 2015 – SPS – Pass</li>
+				<li>PUB’s Friends of Water – SPS</li>
+        <li>SPH iink Awards (Silver) – Recruitment Branch</li>
+        <li>PUB’s Water Efficient Building (Gold) Award for TMP and CWP</li>
       </ul>
     </div>
   </li>
-    
-  <li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">Unordered List</label>
+</ul>
+<li>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6">2014</label>
     <div>
       <ul>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
+        <li>FutureGov Award 2014 for Community Care category for Prison Case Management System (PCMS)</li>
+        <li>CIO 100 Honouree 2014 (Automated Communication via Cloud-Based Short Message Service)</li>
+        <li>Aon Hewitt’s Best Employers Award</li>
+      </ul>
+    </div>
+  </li>
+</ul>
+<li>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion7">2013</label>
+    <div>
+      <ul>
+        <li>FutureGov Award 2013 for Service Innovation category for Prison Medical System (PrisMS)</li>
+        <li>CIO 100 Honouree 2013 (Complex Access Management System)</li>
+        <li>Aon Hewitt’s Best Employers Award</li>
+      </ul>
+    </div>
+  </li>
+</ul>
+  <input type="checkbox" id="accordion8">
+    <label for="accordion8">2012</label>
+    <div>
+      <ul>
+        <li>ISO 9001:2008 (Provision of Tactical Training Services)</li>
       </ul>
     </div>
   </li>
