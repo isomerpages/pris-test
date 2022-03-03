@@ -32,4 +32,4 @@ Explore the different career paths as a Captains of Lives:
 
 **SPEAR Officer**
 <br>A select group of highly trained officers within SPS equipped to handle a range of high-risk situations.  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HnyTLHCYBo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HnyTLHCYBo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
