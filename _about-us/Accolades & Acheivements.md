@@ -41,3 +41,69 @@ description: ""
 | |CIO 100 Honouree 2013 (Complex Access Management System) |
 | |Aon Hewitt’s Best Employers Award |
 |2012|ISO 9001:2008 (Provision of Tactical Training Services) |
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">2019</label>
+    <div>
+      <ul>
+        <li>SHARE Platinum Award</li>
+        <li>Singapore Quality Award with Special Commendation 2019</li>
+        <li>Singapore HEALTH (Helping Employees Achieve Life-time Health) Award (Excellence) 2019</li>
+				<li>Occupational Health and Safety Assessment Series 18001 (OHSAS 18001) re-certification by Singapore Prison Training Institute (SPTI)</li>
+				<li>Home Team Training Excellence (HT TraX) Award:<br>- 1 x Individual (Special Commendation)<br>- 1 x Team (Special Commendation)</li>
+      </ul>
+    </div>
+	</li>  
+  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">2018</label>
+    <div>
+      <ul>
+        <li>Home Team Achievement Awards - STRAT D</li>
+        <li>Occupational Health and Safety Assessment Series 18001 (OHSAS 18001) certification by SPTI; along with the local equivalent of SS506: Part 1</li>
+        <li>BCA Green Mark GoldPlus Award - Tanah Merah Cluster</li>
+				<li>AON Best Employer Award</li>
+				<li>Home Team Training Excellence (HT TraX) Award:<br>- 1 x Individual (Merit)<br>- 1 x Team (Merit)</li>
+      </ul>
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">2017</label>
+    <div>
+      <ul>
+        <li>HOME TEAM SCIENCE & TECHNOLOGY EXCELLENCE AWARDS 2017 – Team Award (Ops-Tech / Engineering) for “Screening Tool: Risk Allocation Technique – Re-imprisonment and Security Screening”</li>
+        <li>ICPA 2017 Correctional Excellence Awards - Enhanced Supervision Scheme</li>
+        <li>SHARE Gold, Silver and Bronze Awards (Community Chest Awards 2017)</li>
+				<li>Occupational Health and Safety Assessment Series 18001 (OHSAS 18001) certification by PSTS; along with the local equivalent of SS506 : Part 1, under the scope of “Provision of Training in Prison Staff Training School (PSTS)”</li>
+        <li>PUB Watermark Award</li>
+        <li>	Home Team Training Excellence (HT TraX) Award:<br>- 1 x Individual (Merit) Awards<br>- 1 x Team (Merit) Awards</li>
+      </ul>
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">Ordered List</label>
+    <div>
+      <ul>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+      </ul>
+    </div>
+  </li>
+    
+  <li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">Unordered List</label>
+    <div>
+      <ul>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+      </ul>
+    </div>
+  </li>
+</ul>
