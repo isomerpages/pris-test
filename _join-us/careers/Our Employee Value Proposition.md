@@ -20,7 +20,7 @@ Explore the different career paths as a Captains of Lives:
 
 <strong>Reintegration Officer </strong>
 <br>Work with a team of ROs to oversee supervisees who are undergoing the Community-Based Programme (CBP) at various community facilities.
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/1dgPfxSh5Dc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/1dgPfxSh5Dc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Housing Unit Officer**
 <br>Engage inmates and support them on their rehabilitation journey on a daily basis, overseeing their progress and participation in various rehabilitation programmes and counselling. 
