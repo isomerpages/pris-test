@@ -2,7 +2,7 @@ collections:
   corrections-process:
     output: true
     order:
-      - About Rehabilitation.md
+      - About Corrections.md
       - For Offenders/.keep
       - For Offenders/First Timer.md
       - For Offenders/Incare.md
