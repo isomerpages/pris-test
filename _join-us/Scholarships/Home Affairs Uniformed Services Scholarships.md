@@ -101,7 +101,8 @@ third_nav_title: Scholarships
     <input type="checkbox" id="accordion5">
     <label for="accordion5">MHA Mid-Term Scholarship</label>
     <div>
-			<p><span style="background-color:transparent;color:inherit;text-align:inherit;text-transform:inherit;white-space:inherit;word-spacing:normal;caret-color:auto;font-size:inherit;font-weight:400;"></span><span style="background-color:transparent;color:inherit;text-align:inherit;text-transform:inherit;white-space:inherit;word-spacing:normal;caret-color:auto;font-size:inherit;font-weight:400;">Tuition and compulsory fees you incurred before the award will be back-paid.</span></p>
+			<p><p><span style="background-color:transparent;color:inherit;font-family:inherit;font-size:inherit;text-align:inherit;text-transform:inherit;white-space:inherit;word-spacing:normal;caret-color:auto;font-weight:400;">If you are a current undergraduate with excellent results and an interest in SPS’ mission, you may&nbsp;</span><span style="background-color:transparent;color:inherit;font-family:inherit;font-size:inherit;text-align:inherit;text-transform:inherit;white-space:inherit;word-spacing:normal;caret-color:auto;font-weight:400;">consider applying for a mid-term scholarship.&nbsp;</span>
+    </p><span style="background-color:transparent;color:inherit;text-align:inherit;text-transform:inherit;white-space:inherit;word-spacing:normal;caret-color:auto;font-size:inherit;font-weight:400;"></span><span style="background-color:transparent;color:inherit;text-align:inherit;text-transform:inherit;white-space:inherit;word-spacing:normal;caret-color:auto;font-size:inherit;font-weight:400;">Tuition and compulsory fees you incurred before the award will be back-paid.</span></p>
     </div>
     <div class="body">
         <table>
