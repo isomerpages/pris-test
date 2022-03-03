@@ -1,5 +1,5 @@
 collections:
-  rehabilitation-process:
+  corrections-process:
     output: true
     order:
       - About Rehabilitation.md
