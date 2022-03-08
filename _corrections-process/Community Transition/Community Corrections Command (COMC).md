@@ -14,7 +14,5 @@ The Community Corrections Command (COMC) was formed in August 2014 as an operati
 Reintegration Officers are uniformed staff that supervise offenders in the community, by ensuring compliance to supervision conditions. They also work closely with the community partners and provide case management to the offenders and ex-offenders under their charge. Offenders will be assigned to Reintegration Officers when they are serving CBP or undergoing MAS in the community.
 
 #### Correctional Rehabilitation Specialists 
-
+![](/images/stock-photos/75A_1109.jpg)
 Civilian staff, who are Correctional Rehabilitation Specialists, provide case management services to offenders in the community. Case management services include assessments, counselling, advocacy, mediation, and making referrals.
-
-[Insert Picture]
