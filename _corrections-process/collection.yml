@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - About Corrections.md
+      - Programmes/Rehabilitation Programmes.md
       - Programmes/.keep
       - Community Resources.md
       - Community Transition/.keep
