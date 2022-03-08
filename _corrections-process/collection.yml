@@ -2,10 +2,11 @@ collections:
   corrections-process:
     output: true
     order:
-      - Community Transition/.keep
-      - Community Resources.md
-      - Programmes/.keep
       - About Corrections.md
+      - Programmes/.keep
+      - Community Resources.md
+      - Community Transition/.keep
+      - Correctional Research Application.md
       - For Offenders/.keep
       - For Offenders/First Timer.md
       - For Offenders/Incare.md
@@ -17,4 +18,3 @@ collections:
       - For Next of Kin/Halfway Care.md
       - For Next of Kin/Aftercare.md
       - For Next of Kin/Community Resources.md
-      - Correctional Research Application.md
