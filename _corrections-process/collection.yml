@@ -2,6 +2,7 @@ collections:
   corrections-process:
     output: true
     order:
+      - Community Transition/.keep
       - Community Resources.md
       - Programmes/.keep
       - About Corrections.md
