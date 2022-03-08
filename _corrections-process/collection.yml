@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - About Corrections.md
-      - Programmes/Education.md
-      - Programmes/Work.md
-      - Programmes/Rehabilitation Programmes.md
       - Programmes/.keep
+      - Programmes/Rehabilitation Programmes.md
+      - Programmes/Work.md
+      - Programmes/Education.md
       - Community Resources.md
       - Community Transition/.keep
       - Correctional Research Application.md
