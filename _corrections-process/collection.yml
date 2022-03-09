@@ -2,6 +2,7 @@ collections:
   corrections-process:
     output: true
     order:
+      - Prison Regime (Pending)/Admissions.md
       - About Corrections.md
       - Prison Regime (Pending) /.keep
       - Programmes/.keep
