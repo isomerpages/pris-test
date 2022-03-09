@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - About Corrections.md
+      - Prison Regime (Pending) /Admissions.md
       - Prison Regime (Pending) /.keep
       - Programmes/.keep
       - Programmes/Rehabilitation Programmes.md
