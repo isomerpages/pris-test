@@ -16,9 +16,9 @@ sections:
         - title: Connect with my loved one
           description: ""
           url: /visit-matters/visit-announcements
-        - title: Learn about Rehabilitation
+        - title: Corrections Process
           description: ""
-          url: /rehabilitation-process-menu
+          url: /about-corrections
         - title: Join / Partner SPS
           description: ""
           url: /careers
