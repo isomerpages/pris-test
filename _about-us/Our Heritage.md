@@ -16,7 +16,7 @@ description: ""
 </tr>
 <tr>
 <td style="width: 27.2728%;">1953</td>
-<td style="width: 72.7272%;"><img src="https://www.sps.gov.sg/images/default-source/module/timeline-sps75/major-w-l-p-sochon-2nd-commissioner-of-prisons.jpeg" alt="" /><br /><strong>**
+<td style="width: 72.7272%;"><img src="https://www.sps.gov.sg/images/default-source/module/timeline-sps75/major-w-l-p-sochon-2nd-commissioner-of-prisons.jpeg" alt="" /><figcaption>Source: Ministry of Information and the Arts Council, courtesy of National Archives of Singapore</figcaption><br /><strong>**
 Major W.L.P. Sochon, Second Commissioner of Prisons**</strong><br />W.L.P. Sochon took over as the second Commissioner of Prisons. He was supportive of the idea of a 'prison without bars' which relied on companies and the public doing their part to accept inmates into society. The photo shows Major W.L.P Sochon holding a press conference cum tour of the new experimental opium rehabilitation centre on St John's Island.</td>
 </tr>
 <tr>
