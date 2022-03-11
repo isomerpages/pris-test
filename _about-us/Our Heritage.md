@@ -6,8 +6,7 @@ description: ""
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">1946-1963<br>
-Prisons Pre-Independence</label>
+    <label for="accordion1">**1946-1963**: Prisons Pre-Independence</label>
     <div>
 <table style="width: 100%; border-collapse: collapse; border-style: hidden;" border="1">
 <tbody>
