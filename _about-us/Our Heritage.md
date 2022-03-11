@@ -9,7 +9,7 @@ description: ""
     <label for="accordion1">1946-1963<br>
 Prisons Pre-Independence</label>
     <div>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="width: 100%; border-collapse: collapse; border-style: hidden;" border="1">
 <tbody>
 <tr>
 <td style="width: 27.2728%;">1946</td>
