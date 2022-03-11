@@ -61,9 +61,25 @@ Major W.L.P. Sochon, Second Commissioner of Prisons</strong><br />W.L.P. Sochon 
     <input type="checkbox" id="accordion2">
     <label for="accordion2">Multi-line Block</label>
     <div>
-      <p>This is line 1</p>
-      <p>This is line 2<br>
-        This is line 3</p>
+      <table style="border-collapse: collapse; width: 100%; height: 54px;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px;">1946</td>
+<td style="width: 33.3333%; height: 18px;"><img src="https://www.sps.gov.sg/images/default-source/module/timeline-sps75/g-e-w-w-bayly-1st-commissioner-of-prisons.png" alt="" /></td>
+<td style="width: 33.3333%; height: 18px;"><strong>G. E. W. W. Bayly, First Commissioner of Prisons</strong><br />When the British Military Administration was replaced by a civil government, Singapore became a Crown Colony and the Prisons Department (now known as Singapore Prison Service) was instituted as a government agency. G. E. W. W. Bayly became the first Commissioner of Prisons after the Second World War. The photo shows the first logo of then Prisons Department. The insignia reflects Prisons Department as an agency in the Straits settlement under the purview of the Crown Colony.</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px;">&nbsp;</td>
+<td style="width: 33.3333%; height: 18px;">&nbsp;</td>
+<td style="width: 33.3333%; height: 18px;">&nbsp;</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px;">&nbsp;</td>
+<td style="width: 33.3333%; height: 18px;">&nbsp;</td>
+<td style="width: 33.3333%; height: 18px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
     </div>
   </li>
   <li>
