@@ -61,7 +61,7 @@ Major W.L.P. Sochon, Second Commissioner of Prisons</strong><br />W.L.P. Sochon 
     <input type="checkbox" id="accordion2">
     <label for="accordion2">Multi-line Block</label>
     <div>
-      <table style="border-collapse: collapse; width: 100%; height: 54px;" border="1">
+      <table style="width: 100%; border-collapse: collapse; border-style: hidden;" border="1">
 <tbody>
 <tr style="height: 18px;">
 <td style="width: 33.3333%; height: 18px;">1946</td>
