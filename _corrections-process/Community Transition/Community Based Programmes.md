@@ -4,38 +4,42 @@ permalink: /corrections-process/Community-Transition/CBP
 description: ""
 third_nav_title: Community Transition
 ---
-#### **Community Based Programmes**
-##### What is the Community Based Programme (CBP)?
-CBP promotes the reintegration of eligible and suitable inmates into society with the help of their family members and the community, by emplacing them out into the community towards the tail-end of their incarceration. It provides an opportunity for the inmates to reconnect with their families and be gainfully employed as contributing members of the society. 
+<strong><u>What is the Community Based Programme (CBP)?</u></strong><br>
+Community-Based Programme (CBP) promotes the reintegration of amenable inmates into society with the help of their family members and the community, by emplacing them out into the community towards the tail-end of their sentence. It provides an opportunity for the inmates to gradually reintegrate in the community by building up their capacity to reconnect with their families and be gainfully employed as contributing members of the society.
 
-##### Is my loved one suitable for CBP?
+![](/images/Rehabilitation/CBP%20Infographic.png)
 
-**Penal inmates:** All penal inmates will be screened and assessed for their eligibility and suitability. There is no need to submit an application for CBP as those who qualify for it will automatically be considered. Eligible inmates will only be assessed for CBP after they have served half their sentence in prison. Some inmates are legally excluded from CBP consideration due to the type of offence committed. Eligible inmates assessed to be suitable for CBP may be emplaced for a maximum period of 12 months prior to their release. This allows the Institution Assessment Panel to make a holistic assessment on the inmate’s suitability for CBP, taking into consideration the inmate’s latest rehabilitation progress, general conduct, and reintegration plan.
+<strong><u>Is my loved one suitable for CBP?</u></strong><br>
+**Penal inmates:** All penal inmates will be screened and assessed for their eligibility and suitability. Eligible inmates will only be assessed for CBP after they have served half their sentence in prison. Some inmates are legally excluded from CBP consideration due to the type of offence committed. Eligible inmates assessed to be suitable for CBP may be emplaced for a maximum period of 12 months prior to their release.
 
 **Drug Rehabilitation Centre (DRC) inmates:** For inmates detained at the DRC, CBP is part of their Drug Rehabilitation Regime. Hence, they will be emplaced on a suitable CBP scheme upon completion of their in-care rehabilitation regime, subject to their progress and conduct during their rehabilitation programme. 
 
-##### What are the various types of CBP available?
+*There is no need to apply for CBP as those who qualify for it will automatically be considered.*
+
+**What are the various types of CBP available?**
+
+![](/images/Rehabilitation/Types%20of%20CBP.png)
 The following provides a brief description of the CBP schemes available for <Strong><u>Penal Inmates</u></Strong>:
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">Home Detention Scheme </label>
+    <label for="accordion1">Home Detention Scheme</label>
     <div>
-      <p>The Home Detention Scheme (HDS) aims to promote reintegration of inmates into society with the help of their family members and community. Suitable inmates will serve their remaining sentences at their residences under specified conditions, which include curfew monitoring, urine testing and counselling. They could either be working, studying, or be involved in community service. </p>
+      <p>The Home Detention Scheme (HDS) aims to promote reintegration of inmates into society with the help of their family members and community. Suitable inmates will serve their remaining sentences at their residences under specified conditions, which include curfew monitoring, urine testing and counselling. They could either be working, studying, or be involved in community service.</p>
     </div>
 	</li>  
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Halfway House Scheme</label>
+    <label for="accordion2">Work Release Scheme</label>
     <div>
-      <p>The Halfway House Scheme (HWH) provides a more structured environment to support inmates’ reintegration back to society gradually with the help of community partners. Inmates residing at halfway houses undergo various interventions, such as counselling and employment-related programmes. </p>
+      <p>The Work Release Scheme (WRS) aims to engage inmates in meaningful and productive work outside of the prison premises and to guide them towards a gradual reintegration into society. WRS also provides inmates with a chance to contribute to society by being productive, inculcate good work habits and develop a sense of responsibility to support their families. They will be housed at Institution S2, Selarang Park Complex during the early phase of their programme. They may be considered for Weekend Home Leave and Long Home Leave transit, subject to assessment and recommendation.</p>
     </div>
   </li>
 	<li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">Work Release Scheme</label>
+    <label for="accordion3">Halfway House Scheme</label>
     <div>
-      <p>The Work Release Scheme (WRS) aims to engage inmates in meaningful and productive work outside of the prison premises and to guide them towards a gradual reintegration into society. WRS also provides inmates with a chance to contribute to society by being productive, inculcate good work habits and develop a sense of responsibility to support their families. They will serve their remaining sentence at the Selarang Park Complex and commute to work daily.</p>
+      <p>The Halfway House Scheme (HWH) provides a more structured environment to support inmates’ reintegration back to society gradually with the help of community partners. Inmates residing at halfway houses undergo various interventions, such as counselling and employment-related programmes. They may be considered for Long Home Leave transit, subject to assessment and recommendation.</p>
     </div>
   </li>
 	</ul>
