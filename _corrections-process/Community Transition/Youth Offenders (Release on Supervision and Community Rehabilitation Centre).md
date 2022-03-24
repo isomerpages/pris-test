@@ -18,15 +18,15 @@ The Community Rehabilitation Centre (CRC) was officially launched in January 201
 
 The CRC regime can be defined in two phases – Residential and Home Leave.
 
-*Residential Phase <br>
+*Residential Phase* <br>
 For the first six months of their stay, this phase offers casework and counselling services to help residents build resilience against drug addiction and strengthen their family ties. They can attend school or work outside the CRC during this period. 
 
-*Home Leave Phase <br>
+*Home Leave Phase* <br>
 In the last six months, residents will be assessed on their suitability to return to their families and will be electronically tagged. In addition to supervision and support by their family members, they will continue to receive counselling by their assigned caseworker to ensure that they stay on track and drug-free. 
 
 At the end of the programme, the offenders will be placed on the Central Narcotics Bureau’s (CNB) Supervision Order for a period of up to five years to ensure that they remain drug-free in the long run. 
 
-**Selection and Admission Process ** <br>
+**Selection and Admission Process** <br>
 SPS works closely with CNB to assess a drug abuser’s suitability for the CRC regime based on the following criteria: 
 
 * Candidates must be first-time drug abusers, aged 16 to 21 years old and assessed to be of moderate risk of re-offending; and 
@@ -34,8 +34,8 @@ SPS works closely with CNB to assess a drug abuser’s suitability for the CRC r
 
 Upon successful placement at CRC, residents are to abide by the Centre’s rules and regulations, and breaches may result in a transfer back to the DRC. 
 
-**Partnering the Community ** <br>
+**Partnering the Community**<br>
 SPS partners the Youth Guidance Outreach Services (YGOS), a youth-focused Social Service Agency (SSA), to be the managing agent of CRC. YGOS taps on its network of community resources to target drug abuse, offering various programmes.
 
-**Community Partners engaged by YGOS ** <br> 
-Apart from YGOS, SPS engages other community partners, which include the Community Development Councils (CDCs), Family Service Centres (FSCs), religious organisations and other SSAs, to support the residents in their journey towards their rehabilitation goals. 
+**Community Partners engaged by YGOS**<br> 
+Apart from YGOS, SPS engages other community partners, which include the Community Development Councils (CDCs), Family Service Centres (FSCs), religious organisations and other SSAs, to support the residents in their journey towards their rehabilitation goals.
