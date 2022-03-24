@@ -69,21 +69,29 @@ The following provides a brief description of the CBP schemes available for <Str
   </li>
 	</ul>
 
-##### Pre-emplacement
-Prior to emplacement, inmates will undergo Release Preparation Programme to prepare them for reintegration into the community upon their release. For inmates who are assigned with a Case Manager, or recommended for HWH, the respective Case Manager will also engage the inmates during the Pre-emplacement phase to develop their Individual Service Plan. Suitable inmates will go through the job placement exercise and/or job referral by Yellow Ribbon Singapore (YRSG) to help them to secure a job ahead of their emplacement. 
+##### What to Do
+**Pre-emplacement**<br>
+Once inmates are recommended for CBP, they will undergo Release Preparation Programmes prior to their emplacement. Reintegration Officers from Community Corrections Command (COMC) will also conduct pre-emplacement briefing and interviews to the inmates on the conditions and expectations of CBP.
 
-##### Family Engagement
-Prior to emplacement for HDS/RS, the Main Visit Cardholder will receive an SMS providing the inmate’s tentative date of emplacement and an Undertaking Form to seek his/her support for inmate’s emplacement to HDS/RS. 
-<br>For emplacement to HWH/WRS/DRS, a notification letter providing details on the scheme and the appointed Reintegration Officer (RO) for the inmate will also be sent to the Next-of-Kin prior to emplacement.
+**For Families** <br>
+For HDS/RS scheme, the main visit cardholder will receive an SMS providing the inmate’s tentative date of emplacement and an undertaking form to seek his/her support for inmate’s emplacement to HDS/RS. A notification letter will also be sent to the family members informing on the date of emplacement. Family members are advised to read up on the family briefing form via the QR code and link provided in the emplacement letter.
 
-##### On the Day of Emplacement
+For emplacement to DRS/WRS/HWH scheme, a notification letter providing details on the scheme and the relevant contact information will be sent to the Next-of-Kin prior to emplacement.
 
-| Scheme |What Happens?  | 
-| -------- | -------- | 
-| Home Detention Scheme / Residential Scheme  | Inmates will be transferred to the Selarang Park Community Supervision Centre (CSC) on the day of emplacement. <br>&#8595;<br>They will undergo a briefing on the supervision conditions by their assigned RO. Arrangement for tagging will also be done prior to their release. All their property will be released to them and they will be issued a standard set of clothing. If you wish to send in clothing, you may make an appointment by calling the visit booking hotline at <u>6546 7169/70/71/72</u>. Due to the ongoing COVID-19 situation, family members are advised not to receive the inmate from CSC. Inmates will be allowed to make a phone call to notify their NOK ahead of their release. &#8594; <img src="https://www.sps.gov.sg/images/default-source/default-album/pic-online-request.png?sfvrsn=a47e4712_2" alt="">
-| Halfway House Scheme  | Inmates will be transferred to the allocated Halfway Houses according to their assessed suitability. They will undergo a briefing on their accommodation and employment by their assigned RO. All their property will be released to them and they will be issued a standard set of clothing. If you wish to send in clothing, you may make an appointment by calling the visit booking hotline at <u>6546 7169/70/71/72</u>. Within 2-3 months of adjustments in the scheme with good conduct, the inmate may be given structured home leave and/or time off to return to their residence to connect with their family.| 
-| Work Release Scheme / Day Release Scheme  | Inmates will be transferred to the Work Release Centre at Selarang Park Complex. They will undergo a briefing on their accommodation and employment by their assigned RO. All their property will be released to them and they will be issued a standard set of clothing. If you wish to send in clothing, you may make an appointment by calling the visit booking hotline at <u>6546 7169/70/71/72</u>. Within 2-3 months of adjustments in the scheme with good conduct, the inmate may be given structured home leave and/or time off to return to their residence to connect with their family.| 
+**Day of Emplacement**<br>
+Inmates will be transferred to Selarang Park Community Supervision Centre (SPCSC) on the day of emplacement. They will undergo a briefing on the supervision conditions by their assigned RO. Arrangement for electronic tagging will also be done on emplacement day.
 
-For further enquiries on Community Based Programme, you may write to us by filling in the online form at [http://go.gov.sg/cbpenquiry](http://go.gov.sg/cbpenquiry).
+If you wish to send in clothing, you may make an appointment by calling the visit booking hotline at 6546 7169/70/71/72. Due to the ongoing Covid-19 situation, family members are advised not to receive the inmate from SPCSC. 
+[IMAGE: Day of Emplacement]
 
-For enquiries on the terms and conditions of the Halfway Houses and Work Release Centre, you may contact Selarang Park Community Supervision Centre (SPCSC) at 1800-543 1825.
+**Reintegration Officers** <br>
+Reintegration officers are uniformed staff that supervise offenders in the community, by ensuring compliance to supervision conditions. They also work closely with community partners and provide case management to the offenders and ex-offenders under their charge. 
+![](/images/Recruitment/RO.jpg)
+All CBP inmates will be assigned to Reintegration Officers during their programme. Inmates who are assessed to require more intervention may also be assigned to Correctional Rehabilitation Specialists, who will conduct mandatory counselling during their CBP.
+
+**Correctional Rehabilitation Specialists**<br>
+Civilian staff, who are Correctional Rehabilitation Specialists, provide case management services to offenders in the community. Case management services include assessments, counselling, advocacy, mediation, and making referrals.
+![](/images/stock-photos/75A_1109.jpg)
+For further enquiries on Community Based Programme, you may write to us by filling in the online form at http://go.gov.sg/cbpenquiry.
+
+For enquiries on the terms and conditions of the Halfway Houses and Work Release Centre, you may contact Selarang Park Community Supervision Centre (SPCSC) at **1800-543 1825**.
