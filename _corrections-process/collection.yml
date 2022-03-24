@@ -2,10 +2,10 @@ collections:
   corrections-process:
     output: true
     order:
-      - About Corrections/Aftercare.md
       - About Corrections/.keep
       - About Corrections/About Corrections.md
       - About Corrections/Incare.md
+      - About Corrections/Aftercare.md
       - Prison Regime (Pending) /Reformative Training (RT).md
       - Prison Regime (Pending) /Admissions.md
       - Prison Regime (Pending) /.keep
