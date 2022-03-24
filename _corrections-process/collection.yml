@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - About Corrections/.keep
-      - About Corrections/About Corrections.md
+      - About Corrections/Rehabilitation Process.md
       - About Corrections/Incare.md
       - About Corrections/Aftercare.md
       - Prison Regime (Pending) /Reformative Training (RT).md
