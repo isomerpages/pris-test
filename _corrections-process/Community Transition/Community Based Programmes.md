@@ -50,14 +50,21 @@ The following provides a brief description of the CBP schemes available for <Str
     <input type="checkbox" id="accordion4">
     <label for="accordion4">Residential Scheme</label>
     <div>
-      <p>The Residential Scheme (RS) aims to promote reintegration of inmates into society with the help of their family members and community. Suitable inmates will serve their remaining sentences at their residences under specified conditions, which include curfew monitoring, urine testing and counselling. They could either be working, studying, or be involved in community service. </p>
+      <p>The Residential Scheme (RS) aims to promote reintegration of inmates into society with the help of their family members and community. Suitable inmates will serve their remaining sentences at their residences under specified conditions, which include curfew monitoring, urine testing and counselling. They could either be working, studying, or be involved in community service.</p>
     </div>
 	</li>  
   <li>
     <input type="checkbox" id="accordion5">
     <label for="accordion5">Day Release Scheme</label>
     <div>
-      <p>The Day Release Scheme (DRS) aims to engage inmates in meaningful and productive work or skills training outside of the prison premises and to guide them towards a gradual reintegration into society. WRS also provides inmates with a chance to contribute to society by being productive, inculcate good work habits and develop a sense of responsibility to support their families. They will serve their remaining sentence at the Selarang Park Complex and commute to work daily.</p>
+      <p>The Day Release Scheme (DRS) aims to engage inmates in meaningful and productive work or skills training outside of the prison premises and to guide them towards a gradual reintegration into society. WRS also provides inmates with a chance to contribute to society by being productive, inculcate good work habits and develop a sense of responsibility to support their families. They will be housed at Institution S2, Selarang Park Complex during the early phase of their programme. They may be considered for Weekend Home Leave and Long Home Leave transit, subject to assessment and recommendation.</p>
+    </div>
+  </li>
+	<li>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6">Halfway House Scheme</label>
+    <div>
+      <p>The Halfway House Scheme (HWH) provides a more structured environment to support inmates’ reintegration back to society gradually with the help of community partners. Inmates residing at halfway houses undergo various interventions, such as counselling and employment-related programmes. They may be considered for Long Home Leave transit, subject to assessment and recommendation.</p>
     </div>
   </li>
 	</ul>
