@@ -11,6 +11,7 @@ SPS adopts a throughcare approach in the rehabilitation of offenders. This chang
 
 The rehabilitation journey for the offender can be divided into two key phases – Incare (in prison) and Aftercare (in the community).
 
+![](/images/Rehabilitation/Reintegration%20Roadmap.jpg)
 
 #### Incare
 Upon admission to prison, offenders undergo assessment to determine their risks and needs. Based
