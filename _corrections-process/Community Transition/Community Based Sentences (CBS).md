@@ -12,5 +12,14 @@ Cases that are suitable for CBS are generally sent to the Community Court for ma
 
 SPS manages the Day Reporting Order (DRO) and Short Detention Order (SDO) of the CBS. 
 
-![](/images/Rehabilitation/DRO.png)
-![](/images/Rehabilitation/SDO.png)
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+    <img alt="" src="/images/Rehabilitation/DRO.png">
+    </div>
+    <div class="col">
+      <img alt="" src="/images/Rehabilitation/SDO.png">
+    </div>
+  </div>
+ </div>
