@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - About Corrections/.keep
-      - About Corrections.md
       - Prison Regime (Pending) /Reformative Training (RT).md
       - Prison Regime (Pending) /Admissions.md
       - Prison Regime (Pending) /.keep
