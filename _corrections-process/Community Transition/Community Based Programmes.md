@@ -82,7 +82,7 @@ For emplacement to DRS/WRS/HWH scheme, a notification letter providing details o
 Inmates will be transferred to Selarang Park Community Supervision Centre (SPCSC) on the day of emplacement. They will undergo a briefing on the supervision conditions by their assigned RO. Arrangement for electronic tagging will also be done on emplacement day.
 
 If you wish to send in clothing, you may make an appointment by calling the visit booking hotline at 6546 7169/70/71/72. Due to the ongoing Covid-19 situation, family members are advised not to receive the inmate from SPCSC. 
-[IMAGE: Day of Emplacement]
+![](/images/Rehabilitation/Emplacement%20Day.png)
 
 **Reintegration Officers** <br>
 Reintegration officers are uniformed staff that supervise offenders in the community, by ensuring compliance to supervision conditions. They also work closely with community partners and provide case management to the offenders and ex-offenders under their charge. 
