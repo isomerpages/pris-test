@@ -2,23 +2,23 @@ collections:
   corrections-process:
     output: true
     order:
-      - Prison Regime/Reformative Training.md
-      - Prison Regime/.keep
       - About Corrections/.keep
       - About Corrections/Rehabilitation Process.md
       - About Corrections/Incare.md
       - About Corrections/Aftercare.md
+      - Prison Regime/.keep
+      - Prison Regime/Reformative Training.md
+      - Prison Regime (Pending) /.keep
       - Prison Regime (Pending) /Reformative Training (RT).md
       - Prison Regime (Pending) /Admissions.md
-      - Prison Regime (Pending) /.keep
       - Programmes/.keep
       - Programmes/Work Programme.md
       - Programmes/Education.md
       - Programmes/Vocational Skills Training.md
       - Programmes/Release Preparation Programmes.md
       - Programmes/Personal Development Activities.md
-      - Community Transition/Community Resources.md
       - Community Transition/.keep
+      - Community Transition/Community Resources.md
       - Community Transition/Early Release Information.md
       - Community Transition/Community Based Programmes.md
       - Community Transition/Community Corrections Command (COMC).md
