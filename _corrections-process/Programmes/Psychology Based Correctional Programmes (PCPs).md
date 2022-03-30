@@ -10,3 +10,61 @@ In general, the development of PCPs is guided by (1) the needs assessment of the
  
 The PCPs also utilize evidence-based intervention strategies such as the Cognitive-Behavioural model and the Social Learning theory to address the criminogenic needs of the offenders. Offenders learn to manage their emotions and behaviours through restructuring their unhelpful cognitions into more constructive ones in a systematic manner, and practice constructive skills such as communication, emotion regulation, and problem-solving skills to help them manage high-risk situations and prevent relapse. For specific populations such as the women and youths, relevant intervention strategies are incorporated in the PCPs to meet their unique needs and responsivity.
 
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">General Offending Programmes</label>
+    <div>
+      <ul>
+        <li>Develop skills to solve problems</li>
+        <li>Develop plans to achieve their goals and values to desist from crime</li>
+        <li>Identify and dispute unhelpful thinking patterns that lead to their crimes</li>
+      </ul>
+    </div>
+	</li>  
+  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Drug Offending Programmes</label>
+    <div>
+     <ul>
+        <li>Develop skills to manage their emotions</li>
+        <li>Develop plans to manage their slips and relapses</li>
+        <li>Form new prosocial habits, in replacement of their habit of using drugs</li>
+			 <li>Identify and dispute unhelpful thinking patterns that lead to their abuse of drugs</li>
+      </ul>
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">Multi-line Folded</label>
+    <div>
+      <p>
+        This is all going
+        to become just one line\n even though there are multiple lines
+      </p>
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">Ordered List</label>
+    <div>
+      <ol>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+      </ol>
+    </div>
+  </li>
+    
+  <li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">Unordered List</label>
+    <div>
+      <ul>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+      </ul>
+    </div>
+  </li>
+</ul>
