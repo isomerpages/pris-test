@@ -36,33 +36,50 @@ The PCPs also utilize evidence-based intervention strategies such as the Cogniti
   </li>
   <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">Multi-line Folded</label>
+    <label for="accordion3">Youth Offending Programmes</label>
     <div>
-      <p>
-        This is all going
-        to become just one line\n even though there are multiple lines
-      </p>
+      <ul>
+        <li>Build skills to manage conflicts constructively</li>
+        <li>Develop skills to resist antisocial peer influence</li>
+        <li>Explore their values and goals to achieve healthy self-development</li>
+			 <li>Identify and dispute unhelpful thinking patterns that lead to their misconduct</li>
+      </ul>
     </div>
   </li>
   <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">Ordered List</label>
+    <label for="accordion4">Gender-Responsive Programmes</label>
     <div>
-      <ol>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
-      </ol>
+      <ul>
+        <li>Build skills to manage their unhelpful emotions</li>
+        <li>Develop their prosocial identity by encouraging and affirming them</li>
+        <li>Build healthy relationships with significant others to develop their support network</li>
+				<li>Identify and dispute unhelpful thinking patterns that lead to their offending behaviours</li>
+      </ul>
     </div>
-  </li>
-    
+  </li>    
   <li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5">Unordered List</label>
+    <label for="accordion5">Violent Offending Programmes</label>
+    <div>
+      <ul>
+        <li>Identify and dispute unhelpful thinking patterns that lead them to violence</li>
+        <li>Develop skills to manage their emotions</li>
+        <li>Develop prosocial conflict resolution and communication skills</li>
+				<li>Develop relapse prevention plans for their violent offending</li>
+      </ul>
+    </div>
+  </li>
+</ul>
+  <li>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6">Unordered List</label>
     <div>
       <ul>
         <li>Item 1</li>
         <li>Item 2</li>
+        <li>Item 3</li>
+				<li>Item 2</li>
         <li>Item 3</li>
       </ul>
     </div>
