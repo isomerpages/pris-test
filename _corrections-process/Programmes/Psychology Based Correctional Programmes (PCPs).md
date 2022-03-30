@@ -70,7 +70,6 @@ The PCPs also utilize evidence-based intervention strategies such as the Cogniti
       </ul>
     </div>
   </li>
-</ul>
   <li>
     <input type="checkbox" id="accordion6">
     <label for="accordion6">Sexual Offending Programmes</label>
