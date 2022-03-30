@@ -73,14 +73,15 @@ The PCPs also utilize evidence-based intervention strategies such as the Cogniti
 </ul>
   <li>
     <input type="checkbox" id="accordion6">
-    <label for="accordion6">Unordered List</label>
+    <label for="accordion6">Sexual Offending Programmes</label>
     <div>
       <ul>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
-				<li>Item 2</li>
-        <li>Item 3</li>
+        <li>Address issues related to self-esteem, shame, and guilt</li>
+        <li>Identify and dispute unhelpful thinking patterns that lead them to sexual offending</li>
+        <li>Develop healthy emotional and sexual self-regulation skills</li>
+				<li>Improve problem-solving, interpersonal, and relational skills</li>
+        <li>Increase empathy towards victims and others</li>
+				<li>Develop relapse prevention plans for their sexual offending</li>
       </ul>
     </div>
   </li>
