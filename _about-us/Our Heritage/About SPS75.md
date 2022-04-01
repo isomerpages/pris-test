@@ -31,44 +31,21 @@ Overall, the logo celebrates SPS’ heritage from a custodial agency to become a
 	</li>  
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Multi-line Block</label>
+    <label for="accordion2">SPS75 Tagline:Transforming Lives with You</label>
     <div>
-      <p>This is line 1</p>
-      <p>This is line 2<br>
-        This is line 3</p>
+      <p>The tagline 'Transforming Lives with You' captures SPS’ mission of transforming offenders’ lives and their families.
+
+Importantly, the term 'with you' signifies a sense of inclusivity and collaboration with the community at large. It also resonates with SPS' staff and public and reiterates the role of SPS' staff as 'Captains of Lives'.</p>
     </div>
   </li>
   <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">Multi-line Folded</label>
+    <label for="accordion3">SPS75 Commemorative Stamps</label>
     <div>
       <p>
-        This is all going
-        to become just one line\n even though there are multiple lines
+       <img src="/images/SPS75/sps75-stamps-cropped.jpg" alt=""><br>The set of four stamps features the main facets of SPS’s work and the key enablers in achieving its mission – Safe and Secure Custody, Rehabilitation and Reintegration, Technological Advancements, and Community Partnerships. It pays tribute to current SPS staff, pioneering officers who laid a strong foundation, and partners who have provided unwavering support and been an integral part of SPS’s transformation journey.
       </p>
     </div>
   </li>
-  <li>
-    <input type="checkbox" id="accordion4">
-    <label for="accordion4">Ordered List</label>
-    <div>
-      <ol>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
-      </ol>
-    </div>
-  </li>
-    
-  <li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">Unordered List</label>
-    <div>
-      <ul>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
-      </ul>
-    </div>
-  </li>
 </ul>
+
