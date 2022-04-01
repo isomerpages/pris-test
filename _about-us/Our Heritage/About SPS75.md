@@ -6,7 +6,7 @@ third_nav_title: Our Heritage
 ---
 <center><h2>FROM 1946,</h2>
 
-<p>The Singapore Prison Service (SPS) was formally instituted as a government department.</p>
+<p style="background-image: url('/images/SPS75/sps75_faded_bg.png');">The Singapore Prison Service (SPS) was formally instituted as a government department.</p>
 
 <p>The origins of Singapore’s penal system can be traced to the arrival of the first batch of convicts in 1825. The philosophy of deterrence through punitive measures was adopted in the prisons then, which were managed by colonial administrators, until the Second World War. In 1946, Prisons Department, now known as Singapore Prison Service, was formally instituted as a government department to oversee the management of prisons.</p>
 
