@@ -9,7 +9,7 @@ body {
   background-image: url('/images/SPS75/sps75_faded_bg.png');
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: 100% 100%;
+  background-size: 75% 75%;
 	background-position: center center;
 }
 </style>
