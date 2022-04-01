@@ -22,7 +22,7 @@ third_nav_title: Our Heritage
     <input type="checkbox" id="accordion1">
     <label for="accordion1">SPS75 Logo</label>
     <div>
-      <p><img src="/images/SPS75/sps75-logo.png" alt=""><br><p>The SPS75 logo was designed to signify SPS’ 75th anniversary and reflects distinctive elements of SPS’ identity, such as SPS’ corporate colours, the iconic Changi Prison outline and yellow ribbon symbol.</p>
+      <img src="/images/SPS75/sps75-logo.png" alt=""><br><p>The SPS75 logo was designed to signify SPS’ 75th anniversary and reflects distinctive elements of SPS’ identity, such as SPS’ corporate colours, the iconic Changi Prison outline and yellow ribbon symbol.</p>
 
 <p>Changi Prison is a key icon associated with SPS in view of its longstanding heritage. The yellow ribbon has also been incorporated as it radiates an optimistic energy, symbolising second chances and new beginnings. The intertwined yellow ribbon demonstrates collaborative and supportive efforts between SPS and the community to transform offenders’ lives and that of their families, over the years.</p>
 
@@ -46,4 +46,3 @@ third_nav_title: Our Heritage
     </div>
   </li>
 </ul>
-
