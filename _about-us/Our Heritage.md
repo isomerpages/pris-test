@@ -41,7 +41,7 @@ description: ""
 <td style="width: 70%;"><div class="container">
   <div class="row">
     <div class="col">
-    <img src="/images/SPS75/1955.jpg" alt="" />
+    <img src="/images/SPS75/1955.jpg" alt="" />	
     </div>
     <div class="col">
       <strong>St John’s Island Opium Treatment Centre</strong><br />The first Drug Rehabilitation Centre (DRC) in Singapore was the Opium Treatment Centre (OTC) at St. John’s Island. It was subsequently repurposed and expanded to receive other drug abusers. The OTC consisted of 12 huts, of which six were used as accommodation for up to 40 inmates. The others were used for workshops as shown in the photo. Source: Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore
