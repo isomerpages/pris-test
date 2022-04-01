@@ -4,17 +4,14 @@ permalink: /sps75
 description: ""
 third_nav_title: Our Heritage
 ---
-<!DOCTYPE html>
-<html>
-<head>
 <style>
 body {
   background-image: url('/images/SPS75/sps75_faded_bg.png');
   background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 </style>
-</head>
-<body>
 <center><h2>FROM 1946,</h2>
 	
 <p>The Singapore Prison Service (SPS) was formally instituted as a government department.<br>
