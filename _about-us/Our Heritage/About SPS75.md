@@ -50,40 +50,21 @@ third_nav_title: Our Heritage
 <center><h3> FOLLOW US FOR MORE STORIES </h3>
 <h5>@SingaporePrisonService<br>
 	#SingaporePrisonService #CaptainsOfLives<h5>
-
-<div class="row">
-  <div class="column"><a href="https://www.facebook.com/SingaporePrisonService">
-  <img src="/images/SPS75/facebook.png" alt="" style="width:52px;height:52px;">
-</a></div>
-  <div class="column"><a href="https://www.instagram.com/singaporeprisonservice/">
-  <img src="/images/SPS75/instagram.png" alt="" style="width:52px;height:52px;">
-</a></div>
-  <div class="column"><a href="https://www.youtube.com/c/SingaporePrisonService/videos">
-  <img src="/images/SPS75/youtube.png" alt="" style="width:52px;height:52px;">
-</a></div>
-	<div class="column"><a href="https://www.twitter.com/SingaporePrison">
-  <img src="/images/SPS75/twitter.png" alt="" style="width:52px;height:52px;">
-</a></div>
-  <div class="column"></div>
-	<div class="column"><a href="https://sg.linkedin.com/company/singaporeprisonservice">
-  <img src="/images/SPS75/linkedin.png" alt="" style="width:52px;height:52px;">
-</a></div>
-</div><center>
 	
 <table style="width: 100%; border-collapse: collapse;" border="0">
 <tbody>
 <tr>
 <td style="width: 20%; text-align: center;"><a href="https://www.facebook.com/SingaporePrisonService">
-  <img src="/images/SPS75/facebook.png" alt="" style="width:52px;height:52px;">
+  <img src="/images/SPS75/facebook.png" alt="" style="width:65px;height:65px;">
 </a></td>
 <td style="width: 20%; text-align: center;"><a href="https://www.instagram.com/singaporeprisonservice/">
-  <img src="/images/SPS75/instagram.png" alt="" style="width:52px;height:52px;">
+  <img src="/images/SPS75/instagram.png" alt="" style="width:65px;height:65px;">
 </a></td>
 <td style="width: 20%; text-align: center;"><a href="https://www.youtube.com/c/SingaporePrisonService/videos">
-  <img src="/images/SPS75/youtube.png" alt="" style="width:52px;height:52px;">
+  <img src="/images/SPS75/youtube.png" alt="" style="width:65px;height:65px;">
 </a></td>
 <td style="width: 20%; text-align: center;"><a href="https://www.twitter.com/SingaporePrison">
-  <img src="/images/SPS75/twitter.png" alt="" style="width:52px;height:52px;">
+  <img src="/images/SPS75/twitter.png" alt="" style="width:65px;height:65px;">
 </a></td>
 <td style="width: 20%; text-align: center;"><a href="https://sg.linkedin.com/company/singaporeprisonservice">
   <img src="/images/SPS75/linkedin.png" alt="" style="width:65px;height:65px;">
