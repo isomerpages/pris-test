@@ -14,4 +14,3 @@ Under this Programme, inmates who genuinely make the resolve to sever ties with 
 **Tattoo Removal Programme**
 
 Under this programme, volunteer doctors provide free tattoo removal service to inmates who have undergone the Gang Renunciation Programme during their incarceration. The removal of the gang tattoo helps reduce the inmates’ stigma associated with their gang affiliations and tattoos, and enables them to have better employment and re-integration prospects when they are released from prison.
-
