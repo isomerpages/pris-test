@@ -11,6 +11,7 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
 &nbsp;<br>
 	<h5>Come celebrate with us in the journey of transformation over these 75 years!</h5></center>
 
+<center><h3>Timeline</h3></center>
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
