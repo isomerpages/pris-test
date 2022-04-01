@@ -22,8 +22,6 @@ The origins of Singapore’s penal system can be traced to the arrival of the fi
 Over the years, SPS has progressed to become a leading correctional agency, to enforce safe and secure custody, deliver evidence-informed rehabilitation programmes and carry out effective community supervision of released offenders. SPS and its staff, also known as Captains of Lives, have undergone a transformation journey since then, and community partners have been instrumental in SPS’ journey.<br>
 &nbsp;<br>
 In 2021, SPS celebrates ’SPS75’, commemorating 75 years since its inception as a government department. SPS75 was officially launched on 21 June 2021 by Minister for Communications and Information and Second Minister for Home Affairs, Mrs Josephine Teo.</p></center>
-</body>
-</html>	
 
 <iframe title="YouTube video player" src="https://www.youtube.com/embed/aZ1DbO7epB0" width="100%" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
