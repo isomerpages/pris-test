@@ -47,3 +47,21 @@ third_nav_title: Our Heritage
   </li>
 </ul>
 
+<center><div class="row">
+  <div class="column"><a href="https://www.facebook.com/SingaporePrisonService">
+  <img src="/images/SPS75/facebook.png" alt="" style="width:52px;height:52px;">
+</a></div>
+  <div class="column"><a href="https://www.instagram.com/singaporeprisonservice/">
+  <img src="/images/SPS75/instagram.png" alt="" style="width:52px;height:52px;">
+</a></div>
+  <div class="column"><a href="https://www.youtube.com/c/SingaporePrisonService/videos">
+  <img src="/images/SPS75/youtube.png" alt="" style="width:52px;height:52px;">
+</a></div>
+	<div class="column"><a href="https://www.twitter.com/SingaporePrison">
+  <img src="/images/SPS75/twitter.png" alt="" style="width:52px;height:52px;">
+</a></div>
+  <div class="column"></div>
+	<div class="column"><a href="https://sg.linkedin.com/company/singaporeprisonservice">
+  <img src="/images/SPS75/linkedin.png" alt="" style="width:52px;height:52px;">
+</a></div>
+</div><center>
