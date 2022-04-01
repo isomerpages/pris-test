@@ -10,6 +10,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
+	background-position: center center;
 }
 </style>
 <center><h2>FROM 1946,</h2>
