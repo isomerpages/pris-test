@@ -4,7 +4,7 @@ permalink: /sps75
 description: ""
 third_nav_title: Our Heritage
 ---
-<p><center><Strong>FROM 1946,</strong></p>
+<center><h2>FROM 1946,</h2>
 
 <p>The Singapore Prison Service (SPS) was formally instituted as a government department.</p>
 
@@ -46,3 +46,4 @@ third_nav_title: Our Heritage
     </div>
   </li>
 </ul>
+
