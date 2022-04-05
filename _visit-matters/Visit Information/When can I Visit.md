@@ -10,12 +10,13 @@ There are two modes of visits:
 | -------- | -------- | -------- |
 |Face-to-Face Visit|20mins |Prison Link Centre, Changi<br>Prison Link Centre, Tanah Merah<br>Prison Link Centre, Selarang Park|
 |Televisit |30mins |All Prison Link Centres and Satellite Centres|
+|
 
 ##### Face to Face Visit
 The visit day of Face-to-Face Visit for Penal inmates (Short Sentence and Long Sentence), Drug Rehabilitation Centre (DRC) inmates & Inhalant Abusers (IA) is fixed for the different institutions:
 
 **Penal inmates, DRC inmates & IA**
-||||||
+| | | | | |
 | -------- | -------- | -------- | -------- | -------- |
 |Monday|Instn A1|Instn B5|Instn TM1 - Block C & D<br>&nbsp;<br>Instn TM1 - Students & workers (PM)|Instn S1 - Block A |
 |Tuesday|Instn A2|Instn B4|Instn TM1 - Block E<br>&nbsp;<br>Instn TM1 - Students & workers (PM)|Instn S1 - Block C|
@@ -47,5 +48,3 @@ Televisit is available:
 |Drug Rehabilitation Centre (DRC) inmates|2 Visits/ month|Maximum 1 Face-to-Face Visit/ month|
 |Inhalant Abusers (IA)|2 Visits/ month|Maximum 1 Face-to-Face Visit/ month|
 |Remand inmates|2 Visits/ week|Maximum 1 Face-to-Face visit per week, or 2 Tele-visits|
-
-
