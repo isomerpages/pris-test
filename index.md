@@ -16,7 +16,7 @@ sections:
         - title: Connect with my loved one
           description: ""
           url: /visit-matters/visit-announcements
-        - title: Corrections Process
+        - title: Learn about Corrections
           description: ""
           url: /about-corrections
         - title: Join / Partner SPS
