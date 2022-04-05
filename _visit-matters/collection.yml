@@ -2,7 +2,6 @@ collections:
   visit-matters:
     output: true
     order:
-      - E Letters.md
       - Visit Announcements.md
       - Visit Information/.keep
       - Visit Information/Who can Visit.md
@@ -14,3 +13,4 @@ collections:
       - Other Visit Matters/Compassionate Leave Application .md
       - Other Visit Matters/Collection of Inmate’s Property.md
       - Other Visit Matters/Visit Items.md
+      - E Letters.md
