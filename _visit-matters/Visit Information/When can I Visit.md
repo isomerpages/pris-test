@@ -15,7 +15,7 @@ There are two modes of visits:
 ##### Face to Face Visit
 The visit day of Face-to-Face Visit for Penal inmates (Short Sentence and Long Sentence), Drug Rehabilitation Centre (DRC) inmates &amp; Inhalant Abusers (IA) is fixed for the different institutions:
 
-**Penal inmates, DRC inmates &amp; IA**
+
 <table style="margin-bottom: 20px;" cellpadding="10" cellspacing="0" border="1" class="table">
   <tbody><tr class="cellheader">
     <td valign="top" colspan="5" width="601"><p>Penal inmates,   DRC inmates &amp; IA</p></td>
