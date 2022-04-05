@@ -3,8 +3,16 @@ title: Visit Announcements
 permalink: /visit-matters/visit-announcements
 description: ""
 ---
-#### **Latest Visit Updates**
+**Visit Arrangement from 15 March 2022**
 
-| **Date** | **Announcement** | 
-| -------- | -------- | 
-|3 January 2022|   We are pleased to inform you that face-to-face visits for up to two visitors will resume from 3 January 2022. To book a visit please follow [this link.](https://www.ipris.sps.gov.sg/sps-vms3-web/)|
+The visit arrangement details are as follows:
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+|Visit Mode & Frequency<br>&nbsp;<br>(For all inmates except remand inmates)| Face-to-Face visit<br>- mited to once per month 
+| Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
