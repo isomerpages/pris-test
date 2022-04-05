@@ -74,7 +74,7 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
     </div>
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Multi-line Block</label>
+    <label for="accordion2">1966-1994: Building our Correctional Capabilities</label>
     <div>
       <p>This is line 1</p>
       <p>This is line 2<br>
@@ -83,7 +83,7 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
   </li>
   <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">Multi-line Folded</label>
+    <label for="accordion3">1995-2003: Setting the Stage for Transformation</label>
     <div>
       <p>
         This is all going
