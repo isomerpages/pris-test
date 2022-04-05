@@ -19,8 +19,8 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
     <input type="checkbox" id="accordion1">
     <label for="accordion1">1946-1963: Prisons Pre-Independence</label>
     <div>
-      <p><td style="width: 30%; vertical-align: middle"><h5>1946</h5></td>
-<td style="width: 70%;"><div class="container">
+      <p><td style="width: 50%; vertical-align: middle"><h5>1946</h5></td>
+<td style="width: 50%;"><div class="container">
   <div class="row">
     <div class="col">
     <img src="/images/SPS75/1946.png" alt="" />
@@ -29,23 +29,23 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
       <strong>G. E. W. W. Bayly, First Commissioner of Prisons</strong><br />When the British Military Administration was replaced by a civil government, Singapore became a Crown Colony and the Prisons Department (now known as Singapore Prison Service) was instituted as a government agency. G. E. W. W. Bayly became the first Commissioner of Prisons after the Second World War. The photo shows the first logo of then Prisons Department. The insignia reflects Prisons Department as an agency in the Straits settlement under the purview of the Crown Colony.
     </div>
   </div>
- </div><td style="width: 30%; vertical-align: middle"><h5>1953</h5></td>
-<td style="width: 70%;"><div class="container">
+ </div><td style="width: 50%; vertical-align: middle"><h5>1953</h5></td>
+<td style="width: 50%;"><div class="container">
   <div class="row">
     <div class="col">
-    <figure>
+<strong>Major W.L.P. Sochon, Second Commissioner of Prisons</strong><br />W.L.P. Sochon took over as the second Commissioner of Prisons. He was supportive of the idea of a 'prison without bars' which relied on companies and the public doing their part to accept inmates into society. The photo shows Major W.L.P Sochon holding a press conference cum tour of the new experimental opium rehabilitation centre on St John's Island.
+    </div>
+    <div class="col">
+      <figure>
     <img src="/images/SPS75/1953_Sochon%20Second%20Comsr.jpeg"
 				 alt="credits">
     <figcaption>Source: Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</figcaption>
 </figure>
     </div>
-    <div class="col">
-      <strong>Major W.L.P. Sochon, Second Commissioner of Prisons</strong><br />W.L.P. Sochon took over as the second Commissioner of Prisons. He was supportive of the idea of a 'prison without bars' which relied on companies and the public doing their part to accept inmates into society. The photo shows Major W.L.P Sochon holding a press conference cum tour of the new experimental opium rehabilitation centre on St John's Island.
-    </div>
   </div>
  </div>
-			 </div><td style="width: 30%; vertical-align: middle"><h5>1955</h5></td>
-<td style="width: 70%;"><div class="container">
+			 </div><td style="width: 50%; vertical-align: middle"><h5>1955</h5></td>
+<td style="width: 50%;"><div class="container">
   <div class="row">
     <div class="col">
     <figure>
