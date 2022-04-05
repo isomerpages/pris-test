@@ -31,7 +31,11 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
 <td style="width: 70%;"><div class="container">
   <div class="row">
     <div class="col">
-    <img src="/images/SPS75/1946.png" alt="" />
+    <figure>
+    <img src="/images/SPS75/1953_Sochon%20Second%20Comsr.jpeg"
+         alt="credits">
+    <figcaption>Source: Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</figcaption>
+</figure>
     </div>
     <div class="col">
       <strong>Major W.L.P. Sochon, Second Commissioner of Prisons</strong><br />W.L.P. Sochon took over as the second Commissioner of Prisons. He was supportive of the idea of a 'prison without bars' which relied on companies and the public doing their part to accept inmates into society. The photo shows Major W.L.P Sochon holding a press conference cum tour of the new experimental opium rehabilitation centre on St John's Island.
