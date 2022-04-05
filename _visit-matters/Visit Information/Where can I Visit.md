@@ -22,7 +22,6 @@ Operating Hours:
 |**Prison Link Centre Jurong (PLCJ)**<br>Block 134 Jurong Gateway<br>#04-309A<br>Singapore 600134|**Prison Link Centre Selarang Park (PLCSP)**<br>1819 Upper Changi Road North<br>Singapore 506793||
 |
 
-
 **Satellite Visit Centres**
 
 The operating days and hours for our satellite visit centres differs from centre to centre.
