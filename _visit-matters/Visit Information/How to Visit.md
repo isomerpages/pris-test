@@ -59,7 +59,7 @@ Visitors will be required to bring the following items for the visit registratio
 * Visit Card
 
 <u><strong>3. Personal Belonging</strong></u><br>
-Visitors will only be allowed to bring in their identification document for the visit session.  All other personal belongings with need to kept in the lockers provided.
+Visitors will only be allowed to bring in their identification document for the visit session.  All other personal belongings with need to be kept in the lockers provided.
 
 <u><strong>4. Dress Code</strong></u><br>
 Visitors are advised to be properly attired as you may be turned away from the visit. Revealing clothing such as short shorts, mini skirt, short dresses, bare back, halter top, low cut clothing, see-through garments are not acceptable. If in doubt, please bring along a jacket and wear a knee-length bottom.
