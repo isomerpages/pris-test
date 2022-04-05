@@ -4,23 +4,13 @@ permalink: /visit-matters/Visit-Information/who-can-visit
 description: ""
 third_nav_title: Visit Information
 ---
-Family members and relatives are allowed to visit the inmate. Documentary proof of relationship will be required during registration.
+Visits play an important role in the rehabilitation and reintegration of inmates. It is a means where the inmate's families, friends and loved ones, are engaged to enhance family bonding and develop positive social support towards the inmates' rehabilitation and eventual re-integration into the community. Family visits can positively impact offenders and SPS by:
 
- 
+**1. Helping offenders cope with imprisonment**<br>
+Buffer offenders from depressive symptoms due to isolation and adjustment to prison life.
 
-**Request for Visit**<br>
-For relatives who are unable to produce any documentary proof of their relationship and friends, an application to request for visit (Visit Request Form) needs to be submitted and it will be subject to approval. Please note that the approval process can take up to 21 days. On-site approval will not be granted.
+**2. Reduce Offender Misconduct**<br>
+Consistent visits significantly reduce misconduct in general and major violent acts of misconduct.
 
-**Visit Request Form (VRF) for online application:**<br>
-[For Singaporeans and Singapore PR (using SingPass log-in)](https://form.gov.sg/#!/5fbb510b2bcec70011435e8b)<br>
-[For Foreigners (non- Singpass log-in)](https://form.gov.sg/#!/5c88baed9a3a3c0010c18c70)<br>
-
-Alternatively, visitors can obtain the hardcopy application form from any of the Prison Link Centres and submit the application onsite.
-
-Results of the application will be made known to the applicant and the Main Card Holder via SMS.
-
-**Numbers of Visitors Allowed** <br>
-A maximum of two visitors are allowed per visit session.
- 
-**Dress Code** <br>
-Please be reminded to be properly attired as visitor may be turned away from the visit. If in doubt, please bring along a jacket and wear a knee-length bottom. 
+**3. Rebuild Support Networks**<br>
+Visit is an allocated time for offender to reconcile and improve relationships with family. The quality of relationships between offender and family is an important consideration to rehabilitative outcomes. 
