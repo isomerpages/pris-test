@@ -43,7 +43,6 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
 </figure>
     </div>
   </div>
- </div>
 			 </div><td style="width: 50%; vertical-align: middle"><h5>1955</h5></td>
 <td style="width: 50%;"><div class="container">
   <div class="row">
@@ -58,7 +57,6 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
       <strong>St John’s Island Opium Treatment Centre</strong><br />The first Drug Rehabilitation Centre (DRC) in Singapore was the Opium Treatment Centre (OTC) at St. John’s Island. It was subsequently repurposed and expanded to receive other drug abusers. The OTC consisted of 12 huts, of which six were used as accommodation for up to 40 inmates. The others were used for workshops as shown in the photo.
     </div>
   </div>
- </div>
 			</div><td style="width: 50%; vertical-align: middle"><h5>1957</h5></td>
 <td style="width: 50%;"><div class="container">
   <div class="row">
@@ -73,9 +71,7 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
       <strong>P. L. James, Third Commissioner of Prisons</strong><br />P. L. James served as the third Commissioner of Prisons up until the merger between Singapore and Malaysia in 1963. He was known to grant political detainees leave on Chinese New Year.
     </div>
   </div>
- </div></p>
     </div>
-	</li>  
   <li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">Multi-line Block</label>
