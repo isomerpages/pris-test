@@ -22,4 +22,4 @@ The visit day of Face-to-Face Visit for Penal inmates (Short Sentence and Long S
 |Wednesday|Instn A3 |Instn B3|Instn TM1 - Block C & D<br>&nbsp;<br>Instn TM1 - Students & workers (PM)|Instn S1 - Block B|
 |Thursday|Instn A4|Instn B1 |Instn TM1 - Block E<br>&nbsp;<br>Instn TM1 - Students & workers (PM)|Instn S1 - Block E |
 |Friday|Instn A5|Instn B2|Instn TM1 - Students & workers (PM)||
-
+||||||
