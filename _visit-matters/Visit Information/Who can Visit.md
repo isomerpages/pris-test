@@ -15,6 +15,8 @@ Consistent visits significantly reduce misconduct in general and major violent a
 **3. Rebuild Support Networks**<br>
 Visit is an allocated time for offender to reconcile and improve relationships with family. The quality of relationships between offender and family is an important consideration to rehabilitative outcomes.
 
+![](/images/Visit%20Matters/Visit%20Family%20Support.png)
+
 **Visits by Family members and Relatives**<br>
 Family members and relatives are allowed to visit the inmate. Family members and relative can use online visit request form to submit your application.  Do note that documentary proof of the applicant’s relationship to inmate will be to be submitted.  The result of the registration will be sent to the applicant via SMS. Documentary proof will need to presented for verification on the first visit.
 Visit Request Form (VRF) for online application:
