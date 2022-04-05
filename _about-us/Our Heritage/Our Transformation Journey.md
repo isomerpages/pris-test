@@ -93,7 +93,7 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
   </li>
   <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">Ordered List</label>
+    <label for="accordion4">2004-2021: Pursuing Excellence in Prison Security and Inmates’ Rehabilitation</label>
     <div>
       <ol>
         <li>Item 1</li>
@@ -101,17 +101,4 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
         <li>Item 3</li>
       </ol>
     </div>
-  </li>
-    
-  <li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">Unordered List</label>
-    <div>
-      <ul>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
-      </ul>
-    </div>
-  </li>
-</ul>
+  </li> 
