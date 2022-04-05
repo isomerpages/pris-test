@@ -17,8 +17,8 @@ Main Card Holders and visitors authorised by the Main Card Holders can make visi
 
 | Monday to Friday: |8:00am to 5:00pm|
 | -------- | -------- | 
-|Saturday:|8:00am to 4:00pm| 
-(Closed on Sundays and Public Holidays)
+|Saturday:|8:00am to 4:00pm|
+|*(Closed on Sundays and Public Holidays)*||
 <br>&nbsp;<br>
 
 3. **Visit Booking Hotline**<br>Main Card Holder and visitors authorised by the Main Card Holder can also make visit bookings by calling our Visit Booking Hotline <br><u>1800-PRISONS (1800-7747667)</u>
