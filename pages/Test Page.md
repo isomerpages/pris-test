@@ -70,3 +70,10 @@ description: ""
   </div>
  </div>
 	
+
+	
+<figure>
+    <img src="/images/SPS75/1946.png"
+         alt="credits">
+    <figcaption>Courtesy of</figcaption>
+</figure>
