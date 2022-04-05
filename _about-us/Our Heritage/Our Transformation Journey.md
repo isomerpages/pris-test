@@ -59,8 +59,8 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
     </div>
   </div>
  </div>
-			</div><td style="width: 30%; vertical-align: middle"><h5>1957</h5></td>
-<td style="width: 70%;"><div class="container">
+			</div><td style="width: 50%; vertical-align: middle"><h5>1957</h5></td>
+<td style="width: 50%;"><div class="container">
   <div class="row">
     <div class="col">
     <figure>
