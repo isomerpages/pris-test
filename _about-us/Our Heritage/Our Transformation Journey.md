@@ -33,7 +33,7 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
     <div class="col">
     <figure>
     <img src="/images/SPS75/1953_Sochon%20Second%20Comsr.jpeg"
-         alt="credits">
+				 alt="credits">
     <figcaption>Source: Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</figcaption>
 </figure>
     </div>
@@ -42,16 +42,33 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
     </div>
   </div>
  </div>
-			<td style="width: 30%; vertical-align: middle"><h5>1955</h5></td>
+			 </div><td style="width: 30%; vertical-align: middle"><h5>1955</h5></td>
 <td style="width: 70%;"><div class="container">
   <div class="row">
     <div class="col">
+    <figure>
     <img src="/images/SPS75/1955.jpg"
 				 alt="credits">
     <figcaption>Source: Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</figcaption>
+</figure>
     </div>
     <div class="col">
-      <strong>G. E. W. W. Bayly, First Commissioner of Prisons</strong><br />When the British Military Administration was replaced by a civil government, Singapore became a Crown Colony and the Prisons Department (now known as Singapore Prison Service) was instituted as a government agency. G. E. W. W. Bayly became the first Commissioner of Prisons after the Second World War. The photo shows the first logo of then Prisons Department. The insignia reflects Prisons Department as an agency in the Straits settlement under the purview of the Crown Colony.
+      <strong>St John’s Island Opium Treatment Centre</strong><br />The first Drug Rehabilitation Centre (DRC) in Singapore was the Opium Treatment Centre (OTC) at St. John’s Island. It was subsequently repurposed and expanded to receive other drug abusers. The OTC consisted of 12 huts, of which six were used as accommodation for up to 40 inmates. The others were used for workshops as shown in the photo.
+    </div>
+  </div>
+ </div>
+			</div><td style="width: 30%; vertical-align: middle"><h5>1957</h5></td>
+<td style="width: 70%;"><div class="container">
+  <div class="row">
+    <div class="col">
+    <figure>
+    <img src="/images/SPS75/1957.jpg"
+				 alt="credits">
+    <figcaption>Source: The Straits Times © Singapore Press Holdings Limited. Permission required for reproduction.</figcaption>
+</figure>
+    </div>
+    <div class="col">
+      <strong>P. L. James, Third Commissioner of Prisons</strong><br />P. L. James served as the third Commissioner of Prisons up until the merger between Singapore and Malaysia in 1963. He was known to grant political detainees leave on Chinese New Year.
     </div>
   </div>
  </div></p>
