@@ -26,7 +26,7 @@ Operating Hours:
 
 The operating days and hours for our satellite visit centres differs from centre to centre.
 
-|###### *Special conditions apply|||
+|<h6>*Special conditions apply</h6>|||
 | -------- | -------- | -------- |
 |**ISCOS (Industrial & Services Co-Operative Society Ltd)**<br>237 Alexandra Road<br>#04-19 <br>Singapore 159929| **Kampong Ubi Community Centre***<br>10 Jalan Ubi<br>Singapore 409075|**Lakeside Family Centre**<br>21 Yung Ho Road<br>S#03-01<br>The Agape<br>Singapore 618593|
 |**Singapore Children Society***<br>9 Bishan Place<br>#05-02 Junction 8<br>Singapore 579837|**Singapore Anti-Narcotics Association**<br>2 Sengkang Square<br>#05-01 Sengkang Community Hub<br>Singapore 545025||
