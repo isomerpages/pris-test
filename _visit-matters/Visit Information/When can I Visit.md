@@ -23,3 +23,10 @@ The visit day of Face-to-Face Visit for Penal inmates (Short Sentence and Long S
 |Thursday|Instn A4|Instn B1 |Instn TM1 - Block E<br>&nbsp;<br>Instn TM1 - Students & workers (PM)|Instn S1 - Block E |
 |Friday|Instn A5|Instn B2|Instn TM1 - Students & workers (PM)||
 ||||||
+
+
+| | Remand Inmate (Male)|Remand Inmate (Female) |
+| -------- | -------- | -------- |
+|Monday, Wednesday, Friday| **Instn B2**<br>8:45am to 3:45pm |**Monday to Wednesday**<br>4:00pm |
+|Tuesday, Thursday|**Instn B3**<br>8:45am to 3:45pm |**Thursday**<br>9:00am to 4:00pm|
+
