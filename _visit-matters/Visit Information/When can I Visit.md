@@ -14,3 +14,12 @@ There are two modes of visits:
 **Face to Face Visit**<br>
 The visit day of Face-to-Face Visit for Penal inmates (Short Sentence and Long Sentence), Drug Rehabilitation Centre (DRC) inmates & Inhalant Abusers (IA) is fixed for the different institutions:
 
+##### Penal inmates, DRC inmates & IA
+||||||
+| -------- | -------- | -------- | -------- | -------- |
+|Monday|Instn A1|Instn B5|Instn TM1 - Block C & D<br>&nbsp;<br>Instn TM1 - Students & workers (PM)|Instn S1 - Block A |
+|Tuesday|Instn A2|Instn B4|Instn TM1 - Block E<br>&nbsp;<br>Instn TM1 - Students & workers (PM)|Instn S1 - Block C|
+|Wednesday|Instn A3 |Instn B3|Instn TM1 - Block C & D<br>&nbsp;<br>Instn TM1 - Students & workers (PM)|Instn S1 - Block B|
+|Thursday|Instn A4|Instn B1 |Instn TM1 - Block E<br>&nbsp;<br>Instn TM1 - Students & workers (PM)|Instn S1 - Block E |
+|Friday|Instn A5|Instn B2|Instn TM1 - Students & workers (PM)||
+
