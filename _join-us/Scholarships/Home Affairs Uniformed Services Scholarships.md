@@ -6,6 +6,8 @@ third_nav_title: Scholarships
 ---
 <img alt="" src="https://www.sps.gov.sg/images/default-source/career-with-us/scholarship-officer.png?sfvrsn=da2af6d3_2">
 
+(Video interview with scholar)
+
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
