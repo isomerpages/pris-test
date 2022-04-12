@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Strategic Plans.md
       - organisation.md
       - vision-mission-and-values.md
       - Captains of Lives & Our Impact.md
