@@ -5,7 +5,7 @@ third_nav_title: Careers
 ---
 <p><strong>A UNIFORM CAREER WITH SPS - ARE YOU THE ONE WE ARE LOOKING FOR?</strong></p>
 <p class="copytext">As Captains of Lives, we are akin to the first drop of water that touches the pond and creating a ripple effect. Our work goes beyond being a guard; we aspire to create&nbsp;a positive impact in the lives of offenders, and inspire everyone at every chance towards a society without re-offending.</p>
-
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/12TDAdBmDGY" width="100%" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 <h4 style="text-align: center;"><strong>Prison Officer (Sergeant)</strong></h4>
 <p style="text-align: center;"><em>Be part of the team to enforce secure custody of offenders and rehabilitate them, for a safe Singapore.</em></p>
 <div style="text-align: center;">&nbsp;</div>
@@ -141,6 +141,7 @@ third_nav_title: Careers
 <p class="subtitle" style="text-align: left;"><em><strong>Career Development</strong></em></p>
 <p class="copytext" style="text-align: left;">SPS provides a dynamic and well-structured career advancement route map for our Captains of Lives. Besides operational roles in an institution, you may also be posted to different functional areas such as in Intelligence, Provost, community corrections, programme management, technology, training, corporate services, Prison Special Operations etc. for your career development. You will undergo the relevant leadership milestone programs and training at each stage, as you advance in your career with SPS.</p>
 <p class="copytext" style="text-align: left;">Under the Expert Career Tracks for Prison Special Operations and Intelligence respectively, officers selected for these tracks will hone their expertise to develop deep specialisation and receive recognition for their expertise (i.e. Senior Specialist, Principal Specialist and Expert).</p>
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/HnyTLHCYBo0" width="100%" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 <p class="copytext" style="text-align: left;"><a href="https://careers.pageuppeople.com/688/cwlive/en/filter/?=&amp;search-keyword=singapore%20prison&amp;brand=mha%20-%20singapore%20prison%20service%20(sps)&amp;job-mail-subscribe-privacy=agree"><img src="https://raw.githubusercontent.com/isomerpages/pris-test/staging/images/career-tabs-application-button.png" alt="" /></a></p>
 </div>
 </div>
