@@ -5,9 +5,7 @@ third_nav_title: Careers
 ---
 <p><strong>A UNIFORM CAREER WITH SPS - ARE YOU THE ONE WE ARE LOOKING FOR?</strong></p>
 <p class="copytext">As Captains of Lives, we are akin to the first drop of water that touches the pond and creating a ripple effect. Our work goes beyond being a guard; we aspire to create&nbsp;a positive impact in the lives of offenders, and inspire everyone at every chance towards a society without re-offending.</p>
-<p class="copytext">&nbsp;</p>
-<div style="text-align: center;"><iframe title="YouTube video player" src="https://www.youtube.com/embed/CshxKg00Oao" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-<div style="text-align: center;">&nbsp;</div>
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/LF7m2dNdfAE" width="100%" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 <h4 style="text-align: center;"><strong>Prison Officer (Rehabilitation Officer)</strong></h4>
 <div class="container">
 <p class="copytext" style="text-align: center;">Inspire and motivate a team in achieving a society without re-offending.</p>
@@ -204,3 +202,5 @@ third_nav_title: Careers
 <p class="copytext" style="text-align: left;"><a href="https://careers.pageuppeople.com/688/cwlive/en/filter/?=&amp;search-keyword=singapore%20prison&amp;brand=mha%20-%20singapore%20prison%20service%20(sps)&amp;job-mail-subscribe-privacy=agree"><img src="https://raw.githubusercontent.com/isomerpages/pris-test/staging/images/career-tabs-application-button.png" alt="" /></a></p>
 </div>
 </div>
+	
+(Brochure)
