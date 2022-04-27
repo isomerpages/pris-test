@@ -12,8 +12,8 @@ Researchers who wish to conduct research in the Singapore Prison Service (SPS) m
 *  Contact details: Name, institution.
 
 After preliminary approval, you’ll be required to submit a full research proposal. For more information on conducting research in SPS, please refer to the following documents:<br>
-[Research Request Process (PDF, 217KB)](https://www.sps.gov.sg/docs/default-source/research-request/research-request-process-picture-2017-final.pdf?sfvrsn=2)<br>
-[Research Proposal Guidelines (PDF, 347KB)](https://www.sps.gov.sg/docs/default-source/research-request/research-proposal-guidelines-2017-final.pdf?sfvrsn=2)
+[Research Request Process (PDF, 217KB)](/files/research-request-process-picture-2017-final.pdf)<br>
+[Research Proposal Guidelines (PDF, 347KB)](/files/research-proposal-guidelines-2017-final.pdf)
 
 ##### **Basic Requirements**<br>
 Research conducted within SPS should fulfil the following:
