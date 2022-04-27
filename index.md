@@ -30,18 +30,6 @@ sections:
       button: Read about visit updates
       url: https://www.sps.gov.sg/connect-us/updated-visit-information
   - infopic:
-      title: Vision
-      description: As Captains of Lives, we inspire everyone, at every chance, towards
-        a society without re-offending.
-      alt: Image alt text
-      image: /images/stock-photos/75A_1109.jpg
-  - infopic:
-      title: Mission
-      description: As a correctional agency, we enforce secure custody of offenders
-        and rehabilitate them for a safe Singapore.
-      alt: Image alt text
-      image: /images/stock-photos/Officers-ICC.jpg
-  - infopic:
       title: Our Rehabilitation Process
       button: Know more about what we do
       url: /rehabilitation-process-menu
