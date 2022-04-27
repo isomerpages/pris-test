@@ -27,7 +27,7 @@ sections:
       description: We are pleased to inform that Prison Link Centre Geylang Bahru will
         resume operation from 1st Sept 2021 and the visit sessions are now
         available for booking.
-      button: Click for More Info
+      button: Read about visit updates
       url: https://www.sps.gov.sg/connect-us/updated-visit-information
   - infopic:
       title: Vision
@@ -43,7 +43,7 @@ sections:
       image: /images/stock-photos/Officers-ICC.jpg
   - infopic:
       title: Our Rehabilitation Process
-      button: Click here to find out more
+      button: Know more about what we do
       url: /rehabilitation-process-menu
       image: /images/image-library/rehab%20process.jpg
       alt: Image alt text
@@ -52,7 +52,7 @@ sections:
       description: The Yellow Ribbon Project (YRP) is a national public engagement
         campaign aimed at changing society’s mindset in giving ex-offenders a
         second chance in life.
-      button: Read More
+      button: Find out more abour YRP
       url: https://www.yellowribbon.gov.sg/community-engagement/yellow-ribbon-project
       image: /images/yrsg-logo-nobackground.png
       alt: Image alt text
