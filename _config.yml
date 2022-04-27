@@ -12,9 +12,9 @@ colors:
     - title: media-color-three
       color: "#9d9fa2"
     - title: media-color-four
-      color: "#ffffff"
+      color: "#002661"
     - title: media-color-five
-      color: "#ffffff"
+      color: "#002661"
 resources_name: resource
 description: An Isomer site of the Singapore Government
 permalink: none
