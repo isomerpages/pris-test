@@ -12,7 +12,7 @@ locations:
       - days: Mondays to Fridays
         time: 8.30 am to 5.30pm
         description: ""
-    maps_link: ""
+    maps_link: http://www.onemap.gov.sg/main/v2/?lat=1.35471048626736&lng=103.969553717718
     title: Singapore Prison Service (HQ)
   - address:
       - 990 Upper Changi Road North
