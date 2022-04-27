@@ -12,6 +12,17 @@ These partners help integrate a range of services available in a timely and coor
 ###### From left to right: Association of Muslim Professionals (AMP), Singapore Anti-Narcotics Association (SANA), Singapore After-Care Association (SACA), AMKFSC Community Services Ltd (AMKFSC), Fei Yue FSC, Lakeside FSC
 
 **Yellow Ribbon Singapore (YRSG)**
+<td style="width: 50%; vertical-align: middle"><h5></h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+    <img src="/images/Rehabilitation/YRSG.png" alt="" />
+    </div>
+    <div class="col">
+      Yellow Ribbon Singapore or YRSG, is a statutory board under the Ministry of Home Affairs. SPS partners closely with YRSG to provide skills training and employment assistance for offenders and ex-offenders, and to engage the community through the Yellow Ribbon Project.
+    </div>
+  </div>
+ </div>
 
 ![](/images/Rehabilitation/YRSG.png)
 
