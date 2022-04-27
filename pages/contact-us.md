@@ -25,7 +25,7 @@ locations:
       - days: Saturdays
         time: 8.00am to 4.00pm
         description: ""
-    maps_link: ""
+    maps_link: http://www.onemap.gov.sg/main/v2/?lat=1.35870139018441&lng=103.970076358635
     title: Prison Link Centre (Changi)
 contacts:
   - content:
