@@ -34,7 +34,7 @@ Research conducted within SPS should fulfil the following:
 * Researchers must abide by the Official Secrets Act (OSA) and maintain the confidentiality of all information acquired through the course of research with SPS. Releasing confidential information without the prior approval of SPS is considered a breach of the OSA and is a chargeable offence.
 *  SPS holds the right to restrict circulation of the final research report if it is found to contain sensitive information. If the removal/rectification of such information is not possible or affects the intellectual contribution of the researcher, SPS will place an embargo on the research paper. Under the embargo, the researcher must not publish or disseminate the research paper through any platform without the expressed approval of SPS, other than the distribution of a thesis for grading purposes.
 
-Frequently Asked Questions
+**Frequently Asked Questions**
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
