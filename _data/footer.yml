@@ -1,6 +1,6 @@
-contact_us: https://pris-test-staging.netlify.app/contact-us/
+contact_us: /contact-us/
 show_reach: true
-feedback: https://pris-test-staging.netlify.app/feedback
+feedback: /feedback
 faq: https://www.sps.gov.sg/faqs/AskPris.html
 social_media:
   facebook: https://www.facebook.com/SingaporePrisonService/
