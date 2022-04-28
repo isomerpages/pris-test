@@ -30,7 +30,7 @@ sections:
       button: Read about visit updates
       url: https://www.sps.gov.sg/connect-us/updated-visit-information
   - infopic:
-      title: Our Rehabilitation Process
+      title: Our Corrections Process
       button: Know more about what we do
       url: /rehabilitation-process-menu
       image: /images/image-library/rehab%20process.jpg
@@ -40,7 +40,7 @@ sections:
       description: The Yellow Ribbon Project (YRP) is a national public engagement
         campaign aimed at changing society’s mindset in giving ex-offenders a
         second chance in life.
-      button: Find out more abour YRP
+      button: Find out more about YRP
       url: https://www.yellowribbon.gov.sg/community-engagement/yellow-ribbon-project
       image: /images/yrsg-logo-nobackground.png
       alt: Image alt text
