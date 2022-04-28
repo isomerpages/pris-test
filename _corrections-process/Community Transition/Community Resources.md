@@ -24,6 +24,9 @@ These partners help integrate a range of services available in a timely and coor
   </div>
  </div>
 
+	
+	
+	
 ![](/images/Rehabilitation/YRSG.png)
 
 Yellow Ribbon Singapore or YRSG, is a statutory board under the Ministry of Home Affairs. SPS partners closely with YRSG to provide skills training and employment assistance for offenders and ex-offenders, and to engage the community through the Yellow Ribbon Project.
