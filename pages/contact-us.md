@@ -31,7 +31,12 @@ contacts:
   - content:
       - phone: 1 800 774 7667
       - email: ""
-      - other: "(To all Law firms: Please verify your members’ status with the Law
-          Society if the system prompts “The NRIC/FIN entered does not exist.”)"
+      - other: ""
     title: General Enquiries & Feedback
+  - content:
+      - phone: 1 800 774 7667
+      - email: ""
+      - other: "If you wish to send in clothing, you may make an appointment by call the
+          visit booking hotline "
+    title: "Sending clothing to inmates:"
 ---
