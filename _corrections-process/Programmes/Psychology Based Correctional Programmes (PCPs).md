@@ -8,7 +8,7 @@ third_nav_title: Programmes
 [< Option1 Video of PCPs presented at UNODC in 2018/2019 >
 < Option2 Image of Psychologist conducting session >]
 
-Singapaore Prison Service provides a range of psychology-based correctional programmes (PCPs) for offenders under our care. These PCPs aim to enhance the motivation of offenders to change and address their unhelpful thinking patterns related to offending. Prosocial skills training is also provided in the programmes to help offenders achieve lives that are free from drugs and crime.
+Singapaore Prison Service provides a range of psychology-based correctional programmes (PCPs) for inmates under our care. These PCPs aim to enhance the motivation of inmates to change and address their unhelpful thinking patterns related to offending. Prosocial skills training is also provided in the programmes to help inmates achieve lives that are free from drugs and crime.
  
 In general, the development of PCPs is guided by: <br> (1) the needs assessment of the local inmates populations, <br>(2) established rehabilitation frameworks, and <br>(3) best practices that are proven effective in reducing recidivism in the corrections literature. Specifically, the theoretical orientation of the PCPs is influenced by three known rehabilitation models and theory – namely the Risk-Need-Responsivity (RNR) model, the Good Lives Model (GLM) and the Desistance Approach.
  
