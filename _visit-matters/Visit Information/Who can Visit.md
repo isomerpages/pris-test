@@ -6,18 +6,22 @@ third_nav_title: Visit Information
 ---
 Visits play an important role in the rehabilitation and reintegration of inmates. It is a means where the inmate's families, friends and loved ones, are engaged to enhance family bonding and develop positive social support towards the inmates' rehabilitation and eventual re-integration into the community. Family visits can positively impact offenders and SPS by:
 
-**1. Helping offenders cope with imprisonment**<br>
-Buffer offenders from depressive symptoms due to isolation and adjustment to prison life.
+**Helping Inmates cope with imprisonment**<br>
+Buffer inmates from depressive symptoms due to isolation and adjustment to prison life.
 
-**2. Reduce Offender Misconduct**<br>
+**Reduce Inmates Misconduct**<br>
 Consistent visits significantly reduce misconduct in general and major violent acts of misconduct.
 
-**3. Rebuild Support Networks**<br>
-Visit is an allocated time for offender to reconcile and improve relationships with family. The quality of relationships between offender and family is an important consideration to rehabilitative outcomes.
+**Rebuild Support Networks**<br>
+Visit is an allocated time for inmates to reconcile and improve relationships with family. The quality of relationships between inmates and their families is an important consideration to rehabilitative outcomes.
 
 ![](/images/Visit%20Matters/Visit%20Family%20Support.png)
+[To edit to corporate colours]
 
 **Visits by Family members and Relatives**<br>
+![](/images/Placeholder%20for%20Image.png)
+[Image of Face to face visit (re-enacted)]
+
 Family members and relatives are allowed to visit the inmate. Family members and relative can use online visit request form to submit your application.  Do note that documentary proof of the applicant’s relationship to inmate will be to be submitted.  The result of the registration will be sent to the applicant via SMS. Documentary proof will need to presented for verification on the first visit.
 Visit Request Form (VRF) for online application:
 
