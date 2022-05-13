@@ -9,10 +9,15 @@ SPS partners [Yellow Ribbon Singapore (YRSG)](https://www.yellowribbon.gov.sg/) 
 <div class="container">
   <div class="row">
     <div class="col">
-    <img alt="" src="https://raw.githubusercontent.com/isomerpages/pris-test/staging/images/IFSP.jpg">
+    <a href="https://raw.githubusercontent.com/isomerpages/pris-test/staging/images/Rehabilitation/VST%201.png">
+         <img alt="" src="https://raw.githubusercontent.com/isomerpages/pris-test/staging/images/Rehabilitation/VST%201.png">
+      </a>
     </div>
     <div class="col">
-      <img alt="" src="https://raw.githubusercontent.com/isomerpages/pris-test/staging/images/ES.png">
+      <a href="https://raw.githubusercontent.com/isomerpages/pris-test/staging/images/Rehabilitation/VST%202.png">
+         <img alt="" src="https://raw.githubusercontent.com/isomerpages/pris-test/staging/images/Rehabilitation/VST%202.png">
+				</a>
     </div>
   </div>
  </div>
+ [ To Redesign ] 
