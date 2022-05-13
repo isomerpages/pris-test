@@ -4,7 +4,10 @@ permalink: /visit-matters/Visit-Information/permalink
 description: ""
 third_nav_title: Visit Information
 ---
-There are 5 Prison Link Centres and 5 Satellite Visit Centres providing visit facilities.
+![](/images/Placeholder%20for%20Info.jpg)
+< Graphic map of PLCs and Satelite visit centres >
+
+There are five Prison Link Centres and five Satellite Visit Centres providing visit facilities.
 
 Operating Hours:
 
@@ -18,7 +21,7 @@ Operating Hours:
 
 ||||
 | -------- | -------- | -------- |
-|**Prison Link Centre Changi (PLCC)**<br>990 Upper Changi Road North<br>Singapore 506968|**Prison Link Centre Tanah Merah (PLCTM)**<br>10 Tanah Merah Besar Road<br>Singapore 498834|**Prison Link Centre Geylang Bahru (PLCGB)**<br>Block 70 Geylang Bahru<br>#02-2719<br>Singapore 330070|
+|**[Prison Link Centre Changi (PLCC)](http://www.onemap.gov.sg/main/v2/?lat=1.35866557661503&lng=103.970054202183)**<br>990 Upper Changi Road North<br>Singapore 506968|**Prison Link Centre Tanah Merah (PLCTM)**<br>10 Tanah Merah Besar Road<br>Singapore 498834|**[Prison Link Centre Geylang Bahru (PLCGB)](http://www.onemap.gov.sg/main/v2/?lat=1.32188556952378&lng=103.870318564881)**<br>Block 70 Geylang Bahru<br>#02-2719<br>Singapore 330070|
 |**Prison Link Centre Jurong (PLCJ)**<br>Block 134 Jurong Gateway<br>#04-309A<br>Singapore 600134|**Prison Link Centre Selarang Park (PLCSP)**<br>1819 Upper Changi Road North<br>Singapore 506793||
 |
 
