@@ -31,6 +31,6 @@ The operating days and hours for our satellite visit centres differs from centre
 
 ||||
 | -------- | -------- | -------- |
-|**ISCOS (Industrial & Services Co-Operative Society Ltd)**<br>237 Alexandra Road<br>#04-19 <br>Singapore 159929| **Kampong Ubi Community Centre***<br>10 Jalan Ubi<br>Singapore 409075|**Lakeside Family Centre**<br>21 Yung Ho Road<br>S#03-01<br>The Agape<br>Singapore 618593|
-|**Singapore Children Society***<br>9 Bishan Place<br>#05-02 Junction 8<br>Singapore 579837|**Singapore Anti-Narcotics Association**<br>2 Sengkang Square<br>#05-01 Sengkang Community Hub<br>Singapore 545025||
+|**[ISCOS (Industrial & Services Co-Operative Society Ltd)](http://www.onemap.gov.sg/main/v2/?lat=1.29116199685322&lng=103.813829859248)**<br>237 Alexandra Road<br>#04-19 <br>Singapore 159929| **[Kampong Ubi Community Centre](http://www.onemap.gov.sg/main/v2/?lat=1.31784644102688&lng=103.900750123561)***<br>10 Jalan Ubi<br>Singapore 409075|**[Lakeside Family Centre](http://www.onemap.gov.sg/main/v2/?lat=1.32695561107155&lng=103.724653192266)**<br>21 Yung Ho Road<br>S#03-01<br>The Agape<br>Singapore 618593|
+|**[Singapore Children Society](http://www.onemap.gov.sg/main/v2/?lat=1.3504812534505&lng=103.848760473211)***<br>9 Bishan Place<br>#05-02 Junction 8<br>Singapore 579837|**[Singapore Anti-Narcotics Association](http://www.onemap.gov.sg/main/v2/?lat=1.39272027516124&lng=103.894082276154)**<br>2 Sengkang Square<br>#05-01 Sengkang Community Hub<br>Singapore 545025||
 |*Special conditions apply|||
