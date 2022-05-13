@@ -6,21 +6,14 @@ third_nav_title: Inmates Regime
 ---
 SPS is committed to ensuring the safety and well-being of our inmates and will provide for all basic needs of inmates.
 
-**a. Meals**<br>
+**Meals**<br>
 Inmates are provided with three meals daily, which are planned based on a dietician’s recommendation to ensure they meet nutritional requirements. Inmates have bread with spread like butter, jam or chocolate, and a hot beverage like coffee or tea for breakfast. Lunch and dinner consist of a staple, like rice or noodles, with accompanying dishes. Fruits are also provided. Special dietary requirements are considered. For example, inmates who are diabetic are given a sugar-free diet, while inmateswho are vegetarian can also ask for a vegetarian diet. 
 
-**b. Basic Necessities**  <br>
+**Basic Necessities**  <br>
 Inmates will be issued with the following necessities for their daily living:
 
-| S/N | Item | 
-| -------- | -------- | 
-|1|Kit Box| 
-|2|Clothing| 
-|3|Slippers| 
-|4|Towels| 
-|5|Eating Utensils and Mug| 
-|6 |Toiletries| 
-|7 |Sleeping Mats and Blanket|
+
+< Image of Kit Box as infographic for listing of items >
 
 These are washed, replenished and exchanged on a regular basis.
 
