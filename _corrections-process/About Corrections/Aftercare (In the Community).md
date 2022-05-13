@@ -4,6 +4,8 @@ permalink: /corrections-process/About-Corrections/Aftercare
 description: ""
 third_nav_title: About Corrections
 ---
+![](/images/Placeholder%20for%20Image.png)
+[mage of COMC officer with supervisee interacting, SPCSC in background]
 
 In the aftercare phase, SPS continues to build on the knowledge and skills that offenders have gained in prisons, via a structured and gradual reintegration process in the community. Offenders may be emplaced on [Community-Based Programmes (CBP)](/corrections-process/community-transition/cbp), where they reside at home or at approved residential facilities such as halfway houses. Mandatory supervision, counselling, and casework sessions are also extended to individuals who require additional support in the aftercare phase.
 
