@@ -28,6 +28,9 @@ Inmates may also alert any prison officer at any time if they are feeling unwell
 If assessed necessary by the PMO, inmates can be referred to public healthcare institutions for management of more complex medical issues.
 
 **Safety, Conduct and Discipline**<br>
-Our prisons are strict places. There are rules and regulations in place in the prison to ensure that safety, security and discipline are maintained. A safe prison environment allows inmates to focus on their rehabilitation, officers to carry out their duties and volunteers to feel assured while engaging inmates. It also gives families of inmates the assurance that their loved ones are safe in the prison. Family members should encourage their loved ones to follow the rules and regulations in prison and partake of the rehabilitation programmes available.
+![](/images/Placeholder%20for%20Image.png)
+[Image of muster check]
+
+Our prisons are strict places. There are rules and regulations in place in the prison to ensure that safety, security and discipline are maintained. A safe prison environment allows inmates to focus on their [rehabilitation](/rehabilitation-process), officers to carry out their duties and volunteers to feel assured while engaging inmates. It also gives families of inmates the assurance that their loved ones are safe in the prison. Family members should encourage their loved ones to follow the rules and regulations in prison and partake of the rehabilitation programmes available.
 
 Inmates who disrupt the order in prisons by committing institutional offences will be subjected to a thorough investigation by our Provost Officers, which includes taking statements from the complainants, witnesses and the accused, as well as reviewing all evidence relevant to the case.  A Superintendent, who is not from the institution where the inmate is housed at, will preside over the case. The Superintendent will consider all facts of the case, before deciding if the inmate is guilty, and if so, the punishments to be imposed.
