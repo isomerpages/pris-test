@@ -4,8 +4,8 @@ permalink: /corrections-process/Community-Transition/CBP
 description: ""
 third_nav_title: Community Transition
 ---
-<strong><u>What is the Community Based Programme (CBP)?</u></strong><br>
-Community-Based Programme (CBP) promotes the reintegration of amenable inmates into society with the help of their family members and the community, by emplacing them out into the community towards the tail-end of their sentence. It provides an opportunity for the inmates to gradually reintegrate in the community by building up their capacity to reconnect with their families and be gainfully employed as contributing members of the society.
+
+Community-Based Programme (CBP) promotes the reintegration of amenable inmates into society with the help of their family members and the community, by emplacing them within the community towards the tail-end of their sentence. It provides an opportunity for the inmates to gradually reintegrate in the community by building up their capacities to reconnect with their families and be gainfully employed as contributing members of the society.
 
 ![](/images/Rehabilitation/CBP%20Infographic.png)
 
