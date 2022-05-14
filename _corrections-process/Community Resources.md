@@ -3,7 +3,6 @@ title: Community Resources
 permalink: /corrections-process/Community-Resources
 description: ""
 ---
-
 **Case Management Partners**<br> 
 SPS partners closely with these case management partners to provide case management services and support for supervisees and their families. 
 These partners help integrate a range of services available in a timely and coordinated manner to address the needs of offenders and their families, such as employment opportunities, accommodation and overcoming work challenges.
