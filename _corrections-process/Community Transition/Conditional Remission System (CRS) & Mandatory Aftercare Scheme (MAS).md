@@ -14,16 +14,17 @@ Most ex-offenders will generally still be released after they have served two-th
 * Corrective Training
 * Preventive Detention
 
-This will be in addition to any sentence that may be imposed for committing an offence in breach of the basic condition, and there shall be no one-third remission for the enhanced sentence. The maximum length of the enhanced sentence shall not exceed the remaining duration of the Conditional Remission Order from the date of the “new” offence. 
+This will be in addition to any sentence that may be imposed for committing an offence in breach of the basic condition, and there shall be no one-third remission for the enhanced sentence. The maximum length of the enhanced sentence shall not exceed the remaining duration of the CRO from the date of the “new” offence. 
 
 The implementation of the CRS will high-risk ex-inmates to be placed on a Mandatory Aftercare Scheme.
 
 #### Mandatory Aftercare Scheme
 ![](/images/Rehabilitation/MAS%20Factsheet.png)
+< To be redone in a top down scheme>
 
 The Mandatory Aftercare Scheme (MAS) is a compulsory structured aftercare regime that provides enhanced community support, counselling and case management with tight supervision for a selected group of ex-offenders at risk of re-offending and also those who need more support in reintegration into society. It aims to support ex-offenders in staying crime-free and deter them from re-offending.
 
-The scheme will consist of supervision and restrictions such as curfew hours and electronic monitoring, as well as counselling and case management. Upon release at the two-thirds mark of their sentence, ex-offenders who are required to undergo MAS will be placed progressively through these step-down aftercare support and supervision.
+The scheme will consist of supervision and restrictions, such as mandatory residential phase, curfew hours and electronic monitoring, as well as counselling and case management. Upon release at the two-thirds mark of their sentence, ex-offenders who are required to undergo MAS will be placed progressively through these step-down aftercare support and supervision.
 
 ![](/images/Rehabilitation/SHWH.jpg)
 
