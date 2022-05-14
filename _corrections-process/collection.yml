@@ -2,7 +2,6 @@ collections:
   corrections-process:
     output: true
     order:
-      - Community Resources.md
       - About Corrections/.keep
       - About Corrections/Rehabilitation Process.md
       - About Corrections/Incare (In Prison).md
@@ -14,8 +13,8 @@ collections:
       - Inmates Regime/Prison Routine.md
       - Inmates Regime/Reformative Training.md
       - Inmates Regime/COVID Safe Management Measures.md
-      - Programmes/Introduction to Programmes.md
       - Programmes/.keep
+      - Programmes/Introduction to Programmes.md
       - Programmes/Psychology Based Correctional Programmes (PCPs).md
       - Programmes/Work Programme.md
       - Programmes/Education.md
@@ -32,3 +31,4 @@ collections:
       - Community Transition/Youth Offenders (Release on Supervision and
         Community Rehabilitation Centre).md
       - Correctional Research Application.md
+      - Community Resources.md
