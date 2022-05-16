@@ -122,6 +122,19 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
       <strong>Bedok Reformative Training Centre</strong><br />The Bedok Reformative Training Centre (BRTC) was established as a centre for young male offenders, between 16 and 21 years old, to undergo reformative training. The photo shows the facility of BRTC.
     </div>
   </div>
+	</div><td style="width: 50%; vertical-align: middle"><h5>1963</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+			<strong>Frankie Lee Siew Kwong, Acting Director of Prisons</strong><br />Frankie Lee Siew Kwong served as the Acting Director of Prisons during Singapore's merger with Malaysia. As the former Administrative Officer of Changi Prison, he was well-acquainted with the operation and administration of the penal system.
+    </div>
+		<div class="col">
+       <figure>
+    <img src="/images/SPS75/1963.png"
+				 alt="credits">
+</figure>
+	</div>
+  </div>
   <li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">1966-1994: Building our Correctional Capabilities</label>
