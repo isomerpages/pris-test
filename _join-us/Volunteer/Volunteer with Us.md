@@ -39,14 +39,3 @@ Academic education is one of the rehabilitation programmes available to offender
 YRCP is a grassroots-led initiative that provides community support and assistance to families impacted by incarceration through grassroots organisations. As a YRCP volunteer, you will engage and befriend these families and where necessary, link them up with helping agencies in the local community.
  
 While the activity may differ, the higher purpose of volunteering is the same, to be the second chances of the offenders, ex-offenders, and their families. 
- 
-**c.  Apply Now**
-
-You may volunteer as an individual or under any of the Social Service Agencies (SSAs) or organisations that are currently partnering with SPS to provide rehabilitative programmes. 
- 
-All applications will be processed. SPS will contact you to update you on your application status. All new volunteers will attend the Prison Volunteer Training as part of your onboarding to become a SPS volunteer. SPS also provides various trainings and developmental courses for volunteers, to equip you with the necessary skills and knowledge to aid in the work with offenders.
- 
-i. FormSG <br>
-ii. Contact us
-
-If you have queries relating to volunteering with SPS, you can email us at <a href="mailto:PRIS_Volunteers@pris.gov.sg">PRIS_Volunteers@pris.gov.sg</a>
