@@ -2,7 +2,8 @@
 title: Vision, Mission & Values
 permalink: /about-us/vision-mission-values
 ---
-![](/images/About%20Us/group%20officers.jpg)
+![](/images/Placeholder%20for%20Image.png)
+[Collage of staff in prison setting doing prison ops to reflect throughcare]
 
 ### **Vision**
 
@@ -17,7 +18,9 @@ Our Prison officers are committed to balance the needs of secure custody and dis
 
 As Captains of Lives, our officers are guided by a set of core values, namely, **Synergy, Vigilance, Integrity and Care (SVIC)**.
 
-**Synergy** - Complementing differences through collaboration<br>
+
+![](/images/Placeholder%20for%20Info.jpg)
+< **Synergy** - Complementing differences through collaboration<br>
 **Vigilance** - Alert and always keeping a lookout for one another<br>
 **Integrity** - Doing the right things always<br>
-**Care** - Respect and care for one another<br>
+**Care** - Respect and care for one another>
