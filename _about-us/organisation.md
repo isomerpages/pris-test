@@ -11,7 +11,7 @@ SPS staff, Captains of Lives (COLs), are highly engaged and work in an organisat
 SPS’s tagline: “Rehab, Renew, Restart” emphasises our commitment to rehabilitate inmates who desire to change, renew and restart their lives for the better, with the support of the community.
 
 <iframe title="YouTube video player" src="https://www.youtube.com/embed/videoseries?list=PLFdgCNYrla0y5X1I7r6YAeWuu2Z-x1_JL" width="100%" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
+[SPS Corporate Video]
 
 **Organisation Structure**
 
