@@ -3,9 +3,11 @@ title: International Cooperation
 permalink: /about-us/international-cooperation
 description: ""
 ---
-SPS’s regular engagements with its international counterparts provide opportunities for SPS to showcase its latest correctional capabilities, and learn from other leading jurisdictions. These knowledge exchanges enable SPS to sharpen its capabilities for better correctional outcomes and organisational results.
+**International Conferences**
 
-The (i) [Asian and Pacific Conference of Correctional Administrators (APCCA)](http://www.apcca.org/) which is a forum for government officials responsible for prison or correctional administration in the Asia Pacific region, and the (ii) [International Corrections and Prisons Association (ICPA)](http://icpa.org/) which is an international association spanning government agencies, academic groups, NGOs and private sector service providers.
+The Singapore Prison Service’s (SPS) regular engagements with its international counterparts provide opportunities for SPS to share its latest correctional capabilities, and learn from other leading jurisdictions. These knowledge exchanges enable SPS to sharpen its capabilities for better correctional outcomes and organisational results. 
+
+The [Asian and Pacific Conference of Correctional Administrators (APCCA)](http://www.apcca.org/) which is a forum for government officials responsible for prison or correctional administration in the Asia Pacific region, and the [International Corrections and Prisons Association (ICPA)](http://icpa.org/) which is an international association spanning government agencies, academic groups, NGOs and private sector service providers.
 
 Since 2002, SPS has served as the APCCA Joint-Secretariat with Hong Kong Correctional Services Department. In 2017, then SPS Commissioner of Prisons, Mr Desmond Chin was elected to sit on the ICPA Board of Directors and stepped down in 2020 upon his retirement from SPS. Current Commissioner of Prisons, Ms Shie Yong Lee was elected to the Board in October 2020 for a 4-year term. At these two correctional associations, SPS seeks to share its experiences in corrections, spanning across operations, staff training, as well as rehabilitation and reintegration.
 
