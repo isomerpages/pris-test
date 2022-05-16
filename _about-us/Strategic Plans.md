@@ -3,7 +3,8 @@ title: Strategic Plans
 permalink: /about-us/strategic-plans
 description: ""
 ---
-SPS works towards achieving the following desired outcomes through our strategic plans:
+![](/images/Placeholder%20for%20Info.jpg)
+< SPS works towards achieving the following desired outcomes through our strategic plans:
 
 **Desired Outcomes**
 * Safe and Secure Prison 
@@ -25,4 +26,4 @@ SPS works towards achieving the following desired outcomes through our strategic
 * Prison as a place of Transformation through ‘Learning Prison’ strategy
 	* Create a Learning Prison where our officers are equipped with relevant tools and skills to motivate and guide inmates in taking personal ownership of their rehabilitation to become better individuals.
 * Expanding Community Corrections through ‘Prison without Walls’ strategy
-	* Provide scaffolds and interventions to support increased community corrections and facilitate seamless rehabilitation and reintegration of offenders.
+	* Provide scaffolds and interventions to support increased community corrections and facilitate seamless rehabilitation and reintegration of offenders. >
