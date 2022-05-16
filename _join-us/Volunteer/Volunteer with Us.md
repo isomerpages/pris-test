@@ -23,12 +23,7 @@ The path to recovery and desistance can be challenging and is rarely straightfor
 **Areas where you can contribute as a Volunteer**
 
 The programmes and services facilitated by volunteers complement the rehabilitative initiatives provided by SPS to better prepare offenders for eventual return to the society. Hence, volunteering can be done in various forms, within and/or beyond the prison walls. You can volunteer to:
- 
-**(3) Be a Facilitator of religious, family, or other personal development programmes or services**<br>
- Volunteers facilitating religious programmes and services provide spiritual guidance and emotional support to inmates.
- When volunteers facilitate family programmes or services, you help inmates and their families gain useful knowledge and skills to become more effective members of the family, gain stability and strength to move forward as a family including in the aftercare. Children also benefit both directly and indirectly when families are supported by volunteers.
- Volunteers possess a wealth of experience and competencies. You can volunteer to impart skills (e.g., IT literacy) and share knowledge (financial planning) with the offenders and their families.
- 
+  
 **(4) Be a Yellow Ribbon Community Project (YRCP) volunteer**<br>
 YRCP is a grassroots-led initiative that provides community support and assistance to families impacted by incarceration through grassroots organisations. As a YRCP volunteer, you will engage and befriend these families and where necessary, link them up with helping agencies in the local community.
  
@@ -39,7 +34,7 @@ While the activity may differ, the higher purpose of volunteering is the same, t
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Be a SPS Befriender</label>
     <div>
-      <p>Prosocial support is among the key factors that prevent reoffending. You can volunteer to be a SPS Befriender and be a friend to inmates who want to restart their lives among positive peers. As a Befriender, you will support inmates who may be at any phase of their incarceration through letter-writing, phonecalls and visitations. The befriending journey continues into the aftercare as your befriendee prepares to re-enter society with yours and the community’s support.</p>
+      <p><img src="/images/Family%20Reintegration.jpg" alt=""> [Image of SPS Befriender in action]<br> Prosocial support is among the key factors that prevent reoffending. You can volunteer to be a SPS Befriender and be a friend to inmates who want to restart their lives among positive peers. As a Befriender, you will support inmates who may be at any phase of their incarceration through letter-writing, phonecalls and visitations. The befriending journey continues into the aftercare as your befriendee prepares to re-enter society with yours and the community’s support.</p>
     </div>
 	</li>  
   <li>
@@ -54,8 +49,8 @@ While the activity may differ, the higher purpose of volunteering is the same, t
     <label for="accordion3">Be a Facilitator of religious, family, or other personal development programmes or services</label>
     <div>
       <p>Volunteers facilitating religious programmes and services provide spiritual guidance and emotional support to inmates.<br>&nbsp;<br>
- When volunteers facilitate family programmes or services, you help inmates and their families gain useful knowledge and skills to become more effective members of the family, gain stability and strength to move forward as a family including in the aftercare. Children also benefit both directly and indirectly when families are supported by volunteers.<br>&nbsp;<br>
- Volunteers possess a wealth of experience and competencies. You can volunteer to impart skills (e.g., IT literacy) and share knowledge (financial planning) with the offenders and their families.
+When volunteers facilitate family programmes or services, you help inmates and their families gain useful knowledge and skills to become more effective members of the family, gain stability and strength to move forward as a family including in the aftercare. Children also benefit both directly and indirectly when families are supported by volunteers.<br>&nbsp;<br>
+Volunteers possess a wealth of experience and competencies. You can volunteer to impart skills (e.g., IT literacy) and share knowledge (financial planning) with the inmates and their families.
       </p>
     </div>
   </li>
