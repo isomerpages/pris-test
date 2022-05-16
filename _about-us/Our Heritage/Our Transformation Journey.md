@@ -107,7 +107,21 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
     <figcaption>Source: National Archives of Singapore</figcaption>
 </figure>
 	</div>
-  </div>		
+  </div>
+	</div><td style="width: 50%; vertical-align: middle"><h5>1961</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+    <figure>
+    <img src="/images/SPS75/1961%20BRTC.jpg"
+				 alt="credits">
+    <figcaption>Source: Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</figcaption>
+</figure>
+    </div>
+    <div class="col">
+      <strong>Bedok Reformative Training Centre</strong><br />The Bedok Reformative Training Centre (BRTC) was established as a centre for young male offenders, between 16 and 21 years old, to undergo reformative training. The photo shows the facility of BRTC.
+    </div>
+  </div>
   <li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">1966-1994: Building our Correctional Capabilities</label>
