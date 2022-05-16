@@ -4,10 +4,11 @@ permalink: /join-us/Volunteer
 description: ""
 third_nav_title: Volunteer
 ---
+Volunteers come in to work with the inmates and ex-offenders, in the areas of religious programmes and services, social programmes, academic and enrichment programmes. Volunteers are also one of the sources of pro-social support for the released ex-offenders in the community.
 
-Prison volunteers come in to work with the offenders, in the areas of religious programmes and services, social programmes, academic and enrichment programmes. Volunteers are also one of the sources of pro-social support for the released offenders in the community.
 
-**a. Role of a Volunteer in the offender’s rehabilitation journey**
+
+**Role of a Volunteer in the offender’s rehabilitation journey**
 
  Volunteers play an integral role in the offender’s rehabilitation and desistance journey. When volunteers engage the offenders, ex-offenders and their families, you give hope and help rebuild lives.
  
