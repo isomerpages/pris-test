@@ -139,9 +139,16 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
     <input type="checkbox" id="accordion2">
     <label for="accordion2">1966-1994: Building our Correctional Capabilities</label>
     <div>
-      <p>This is line 1</p>
-      <p>This is line 2<br>
-        This is line 3</p>
+      <p><td style="width: 50%; vertical-align: middle"><h5>1966</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+    <img src="/images/SPS75/1966%20Queenstown%20Remand%20Prison.png" alt="" />
+    </div>
+    <div class="col">
+      <strong>Queenstown Remand Prison</strong><br />In 1966, Queenstown Remand Prison (QRP) was built to house persons on remand and short-term offenders after Singapore became independent. In 2009, QRP ceased operations and inmates were transferred to Cluster B of the Changi Prison Complex. The photo shows the external view of QRP.
+    </div>
+  </div>
     </div>
   </li>
   <li>
