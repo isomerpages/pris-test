@@ -80,7 +80,20 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
 </figure>
     </div>
   </div>
+    </div><td style="width: 50%; vertical-align: middle"><h5>1959</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+    <figure>
+    <img src="/images/SPS75/1959%20Prison%20Inquiry.jpg"
+				 alt="credits">
+    <figcaption>Source: National Archives of Singapore</figcaption>
+</figure>
     </div>
+    <div class="col">
+      <strong>Prison Inquiry Commission</strong><br />The Prisons Inquiry Commission was convened and chaired by Devan Nair who strongly recommended that the Prisons Department should shift its focus from custodial care to rehabilitation. The photo shows Devan Nair presenting the Report of the Prison Inquiry Commission to Yang Di-Pertuan Negara Yusof Ishak.
+    </div>
+  </div>
   <li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">1966-1994: Building our Correctional Capabilities</label>
