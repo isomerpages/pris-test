@@ -94,6 +94,20 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
       <strong>Prison Inquiry Commission</strong><br />The Prisons Inquiry Commission was convened and chaired by Devan Nair who strongly recommended that the Prisons Department should shift its focus from custodial care to rehabilitation. The photo shows Devan Nair presenting the Report of the Prison Inquiry Commission to Yang Di-Pertuan Negara Yusof Ishak.
     </div>
   </div>
+	</div><td style="width: 50%; vertical-align: middle"><h5>1960</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+			<strong>Pulau Senang Penal Settlement</strong><br />Pulau Senang Penal Settlement started as an experimental rehabilitative facility for inmates from Changi Prison. It was closed after a riot in 1962. The photo shows inmates arriving in Pulau Senang in the early 1960s.
+    </div>
+		<div class="col">
+       <figure>
+    <img src="/images/SPS75/1960%20Pulau%20Senang.jpg"
+				 alt="credits">
+    <figcaption>Source: National Archives of Singapore</figcaption>
+</figure>
+	</div>
+  </div>		
   <li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">1966-1994: Building our Correctional Capabilities</label>
