@@ -4,8 +4,6 @@ permalink: /sps75-timeline
 description: ""
 third_nav_title: Our Heritage
 ---
-<center>
-</style>
 <center><h2>FROM 1946,</h2>
 	
 <p>The Singapore Prison Service (SPS) was formally instituted as a government department.<br>
