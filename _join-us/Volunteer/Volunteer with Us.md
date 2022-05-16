@@ -14,11 +14,11 @@ Volunteers come in to work with the inmates and ex-offenders, in the areas of re
  
 As a volunteer, you:
 * Share knowledge and impart skills to help the inmates increase their reintegration potential.
-* Provide the emotional support that encourages offenders to stay focused and committed to their rehabilitation while serving sentence.
+* Provide the emotional support that encourages inmates to stay focused and committed to their rehabilitation while serving sentence.
 * Assist to stabilise and strengthen families left vulnerable when a loved one is incarcerated.
 * Form part of the prosocial network in the community, to reinforce the ex-offenders’ resolve to desist and support the reunification of families after release.
  
-The path to recovery and desistance can be challenging and is rarely straightforward. SPS welcomes you to join us on our journey towards a society without re-offending.
+The path to recovery and desistance can be challenging and is rarely straightforward. The Singapore Prison Service welcomes you to join us on our journey towards a society without re-offending.
 
 
 **b. Areas where you can contribute as a Volunteer**
