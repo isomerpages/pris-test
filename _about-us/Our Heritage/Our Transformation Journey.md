@@ -5,8 +5,19 @@ description: ""
 third_nav_title: Our Heritage
 ---
 <center>
+</style>
+<center><h2>FROM 1946,</h2>
+	
+<p>The Singapore Prison Service (SPS) was formally instituted as a government department.<br>
+&nbsp;<br>
+The origins of Singapore’s penal system can be traced to the arrival of the first batch of convicts in 1825. The philosophy of deterrence through punitive measures was adopted in the prisons then, which were managed by colonial administrators, until the Second World War. In 1946, Prisons Department, now known as Singapore Prison Service, was formally instituted as a government department to oversee the management of prisons.<br>
+&nbsp;<br>
+Over the years, SPS has progressed to become a leading correctional agency, to enforce safe and secure custody, deliver evidence-informed rehabilitation programmes and carry out effective community supervision of released offenders. SPS and its staff, also known as Captains of Lives, have undergone a transformation journey since then, and community partners have been instrumental in SPS’ journey.<br>
+&nbsp;<br>
+In 2021, SPS celebrates ’SPS75’, commemorating 75 years since its inception as a government department. SPS75 was officially launched on 21 June 2021 by Minister for Communications and Information and Second Minister for Home Affairs, Mrs Josephine Teo.</p></center>
 
-<iframe title="YouTube video player" src="https://www.youtube.com/embed/6Q5eWi20qTY" width="100%" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/aZ1DbO7epB0" width="100%" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
 
 <h3>OUR JOURNEY TO TRANSFORMATIONS</h3>
 Singapore Prison Service (SPS) has come a long way from being a custodial agency to a leading correctional agency which enforces the safe and secure custody of inmates, and rehabilitates them to prevent re-offending for a safer Singapore. Strong community partnerships and support for second chances for ex-offenders have helped to keep recidivism rates in Singapore low and stable. The two-year recidivism rate for the 2018 release cohort is 22.1 per cent, down from about 44 per cent two decades ago.<br>
@@ -101,4 +112,4 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
         <li>Item 3</li>
       </ol>
     </div>
-  </li> 
+  </li>
