@@ -17,5 +17,4 @@ Our role also extends beyond the prison walls. We work closely with our communit
 
 Our Captains of Lives are mentors, coaches, and role models to those under our charge.
 
-
 <iframe title="YouTube video player" src="https://www.youtube.com/embed/videoseries?list=PLFdgCNYrla0y5X1I7r6YAeWuu2Z-x1_JL" width="100%" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
