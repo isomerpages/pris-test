@@ -72,14 +72,14 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
 <td style="width: 50%;"><div class="container">
   <div class="row">
     <div class="col">
-    <figure>
+			<strong>P. L. James, Third Commissioner of Prisons</strong><br />P. L. James served as the third Commissioner of Prisons up until the merger between Singapore and Malaysia in 1963. He was known to grant political detainees leave on Chinese New Year.
+    </div>
+    <div class="col">
+       <figure>
     <img src="/images/SPS75/1957.jpg"
 				 alt="credits">
     <figcaption>Source: The Straits Times © Singapore Press Holdings Limited. Permission required for reproduction.</figcaption>
 </figure>
-    </div>
-    <div class="col">
-      <strong>P. L. James, Third Commissioner of Prisons</strong><br />P. L. James served as the third Commissioner of Prisons up until the merger between Singapore and Malaysia in 1963. He was known to grant political detainees leave on Chinese New Year.
     </div>
   </div>
     </div>
