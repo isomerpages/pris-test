@@ -20,8 +20,7 @@ As a volunteer, you:
  
 The path to recovery and desistance can be challenging and is rarely straightforward. The Singapore Prison Service welcomes you to join us on our journey towards a society without re-offending.
 
-
-**b. Areas where you can contribute as a Volunteer**
+**Areas where you can contribute as a Volunteer**
 
 The programmes and services facilitated by volunteers complement the rehabilitative initiatives provided by SPS to better prepare offenders for eventual return to the society. Hence, volunteering can be done in various forms, within and/or beyond the prison walls. You can volunteer to:
 
