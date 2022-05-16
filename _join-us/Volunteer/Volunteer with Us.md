@@ -10,10 +10,10 @@ Volunteers come in to work with the inmates and ex-offenders, in the areas of re
 
 **Role of a Volunteer in the offender’s rehabilitation journey**
 
- Volunteers play an integral role in the offender’s rehabilitation and desistance journey. When volunteers engage the offenders, ex-offenders and their families, you give hope and help rebuild lives.
+ Volunteers play an integral role in the inmate's rehabilitation and desistance journey. When volunteers engage the inmates, ex-offenders and their families, you give hope and help rebuild lives.
  
 As a volunteer, you:
-* Share knowledge and impart skills to help the offenders increase their reintegration potential.
+* Share knowledge and impart skills to help the inmates increase their reintegration potential.
 * Provide the emotional support that encourages offenders to stay focused and committed to their rehabilitation while serving sentence.
 * Assist to stabilise and strengthen families left vulnerable when a loved one is incarcerated.
 * Form part of the prosocial network in the community, to reinforce the ex-offenders’ resolve to desist and support the reunification of families after release.
