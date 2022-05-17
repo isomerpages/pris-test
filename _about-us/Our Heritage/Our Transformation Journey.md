@@ -242,6 +242,16 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
       <img src="/images/SPS75/1989-3.jpg" alt="" />
     </div>
   </div>
+		</div><td style="width: 50%; vertical-align: middle"><h5>1992</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+    <img src="/images/SPS75/1992_Poh.jpg" alt="" />
+    </div>
+    <div class="col">
+      <strong>Poh Geok Ek, Sixth Director of Prison</strong><br />Prior to Poh Geok Ek’s appointment as the Director of Prisons, he was a Police Officer who served as the Director of the Central Narcotics Bureau. The Tanah Merah Prison and Changi Women’s Prison were completed under his guidance, and he introduced the use of technology in prisons.
+    </div>
+  </div>
   </li>
   <li>
     <input type="checkbox" id="accordion3">
