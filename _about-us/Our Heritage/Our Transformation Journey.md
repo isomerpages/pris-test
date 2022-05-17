@@ -218,6 +218,19 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
       <img src="/images/SPS75/1987-1.jpg" alt="" />
     </div>
   </div>
+	 </div><td style="width: 50%; vertical-align: middle"><h5>1976</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+			<strong>Tee Tua Ba, Fifth Director of Prisons</strong><br />Tee Tua Ba was seconded to the then Prisons Department as the Director of Prisons. He was formerly in-charge of the Marine Police and promoted to Deputy Commissioner of Police. He was instrumental in setting up the Prison Scheme of Service to boost staff morale and attract new recruits of high calibre to join the service.
+    </div>
+		<div class="col">
+       <figure>
+    <img src="/images/SPS75/1988_Tee.jpg"
+				 alt="">
+</figure>
+	</div>
+  </div>
   </li>
   <li>
     <input type="checkbox" id="accordion3">
