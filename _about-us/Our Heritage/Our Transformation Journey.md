@@ -447,4 +447,37 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
 </figure>
 	</div>
   </div>
+	</div><td style="width: 50%; vertical-align: middle"><h5>2012</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+    <img src="/images/SPS75/2012%20PCRD%202.jpg" alt="" />
+    </div>
+    <div class="col">
+      <strong>Formation of Psychological & Correctional Rehabilitation Division</strong><br />Psychological & Correctional Rehabilitation Division (PCRD) was formed to develop evidence-informed approach to inmates’ rehabilitation.
+    </div>
+  </div>
+	</div><td style="width: 50%; vertical-align: middle"><h5>2014</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+			<strong>Formation of Community Corrections Command</strong><br />Community Corrections Command (COMC) was formed in August 2014 to oversee the rehabilitation, re-integration and supervision of inmates and ex-offenders in the community. COMC comprises uniformed officers and civilian specialists, who continue the work started during incare, to inspire hope and change in the inmates and ex-offenders under their charge.
+    </div>
+		<div class="col">
+       <figure>
+    <img src="/images/SPS75/2014.jpg"
+				 alt="">
+</figure>
+	</div>
+  </div>
+	</div><td style="width: 50%; vertical-align: middle"><h5>2014</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+    <img src="/images/SPS75/2014%20CCR.png" alt="" />
+    </div>
+    <div class="col">
+      <strong>Community Rehabilitation Centre</strong><br />The Community Rehabilitation Centre was launched to help first-time young male drug abusers. It provide a drug intervention programme in a residential setting that minimises disruptions to their daily routines.
+    </div>
+  </div>
   </li>
