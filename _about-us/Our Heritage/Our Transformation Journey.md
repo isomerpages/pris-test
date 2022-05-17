@@ -388,10 +388,63 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
     <input type="checkbox" id="accordion4">
     <label for="accordion4">2004-2021: Pursuing Excellence in Prison Security and Inmates’ Rehabilitation</label>
     <div>
-      <ol>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
-      </ol>
+      <p><td style="width: 50%; vertical-align: middle"><h5>2004</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+			<strong>Launch of Yellow Ribbon Project</strong><br />The Yellow Ribbon Project (YRP) was initiated to promote awareness, acceptance and an inclusive society for ex-offenders. The photo shows President S R Nathan gracing the event as the guest-of-honour at the launch of the YRP.
     </div>
+		<div class="col">
+       <figure>
+    <img src="/images/SPS75/2004_YRP.png"
+				 alt="">
+</figure>
+	</div>
+  </div>
+    </div><td style="width: 50%; vertical-align: middle"><h5>2004</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+    <img src="/images/SPS75/2004-A1.jpg" alt="" />
+    </div>
+    <div class="col">
+      <strong>Launch of Cluster A</strong><br />Cluster A at the redeveloped Changi Prison Complex officially opened on 16 August 2004 by Mr Wong Kan Seng, then Minister for Home Affairs. It included an integrated security system which enhanced operational efficiency, and allowed more time for prison officers to focus on the engagements and rehabilitation of inmates. The photo shows the opening ceremony for Cluster A.
+    </div>
+  </div>
+	</div><td style="width: 50%; vertical-align: middle"><h5>2007</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+			<strong>Ng Joo Hee, Eighth Director of Prisons</strong><br />Ng Joo Hee was appointed as the Director of Prisons after his stint as the Director of the Police Intelligence Department. He oversaw the expansion of Changi Prison Complex, especially with the operationalisation of Cluster B. He was also instrumental in the planning of the new Prison Headquarters.
+    </div>
+		<div class="col">
+       <figure>
+    <img src="/images/SPS75/2007_Ng.jpg"
+				 alt="">
+</figure>
+	</div>
+  </div>
+	</div><td style="width: 50%; vertical-align: middle"><h5>2009</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+    <img src="/images/SPS75/2009_SohWaiWah.jpg" alt="" />
+    </div>
+    <div class="col">
+      <strong>Soh Wai Wah, Ninth Director of Prisons</strong><br />Soh Wai Wah was a former Police Chief-of-Staff before being appointed as the Director of Prisons. He emphasised the importance of community corrections to facilitate inmates’ re-integration into society. During his tenure, the Director of Prisons was re-designated as the Commissioner of Prisons.
+    </div>
+  </div>
+	</div><td style="width: 50%; vertical-align: middle"><h5>2010</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+			<strong>Launch of Cluster B</strong><br />Learning from the building of Cluster A, Cluster B, the second cluster in the redeveloped Changi Prison Complex, officially opened on 20 January 2010 by Mr Wong Kan Seng, then Deputy Prime Minister and Minister for Home Affairs. The photo shows the opening ceremony of Cluster B.
+    </div>
+		<div class="col">
+       <figure>
+    <img src="/images/SPS75/2010_Launch%20of%20Cluster%20B.jpg"
+				 alt="">
+</figure>
+	</div>
+  </div>
   </li>
