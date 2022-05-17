@@ -75,7 +75,7 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
     <div class="col">
        <figure>
     <img src="/images/SPS75/1957.jpg"
-				 alt="credits">
+				 alt="">
     <figcaption>Source: The Straits Times © Singapore Press Holdings Limited. Permission required for reproduction.</figcaption>
 </figure>
     </div>
@@ -86,7 +86,7 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
     <div class="col">
     <figure>
     <img src="/images/SPS75/1959%20Prison%20Inquiry.jpg"
-				 alt="credits">
+				 alt="">
     <figcaption>Source: National Archives of Singapore</figcaption>
 </figure>
     </div>
@@ -114,7 +114,7 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
     <div class="col">
     <figure>
     <img src="/images/SPS75/1961%20BRTC.jpg"
-				 alt="credits">
+				 alt="">
     <figcaption>Source: Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</figcaption>
 </figure>
     </div>
@@ -131,7 +131,7 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
 		<div class="col">
        <figure>
     <img src="/images/SPS75/1963.png"
-				 alt="credits">
+				 alt="">
 </figure>
 	</div>
   </div>
@@ -149,7 +149,19 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
       <strong>Queenstown Remand Prison</strong><br />In 1966, Queenstown Remand Prison (QRP) was built to house persons on remand and short-term offenders after Singapore became independent. In 2009, QRP ceased operations and inmates were transferred to Cluster B of the Changi Prison Complex. The photo shows the external view of QRP.
     </div>
   </div>
+    </div><td style="width: 50%; vertical-align: middle"><h5>1966</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+			<strong>Yeow Koon Poh, Acting Director of Prisons</strong><br />Yeow Koon Poh was the acting Director of Prisons for five years after Singapore became independent and sovereign state in August 1965. Prior to his appointment, he was a distinguished police inspector involved in a number of high-profile drug raids and theft cases.
     </div>
+		<div class="col">
+       <figure>
+    <img src="/images/SPS75/1966_Yeow.jpg"
+				 alt="">
+</figure>
+	</div>
+  </div>
   </li>
   <li>
     <input type="checkbox" id="accordion3">
