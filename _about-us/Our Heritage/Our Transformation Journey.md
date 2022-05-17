@@ -186,7 +186,27 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
 </figure>
 	</div>
   </div>
-		</div>
+		</div><td style="width: 50%; vertical-align: middle"><h5>1976</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+    <img src="/images/SPS75/1976-Chai%20Keng%20Prison.jpg" alt="" />
+    </div>
+    <div class="col">
+      <strong>Chia Keng Prison</strong><br />Chia Keng Prison was completed in 1976 as a medium-security prison. It was demolished in 1993 and the inmates were rehoused in the Tampines Prison in 1992.
+    </div>
+  </div>
+	</div><td style="width: 50%; vertical-align: middle"><h5>1976</h5></td>
+	<p><strong>The Establishment of Drug Rehabilitation Centres</strong><br />With the increase in the number of drug addicts between 1970s to 1980s, Telok Paku DRC was built in 1976 and rehoused addicts from St John’s Island Opium Centre. In 1977, two more DRCs were completed, namely the Jalan Awan Centre and Selarang Park DRC. The photos show the external view of Jalan Awan Centre and Selarang Park DRC.</p>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+    <img src="/images/SPS75/1976_JAP.jpg" alt="" />
+    </div>
+    <div class="col">
+      <img src="/images/SPS75/1976.jpg" alt="" />
+    </div>
+  </div>
   </li>
   <li>
     <input type="checkbox" id="accordion3">
