@@ -252,6 +252,17 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
       <strong>Poh Geok Ek, Sixth Director of Prison</strong><br />Prior to Poh Geok Ek’s appointment as the Director of Prisons, he was a Police Officer who served as the Director of the Central Narcotics Bureau. The Tanah Merah Prison and Changi Women’s Prison were completed under his guidance, and he introduced the use of technology in prisons.
     </div>
   </div>
+	</div><td style="width: 50%; vertical-align: middle"><h5>1994</h5></td>
+	<p><strong>Tanah Merah Prison and Changi Women’s Prison/Drug Rehabilitation Centre</strong><br />Tanah Merah Prison and Changi Women’s Prison/Drug Rehabilitation Centre were purpose built maximum security facility constructed after an extensive study of the best prisons in the world. It was officially opened by Mr Wong Kan Seng, then Minister for Home Affairs. The photos show female inmates attending a programme and the external view of Tanah Merah Prison.</p>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+    <img src="/images/SPS75/1994_1.jpg" alt="" />
+    </div>
+    <div class="col">
+      <img src="/images/SPS75/1994_2.jpg" alt="" />
+    </div>
+  </div>
   </li>
   <li>
     <input type="checkbox" id="accordion3">
