@@ -21,9 +21,9 @@ As part of the campaign, print advertisements showcasing Prison Officers have al
 
 Click here to find out more about COLs and watch the three-part series [here](https://youtu.be/3PX7iKA111E?list=PLFdgCNYrla0y5X1I7r6YAeWuu2Z-x1_JL).
 
-<center><strong>-END-</strong></center>
+<center><strong>-END-</center>
 
-About the Singapore Prison Service (SPS)
+About the Singapore Prison Service (SPS)</strong>
 
 As an agency under the Ministry of Home Affairs and a key member of the Home Team, SPS enforces the secure custody of inmates and rehabilitates them for a safer Singapore. SPS’s team of Captains of Lives – comprising uniformed officers and civilian staff – works closely with inmates, their family, aftercare agencies, community partners and volunteers. The Captains of Lives inspire and steer inmates to take ownership of their rehabilitation and be responsible and contributing citizens.
 
