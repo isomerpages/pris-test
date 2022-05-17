@@ -21,7 +21,7 @@ sections:
           url: /about-corrections
         - title: Join / Partner SPS
           description: ""
-          url: /careers
+          url: /join-us/careers/our-employee-value-proposition
   - infobar:
       title: Latest SPS Updates
       description: We are pleased to inform that Prison Link Centre Geylang Bahru will
