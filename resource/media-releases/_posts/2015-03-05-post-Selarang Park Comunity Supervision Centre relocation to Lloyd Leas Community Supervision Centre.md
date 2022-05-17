@@ -6,7 +6,7 @@ date: 2015-03-05
 layout: post
 description: ""
 ---
-![](/images/2015-news-map.png)
+![](/images/Media%20Releases/2015-news-map.png)
 
 Selarang Park Community Supervision Centre will be relocated to Lloyd Leas Community Supervision Centre at 1 Cosford Road Singapore 499547 on 5 March 2015
 
