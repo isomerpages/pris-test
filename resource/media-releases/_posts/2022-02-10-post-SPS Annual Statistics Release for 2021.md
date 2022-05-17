@@ -10,4 +10,4 @@ In 2021, the Singapore Prison Service (SPS) continued to ensure the safe and sec
 ![](/images/stats-release-2021.gif)
 
 To find out more, click on the following link:<br>
-[2021 SPS Annual Statistics Release ](/files/sps-annual-statistics-release-for-2021.pdf)
+[2021 SPS Annual Statistics Release](/files/Media%20Releases/sps-annual-statistics-release-for-2021.pdf)
