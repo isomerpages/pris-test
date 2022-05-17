@@ -291,7 +291,7 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
       <strong>Portsdown Prison & Admiralty West Prison</strong><br />The Portsdown Prison was completed in 1997 and was intended for illegal immigrants and foreign inmates who committed immigration offences. It was later closed, and inmates were transferred to Admiralty West Prison which was completed in 2000.
     </div>
   </div>
-	<td style="width: 50%; vertical-align: middle"><h5>1998</h5></td>
+	 </div><td style="width: 50%; vertical-align: middle"><h5>1998</h5></td>
 <td style="width: 50%;"><div class="container">
   <div class="row">
     <div class="col">
@@ -314,7 +314,7 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
       <strong>The Making of the 'Captains of Lives'</strong><br />The term ’Captains of Lives’ was unveiled as part of SPS’ visioning exercise and transformation journey. The then Vision Statement stated that Prison Officers, who are Captains of Lives, would be instrumental in steering offenders to be responsible citizens with the help of their families and the community.
     </div>
   </div>
-	<td style="width: 50%; vertical-align: middle"><h5>1999</h5></td>
+	 </div><td style="width: 50%; vertical-align: middle"><h5>1999</h5></td>
 <td style="width: 50%;"><div class="container">
   <div class="row">
     <div class="col">
@@ -337,7 +337,7 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
       <strong>SPS’s Core Values: H.E.A.R.T</strong><br />Singapore Prison Service officially launched its core values – Honour, Excellence, Agile, Respect and Teamwork (HEART).
     </div>
   </div>
-	<td style="width: 50%; vertical-align: middle"><h5>2000</h5></td>
+ </div><td style="width: 50%; vertical-align: middle"><h5>2000</h5></td>
 <td style="width: 50%;"><div class="container">
   <div class="row">
     <div class="col">
@@ -349,6 +349,39 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
 				 alt="">
 </figure>
 	</div>
+  </div>
+	</div><td style="width: 50%; vertical-align: middle"><h5>2001</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+    <img src="/images/SPS75/2001.jpg" alt="" />
+    </div>
+    <div class="col">
+      <strong>Launching of Prison Link Centres</strong><br />Officially launched remote link centres, which was linked to five institutions– Queenstown Remand Prison, Tampines Prison, Tanah Merah Prison, Changi Women’s Prison and Selarang Park DRC.
+    </div>
+  </div>
+	 </div><td style="width: 50%; vertical-align: middle"><h5>2002</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+			<strong>Family Friendly Firm Award</strong><br />Singapore Prison Service received the Family Friendly Firm Award for its pro-family efforts and initiatives to provide a work-life harmony for its staff.
+    </div>
+		<div class="col">
+       <figure>
+    <img src="/images/SPS75/2002%20FFF%20Award.jpg"
+				 alt="">
+</figure>
+	</div>
+  </div>
+	</div><td style="width: 50%; vertical-align: middle"><h5>2003</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+    <img src="/images/SPS75/2003%20Org%20Excellence.jpg" alt="" />
+    </div>
+    <div class="col">
+      <strong>ISO 9001/2000 & Public Service Award for Organisational Excellence</strong><br />Attained ISO 9001/2000 for Rehabilitation Classification and Public Service Award for Organisational Excellence. The photo shows Mr Chua Chin Kiat, then Director of Prisons, receiving the Public Service Award for Organisational Excellence.
+    </div>
   </div>
   </li>
   <li>
