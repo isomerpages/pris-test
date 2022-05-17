@@ -207,6 +207,17 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
       <img src="/images/SPS75/1976.jpg" alt="" />
     </div>
   </div>
+	</div><td style="width: 50%; vertical-align: middle"><h5>1987</h5></td>
+	<p><strong>The Falkland Centre</strong><br />The Falkland Centre was built after the Intoxicating Substances Act came into effect in 1987 to curb the growing problem of glue-sniffing. The facility was set up to provide treatment and rehabilitation for glue sniffers/inhalant abusers. The photos show the external view of Falkland Centre and the opening ceremony of the facility.</p>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+    <img src="/images/SPS75/1987%20Falkland.jpg" alt="" />
+    </div>
+    <div class="col">
+      <img src="/images/SPS75/1987-1.jpg" alt="" />
+    </div>
+  </div>
   </li>
   <li>
     <input type="checkbox" id="accordion3">
