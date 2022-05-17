@@ -218,7 +218,7 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
       <img src="/images/SPS75/1987-1.jpg" alt="" />
     </div>
   </div>
-	 </div><td style="width: 50%; vertical-align: middle"><h5>1976</h5></td>
+	 </div><td style="width: 50%; vertical-align: middle"><h5>1988</h5></td>
 <td style="width: 50%;"><div class="container">
   <div class="row">
     <div class="col">
@@ -230,6 +230,17 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
 				 alt="">
 </figure>
 	</div>
+  </div>
+	</div><td style="width: 50%; vertical-align: middle"><h5>1989</h5></td>
+	<p><strong>Industrial and Services Co-operative Society Ltd</strong><br />Industrial and Services Co-operative Society Ltd (ISCOS) was set up by SCORE to cater specifically to the needs of discharged inmates by providing them with jobs and small business opportunities. The photos show the inmates undergoing training and working in the laundry workshop in prisons.</p>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+    <img src="/images/SPS75/1989-1.jpg" alt="" />
+    </div>
+    <div class="col">
+      <img src="/images/SPS75/1989-3.jpg" alt="" />
+    </div>
   </div>
   </li>
   <li>
