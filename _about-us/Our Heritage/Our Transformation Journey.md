@@ -516,4 +516,38 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
 </figure>
 	</div>
   </div>
+	</div><td style="width: 50%; vertical-align: middle"><h5>2019</h5></td>
+	<p><strong>The Opening of new Prison Headquarters and Selarang Halfway House</strong><br />The Prison Headquarters at Upper Changi Road North shifted to the new facility situated next to the Changi Prison Complex, which enables better command and control as well as responding to contingencies. It was officially opened together with the Selarang Halfway House by Mr K Shanmugam, Minister for Home Affairs and Minister for Law on 11 January 2019.</p>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+    <img src="/images/SPS75/2019_Prison%20HQ.jpg" alt="" />
+    </div>
+    <div class="col">
+      <img src="/images/SPS75/2019%20Selarang.jpg" alt="" />
+    </div>
+  </div>
+	</div><td style="width: 50%; vertical-align: middle"><h5>2020</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+    <img src="/images/SPS75/2020_MdmShie.jpg" alt="" />
+    </div>
+    <div class="col">
+      <strong>Shie Yong Lee, Eleventh Commissioner of Prisons</strong><br />Shie Yong Lee, a career Prison Officer, was appointed as the Commissioner of Prisons. She was previously the Deputy Commissioner (Policy & Transformation) of Prisons and was instrumental in implementing the Corrections 2025 Masterplan, which includes expanding community corrections to better reintegrate inmates into society.
+    </div>
+  </div>
+	</div><td style="width: 50%; vertical-align: middle"><h5>2021</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+			<strong>The Opening of Selarang Park Complex</strong><br />The Selarang Park Complex was officially opened by Mr K Shanmugam, Minister for Home Affairs and Minister for Law on 22 April 2021. It incorporated technology, such as facial recognition and video analytics capabilities.
+    </div>
+		<div class="col">
+       <figure>
+    <img src="/images/SPS75/2021%20SPC.jpg"
+				 alt="">
+</figure>
+	</div>
+  </div>
   </li>
