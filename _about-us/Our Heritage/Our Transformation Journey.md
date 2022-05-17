@@ -162,6 +162,31 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
 </figure>
 	</div>
   </div>
+	<td style="width: 50%; vertical-align: middle"><h5>1973</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+    <img src="/images/SPS75/1973%20Quek%20Shi%20Lei%20(4th%20Director).jpeg" alt="" />
+    </div>
+    <div class="col">
+      <strong>Quek Shi Lei, Fourth Director of Prisons</strong><br />Quek Shi Lei joined the then Prisons Department as a Welfare Officer and rose up the ranks to be the Director of Prisons. He was later appointed as the first Chief Executive Officer of the Singapore Corporation of Rehabilitative Enterprises (now known as Yellow Ribbon Singapore) in 1988.
+    </div>
+  </div>
+	 </div><td style="width: 50%; vertical-align: middle"><h5>1976</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+			<strong>Singapore Corporation of Rehabilitative Enterprises (now known as Yellow Ribbon Singapore)</strong><br />The establishment of Singapore Corporation of Rehabilitative Enterprises (SCORE) sought to enhance the employability of offenders by providing vocational training courses in prisons and Drug Rehabilitation Centres (DRCs), thus preparing them for their eventual re-integration into the national workforce. The photo, which was taken at the entrance of Changi Prison, shows the SCORE van transporting supplies.
+    </div>
+		<div class="col">
+       <figure>
+    <img src="/images/SPS75/1976_SCORE.jpg"
+				 alt="">
+				 <figcaption>Source: Singapore Tourism Board, courtesy of National Archives of Singapore</figcaption>
+</figure>
+	</div>
+  </div>
+		</div>
   </li>
   <li>
     <input type="checkbox" id="accordion3">
