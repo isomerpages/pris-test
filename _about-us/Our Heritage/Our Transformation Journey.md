@@ -47,7 +47,7 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
     <div class="col">
       <figure>
     <img src="/images/SPS75/1953_Sochon%20Second%20Comsr.jpeg"
-				 alt="credits">
+				 alt="">
     <figcaption>Source: Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</figcaption>
 </figure>
     </div>
@@ -58,7 +58,7 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
     <div class="col">
     <figure>
     <img src="/images/SPS75/1955.jpg"
-				 alt="credits">
+				 alt="">
     <figcaption>Source: Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</figcaption>
 </figure>
     </div>
