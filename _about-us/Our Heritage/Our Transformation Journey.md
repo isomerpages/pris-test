@@ -314,6 +314,42 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
       <strong>The Making of the 'Captains of Lives'</strong><br />The term ’Captains of Lives’ was unveiled as part of SPS’ visioning exercise and transformation journey. The then Vision Statement stated that Prison Officers, who are Captains of Lives, would be instrumental in steering offenders to be responsible citizens with the help of their families and the community.
     </div>
   </div>
+	<td style="width: 50%; vertical-align: middle"><h5>1999</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+			<strong>Introducing Housing Unit Management System & Tele-visiting</strong><br />The Housing Unit Management System was introduced to ensure more inmate-centric management. Video conferencing technology was used at Queenstown Remand Prison for family members to communicate with inmates.
+    </div>
+		<div class="col">
+       <figure>
+    <img src="/images/SPS75/1999_Tele-inmate%20copy.jpg"
+				 alt="">
+</figure>
+	</div>
+  </div>
+	</div><td style="width: 50%; vertical-align: middle"><h5>2000</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+    <img src="/images/SPS75/2000_HEART.jpg" alt="" />
+    </div>
+    <div class="col">
+      <strong>SPS’s Core Values: H.E.A.R.T</strong><br />Singapore Prison Service officially launched its core values – Honour, Excellence, Agile, Respect and Teamwork (HEART).
+    </div>
+  </div>
+	<td style="width: 50%; vertical-align: middle"><h5>2000</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+			<strong>Kaki Bukit Centre (Prison School)</strong><br />The Kaki Bukit Centre (Prison School) was established to centralise all teaching resources and provide a conductive learning environment for inmate students. Its philosophy is ’School First, Prison Second’.
+    </div>
+		<div class="col">
+       <figure>
+    <img src="/images/SPS75/2000_Kaki%20Bukit%20Centre.png"
+				 alt="">
+</figure>
+	</div>
+  </div>
   </li>
   <li>
     <input type="checkbox" id="accordion4">
