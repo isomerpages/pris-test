@@ -480,4 +480,17 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
       <strong>Community Rehabilitation Centre</strong><br />The Community Rehabilitation Centre was launched to help first-time young male drug abusers. It provide a drug intervention programme in a residential setting that minimises disruptions to their daily routines.
     </div>
   </div>
+	</div><td style="width: 50%; vertical-align: middle"><h5>2016</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+			<strong>Desmond Chin, Tenth Commissioner of Prisons</strong><br />Desmond Chin, a career Prison Officer, was appointed as the Commissioner of Prisons. He played a critical role in driving the ’Prison Without Guards’, ’Prison Without Walls’ and ’Learning Prison’ initiatives. He also unveiled SPS’ revised core values ’Shared Values in Corrections (SVIC) – Synergy, Vigilance, Integrity and Care’.
+    </div>
+		<div class="col">
+       <figure>
+    <img src="/images/SPS75/2016_Chin.jpg"
+				 alt="">
+</figure>
+	</div>
+  </div>
   </li>
