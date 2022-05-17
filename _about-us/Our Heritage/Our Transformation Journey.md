@@ -268,11 +268,52 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
     <input type="checkbox" id="accordion3">
     <label for="accordion3">1995-2003: Setting the Stage for Transformation</label>
     <div>
-      <p>
-        This is all going
-        to become just one line\n even though there are multiple lines
-      </p>
+      <p><td style="width: 50%; vertical-align: middle"><h5>1995</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+			<strong>Revision of Singapore Prison Service’s Mission</strong><br />Revisions were made to the Singapore Prison Services’ (SPS) mission and vision to focus on the contributions of prisons to society, in addition to be a part of the criminal justice system. The photo shows SPS’ recruitment poster in the 2000s.
     </div>
+		<div class="col">
+       <figure>
+    <img src="/images/SPS75/1995_Revision%20of%20Singapore%20Prison%20Service’s%20Mission.jpg"
+				 alt="">
+</figure>
+	</div>
+  </div>
+    </div><td style="width: 50%; vertical-align: middle"><h5>1997</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+    <img src="/images/SPS75/1997_Portsdown%20Prison%20_%20Admiralty%20West%20Prison.jpg" alt="" />
+    </div>
+    <div class="col">
+      <strong>Portsdown Prison & Admiralty West Prison</strong><br />The Portsdown Prison was completed in 1997 and was intended for illegal immigrants and foreign inmates who committed immigration offences. It was later closed, and inmates were transferred to Admiralty West Prison which was completed in 2000.
+    </div>
+  </div>
+	<td style="width: 50%; vertical-align: middle"><h5>1998</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+			<strong>Chua Chin Kiat, Seventh Director of Prison</strong><br />After helming multiple Police Departments including the Criminal Investigation Department, Chua Chin Kiat was appointed as the Director of Prisons. He was instrumental in transforming the Singapore Prison Service (SPS) and coined the term ’Captains of Lives’ for SPS’ staff.
+    </div>
+		<div class="col">
+       <figure>
+    <img src="/images/SPS75/1998_Chua.jpg"
+				 alt="">
+</figure>
+	</div>
+  </div>
+	 </div><td style="width: 50%; vertical-align: middle"><h5>1999</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+    <img src="/images/SPS75/1999.jpg" alt="" />
+    </div>
+    <div class="col">
+      <strong>The Making of the 'Captains of Lives'</strong><br />The term ’Captains of Lives’ was unveiled as part of SPS’ visioning exercise and transformation journey. The then Vision Statement stated that Prison Officers, who are Captains of Lives, would be instrumental in steering offenders to be responsible citizens with the help of their families and the community.
+    </div>
+  </div>
   </li>
   <li>
     <input type="checkbox" id="accordion4">
