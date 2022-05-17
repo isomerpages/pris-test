@@ -493,4 +493,27 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
 </figure>
 	</div>
   </div>
+	</div><td style="width: 50%; vertical-align: middle"><h5>2017</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+    <img src="/images/SPS75/2017%20PWG.jpg" alt="" />
+    </div>
+    <div class="col">
+      <strong>Prison Without Guards & Prison Without Walls</strong><br />’Prison Without Guards’ (PWG) and ’Prison Without Walls’ (PWW) initiatives were launched. Under the PWG concept, technology was leveraged to optimise resource deployment and enhance operational effectiveness in prisons. Its PWW strategy aimed to expand the scope of rehabilitation beyond the confines of SPS through community corrections.
+    </div>
+  </div>
+	</div><td style="width: 50%; vertical-align: middle"><h5>2018</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+			<strong>Learning Prison</strong><br />The launch of the ’Learning Prison’ initiative reframed prisons as transformative places where inmates can acquire new skills and training, as well as self-reflect and chart meaningful plans towards better lives.
+    </div>
+		<div class="col">
+       <figure>
+    <img src="/images/SPS75/2018_Learning%20Prison.jpg"
+				 alt="">
+</figure>
+	</div>
+  </div>
   </li>
