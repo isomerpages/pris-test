@@ -21,7 +21,7 @@ As part of the campaign, print advertisements showcasing Prison Officers have al
 
 Click here to find out more about COLs and watch the three-part series [here](https://youtu.be/3PX7iKA111E?list=PLFdgCNYrla0y5X1I7r6YAeWuu2Z-x1_JL).
 
-<center>-END-</center>
+<center><strong>-END-</strong></center>
 
 About the Singapore Prison Service (SPS)
 
