@@ -1,0 +1,4 @@
+collections:
+  heritage-gallery:
+    output: true
+    order: []
