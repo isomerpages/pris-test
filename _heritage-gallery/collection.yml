@@ -1,4 +1,5 @@
 collections:
   heritage-gallery:
     output: true
-    order: []
+    order:
+      - Prison in Singapore.md
