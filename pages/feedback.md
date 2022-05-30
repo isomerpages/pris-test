@@ -4,8 +4,7 @@ permalink: /feedback
 ---
 <h4>For quick answers, refer to our online services:</h4>
 <ul>
-    <li><a data-sf-ec-immutable="" href="https://va.ecitizen.gov.sg/CFP/VA/SPS/mobile.html#/home/index"><span style="text-decoration:underline;">Ask Jamie</span></a></li>
-    <li><a data-sf-ec-immutable="" href="https://va.ecitizen.gov.sg/cfp/customerpages/sps/explorefaq.aspx"><span style="text-decoration:underline;">Frequently Asked Questions</span></a></li>
+    <li><a data-sf-ec-immutable="" href="https://www.sps.gov.sg/faqs/askpris.html"><span style="text-decoration:underline;">Frequently Asked Questions</span></a></li>
 </ul>
 
 #### Here are some of our key topics:
