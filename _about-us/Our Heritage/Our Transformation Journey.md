@@ -26,7 +26,7 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">1946-1963: Prisons Pre-Independence</label>
+    <label for="accordion1">1946-1965: Prisons Pre-Independence</label>
     <div>
       <p><td style="width: 50%; vertical-align: middle"><h5>1946</h5></td>
 <td style="width: 50%;"><div class="container">
