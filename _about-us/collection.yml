@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - Our Impact.md
       - organisation.md
       - vision-mission-and-values.md
       - Captains of Lives & Our Impact.md
+      - Our Impact.md
       - Accolades & Achievements.md
       - International Cooperation.md
       - Our Heritage/.keep
