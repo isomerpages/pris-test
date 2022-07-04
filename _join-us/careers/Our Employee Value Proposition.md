@@ -20,4 +20,3 @@ As a COL, you can look forward to a fulfilling and diverse range of career oppor
 ##### **Career Route Map**
 Under SPS’ single scheme rank structure, non-graduate officers can progress up the ranks without a degree, based on performance and potential. We offer our officers a wide range of postings through different portfolios across SPS, supported by a comprehensive training and development framework that will allow you to grow professionally as you advance in your career with the SPS.
 
-![](/images/Recruitment/Career%20Routemap.png)
