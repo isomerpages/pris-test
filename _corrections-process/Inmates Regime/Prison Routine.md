@@ -4,8 +4,7 @@ permalink: /corrections-process/Inmates-Regime/prison-routine
 description: ""
 third_nav_title: Inmates Regime
 ---
-![](/images/Placeholder%20for%20Image.png)
-[Image of inmates in yard]
+![](/images/Prison%20Life/2022-PrisonRegime-DayroomActivities-1.jpg)
 
 All inmates generally have an hour of recreational time per day on weekdays. They can use this recreational time for physical exercise and ball games in the recreational yard or other activities such as watching television programs and playing board games.
 
