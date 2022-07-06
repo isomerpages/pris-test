@@ -4,8 +4,7 @@ permalink: /corrections-process/Inmates-Regime/admissions
 description: ""
 third_nav_title: Inmates Regime
 ---
-![](/images/Placeholder%20for%20Image.png)
-[Image of NEW BM entering CPC/SPC]
+![](/images/Prison%20Life/SPC-5.jpg)
 
 All inmates will undergo an admission process when they are sent to prisons. Upon admission, all personal belongings will first be taken and documented for safekeeping. 
 
