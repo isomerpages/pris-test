@@ -4,9 +4,7 @@ permalink: /corrections-process/Programmes/psychology-programmes
 description: ""
 third_nav_title: Programmes
 ---
-![](/images/Placeholder%20for%20Image.png)
-[< Option1 Video of PCPs presented at UNODC in 2018/2019 >
-< Option2 Image of Psychologist conducting session >]
+![](/images/Rehabilitation/PCRD-2022-CRS-B4-2.jpg)
 
 Singapaore Prison Service provides a range of psychology-based correctional programmes (PCPs) for inmates under our care. These PCPs aim to enhance the motivation of inmates to change and address their unhelpful thinking patterns related to offending. Prosocial skills training is also provided in the programmes to help inmates achieve lives that are free from drugs and crime.
  
