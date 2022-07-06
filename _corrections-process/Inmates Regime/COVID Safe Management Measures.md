@@ -4,9 +4,7 @@ permalink: /corrections-process/Inmates-Regime/COVID-SMM
 description: ""
 third_nav_title: Inmates Regime
 ---
-
-![](/images/Placeholder%20for%20Image.png)
-[Image of prison school during COVID]
+![](/images/Prison%20Life/COVID%20Measures.jpg)
 
 Given the high density and close-living environment in our prisons, SPS has implemented various precautionary measures (in addition to prevailing Safe Management Measures) since Jan 2020 to minimise the risk of COVID-19 transmissions among inmates, staff and personnel working in our prisons:
 
