@@ -11,7 +11,6 @@ Letters from legal counsel or other official government agencies will continue t
 
 Inmates not using Direct e-letters shall continue to receive their incoming letters and greeting cards, and letters from legal counsel and official government agencies in hardcopy format.
 
-[![](/images/Visit%20Matters/Visit%20Stay%20Connected.png)](https://eservice.sps.gov.sg/eletters)
-[Replace with new image centered on inmate and Direct]
+![](/images/Visit%20Matters/2022-PrisonTech-DIRECT-2.jpg)
 
 Please refer to the [FAQs](https://www.sps.gov.sg/faq) pertaining to e-Letters.
