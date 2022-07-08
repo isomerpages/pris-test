@@ -1,5 +1,5 @@
 collections:
-  corrections-process:
+  learn-about-corrections:
     output: true
     order:
       - About Corrections/.keep
