@@ -39,4 +39,11 @@ contacts:
       - other: "If you wish to send in clothing, you may make an appointment by call the
           visit booking hotline "
     title: "Sending clothing to inmates:"
+  - content:
+      - phone: ""
+      - email: ""
+      - other: 'For locations of Visit Centres, please visit this link: <a
+          href="https://pris-test-staging.netlify.app/visit-matters/visit-information/permalink">Prison
+          Link Centres</a>'
+    title: Locations of Visit Centres
 ---
