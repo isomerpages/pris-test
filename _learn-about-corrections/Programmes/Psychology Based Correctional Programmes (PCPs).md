@@ -6,11 +6,11 @@ third_nav_title: Programmes
 ---
 ![](/images/Rehabilitation/PCRD-2022-CRS-B4-2.jpg)
 
-Singapaore Prison Service provides a range of psychology-based correctional programmes (PCPs) for inmates under our care. These PCPs aim to enhance the motivation of inmates to change and address their unhelpful thinking patterns related to offending. Prosocial skills training is also provided in the programmes to help inmates achieve lives that are free from drugs and crime.
+Singapore Prison Service provides a range of rehabilitation programmes for offenders under our care. These programmes are psychology-based and aims to: <br>(1) Motivate offenders to change and <br>
+(2) Work on their negative thinking patterns that leads to their offending. <br> 
+These programmes also provide opportunities for offenders to practice and enhance their ability to communicate with others better and manage their emotions, so that they can work towards a live free from drugs and crime.
  
-In general, the development of PCPs is guided by: <br> (1) the needs assessment of the local inmates populations, <br>(2) established rehabilitation frameworks, and <br>(3) best practices that are proven effective in reducing recidivism in the corrections literature. Specifically, the theoretical orientation of the PCPs is influenced by three known rehabilitation models and theory – namely the Risk-Need-Responsivity (RNR) model, the Good Lives Model (GLM) and the Desistance Approach.
- 
-The PCPs also utilize evidence-based intervention strategies such as the Cognitive-Behavioural model and the Social Learning theory to address the criminogenic needs of the inmates. Inmates learn to manage their emotions and behaviours through restructuring their unhelpful cognitions into more constructive ones in a systematic manner, and practice constructive skills such as communication, emotion regulation, and problem-solving skills to help them manage high-risk situations and prevent relapse. For specific populations such as the women and youths, relevant intervention strategies are incorporated in the PCPs to meet their unique needs and responsivity.
+The development of our psychology-based correctional programmes (PCPs) are guided by: <br> (1) Research on the needs of our offenders, <br>(2) Established rehabilitation frameworks, and <br>(3) Best practices from overseas correctional programmes. <br>Specifically, our programmes are guided by the Risk-Need-Responsivity (RNR) model, the Good Lives Model (GLM) and the Desistance Approach. For specific populations such as the women and youth, relevant intervention strategies are incorporated in the programmes to meet their unique needs.
 
 <ul class="jekyllcodex_accordion">
   <li>
