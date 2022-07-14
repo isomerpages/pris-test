@@ -14,7 +14,7 @@ Inmates will be issued with the following necessities for their daily living:
 
 ![](/images/Prison%20Life/2022-PrisonAdmission-KitBox-4.jpg)
 
-These are washed, replenished and exchanged on a regular basis.
+These are washed, replenished or exchanged on a regular basis.
 
 **Medical Care**<br> 
 ![](/images/Prison%20Life/2022-PrisonRegime-MedicalCare-1.jpg)
