@@ -14,7 +14,11 @@ description: ""
 | 2020 | [Catch Inmates Doing Good](/files/PCRD%20Research%20Materials/2020/Catch%20Inmates%20Doing%20Good.pdf) | 
 |  | [Supporting Desistance in Prison](/files/PCRD%20Research%20Materials/2020/Supporting%20Desistance%20in%20Prison.pdf)|
 |  |[From Relapse to Desistance: The Process of Desistance for Female Drug Offenders](/files/PCRD%20Research%20Materials/2020/The%20Process%20of%20Desistance%20for%20Female%20Drug%20Offenders.pdf)|
-|  | Text     |
+|  | [Drug Desistance & Relapse: Long-Term Drug Desisters vs Repeat Drug Abusers](/files/PCRD%20Research%20Materials/2020/Drug%20Desistance%20&%20Relapse.pdf)|
+|  | [Why Literature Reviews are for You](/files/PCRD%20Research%20Materials/2020/Why%20Literature%20Reviews%20are%20for%20You.pdf)|
+|  | [Desistance: Success Indicators](/files/PCRD%20Research%20Materials/2020/Success%20Indicators%20of%20Desistance.pdf)|
+|  | [Applying Blended Learning in SPS](/files/PCRD%20Research%20Materials/2020/Applying%20Blended%20Learning%20in%20SPS.pdf)|
+|  | [Working with Incarcerated Youths and Adults with Adverse Childhood Experiences (ACEs)](/files/PCRD%20Research%20Materials/2020/Working%20with%20Incarcerated%20Youths%20and%20Adults%20with%20Adverse%20Childhood%20Experiences.pdf)|
 |  | Text     |
 |  | Text     |
 |  | Text     |
