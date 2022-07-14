@@ -4,7 +4,7 @@ permalink: /corrections-process/Inmates-Regime/basic-needs
 description: ""
 third_nav_title: Inmates Regime
 ---
-SPS is committed to ensuring the safety and well-being of our inmates and will provide for all basic needs of inmates.
+SPS is committed to ensuring the safety and well-being of our inmates and will provide for basic needs of inmates.
 
 **Meals**<br>
 Inmates are provided with three meals daily, which are planned based on a dietician’s recommendation to ensure they meet nutritional requirements. Inmates have bread with spread like butter, jam or chocolate, and a hot beverage like coffee or tea for breakfast. Lunch and dinner consist of a staple, like rice or noodles, with accompanying dishes. Fruits are also provided. Special dietary requirements are considered. For example, inmates who are diabetic are given a sugar-free diet, while inmates who are vegetarian can also ask for a vegetarian diet. 
