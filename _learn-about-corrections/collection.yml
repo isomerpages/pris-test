@@ -2,7 +2,6 @@ collections:
   learn-about-corrections:
     output: true
     order:
-      - Research Publications.md
       - About Corrections/.keep
       - About Corrections/Rehabilitation Process.md
       - About Corrections/Incare (In Prison).md
@@ -31,3 +30,4 @@ collections:
       - Community Corrections/Youth Offenders.md
       - Community Corrections/Community Based Sentences (CBS).md
       - Community Resources.md
+      - Research Publications.md
