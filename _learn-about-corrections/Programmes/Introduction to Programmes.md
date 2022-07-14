@@ -7,7 +7,7 @@ third_nav_title: Programmes
 ![](/images/Placeholder%20for%20Image.png)
 [ Throughcare Image ] 
 
-Singapore Prison Service provides a variety of programmes towards the rehabilitation of Inmates. (Would need RRD to help elaborate)
+Singapore Prison Service provides a variety of programmes towards the [rehabilitation of Inmates](/rehabilitation-process). (Would need RRD to help elaborate)
 
 Click Below for more information of programmes offered
 
