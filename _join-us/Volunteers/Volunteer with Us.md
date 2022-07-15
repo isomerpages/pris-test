@@ -47,7 +47,7 @@ You can volunteer to:
     <div>
       <p><img src="/images/Placeholder%20for%20Image.png" alt=""> [Collage of religious counselling of 5 major faiths + 1 family programme]<br>Volunteers facilitating religious programmes and services provide spiritual guidance and emotional support to inmates.<br>&nbsp;<br>
 When volunteers facilitate family programmes or services, you help inmates and their families gain useful knowledge and skills to become more effective members of the family, gain stability and strength to move forward as a family including in the aftercare. Children also benefit both directly and indirectly when families are supported by volunteers.<br>&nbsp;<br>
-Volunteers possess a wealth of experience and competencies. You can volunteer to impart skills (e.g., IT literacy) and share knowledge (financial planning) with the inmates and their families.
+Volunteers possess a wealth of experience and competencies. You can volunteer to impart skills and share knowledge, such as IT literacy and financial planning with the inmates and their families.
       </p>
     </div>
   </li>
