@@ -22,7 +22,7 @@ The path to recovery and desistance can be challenging and is rarely straightfor
 
 **Areas where you can Contribute as a Volunteer**
 
-The programmes and services facilitated by volunteers complement the [rehabilitative initiatives](/corrections-process/programmes/introduction-to-programmes) provided by SPS to better prepare offenders for eventual return to the society. Hence, volunteering can be done in various forms, within and/or beyond the prison walls. You can volunteer to:
+The programmes and services facilitated by volunteers complement the [rehabilitative initiatives](/corrections-process/programmes/introduction-to-programmes) provided by SPS to better prepare offenders for eventual return to the society. Volunteering can be in various forms, within and/or beyond the prison walls. You can volunteer to:
 
 <ul class="jekyllcodex_accordion">
   <li>
