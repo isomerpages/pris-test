@@ -16,9 +16,9 @@ locations:
     title: SPS Headquarters
 contacts:
   - content:
-      - phone: 1 800 774 7667
+      - phone: ""
       - email: ""
-      - other: ""
+      - other: 1-800-774-7667 <br> (1-800-PRISONS)
     title: General Enquiries & Feedback
   - content:
       - phone: 1 800 774 7667
