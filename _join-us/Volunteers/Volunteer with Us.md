@@ -8,7 +8,7 @@ Volunteers work with the inmates and ex-offenders in the areas of religious prog
 
 <iframe title="YouTube video player" src="https://www.youtube.com/embed/HH-aP6-Jeik" width="100%" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-**Role of a Volunteer in the offender’s rehabilitation journey**
+**Role of a Volunteers in an Offender’s Rehabilitation Journey**
 
  Volunteers play an integral role in the inmate's rehabilitation and desistance journey. When volunteers engage the inmates, ex-offenders and their families, you give hope and help rebuild lives.
  
