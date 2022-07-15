@@ -55,7 +55,7 @@ Volunteers possess a wealth of experience and competencies. You can volunteer to
     <input type="checkbox" id="accordion4">
     <label for="accordion4">Be a Yellow Ribbon Community Project (YRCP) volunteer</label>
     <div>
-      <p><img src="/images/Placeholder%20for%20Image.png" alt=""> [Image of YRCP volunteer in action ]<br>YRCP is a grassroots-led initiative that provides community support and assistance to families impacted by incarceration through grassroots organisations. As a YRCP volunteer, you will engage and befriend these families and where necessary, link them up with helping agencies in the local community.</p>
+      <p><img src="/images/Placeholder%20for%20Image.png" alt=""> [Image of YRCP volunteer in action ]<br>YRCP is a grassroots-led initiative that provides community support and assistance to families impacted by incarceration through grassroots organisations. As a YRCP volunteer, you will engage and befriend these families and where necessary, link them up with helping agencies in the community.</p>
     </div>
   </li>
 </ul>
