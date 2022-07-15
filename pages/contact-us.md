@@ -23,9 +23,9 @@ contacts:
   - content:
       - phone: 1 800 774 7667
       - email: ""
-      - other: "If you wish to send in clothing, you may make an appointment by call the
-          visit booking hotline "
-    title: "Sending clothing to inmates:"
+      - other: "If you wish to send in clothing, you may make an appointment by calling
+          the visit booking hotline. "
+    title: Sending clothing to inmates
   - content:
       - phone: ""
       - email: ""
