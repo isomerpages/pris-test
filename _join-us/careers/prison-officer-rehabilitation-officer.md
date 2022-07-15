@@ -144,7 +144,7 @@ third_nav_title: Careers
 <td style="width: 50%;">(B) Developmental Posting</td>
 </tr>
 <tr>
-<td style="width: 50%;">Housing Unit Officer (upon graduation from the Prison Officer Course)</td>
+<td style="width: 50%;">Correctional Unit Officer (upon graduation from the Prison Officer Course)</td>
 <td style="width: 50%;">Captains of Lives are given diverse career and advancement opportunities to grow and develop
 <ul class="division">
 <li style="text-align: left;">
@@ -178,10 +178,10 @@ third_nav_title: Careers
 <p>Logistics and Finance Division</p>
 </li>
 <li style="text-align: left;">
-<p>Inspectorate and Review Division</p>
+<p>Risk and Management Division</p>
 </li>
 <li style="text-align: left;">
-<p>Provost Division</p>
+<p>Investigation Division</p>
 </li>
 <li style="text-align: left;">
 <p>Operations and Security Command</p>
