@@ -120,10 +120,7 @@ third_nav_title: Careers
 </div>
 <div class="container" style="text-align: left;">
 <p class="subtitle"><em><strong>Training</strong></em></p>
-<p class="copytext">New Captains of Lives are required to undergo a 35-week Basic Officer Course (Rehabilitation Officer) at the Home Team Academy.</p>
-</div>
-<div class="container" style="text-align: left;">
-<p class="copytext">The Prison Officer Course (RO)&nbsp;comprise physical training, tactical readiness and academic components to prepare new Captains of Lives&nbsp;with the mindset, skillsets and toolsets&nbsp;for work in SPS.</p>
+<p class="copytext">New Captains of Lives are required to undergo a 35-week Basic Officer Course (Rehabilitation Officer) at the Home Team Academy. The Prison Officer Course (RO)&nbsp;comprises physical training, tactical readiness and academic components to prepare new Captains of Lives&nbsp;with the mindset, skillsets and toolsets&nbsp;for work in SPS.</p>
 <p class="copytext">All new Captains of Lives&nbsp;are required&nbsp;to serve a 2-year bond after they graduate from the course.</p>
 </div>
 </div>
