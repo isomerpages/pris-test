@@ -60,4 +60,4 @@ Volunteers possess a wealth of experience and competencies. You can volunteer to
   </li>
 </ul>
 
-[Click here](/join-us/sps-volunteer/volunteer-apply) to join the Singapore Prison Service as a Volunteer.
+[Click here](/join-us/sps-volunteer/volunteer-apply) to join the Singapore Prison Service as a volunteer.
