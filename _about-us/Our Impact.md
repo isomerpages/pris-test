@@ -3,7 +3,10 @@ title: Our Impact
 permalink: /about-us/our-impact
 description: ""
 ---
-* Recidivism Rate (Regina to come up with a short para, to link to annual stats)
+**Recidivism Rate**
+
+Singapore Prison Service (SPS) has come a long way from being a custodial agency to a leading correctional agency which enforces the safe and secure custody of inmates, and rehabilitates them to prevent re-offending for a safer Singapore. Strong community partnerships and support for second chances for ex-offenders have helped to keep recidivism rates in Singapore low and stable. The two-year recidivism rate for the 2018 release cohort is 22.1 per cent, down from about 44 per cent two decades ago.
+(Regina to consider)
 
 
 **Yellow Ribbon Project** <br>
@@ -27,4 +30,3 @@ Since the inception of Yellow Ribbon Project, events and activities, such as the
  
  ![]()
  [Collage of events]
- 
