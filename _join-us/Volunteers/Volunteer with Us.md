@@ -38,12 +38,12 @@ You can volunteer to:
     <input type="checkbox" id="accordion2">
     <label for="accordion2">Be an Academic Tutor</label>
     <div>
-      <p><img src="/images/Placeholder%20for%20Image.png" alt=""> Image of Academic Tutor in action]<br>Academic education is one of the rehabilitation programmes available to inmates. Together with full-time teachers from MOE and independent adjunct teachers, as a Volunteer Tutor, you support the inmates’ aspirations towards academic qualifications.</p>
+      <p><img src="/images/Placeholder%20for%20Image.png" alt=""> Image of Academic Tutor in action]<br>Academic education is one of the rehabilitation programmes available to inmates. Together with full-time teachers from Ministry of Education and independent adjunct teachers, you support the inmates’ aspirations towards academic qualifications.</p>
     </div>
   </li>
   <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">Be a Facilitator of religious, family, or other personal development programmes or services</label>
+    <label for="accordion3">Be a Facilitator of Religious, Family, or other Personal Development Programmes</label>
     <div>
       <p><img src="/images/Placeholder%20for%20Image.png" alt=""> [Collage of religious counselling of 5 major faiths + 1 family programme]<br>Volunteers facilitating religious programmes and services provide spiritual guidance and emotional support to inmates.<br>&nbsp;<br>
 When volunteers facilitate family programmes or services, you help inmates and their families gain useful knowledge and skills to become more effective members of the family, gain stability and strength to move forward as a family including in the aftercare. Children also benefit both directly and indirectly when families are supported by volunteers.<br>&nbsp;<br>
