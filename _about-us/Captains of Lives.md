@@ -3,14 +3,13 @@ title: Captains of Lives
 permalink: /about-us/captain-of-lives
 description: ""
 ---
-
 **Our Role as Captains of Lives**
 
 < We make a real impact> make into text banner using SPS Secondary Graphics
 
 Our Captains of Lives keep Singapore safe by ensuring the secure custody of inmates in an impartial and humane manner.
 
-In our pursuit to be an exemplary correctional agency, we maintain the highest standards of order and discipline. We also provide customised programmes to achieve the best **rehabilitation** outcomes.
+In our pursuit to be an exemplary correctional agency, we maintain the highest standards of order and discipline. We also provide [appropriate programmes](/corrections-process/programmes/introduction-to-programmes) to achieve the best **rehabilitation** outcomes.
 
 We help inmates take ownership of their own rehabilitation, by positively influencing them to **renew** their family bonds and successfully reintegrate into society.
 
