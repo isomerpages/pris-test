@@ -22,6 +22,6 @@ The Yellow Ribbon Project is an initiative under the Community Action for the Re
 * Singapore After-Care Association (SACA) 
 * Singapore Anti-Narcotics Association (SANA) 
 
-Since Yellow Ribbon Project inception, events and activities such as the Yellow Ribbon Prison Run, Yellow Ribbon Songwriting Competition, Yellow Ribbon Community Art & Poetry Exhibition and Yellow Ribbon Culinary Competition has been organised with the support of community partners, to showcase the skills and talents of inmates and ex-offenders. 
+Since the inception of Yellow Ribbon Project, events and activities, such as the Yellow Ribbon Prison Run, Yellow Ribbon Songwriting Competition, Yellow Ribbon Community Art & Poetry Exhibition and Yellow Ribbon Culinary Competition has been organised with the support of community partners, to showcase the skills and talents of inmates and ex-offenders. 
   
 More information on the Yellow Ribbon Project is available at [www.yellowribbon.gov.sg](http://www.yellowribbon.gov.sg)
