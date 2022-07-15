@@ -8,7 +8,7 @@ description: ""
 **Singapore Prison Service Internship Programme**<br>
 Are you looking for a challenging, meaningful and extraordinary internship? Look no further than the Singapore Prison Service!
 
-The Singapore Prison Service Internship Programme (SPS-IP) offers an opportunity for undergraduates to experience SPS's culture and gain broader perspective in the work done by Captains of Lives.
+The Singapore Prison Service Internship Programme (SPS-IP) offers an opportunity for interns to experience SPS culture and gain broader perspective in the work done by Captains of Lives.
 
 During the programme, interns will be able to relate their academic learning in the course of study to SPS work environment. They will also be intellectually stretched through involvement in projects and initiatives spearheaded by various units in SPS.
 
