@@ -35,10 +35,10 @@ If you have any questions about volunteering with SPS, you can email us at
   </li>
   <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">How long does the process of an application take?</label>
+    <label for="accordion3">How long does it take to process an application?</label>
     <div>
       <p>
-        The process of an application may take up to three months
+        Depending on the volunteer scheme, and the verification process. It may take up to three months.
       </p>
     </div>
   </li>
