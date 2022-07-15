@@ -13,7 +13,7 @@ locations:
         time: 8.30am to 5.30pm
         description: ""
     maps_link: http://www.onemap.gov.sg/main/v2/?lat=1.35471048626736&lng=103.969553717718
-    title: Singapore Prison Service (HQ)
+    title: SPS Headquarters
 contacts:
   - content:
       - phone: 1 800 774 7667
