@@ -10,6 +10,7 @@ The Home Team Diploma sponsorship is awarded to talented polytechnic students wh
 Similar to the Home Team Diploma Sponsorship, the Home Team ITE Sponsorship is awarded to talented Higher NITEC students with the passion and keen interest for a career with the Singapore Prison Service.
 
 ![Alt text for image on Isomer site](/images/sps-sponsorships.png)
+[To fix spelling errors]
 
 To apply for **Home Team Diploma Sponsorship**, please visit this [link.](https://www.mha.gov.sg/careers/sponsorships/home-team-diploma-sponsorship)
 
