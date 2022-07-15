@@ -59,7 +59,7 @@ third_nav_title: Careers
 <div class="sfContentBlock">
 <div class="container">
 <p class="subtitle" style="text-align: left;"><strong><em>Benefits</em></strong></p>
-<p class="copytext" style="text-align: left;">1. Annual Leave 18 &ndash; 21 days (Rehabilitation Officer)<br />2. Annual medical leave of 14 days or 60 days with hospitalisation<br />3. Annual study leave of 12 days (subject to approval)<br />4. Subsidised medical and dental care<br />5. Marriage/Child birth benefits</p>
+<p class="copytext" style="text-align: left;">1. Annual Leave 18-21 days (Rehabilitation Officer)<br />2. Annual medical leave of 14 days or 60 days with hospitalisation<br />3. Annual study leave of 12 days (subject to approval)<br />4. Subsidised medical and dental care<br />5. Marriage/Child birth benefits</p>
 <p class="copytext" style="text-align: left;">&nbsp;</p>
 </div>
 <div class="container">
