@@ -29,8 +29,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: 'For locations of Visit Centres, please visit this link: <a
-          href="https://pris-test-staging.netlify.app/visit-matters/visit-information/permalink">Prison
-          Link Centres</a>'
-    title: Locations of Visit Centres
+      - other: Locate your nearest Visit Centre <a
+          href="https://pris-test-staging.netlify.app/visit-matters/visit-information/permalink">here</a>.
+    title: Location of Visit Centres
 ---
