@@ -60,7 +60,7 @@ third_nav_title: Careers
 </div>
 <div class="container">
 <p class="subtitle" style="text-align: left;"><strong><em>Career Progression</em></strong></p>
-<p class="copytext" style="text-align: left;">To signal SPS&rsquo;s commitment to look beyond academic qualifications, non-graduate officers can look forward to seamless and faster career progression up the ranks even without a degree, based on performance and potential. Sergeants who performed well and have the demonstrated potential, can be considered for direct emplacement to the Rehabilitation Officer rank within the first few years of service.</p>
+<p class="copytext" style="text-align: left;">To signal SPS&rsquo;s commitment to look beyond academic qualifications, officers can look forward to seamless and faster career progression up the ranks even without a degree, based on performance and potential. Sergeants who performed well and have the demonstrated potential, can be considered for direct emplacement to the Rehabilitation Officer rank within the first few years of service.</p>
 <p class="copytext" style="text-align: left;">&nbsp;</p>
 <p class="subtitle" style="text-align: left;"><em><strong>Upgrading Opportunities</strong></em></p>
 <p class="copytext" style="text-align: left;">SPS supports the professional and personal growth of our Captains of Lives through various upgrading and developmental schemes.</p>
