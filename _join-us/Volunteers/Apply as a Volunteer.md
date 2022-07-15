@@ -22,7 +22,7 @@ If you have any questions about volunteering with SPS, you can email us at
     <input type="checkbox" id="accordion1">
     <label for="accordion1">What is the age limit to join as a SPS Volunteer?</label>
     <div>
-      <p>To be a volunteer, you will need to be above 21 years old.<img src="/images/Family%20Reintegration.jpg" alt=""></p>
+      <p>To be a volunteer, you will need to be above 21 years-old.</p>
     </div>
 	</li>  
   <li>
