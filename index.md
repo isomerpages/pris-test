@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Singapore Prison Service (SPS)
-description: Brief site description here
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: "Singapore Prison Service website will be undergoing maintenance
@@ -51,3 +51,4 @@ sections:
   - infobar:
       title: <img src="/images/banners/awardsnobg.png" width="100%">
 ---
+
