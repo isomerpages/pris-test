@@ -10,13 +10,13 @@ Volunteers work with the inmates and ex-offenders in the areas of religious prog
 
 **Role of a Volunteers in an Offender’s Rehabilitation Journey**
 
- Volunteers play an integral role in the inmate's rehabilitation and desistance journey. When volunteers engage the inmates, ex-offenders and their families, you give hope and help rebuild lives.
+As a volunteer, you play an integral role in the inmate's rehabilitation and desistance journey. When you engage inmates, ex-offenders and their families, you give hope and help rebuild lives.
  
 As a volunteer, you:
-* Share knowledge and impart skills to help the inmates increase their reintegration potential.
+* Share knowledge and impart skills to help inmates increase their reintegration potential.
 * Provide the emotional support that encourages inmates to stay focused and committed to their rehabilitation while serving sentence.
 * Assist to stabilise and strengthen families left vulnerable when a loved one is incarcerated.
-* Form part of the prosocial network in the community, to reinforce the ex-offenders’ resolve to desist and support the reunification of families after release.
+* Form part of the pro-social network in the community, to reinforce the ex-offenders’ resolve to desist and support the reunification of families after release.
  
 The path to recovery and desistance can be challenging and is rarely straightforward. The Singapore Prison Service welcomes you to join us on our journey towards a society without re-offending.
 
