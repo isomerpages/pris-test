@@ -26,7 +26,7 @@ third_nav_title: Careers
 </tr>
 <tr style="height: 18px;">
 <td style="width: 33.3333%; height: 18px;">PES Status</td>
-<td style="width: 33.3333%; height: 18px; text-align: center;">PES B1 and Above</td>
+<td style="width: 33.3333%; height: 18px; text-align: center;">PES B1 and above</td>
 <td style="width: 33.3333%; height: 18px; text-align: center;">Exempted</td>
 </tr>
 <tr style="height: 18px;">
