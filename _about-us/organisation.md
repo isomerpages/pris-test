@@ -19,8 +19,8 @@ SPS currently administers 15 institutions. They make up SPS’s line units and a
 * Cluster A  
 * Cluster B
 * Cluster C 
-* Community Corrections Command (COMC)
-* Operations & Security Command (OSC) 
+* Community Corrections Command
+* Operations & Security Command 
 
 At the staff level, SPS has 11 staff divisions: 
 * Corporate Communications & Relations Division
