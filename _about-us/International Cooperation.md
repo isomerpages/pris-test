@@ -10,6 +10,7 @@ Singapore Prison Service (SPS) has regular engagements with international counte
 SPS participates actively in various international correctional associations, such as the [Asian and Pacific Conference of Correctional Administrators](http://www.apcca.org/) and the [International Corrections and Prisons Association (ICPA)](http://icpa.org/).
 
 ![](/images/About%20Us/APCCA.jpeg)
+[Crop out light or see if we can get better photo]
 
 The Asian and Pacific Conference of Correctional Administrators (APCCA) is a forum for government officials responsible for prison or correctional administration in the Asia Pacific region, and the International Corrections and Prisons Association (ICPA) is an international association spanning government agencies, academic groups, NGOs and private sector service providers.
 
