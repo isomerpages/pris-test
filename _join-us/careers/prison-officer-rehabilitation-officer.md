@@ -115,7 +115,7 @@ third_nav_title: Careers
 </div>
 <div class="container" style="text-align: left;">
 <p><strong><em>Strategic Payment Scheme</em></strong></p>
-<p>New officers can look forward to cash payouts of 3 months (ASP and below) quantum upon reaching their 3rd, 6th, 9th, 12th, 15th, 20th, and 25th year in service.</p>
+<p>New officers (ASP and below) can look forward to cash payouts of 3 months quantum upon reaching their 3rd, 6th, 9th, 12th, 15th, 20th, and 25th year in service.</p>
 <p>&nbsp;</p>
 </div>
 <div class="container" style="text-align: left;">
