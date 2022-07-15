@@ -130,7 +130,7 @@ third_nav_title: Careers
 </div>
 <div class="container">
 <p class="subtitle" style="text-align: left;"><em><strong>Career Development</strong></em></p>
-<p class="copytext" style="text-align: left;">SPS provides a dynamic and well-structured career advancement route map to groom you as a leader in Corrections. After the foundational posting as Housing Unit Officer in an institution, you may be posted to different operational roles or to staff divisions for exposure and career development. You will undergo the relevant leadership milestone programs and training at each stage, as you advance in your career with SPS.</p>
+<p class="copytext" style="text-align: left;">SPS provides a dynamic and structured career advancement route map to groom you as a leader in Corrections. After the foundational posting as Housing Unit Officer in an institution, you may be posted to different operational roles or to staff divisions for exposure and career development. You will undergo the relevant leadership milestone programs and training at each stage, as you advance in your career with SPS.</p>
 <p class="copytext" style="text-align: left;">&nbsp;</p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
