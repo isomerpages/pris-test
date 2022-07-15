@@ -14,9 +14,9 @@ As a correctional agency, we enforce secure custody of offenders and rehabilitat
 
 
 ### **Core Values**
-Our staff are committed to balance the needs of secure custody and discipline, while providing opportunities for rehabilitation for inmates who are deserving and capable of rehabilitation.
+Our Captains of Lives are committed to balance the needs of secure custody and discipline, while providing opportunities for rehabilitation for inmates who are deserving and capable of rehabilitation.
 
-As COLs, our officers are guided by a set of core values, namely, **Synergy, Vigilance, Integrity and Care (SVIC)**.
+Our officers are guided by a set of core values, namely, **Synergy, Vigilance, Integrity and Care (SVIC)**.
 
 
 ![](/images/Placeholder%20for%20Info.jpg)
