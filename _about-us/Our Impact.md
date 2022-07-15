@@ -3,8 +3,8 @@ title: Our Impact
 permalink: /about-us/our-impact
 description: ""
 ---
-* Recidivism Rate (Regina to come up with a short para, to link to 
-* International Coop
+* Recidivism Rate (Regina to come up with a short para, to link to annual stats)
+
 
 **Yellow Ribbon Project** <br>
 Started in 2004, the Yellow Ribbon Project is a community initiative in Singapore that aims to create awareness of the need to give second chances to ex-offenders, generate acceptance of ex-offenders and their families in the community, and inspire community action to support the rehabilitation and reintegration of ex-offenders into society. 
