@@ -46,9 +46,7 @@ sections:
       alt: Image alt text
   - resources:
       title: Media
-      subtitle: Latest news
       button: View More
   - infobar:
       title: <img src="/images/banners/awardsnobg.png" width="100%">
 ---
-
