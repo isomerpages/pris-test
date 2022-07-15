@@ -11,7 +11,7 @@ All applications will be processed and SPS will update you on your application s
 
 [Click here](link form sg) to join the Singapore Prison Service as a volunteer.
 
-If you have queries relating to volunteering with SPS, you can email us at 
+If you have any questions about volunteering with SPS, you can email us at 
 <a href="mailto:PRIS_Volunteers@pris.gov.sg">PRIS_Volunteers@pris.gov.sg</a>.
 
 
