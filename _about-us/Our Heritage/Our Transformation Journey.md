@@ -14,8 +14,6 @@ Over the years, SPS has progressed to become a leading correctional agency, to e
 
 In 2021, SPS celebrates ’SPS75’, commemorating 75 years since its inception as a government department. SPS75 was officially launched on 21 June 2021 by Minister for Communications and Information and Second Minister for Home Affairs, Mrs Josephine Teo.</p></center>
 
-
-
 <center><h3>OUR JOURNEY TO TRANSFORMATIONS</h3>
 Singapore Prison Service (SPS) has come a long way from being a custodial agency to a leading correctional agency which enforces the safe and secure custody of inmates, and rehabilitates them to prevent re-offending for a safer Singapore. Strong community partnerships and support for second chances for ex-offenders have helped to keep recidivism rates in Singapore low and stable. The two-year recidivism rate for the 2018 release cohort is 22.1 per cent, down from about 44 per cent two decades ago.<br>
 &nbsp;<br>
