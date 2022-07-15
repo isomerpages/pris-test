@@ -31,7 +31,7 @@ You can volunteer to:
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Be an SPS Befriender</label>
     <div>
-      <p><img src="/images/Placeholder%20for%20Image.png" alt=""> [Image of SPS Befriender in action]<br> Prosocial support is among the key factors that prevent reoffending. You can volunteer to be a SPS Befriender and be a friend to inmates who want to restart their lives among positive peers. As a Befriender, you will support inmates who may be at any phase of their incarceration through letter-writing, phonecalls and visitations. The befriending journey continues into the aftercare as your befriendee prepares to re-enter society with yours and the community’s support.</p>
+      <p><img src="/images/Placeholder%20for%20Image.png" alt=""> [Image of SPS Befriender in action]<br> Pro-social support is among the key factors that prevent re-offending. You can volunteer to be an SPS Befriender and be a friend to inmates who want to restart their lives among positive peers. As a Befriender, you will support inmates who may be at any phase of their incarceration through letter-writing, phonecalls and visitations. The befriending journey continues into the aftercare as your befriendee prepares to re-enter society with your support.</p>
     </div>
 	</li>  
   <li>
