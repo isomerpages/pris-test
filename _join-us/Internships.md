@@ -12,7 +12,7 @@ The Singapore Prison Service Internship Programme (SPS-IP) offers an opportunity
 
 During the programme, interns will be able to relate their academic learning in the course of study to SPS work environment. They will also be intellectually stretched through involvement in projects and initiatives spearheaded by various units in SPS.
 
-Not only does SPS-IP offers undergraduates a broader perspective in correctional work, but you will also be able to experience how our Captains of Lives inspire everyone at every chance towards a society without re-offending.
+Not only does SPS-IP offers undergraduates a broader perspectives in correctional work, but you will also be able to experience how our Captains of Lives inspire everyone at every chance towards a society without re-offending.
 
 Join the SPS-IP today!
 
