@@ -4,7 +4,7 @@ permalink: /join-us/Volunteer
 description: ""
 third_nav_title: Volunteers
 ---
-Volunteers work with the inmates and ex-offenders in the areas of religious programmes and services, social programmes, academic and enrichment programmes. Volunteers are also one of the sources of pro-social support for the released ex-offenders in the community.
+Volunteers work with the inmates and ex-offenders in the areas of religious programmes and services, social programmes, academic and enrichment programmes. Volunteers are also one of the sources of pro-social support for the ex-offenders in the community.
 
 <iframe title="YouTube video player" src="https://www.youtube.com/embed/HH-aP6-Jeik" width="100%" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
