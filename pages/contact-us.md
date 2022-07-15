@@ -25,7 +25,7 @@ contacts:
       - email: ""
       - other: "If you wish to send in clothing, you may make an appointment by calling
           the visit booking hotline. "
-    title: Sending clothing to inmates
+    title: Sending Clothing to Inmates
   - content:
       - phone: ""
       - email: ""
