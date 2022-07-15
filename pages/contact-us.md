@@ -5,7 +5,7 @@ permalink: /contact-us/
 agency_name: Singapore Prison Service
 locations:
   - address:
-      - 980 Upper Changi Rd North
+      - 980 Upper Changi Road North
       - Singapore 507708
       - ""
     operating_hours:
