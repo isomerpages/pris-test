@@ -20,3 +20,6 @@ SPS currently administers 15 institutions. They make up SPS’s line units and a
 At the staff level, SPS has 11 staff divisions - Corporate Communications and Relations, Intelligence, Logistics & Finance, Operations, Provost, Psychological & Correctional Rehabilitation, Rehabilitation & Reintegration, Risk Management and Assurance, Staff Development, Strategic Planning, and Transformational & Technology.
 
 ![](/images/About%20Us/Directorates%202021.jpg)
+
+[No need for SPS and COL logo
+<br>Provost changed to Investigation]
