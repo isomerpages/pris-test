@@ -98,7 +98,7 @@ third_nav_title: Careers
 <p>Enhanced Learning &amp; Development Subsidy Scheme</p>
 </td>
 <td class="cellpadding">
-<p>$2,000 per annum in the last 5 years prior to an officer&rsquo;s retirement to support transition to a second career post retirement</p>
+<p>$2,000 per annum in the last five years prior to an officer&rsquo;s retirement to support transition to a second career post retirement</p>
 </td>
 </tr>
 </tbody>
