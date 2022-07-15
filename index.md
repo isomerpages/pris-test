@@ -13,7 +13,7 @@ sections:
         - title: Know about SPS
           description: ""
           url: /organisation
-        - title: Connect with my loved one
+        - title: Connect with loved one
           description: ""
           url: /visit-matters/visit-announcements
         - title: Learn about Corrections
