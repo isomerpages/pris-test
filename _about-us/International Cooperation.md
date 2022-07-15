@@ -34,7 +34,7 @@ Since its inauguration in 2010, the participation in APLC has grown from three t
 
 **Yellow Ribbon Project’s International Footprints**
 
-SPS’s sharing of the [Yellow Ribbon Project](http://www.yellowribbon.org.sg/) at various international forums has shown the world a tenable working model to alleviate the social stigma faced by ex-offenders, and create an ecosystem which is ready to accept them after their release. Several jurisdictions and non-state organisations in countries such as Fiji and the Czech Republic have been inspired by our work and embarked on or adapted their brand of YRP.
+SPS’s sharing of the [Yellow Ribbon Project](https://www.yellowribbon.gov.sg/community-engagement/yellow-ribbon-project) at various international forums has shown the world a tenable working model to alleviate the social stigma faced by ex-offenders, and create an ecosystem which is ready to accept them after their release. Several jurisdictions and non-state organisations in countries such as Fiji and the Czech Republic have been inspired by our work and embarked on or adapted their brand of YRP.
 
 ![](/images/Placeholder%20for%20Image.png)
 [photo of overseas YR Run]
