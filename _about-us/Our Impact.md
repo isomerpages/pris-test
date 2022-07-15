@@ -11,6 +11,6 @@ Started in 2004, the Yellow Ribbon Project is a community initiative in Singapor
 
 The Yellow Ribbon Project is an initiative under the Community Action for the Rehabilitation of Ex-Offenders (CARE) Network, which comprises Ministry of Home Affairs (MHA), Ministry of Social and Family Development (MSF), Singapore Prison Service (SPS), Yellow Ribbon Singapore (YRSG), National Council of Social Service (NCSS), Industrial & Services Co-operative Society Ltd (ISCOS), Yellow Ribbon Fund (YRF), Singapore After-Care Association (SACA) and Singapore Anti-Narcotics Association (SANA). 
 
-Since its inception, YRP have organised events and activities such as the  Yellow Ribbon Prison Run, Yellow Ribbon Songwriting Competition, Yellow Ribbon Community Art & Poetry Exhibition and Yellow Ribbon Culinary Competition with the support of community partners, to showcase the skills and talents of inmates and ex-offenders. 
+Since its inception, YRP have organised events and activities such as the Yellow Ribbon Prison Run, Yellow Ribbon Songwriting Competition, Yellow Ribbon Community Art & Poetry Exhibition and Yellow Ribbon Culinary Competition with the support of community partners, to showcase the skills and talents of inmates and ex-offenders. 
   
 More information on the Yellow Ribbon Project is available at [www.yellowribbon.gov.sg](http://www.yellowribbon.gov.sg)
