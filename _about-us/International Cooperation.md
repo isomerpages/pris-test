@@ -28,9 +28,9 @@ In 2021, SPS and Yellow Ribbon Singapore organised a virtual event at the 64th U
 ![](/images/Placeholder%20for%20Image.png)
 [ photo of APLC 2018]
 
-SPS initiated the biennial Asian Prisons Lockdown Challenge (APLC), a tactical competition for correctional services in the Asia Pacific region to exchange best practices in the field of operational knowledge and tactical skills. The APLC is the first of its kind in the Asia Pacific region, encompassing competition segments that test participants’ tactical know-how through a series of mentally and physically challenging scenarios. Concurrent tactical workshops helmed by professional trainers are also conducted during the event to share with participants the latest developments in tactical response in correctional settings. 
+SPS initiated the biennial Asian Prisons Lockdown Challenge (APLC), a tactical competition for correctional services in the Asia Pacific region to exchange best practices in the field of operational knowledge and tactical skills. The APLC is the first of its kind in the Asia Pacific region, encompassing competition segments that test participants’ tactical know-how through a series of mentally and physically challenging scenarios. Concurrent tactical workshops helmed by professional trainers are also conducted during the event to share with participants the latest developments in tactical response within correctional settings. 
 
-Since its inauguration in 2010, the APLC has seen participation grow from three to 10 countries with over 70 participants at the latest edition in 2018.
+Since its inauguration in 2010, the participation in APLC has grown from three to 10 countries with over 70 participants in 2018.
 
 **Yellow Ribbon Project’s International Footprints**
 
