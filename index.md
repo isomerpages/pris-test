@@ -30,7 +30,7 @@ sections:
       button: Read about visit updates
       url: https://www.sps.gov.sg/connect-us/updated-visit-information
   - infopic:
-      title: Our Corrections Process
+      title: Learn About Corrections
       button: Know more about what we do
       url: /rehabilitation-process-menu
       image: /images/image-library/rehab%20process.jpg
