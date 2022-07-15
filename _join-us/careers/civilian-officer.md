@@ -9,10 +9,10 @@ A civilian career with SPS is one with many opportunities. You will be deployed 
 
 **Management Executive Scheme (MXS)**
 
-**(i) Extended Management Executive Scheme (E-MXS)**<br>
+**Extended Management Executive Scheme (E-MXS)**<br>
 An officer who is appointed under the Extended Management Executive Scheme (E-MXS) is deployed to different units within SPS to assume various roles. They are able to apply administrative and organizational skills in areas including Line Operations, Human Resource, Corporate Services, Corporate Communication and Strategic Planning.
 
-**(ii) Home Affairs Senior Executive (HASE)**<br>
+**Home Affairs Senior Executive (HASE)**<br>
 As a Home Affairs Senior Executive (HASE), you will have diverse exposures within the Home Team that allow you to develop cross cutting knowledge and skills. Additionally, you can also develop your career along professional tracks to deepen specialisation in your areas of interest.
 
 Candidates with knowledge and/or experience in Psychology, Social work or Counselling may apply for Correctional Rehabilitation Specialist (CRS) position. The roles for CRS comprise the design, formulation and delivery of rehabilitation programmes in support of offenders’ rehabilitation and reintegration journey.
