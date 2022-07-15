@@ -22,7 +22,18 @@ SPS currently administers 15 institutions. They make up SPS’s line units and a
 * Community Corrections Command (COMC)
 * Operations and Security Command (OSC) 
 
-At the staff level, SPS has 11 staff divisions - Corporate Communications and Relations, Intelligence, Logistics & Finance, Operations, Provost, Psychological & Correctional Rehabilitation, Rehabilitation & Reintegration, Risk Management and Assurance, Staff Development, Strategic Planning, and Transformational & Technology.
+At the staff level, SPS has 11 staff divisions: 
+* Corporate Communications and Relations
+* Intelligence 
+* Logistics & Finance 
+* Operations 
+* Provost 
+* Psychological & Correctional Rehabilitation
+* Rehabilitation & Reintegration 
+* Risk Management and Assurance 
+* Staff Development 
+* Strategic Planning
+* Transformational & Technology
 
 ![](/images/About%20Us/Directorates%202021.jpg)
 
