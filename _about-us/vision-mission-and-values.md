@@ -7,7 +7,7 @@ permalink: /about-us/vision-mission-values
 
 ### **Vision**
 
-As Captains of Lives, we inspire everyone, at every chance, towards a society without re-offending.
+As Captains of Lives, we inspire everyone, at every chance, towards a society without <br>re-offending.
 
 ### **Mission**
 As a correctional agency, we enforce secure custody of offenders and rehabilitate them, for a safe Singapore.
