@@ -14,7 +14,7 @@ SPS participates actively in various international correctional associations, su
 
 The Asian and Pacific Conference of Correctional Administrators (APCCA) is a forum for government officials responsible for prison or correctional administration in the Asia Pacific region, and the International Corrections and Prisons Association (ICPA) is an international association spanning government agencies, academic groups, non-government organisations and private sector service providers.
 
-At these two correctional associations, SPS seeks to share its experiences in corrections, spanning across operations, staff training, as well as rehabilitation and reintegration.
+At these two correctional associations, SPS shares its experiences in corrections, spanning across operations, staff training, as well as rehabilitation and reintegration.
 
 Since 2002, SPS has served as the APCCA Joint-Secretariat with Hong Kong Correctional Services Department. In 2017, then SPS Commissioner of Prisons, Mr Desmond Chin was elected to sit on the ICPA Board of Directors and stepped down in 2020 upon his retirement from SPS. Commissioner of Prisons, Ms Shie Yong Lee was elected to the Board in October 2020 for a four-year term. 
 
