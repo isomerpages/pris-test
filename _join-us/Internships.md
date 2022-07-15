@@ -14,9 +14,7 @@ During the programme, you will be able to apply your academic learning through i
 
 SPS-IP can offer you a broader perspective in correctional work, and allow you to experience how our Captains of Lives inspire everyone, at every chance, towards a society without re-offending.
 
-Join the SPS-IP today!
-
-Look out for updates on the Singapore Prison Service Facebook page where we will broadcast details on the next internship cycle!
+Join the SPS-IP today! Express your interest through this link.
 
 ### **Testimonials**<br>
 > “I really appreciate the opportunity to be able to observe the assessment/interview sessions between Psychologist and the inmates.”
@@ -30,5 +28,3 @@ Look out for updates on the Singapore Prison Service Facebook page where we will
 
 > “The professionalism of the Psychologist and their drive to make a positive change in the lives of inmates give me a positive impression.”
 > – Chelsea Ye, NTU, Yr 2 Psychology.
-
-**For more information or to apply for an internship, please visit our [Singapore Prison Service Facebook page.](https://www.facebook.com/SingaporePrisonService)**
