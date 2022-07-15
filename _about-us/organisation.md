@@ -2,7 +2,7 @@
 title: Organisation
 permalink: /organisation
 ---
-The Singapore Prison Service (SPS), a uniformed organisation institutionalised in 1946, is one of the 11 Agencies under the Ministry of Home Affairs (MHA). 
+The Singapore Prison Service (SPS), a uniformed organisation institutionalised in 1946, is one of the 11 Agencies under the [Ministry of Home Affairs (MHA).](www.mha.gov.sg)
 
 Together, we form the Home Team (HT). SPS contributes to MHA’s Vision “A Trusted Home Team, A Safe and Secure Singapore” through the secure custody and rehabilitation of offenders. 
 From a traditional custodial agency faced with challenges of overcrowded prisons and manpower shortage due to high staff turnover and poor public perception, SPS is now a leading correctional agency with a stellar safety and security track record, characterised by effective inmate management and sustained low recidivism rates. 
