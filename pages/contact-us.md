@@ -31,5 +31,5 @@ contacts:
       - email: ""
       - other: Locate your nearest Visit Centre <a
           href="https://pris-test-staging.netlify.app/visit-matters/visit-information/permalink">here</a>.
-    title: Location of Visit Centres
+    title: Visit Centres
 ---
