@@ -3,7 +3,7 @@ title: Our Impact
 permalink: /about-us/our-impact
 description: ""
 ---
-* Recidivism Rate
+* Recidivism Rate (Regina to come up with a short para, to link to 
 * International Coop
 
 **Yellow Ribbon Project** <br>
