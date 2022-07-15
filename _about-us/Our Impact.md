@@ -8,6 +8,7 @@ description: ""
 
 **Yellow Ribbon Project** <br>
 ![](/images/Placeholder%20for%20Image.png)
+[CARE network]
 
 Started in 2004, the Yellow Ribbon Project is a community initiative in Singapore that aims to create awareness of the need to give second chances to ex-offenders, generate acceptance of ex-offenders and their families in the community, and inspire community action to support the rehabilitation and reintegration of ex-offenders into society. 
 
@@ -23,5 +24,8 @@ The Yellow Ribbon Project is an initiative under the Community Action for the Re
 * Singapore Anti-Narcotics Association (SANA) 
 
 Since the inception of Yellow Ribbon Project, events and activities, such as the Yellow Ribbon Prison Run, Yellow Ribbon Songwriting Competition, Yellow Ribbon Community Art & Poetry Exhibition and Yellow Ribbon Culinary Competition, have been organised with the support of community partners to showcase the skills and talents of inmates and ex-offenders. 
-  
+ 
+ ![]()
+ [Collage of events]
+ 
 More information on the Yellow Ribbon Project is available at [www.yellowribbon.gov.sg](http://www.yellowribbon.gov.sg)
