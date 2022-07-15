@@ -9,7 +9,7 @@ third_nav_title: Careers
 (VIDEO: Recruitment video – w.e.f October 2022)
 
 ##### **Contribute to a safe and secure Singapore**
-We are [Captains of Lives (COL)](/about-us/captain-of-lives) to offenders under our custody. We are committed to keeping Singapore safe and secure through the safe and secure custody of offenders and facilitating their rehabilitation and re-integration back to society.
+We are [Captains of Lives (COL)](/about-us/captain-of-lives) to offenders under our custody. We are committed to keeping Singapore safe and secure through enforcing the secure custody of inmates and facilitating their rehabilitation and re-integration back to society.
 
 ##### **Experience both professional and personal growth**
 As a staff of SPS, you will enjoy ample developmental opportunities to upgrade yourself and grow professionally as a member of a highly engaged and caring workforce.
