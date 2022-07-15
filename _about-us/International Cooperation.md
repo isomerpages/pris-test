@@ -18,7 +18,11 @@ At these two correctional associations, SPS shares its experiences in correction
 
 Since 2002, SPS has served as the APCCA Joint-Secretariat with Hong Kong Correctional Services Department. In 2017, then SPS Commissioner of Prisons, Mr Desmond Chin was elected to sit on the ICPA Board of Directors and stepped down in 2020 upon his retirement from SPS. Commissioner of Prisons, Ms Shie Yong Lee was elected to the Board in October 2020 for a four-year term. 
 
-Apart from these correctional conferences, SPS is also involved in key events organised by the United Nations Office on Drugs and Crime (UNODC). Since 2016, at the invitation of UNODC, SPS has contributed to various UN Expert Group Meetings and provided inputs for handbooks covering topics from prison management to rehabilitation. In 2018, SPS and UNODC jointly organised a training workshop on correctional rehabilitation for 63 participants from various correctional administrations across 16 countries in Asia Pacific. In 2021, SPS and YRSG organised a virtual event at the 64th United Nations Commission on Narcotic Drugs, titled “Inspiring Community Action in the Rehabilitation and Reintegration of Offenders”, that was attended by over 125 international and local participants.
+Apart from these correctional conferences, SPS is also involved in key events organised by the United Nations Office on Drugs and Crime (UNODC). Since 2016, at the invitation of UNODC, SPS has contributed to various UN Expert Group Meetings and provided inputs for handbooks covering topics from prison management to rehabilitation. 
+
+In 2018, SPS and UNODC jointly organised a training workshop on correctional rehabilitation for 63 participants from various correctional administrations across 16 countries in Asia Pacific.
+
+In 2021, SPS and Yellow Ribbon Singapore organised a virtual event at the 64th United Nations Commission on Narcotic Drugs, titled “Inspiring Community Action in the Rehabilitation and Reintegration of Offenders”, that was attended by over 125 international and local participants.
 
 **Asian Prison Lockdown Challenge**
 ![](/images/Placeholder%20for%20Image.png)
