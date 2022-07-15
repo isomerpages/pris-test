@@ -18,4 +18,4 @@ As an SPS staff, you will enjoy ample development opportunities to upgrade yours
 You can look forward to a fulfilling and diverse range of career opportunities, as well as extensive opportunities to advance your career in the forefront of corrections.
 
 ##### **Career Route Map**
-Under SPS’ single scheme rank structure, non-graduate officers can progress up the ranks without a degree, based on performance and potential. We offer our officers a wide range of postings through different portfolios across SPS, supported by a comprehensive training and development framework that will allow you to grow professionally as you advance in your career with the SPS.
+Under SPS’ single scheme rank structure, officers can progress up the ranks without a degree, based on performance and potential. We offer our officers a wide range of postings through different portfolios across SPS, supported by a comprehensive training and development framework that will allow you to grow professionally as you advance in your career with the SPS.
