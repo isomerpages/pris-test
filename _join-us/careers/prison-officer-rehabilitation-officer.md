@@ -74,7 +74,7 @@ third_nav_title: Careers
 <p>MHA Sponsorship/MHA Study Award*</p>
 </td>
 <td class="cellpadding">
-<p>Part-time studies (PhD, Masters, Graduate Diploma, Degree, Diploma &amp; formal certificate)</p>
+<p>Part-time studies (PhD, Masters, Graduate Diploma, Degree, Diploma &amp; formal certificates)</p>
 </td>
 </tr>
 <tr>
