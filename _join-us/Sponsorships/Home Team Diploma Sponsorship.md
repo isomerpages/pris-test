@@ -20,23 +20,11 @@ The Home Team Diploma sponsorship is awarded to talented polytechnic students wh
 <tr style="height: 18px;">
 <td style="width: 36.2216%; height: 18px;">Eligibility:&nbsp;</td>
 <td style="width: 63.7784%; height: 18px;">
-<ul>
-<li>
-<p>Existing students studying at Nanyang, Ngee Ann, Republic, Singapore or Temasek Polytechnic</p>
-</li>
-<li>
+<p>&bull; Existing students studying at Nanyang, Ngee Ann, Republic, Singapore or Temasek Polytechnic</p>
 <p>Singapore Citizens</p>
-</li>
-<li>
 <p>Good &lsquo;O&rsquo; Level/Nitec/ Higher NITEC/ Diploma results</p>
-</li>
-<li>
 <p>Medically and physically fit, with at least a &lsquo;pass&rsquo; in NAPFA</p>
-</li>
-<li>
 <p>A keen interest to do real and meaningful non-desk bound work and enjoy working with people</p>
-</li>
-</ul>
 </td>
 </tr>
 <tr style="height: 18px;">
