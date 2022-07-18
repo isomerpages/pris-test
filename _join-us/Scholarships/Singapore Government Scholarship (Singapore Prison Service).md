@@ -40,12 +40,10 @@ The Singapore Government Scholarship (SGS) provides highly qualified individuals
 </table>
 
 ##### COUNTRIES AND COURSES OF STUDY
-
 Most countries and disciplines (except medicine, dentistry and architecture).  
 \* _Applicants intending to pursue a degree in Law will not be called to the Bar while serving in the SPS._
 
 ##### CONDITION OF AWARD
-
 Scholarship holders need to fulfil a bond of: 
 
 *   4 years (for local studies)
@@ -55,7 +53,6 @@ Scholarship holders need to fulfil a bond of: 
 The bond period starts on the day they assume official duty after completing their studies.
 
 ##### YOUR LEADERSHIP JOURNEY
-
 You will be exposed to various areas of work through regular postings to develop staff and command competencies.  
   
 You will also have the opportunity to be placed on the Public Service Leadership Programme (PSLP) where you will acquire specialist knowledge and capabilities to take on key leadership positions in SPS.
