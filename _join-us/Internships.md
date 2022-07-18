@@ -14,11 +14,11 @@ During the programme, you will be able to apply your academic learning through i
 
 SPS-IP can offer you a broader perspective in correctional work, and allow you to experience how our Captains of Lives inspire everyone, at every chance, towards a society without re-offending.
 
-Join the SPS-IP today! Express your interest through this link.
+Join the SPS-IP today! Express your interest through **this link**.
 
-### **Testimonials**<br>
-> “I really appreciate the opportunity to be able to observe the assessment/interview sessions between Psychologist and the inmates.”
-> – Foo Qi En, NUS, Yr 2 Psychology & Life Sciences
+##### **Testimonials**<br>
+##### “I really appreciate the opportunity to be able to observe the assessment/interview sessions between Psychologist and the inmates.”
+– Foo Qi En, NUS, Yr 2 Psychology & Life Sciences 
 
 > “I like the idea that SPS is moving towards a Correctional Agency and I personally believe that this can impact many lives in many ways.”
 > – Teo Kai Xin, NTU, Yr 2 Psychology
