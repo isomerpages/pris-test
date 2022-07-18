@@ -29,7 +29,7 @@ Family members and relatives are allowed to visit the inmate. Family members and
 | For Foreigners (non- Singpass eligible users)|[VRF for Foreigners](https://form.gov.sg/#!/5c88baed9a3a3c0010c18c70)|
 
 **Request for Visit**<br>
- For relatives who are unable to produce any documentary proof of their relationship to inmate and other non family members or relatives, an application to request for visit (Visit Request Form) needs to be submitted and it will be subject to approval. Please note that the approval process can take up to 3 weeks. Results of the application will be made known to the applicant and the Main Card Holder via SMS. On-site approval will not be granted.
+ For applicants who are unable to produce any documentary proof of their relationship to inmate and other non-family members or relatives, an application to request for visit (Visit Request Form) needs to be submitted and it will be subject to approval. Please note that the approval process can take up to 3 weeks. Results of the application will be made known to the applicant and the Main Card Holder via SMS. On-site approval will not be granted.
 Visit Request Form (VRF) for online application:
 
 |For Singaporeans/ Singapore PR/ Work Permit Holder (SingPass eligible users)| For Singaporeans and Singapore PR (using SingPass log-in)| 
