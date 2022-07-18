@@ -71,7 +71,6 @@ Captains of Lives can look forward to a wide range of career choices and opportu
 
 | (A) Foundation Posting | 	(B) Developmental Posting | 
 | -------- | -------- | 
-|Correctional Unit Officer (upon graduation from the Prison Officer Course) | Captains of Lives are given diverse career and advancement opportunities to grow and develop in various divisions: | 
+|Correctional Unit Officer (upon graduation from the Prison Officer Course) | Captains of Lives are given diverse career and advancement opportunities to grow and develop in various divisions: ‣ Community Corrections Command<br>&nbsp;<br>‣ Corporate Communications & Relations Division<br>&nbsp;<br>‣ Intelligence Division<br>&nbsp;<br>‣ Investigation Division<br>&nbsp;<br>‣ Logistics & Finance Division<br>&nbsp;<br>‣Operations Division<br>&nbsp;<br>‣ Operations & Security Command<br>&nbsp;<br>‣ Psychological & Correctional Rehabilitation Division<br>&nbsp;<br>‣ Rehabilitation & Reintegration Division<br>&nbsp;<br>‣ Risk Management & Assurance Division<br>&nbsp;<br>‣ Staff Development Division<br>&nbsp;<br>‣ Strategic Planning Division<br>&nbsp;<br>‣ Transformation & Technology Division| 
 
 ![](/images/career-tabs-application-button.png)
-
