@@ -6,13 +6,13 @@ third_nav_title: Sponsorships
 ---
 The Home Team Diploma sponsorship is awarded to talented polytechnic students who have the drive and passion to keep Singapore safe and secure by making a difference in the lives of offenders and their communities. The sponsorship covers you for a three-year diploma education in any of the five local polytechnics. The sponsorship will not only provide financial incentives during your studies, but will also start you on a meaningful and fulfilling career with the Singapore Prison Service. You will be given development opportunities to acquire new skills and upgrade yourself professionally as you progress.
 
-|Home Team Diploma Sponsorship |  | 
+| | Home Team Diploma Sponsorship  | 
 | -------- | -------- | 
 | Applicable to: | Diploma Studies | 
 | Type of Institutions: | Local Polytechnics | 
 | Eligibility: | Text     | 
-| Course of Study: | Most Discipline | 
-| Value of Award: | Text     | 
+| Course of Study: | Most Disciplines | 
+| Value of Award: | HT Diploma (Merit) Sponsorship <br>- Monthly allowance of $1,300/ month or a total of $15,600/year <br>- Tuition and other compulsory fees <br>- Study bonus of $1,200 per semester if you pass all modules that semester <br>&nbsp;<br>HT Diploma (Study) Sponsorship<br>- Monthly allowance of $750 or a total of $9,000 per year Value of Award <br>- Tuition and compulsory fees  <br>- Monthly allowance of $1,000/ month or a total of $12,000/ year <br>- Tuition and other compulsory fees <br>- Study bonus of $1,200 per semester if you pass all modules that semester | 
 | Terms of Award: | 4 Years Bond | 
 
 
