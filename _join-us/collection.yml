@@ -2,10 +2,6 @@ collections:
   join-us:
     output: true
     order:
-      - Sponsorships/.keep
-      - Sponsorships/Home Team Diploma Sponsorship.md
-      - Sponsorships/Home Team ITE Sponsorship.md
-      - Sponsorships/Sponsorships (To remove).md
       - careers/.keep
       - careers/Our Employee Value Proposition.md
       - careers/prison-officer-rehabilitation-officer.md
@@ -13,6 +9,10 @@ collections:
       - careers/civilian-officer.md
       - Scholarships/.keep
       - Scholarships/Home Affairs Uniformed Services Scholarships.md
+      - Sponsorships/.keep
+      - Sponsorships/Home Team Diploma Sponsorship.md
+      - Sponsorships/Home Team ITE Sponsorship.md
+      - Sponsorships/Sponsorships (To remove).md
       - Internships.md
       - Volunteers/.keep
       - Volunteers/Volunteer with Us.md
