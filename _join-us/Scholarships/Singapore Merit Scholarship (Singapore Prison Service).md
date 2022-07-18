@@ -10,8 +10,8 @@ The Singapore Merit Scholarship (SMS) is offered to individuals with excellent a
 
 |  | | 
 | -------- | -------- |
-|**ELIGIBILITY** | Text     | 
-| **VALUE OF AWARD ** | Text     | 
+|<b>ELIGIBILITY</b> | Text     | 
+|<b>VALUE OF AWARD</b>| Text     | 
 || | 
 
 <table>
