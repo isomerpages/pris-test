@@ -61,6 +61,7 @@ The Singapore Government Scholarship (SGS) provides highly qualified individuals
 </tr>
 </tbody>
 </table>
+
 ##### COUNTRIES AND COURSES OF STUDY
 
 Most countries and disciplines (except medicine, dentistry and architecture).  
