@@ -19,7 +19,7 @@ Visitors are allowed to purchase pre-approved snack packs for the following cate
 These snack packs can be purchased at any of the Prison Link Centres via NETS payment.
 
 **Pre-Release Clothing**<br>
-Visitors are allowed to hand over a set of clothing and footwear for the inmate during any visit session at Prison Link Centre Changi, Prison Link Centre Tanah Merah or Prison Link Centre Selarang Park, between two months and two weeks prior to the release date.
+Visitors are allowed to hand over a set of clothing and footwear for the inmate during any visit session at Prison Link Centre Changi, Prison Link Centre Tanah Merah or Prison Link Centre Selarang Park, as early as two months up to two weeks prior to the release date.
 
 **Other items**<br>
 For items like spectacles, dentures, photographs and medications, the inmate has to submit his/ her request to the institution. The requests have to be approved, before the visitor is allowed to send in the item when visiting.  Unapproved items will not be accepted via mail.
