@@ -21,11 +21,21 @@ The Home Team Diploma sponsorship is awarded to talented polytechnic students wh
 <td style="width: 36.2216%; height: 18px;">Eligibility:&nbsp;</td>
 <td style="width: 63.7784%; height: 18px;">
 <ul>
-<li>Existing students studying at Nanyang, Ngee Ann, Republic, Singapore or Temasek Polytechnic</li>
-<li>Singapore Citizens</li>
-<li>Good &lsquo;O&rsquo; Level/Nitec/ Higher NITEC/ Diploma results</li>
-<li>Medically and physically fit, with at least a &lsquo;pass&rsquo; in NAPFA</li>
-<li>A keen interest to do real and meaningful non-desk bound work and enjoy working with people</li>
+<li>
+<p>Existing students studying at Nanyang, Ngee Ann, Republic, Singapore or Temasek Polytechnic</p>
+</li>
+<li>
+<p>Singapore Citizens</p>
+</li>
+<li>
+<p>Good &lsquo;O&rsquo; Level/Nitec/ Higher NITEC/ Diploma results</p>
+</li>
+<li>
+<p>Medically and physically fit, with at least a &lsquo;pass&rsquo; in NAPFA</p>
+</li>
+<li>
+<p>A keen interest to do real and meaningful non-desk bound work and enjoy working with people</p>
+</li>
 </ul>
 </td>
 </tr>
@@ -37,15 +47,27 @@ The Home Team Diploma sponsorship is awarded to talented polytechnic students wh
 <td style="width: 36.2216%; height: 18px;">Value of Award:</td>
 <td style="width: 63.7784%; height: 18px;"><strong>HT Diploma (Merit) Sponsorship</strong><br />
 <ul>
-<li>Monthly allowance of $1,300/ month or a total of $15,600/year</li>
-<li>Tuition and other compulsory fees</li>
-<li>Study bonus of $1,200 per semester if you pass all modules that semester</li>
+<li>
+<p>Monthly allowance of $1,300/ month or a total of $15,600/year</p>
+</li>
+<li>
+<p>Tuition and other compulsory fees</p>
+</li>
+<li>
+<p>Study bonus of $1,200 per semester if you pass all modules that semester</p>
+</li>
 </ul>
 <strong>HT Diploma (Study) Sponsorship</strong><br />
 <ul>
-<li>Monthly allowance of $1,000/ month or a total of $12,000/ year</li>
-<li>Tuition and compulsory fees</li>
-<li>Study bonus of $1,200 per semester if you pass all modules that semester</li>
+<li>
+<p>Monthly allowance of $1,000/ month or a total of $12,000/ year</p>
+</li>
+<li>
+<p>Tuition and compulsory fees</p>
+</li>
+<li>
+<p>Study bonus of $1,200 per semester if you pass all modules that semester</p>
+</li>
 </ul>
 </td>
 </tr>
