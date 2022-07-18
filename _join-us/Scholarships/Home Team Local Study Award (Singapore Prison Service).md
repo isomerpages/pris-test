@@ -40,6 +40,42 @@ The Home Team Local Study Award (HTLSA) enables you to pursue a meaningful and r
 </tbody>
 </table>
 
+<table>
+<tbody>
+<tr style="height: 50%;">
+<td style="width: 133px;">
+<h5>ELIGIBILITY</h5>
+</td>
+<td style="width: 554px;">
+<ul>
+<li>Singapore Citizen or Singapore Permanent Resident who intends to take up Singapore Citizenship</li>
+<li>Have strong leadership qualities and potential</li>
+<li>Possess strong interest in safeguarding the safety and security of Singapore</li>
+<li>Have good academic and Co-Curricular Activities (CCAs) records</li>
+<li>Have a GCE A-Levels, International Baccalaureate, Polytechnic, NUS High School, or other high school diploma/certificate. [Current Undergraduate students (not in final year of studies) with good academic results may also apply. Check out more details on a mid-term scholarship.]</li>
+<li>Perform well in National Service (for male applicants)</li>
+</ul>
+<h5>&nbsp;</h5>
+</td>
+</tr>
+<tr style="height: 50%;">
+<td style="width: 133px;">
+<h5>VALUE OF AWARD</h5>
+<p>&nbsp;</p>
+</td>
+<td style="width: 554px;">
+<ul>
+<li>Tuition fees and other approved charges</li>
+<li>Monthly local maintenance allowance (including accommodation)</li>
+<li>Pre-studies allowance e.g. computer</li>
+<li>Hostel allowance</li>
+<li>Sponsorship of Master&rsquo;s and exchange programmes (if requirements are met)</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+
 ##### COURSES OF STUDY
 Most disciplines in local universities (except medicine, dentistry and architecture).
 
