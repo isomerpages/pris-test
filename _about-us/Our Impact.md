@@ -17,16 +17,16 @@ Started in 2004, the Yellow Ribbon Project [Yellow Ribbon Project](https://www.y
 
 The Yellow Ribbon Project is an initiative under the Community Action for the Rehabilitation of Ex-Offenders (CARE) Network, which comprises:
 * [Ministry of Home Affairs (MHA) ](https://www.mha.gov.sg/)
-* Ministry of Social and Family Development (MSF) 
-* Singapore Prison Service (SPS)
-* Yellow Ribbon Singapore (YRSG) 
-* National Council of Social Service (NCSS)
-* Industrial & Services Co-operative Society Ltd (ISCOS) 
-* Yellow Ribbon Fund (YRF) 
-* Singapore After-Care Association (SACA) 
-* Singapore Anti-Narcotics Association (SANA) 
+* [Ministry of Social and Family Development (MSF)](https://www.msf.gov.sg/) 
+* [Singapore Prison Service (SPS)](www.sps.gov.sg)
+* [Yellow Ribbon Singapore (YRSG)](https://www.yellowribbon.gov.sg/)
+* [National Council of Social Service (NCSS)](https://www.ncss.gov.sg/)
+* [Industrial & Services Co-operative Society Ltd (ISCOS) ](https://www.iscos.org.sg/)
+* [Yellow Ribbon Fund (YRF) ](https://www.yellowribbon.gov.sg/yellow-ribbon-fund)
+* [Singapore After-Care Association (SACA) ](https://www.saca.org.sg/)
+* [Singapore Anti-Narcotics Association (SANA)](https://www.sana.org.sg/)
 
-Since the inception of Yellow Ribbon Project, events and activities, such as the Yellow Ribbon Prison Run, Yellow Ribbon Songwriting Competition, Yellow Ribbon Community Art & Poetry Exhibition (ADD LINK) and Yellow Ribbon Culinary Competition, have been organised with the support of community partners to showcase the skills and talents of inmates and <br>ex-offenders. 
+Since the inception of Yellow Ribbon Project, events and activities, such as the Yellow Ribbon Prison Run, Yellow Ribbon Songwriting Competition, [Yellow Ribbon Community Art & Poetry Exhibition ](https://www.yellowribbonart.sg/) and Yellow Ribbon Culinary Competition, have been organised with the support of community partners to showcase the skills and talents of inmates and ex-offenders. 
  
  ![]()
  [Collage of events]
