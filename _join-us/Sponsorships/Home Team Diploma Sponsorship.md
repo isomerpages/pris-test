@@ -17,4 +17,53 @@ The Home Team Diploma sponsorship is awarded to talented polytechnic students wh
 | Terms of Award: | 4 Years Bond |
 | | | 
 
+<table style="width: 100%; border-collapse: collapse; border-style: none; height: 108px;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 36.2216%; height: 18px;">Applicable to:</td>
+<td style="width: 63.7784%; height: 18px;">Diploma Studies</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 36.2216%; height: 18px;">Type of Institutions:</td>
+<td style="width: 63.7784%; height: 18px;">Local Polytechnics</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 36.2216%; height: 18px;">Eligibility:&nbsp;</td>
+<td style="width: 63.7784%; height: 18px;">
+<ul>
+<li>Existing students studying at Nanyang, Ngee Ann, Republic, Singapore or Temasek Polytechnic</li>
+<li>Singapore Citizens</li>
+<li>Good &lsquo;O&rsquo; Level/Nitec/ Higher NITEC/ Diploma results</li>
+<li>Medically and physically fit, with at least a &lsquo;pass&rsquo; in NAPFA</li>
+<li>A keen interest to do real and meaningful non-desk bound work and enjoy working with people</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 36.2216%; height: 18px;">Course of Study:</td>
+<td style="width: 63.7784%; height: 18px;">Most Disciplines</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 36.2216%; height: 18px;">Value of Award:</td>
+<td style="width: 63.7784%; height: 18px;"><strong>HT Diploma (Merit) Sponsorship</strong><br />
+<ul>
+<li>Monthly allowance of $1,300/ month or a total of $15,600/year</li>
+<li>Tuition and other compulsory fees</li>
+<li>Study bonus of $1,200 per semester if you pass all modules that semester</li>
+</ul>
+<strong>HT Diploma (Study) Sponsorship</strong><br />
+<ul>
+<li>Monthly allowance of $1,000/ month or a total of $12,000/ year</li>
+<li>Tuition and compulsory fees</li>
+<li>Study bonus of $1,200 per semester if you pass all modules that semester</li>
+</ul>
+</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 36.2216%; height: 18px;">Terms of Award:</td>
+<td style="width: 63.7784%; height: 18px;">4 Years Bond</td>
+</tr>
+</tbody>
+</table>
+
 To apply for **Home Team Diploma Sponsorship**, please visit this [link.](https://www.mha.gov.sg/careers/sponsorships/home-team-diploma-sponsorship)
