@@ -10,7 +10,7 @@ The Singapore Merit Scholarship (SMS) is offered to individuals with excellent a
 
 |  | | 
 | -------- | -------- |
-|<b>ELIGIBILITY</b> | Text     | 
+|<b>ELIGIBILITY</b> | ‣ Singapore Citizen or Singapore Permanent Resident who intends to take up Singapore Citizenship<br>&nbsp;<br>‣ Have strong leadership qualities and potential<br>&nbsp;<br>‣ Possess strong interest in safeguarding the safety and security of Singapore<br>&nbsp;<br>‣ Have good academic and Co-Curricular Activities (CCAs) records<br>&nbsp;<br>‣ Have a GCE A-Levels, International Baccalaureate, Polytechnic, NUS High School, or other high school diploma/certificate<br>&nbsp;<br>‣ Qualify and excel in Officer Cadet School | 
 |<b>VALUE OF AWARD</b>| Text     | 
 || | 
 
