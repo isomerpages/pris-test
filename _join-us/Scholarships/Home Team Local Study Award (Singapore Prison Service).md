@@ -40,7 +40,7 @@ The Home Team Local Study Award (HTLSA) enables you to pursue a meaningful and r
 </tbody>
 </table>
 
-<table>
+<table style="margin-left: auto; margin-right: auto;">
 <tbody>
 <tr style="height: 50%;">
 <td style="width: 133px;">
@@ -55,7 +55,6 @@ The Home Team Local Study Award (HTLSA) enables you to pursue a meaningful and r
 <li>Have a GCE A-Levels, International Baccalaureate, Polytechnic, NUS High School, or other high school diploma/certificate. [Current Undergraduate students (not in final year of studies) with good academic results may also apply. Check out more details on a mid-term scholarship.]</li>
 <li>Perform well in National Service (for male applicants)</li>
 </ul>
-<h5>&nbsp;</h5>
 </td>
 </tr>
 <tr style="height: 50%;">
