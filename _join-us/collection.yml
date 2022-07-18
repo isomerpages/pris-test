@@ -2,6 +2,7 @@ collections:
   join-us:
     output: true
     order:
+      - Sponsorships/Sponsorships.md
       - Sponsorships/.keep
       - careers/.keep
       - careers/Our Employee Value Proposition.md
