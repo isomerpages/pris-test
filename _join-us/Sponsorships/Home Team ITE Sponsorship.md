@@ -14,7 +14,7 @@ The Home Team Diploma sponsorship is awarded to talented polytechnic students wh
 | Eligibility: | -  Existing students studying at Nanyang, Ngee Ann, Republic, Singapore or Temasek Polytechnic <br> - Singapore Citizens <br> - Good 'O' Level/Nitec/ Higher NITEC/ Diploma results <br> - Medically and physically fit, with at least a 'pass' in NAPFA <br> - A keen interest to do real and meaningful non-desk bound work and enjoy working with people| 
 | Course of Study: | Most Disciplines | 
 | Value of Award: | <b>HT Diploma (Merit) Sponsorship</b> <br>- Monthly allowance of $1,300/ month or a total of $15,600/year <br>- Tuition and other compulsory fees <br>- Study bonus of $1,200 per semester if you pass all modules that semester <br>&nbsp;<br><b>HT Diploma (Study) Sponsorship</b><br>- Monthly allowance of $1,000/ month or a total of $12,000/ year <br>- Tuition and compulsory fees  <br>- Study bonus of $1,200 per semester if you pass all modules that semester | 
-| Terms of Award: | 4 Years Bond | 
-
+| Terms of Award: | 4 Years Bond |
+| | | 
 
 To apply for **Home Team Diploma Sponsorship**, please visit this [link.](https://www.mha.gov.sg/careers/sponsorships/home-team-diploma-sponsorship)
