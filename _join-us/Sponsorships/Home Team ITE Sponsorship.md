@@ -12,7 +12,7 @@ The Home Team Diploma sponsorship is awarded to talented polytechnic students wh
 | Type of Institutions: | Local Polytechnics | 
 | Eligibility: | Text     | 
 | Course of Study: | Most Disciplines | 
-| Value of Award: | HT Diploma (Merit) Sponsorship <br>- Monthly allowance of $1,300/ month or a total of $15,600/year <br>- Tuition and other compulsory fees <br>- Study bonus of $1,200 per semester if you pass all modules that semester <br>&nbsp;<br>HT Diploma (Study) Sponsorship<br>- Monthly allowance of $1,000/ month or a total of $12,000/ year <br>- Tuition and compulsory fees  <br>- Study bonus of $1,200 per semester if you pass all modules that semester | 
+| Value of Award: | <b>HT Diploma (Merit) Sponsorship</b> <br>- Monthly allowance of $1,300/ month or a total of $15,600/year <br>- Tuition and other compulsory fees <br>- Study bonus of $1,200 per semester if you pass all modules that semester <br>&nbsp;<br><b>HT Diploma (Study) Sponsorship</b><br>- Monthly allowance of $1,000/ month or a total of $12,000/ year <br>- Tuition and compulsory fees  <br>- Study bonus of $1,200 per semester if you pass all modules that semester | 
 | Terms of Award: | 4 Years Bond | 
 
 
