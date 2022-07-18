@@ -41,16 +41,13 @@ The Local Merit Scholarship (LMS) provides highly qualified and promising indivi
 </table>
 
 ##### COURSES OF STUDY
-
 Most disciplines in local universities (except medicine, dentistry and architecture).  
 \* _Applicants intending to pursue a degree in Law will not be called to the Bar while serving in the SPS._
 
 ##### CONDITION OF AWARD
-
 Scholarship holders will be bonded for four years, commencing on the day you assume official duty after completing your studies.
 
 ##### YOUR LEADERSHIP JOURNEY
-
 You will be exposed to various areas of work through regular postings to develop staff and command competencies.  
   
 You will also have the opportunity to be placed on the Public Service Leadership Programme (PSLP) where you will acquire specialist knowledge and capabilities to take on key leadership positions in SPS.
