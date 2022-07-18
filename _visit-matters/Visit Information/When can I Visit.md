@@ -16,6 +16,8 @@ There are two modes of visits:
 ![](/images/Placeholder%20for%20Image.png)
 [Image of Face to Face visit (Re-enacted)]
 
+**The scheduled Face-to-Face Visit days for the different institutions are as follow:**
+
 Information on the visit days of Face-to-Face Visit for Penal inmates (Short Sentence and Long Sentence), Drug Rehabilitation Centre (DRC) inmates & Inhalant Abusers (IA) can be viewed via this link: < To redesign visit days to pdf>
 
 ##### Televisit<br>
