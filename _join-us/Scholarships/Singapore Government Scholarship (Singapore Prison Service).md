@@ -9,53 +9,30 @@ The Singapore Government Scholarship (SGS) provides highly qualified individuals
 <tbody>
 <tr style="height: 50%;">
 <td style="width: 50%;">
-	<p><h5>ELIGIBILITY</h5></p>
+<h5>ELIGIBILITY</h5>
 </td>
 <td style="width: 50%;">
-	<p><h5>VALUE OF AWARD</h5></p>
+<h5>VALUE OF AWARD</h5>
 </td>
 </tr>
 <tr style="height: 50%;">
 <td style="width: 50%;">
 <ul>
-<li>
-<p>Singapore Citizen or Singapore Permanent Resident who intends to take up Singapore Citizenship</p>
-</li>
-<li>
-<p>Have strong leadership qualities and potential</p>
-</li>
-<li>
-<p>Possess strong interest in safeguarding the safety and security of Singapore</p>
-</li>
-<li>
-<p>Have good academic and Co-Curricular Activities (CCAs) records</p>
-</li>
-<li>
-<p>Have a GCE A-Levels, International Baccalaureate, Polytechnic, NUS High School, or other high school diploma/certificate. [Current Undergraduate students (not in final year of studies) with good academic results may also apply. Check out more details on a mid-term scholarship.]</p>
-</li>
-<li>
-<p>Perform well in National Service (for male applicants)</p>
-</li>
+<li>Singapore Citizen or Singapore Permanent Resident who intends to take up Singapore Citizenship</li>
+<li>Have strong leadership qualities and potential</li>
+<li>Possess strong interest in safeguarding the safety and security of Singapore</li>
+<li>Have good academic and Co-Curricular Activities (CCAs) records</li>
+<li>Have a GCE A-Levels, International Baccalaureate, Polytechnic, NUS High School, or other high school diploma/certificate. [Current Undergraduate students (not in final year of studies) with good academic results may also apply. Check out more details on a mid-term scholarship.]</li>
+<li>Perform well in National Service (for male applicants)</li>
 </ul>
 </td>
 <td style="width: 50%;">
-<p>&nbsp;</p>
 <ul>
-<li>
-<p>Tuition fees and other approved charges</p>
-</li>
-<li>
-<p>Monthly overseas or local maintenance allowance (including accommodation)</p>
-</li>
-<li>
-<p>Pre-studies allowance e.g. settling in, warm clothing, computer</p>
-</li>
-<li>
-<p>Return economy class airfare (if studying overseas)</p>
-</li>
-<li>
-<p>Sponsorship of Master&rsquo;s and exchange programmes (if requirements are met)</p>
-</li>
+<li>Tuition fees and other approved charges</li>
+<li>Monthly overseas or local maintenance allowance (including accommodation)</li>
+<li>Pre-studies allowance e.g. settling in, warm clothing, computer</li>
+<li>Return economy class airfare (if studying overseas)</li>
+<li>Sponsorship of Master&rsquo;s and exchange programmes (if requirements are met)</li>
 </ul>
 </td>
 </tr>
