@@ -10,10 +10,10 @@ The Singapore Government Scholarship (SGS) provides highly qualified individuals
 <tbody>
 <tr style="height: 50%;">
 <td style="width: 50%;">
-<p>ELIGIBILITY</p>
+	<p><h5>ELIGIBILITY</h5></p>
 </td>
 <td style="width: 50%;">
-<p>VALUE OF AWARD</p>
+	<p><h5>VALUE OF AWARD</h5></p>
 </td>
 </tr>
 <tr style="height: 50%;">
@@ -63,12 +63,12 @@ The Singapore Government Scholarship (SGS) provides highly qualified individuals
 </tbody>
 </table>
 
-### COUNTRIES AND COURSES OF STUDY
+##### COUNTRIES AND COURSES OF STUDY
 
 Most countries and disciplines (except medicine, dentistry and architecture).  
 \* _Applicants intending to pursue a degree in Law will not be called to the Bar while serving in the SPS._
 
-### CONDITION OF AWARD
+##### CONDITION OF AWARD
 
 Scholarship holders need to fulfil a bond of: 
 
@@ -78,7 +78,7 @@ Scholarship holders need to fulfil a bond of: 
 
 The bond period starts on the day they assume official duty after completing their studies.
 
-### YOUR LEADERSHIP JOURNEY
+##### YOUR LEADERSHIP JOURNEY
 
 You will be exposed to various areas of work through regular postings to develop staff and command competencies.  
   
