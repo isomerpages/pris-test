@@ -6,7 +6,7 @@ third_nav_title: Scholarships
 ---
 ![](/images/Recruitment/scholarship-officer.png)
 
-Click to view the various scholarship opportunities in Singapore Prison Service:
+Click to view the various scholarship opportunities at Singapore Prison Service:
 
 | |  |  
 | -------- | -------- | 
