@@ -34,9 +34,9 @@ Tele-visits are available:
 
 **Visit frequencies differ for different categories of inmates**
 
-| Category | Frequency per month|Limitation|
+| Category | Frequency|Limitation|
 | -------- | -------- | -------- |
-|Penal inmates (Short Sentence/ Long Sentence)|2 Visits/ month|Maximum 1 Face-to-Face Visit/ month|
-|Drug Rehabilitation Centre (DRC) inmates|2 Visits/ month|Maximum 1 Face-to-Face Visit/ month|
-|Inhalant Abusers (IA)|2 Visits/ month|Maximum 1 Face-to-Face Visit/ month|
-|Remand inmates|2 Visits/ week|Maximum 1 Face-to-Face visit per week, or 2 Tele-visits|
+|Penal inmates (Short Sentence/ Long Sentence)|2 Visits/ month|Maximum 1 Face-to-face Visit/ month|
+|Drug Rehabilitation Centre (DRC) inmates|2 Visits/ month|Maximum 1 Face-to-face Visit/ month|
+|Inhalant Abusers (IA)|2 Visits/ month|Maximum 1 Face-to-face Visit/ month|
+|Remand inmates|2 Visits/ week|Maximum 1 Face-to-face visit per week, or 2 Tele-visits|
