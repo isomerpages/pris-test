@@ -10,7 +10,7 @@ third_nav_title: Visit Information
 
 Family members and relatives are allowed to visit the inmate. You can use the online visit request form below to submit your application for visits. The result of the application will be sent to you via SMS. 
 
-Documentary proof of your relationship with the inmate will be required for application and as a form of verification during the first visit.
+Documentary proof (e.g. Marriage Certificate, Birth Certificate, Singpass) of your relationship with the inmate will be required for application and as a form of verification during the first visit.
 
 ||  | 
 | -------- | -------- | 
@@ -18,7 +18,7 @@ Documentary proof of your relationship with the inmate will be required for appl
 | For Foreigners (non- Singpass eligible users)|[VRF for Foreigners](https://form.gov.sg/#!/5c88baed9a3a3c0010c18c70)|
 ||  | 
 
-**Request for Visit**<br>
+**Requests for Visits**<br>
  For applicants who are unable to produce any documentary proof of their relationship to inmate and other non-family members or relatives, an application to request for visit (Visit Request Form) needs to be submitted and it will be subject to approval. Please note that the approval process can take up to 3 weeks. Results of the application will be made known to the applicant and the Main Card Holder via SMS. On-site approval will not be granted.
 Visit Request Form (VRF) for online application:
 
