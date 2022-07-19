@@ -21,14 +21,15 @@ Documentary proof (e.g. Marriage Certificate, Birth Certificate, Singpass) of yo
 **Requests for Visits**<br>
 For applicants who are non-family members or unable to produce any documentary proof of your relationship with the inmate, you may still submit a Visit Request Form. Please note that this application will be subject to approval and the approval process can take up to three weeks. 
 
-Results of the application will be made known to the Main Card Holder and you via SMS. On-site submission will also be subject to approval and require three weeks for processing.
+Results of the application will be made known to the Main Card Holder and you via SMS. 
 Visit Request Form (VRF) for online application:
 
 |For Singaporeans/ Singapore PR/ Work Permit Holder (SingPass eligible users)| For Singaporeans and Singapore PR (using SingPass log-in)| 
 | -------- | -------- | 
 | For Foreigners (non- Singpass eligible users)|For Foreigners (non- Singpass log-in)|
+(To check if same form)
 
-Alternatively, visitors can obtain the hardcopy application form from any of the Prison Link Centres and submit the application onsite.
+Alternatively, visitors can obtain the hardcopy application form from any of the Prison Link Centres and submit the application onsite. On-site submission will also be subject to approval and require three weeks for processing.
 
 **Numbers of Visitors Allowed**<br>
 A maximum of <u>three</u> visitors are allowed per visit session.
