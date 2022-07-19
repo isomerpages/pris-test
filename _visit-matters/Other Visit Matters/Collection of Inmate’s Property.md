@@ -4,7 +4,7 @@ permalink: /visit-matters/Other-Visit-Matters/property-collection
 description: ""
 third_nav_title: Other Visit Matters
 ---
-There are 2 ways to submit a request to collect an inmate’s property – via an online request or a hardcopy Letter of Authorisation Form (LOA).
+There are two ways to submit a request to collect an inmate’s property – via an online request or a hardcopy Letter of Authorisation Form (LOA).
 
 **Online Request**<br>
 A family member, who is the Main Visit Card Holder or any person authorised by the inmate, may submit an online request for the inmate’s consent to collect his/her personal property via FormSG: *Login with Singpass* or *without Singpass*
