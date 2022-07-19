@@ -5,13 +5,11 @@ description: ""
 ---
 **Visit Arrangements**
 
-The visit arrangement details are as follows:
-
-|  |Face-to-Face  | Tele-visit  |
+|  |Face-to-face  | Tele-visit  |
 | -------- | -------- | -------- |
-|**Visit Mode & Frequency<br>(For all inmates except remand inmates)**| Face-to-Face visit<br>- Limited to once per month |Tele-visit<br>- Up to twice per month <u>if</u> no face-to face visit is booked for the month|
-|**Visit Mode & Frequency<br>(For remand inmates)**|Face-to-Face visit<br>- Limited to once per month|Tele-visit<br>- Up to twice per week <u>if</u> no face-to-face visit is booked for the week|
-|**Duration**|Face-to-Face visit <br>- 20 minutes|Tele-visit<br>- 30 minutes  |
+|**Visit Mode & Frequency<br>(For all inmates except remand inmates)**| - Limited to once per month |- Up to twice per month <u>if</u> no face-to face visit is booked for the month|
+|**Visit Mode & Frequency<br>(For remand inmates)**|Limited to once per month|Up to twice per week <u>if</u> no face-to-face visit is booked for the week|
+|**Duration**|20 minutes|30 minutes  |
 
 |  |  |
 | -------- | -------- | 
