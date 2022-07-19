@@ -7,7 +7,7 @@ description: ""
 
 |  |Face-to-face  | Tele-visit  |
 | -------- | -------- | -------- |
-|**Visit Mode & Frequency<br>(For all inmates except remand inmates)**| - Limited to once per month |- Up to twice per month <u>if</u> no face-to face visit is booked for the month|
+|**Visit Mode & Frequency<br>(For all inmates except remand inmates)**| Limited to once per month |Up to twice per month <u>if</u> no face-to face visit is booked for the month|
 |**Visit Mode & Frequency<br>(For remand inmates)**|Limited to once per month|Up to twice per week <u>if</u> no face-to-face visit is booked for the week|
 |**Duration**|20 minutes|30 minutes  |
 
