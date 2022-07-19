@@ -37,6 +37,6 @@ Tele-visits are available:
 | Category | Frequency|Remark|
 | -------- | -------- | -------- |
 |Penal inmates (Short Sentence / Long Sentence)|2 visits / month|Maximum 1 Face-to-face visit / month|
-|Drug Rehabilitation Centre (DRC) inmates|2 visits / month|Maximum 1 Face-to-face Visit / month|
+|Drug Rehabilitation Centre (DRC) inmates|2 visits / month|Maximum 1 Face-to-face visit / month|
 |Inhalant Abusers (IA)|2 visits / month|Maximum 1 Face-to-face visit / month|
 |Remand inmates|2 visits / <br>week|Maximum 1 Face-to-face visit / week, or 2 Tele-visits|
