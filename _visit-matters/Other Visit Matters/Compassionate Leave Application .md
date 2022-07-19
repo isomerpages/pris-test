@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Other Visit Matters
 ---
 Compassionate leave allows an inmate to:
-* Visit a family member* who is seriously ill** either at home or in the hospital or at any other place in Singapore
+* Visit a family member* who is dangerously ill** either at home or in the hospital or at any other place in Singapore
 * Pay last respects to a deceased family member
 
 * *Family member shall be confined to a family line of descent which includes great-grandparents and grandparents (both paternal and maternal), parents, siblings (including step-siblings), spouse, children (including step-children), grandchildren and great-grandchildren. *
@@ -14,7 +14,7 @@ Compassionate leave allows an inmate to:
 
 Family members who wish to apply for compassionate leave may do so electronically via (Login with SingPass) or (without SingPass).
 
-Alternatively, family members may proceed to Prison Link Centre Changi during our operating hours with the following documents:
+Alternatively, family members may proceed to Prison Link Centre Changi during operating hours with the following documents:
 1. Original NRIC of the applicant;
 2. Original documents proving the relationship between the inmate and the family member who is certified to be dangerously ill or who has passed away; and
 3. Original copy of the medical memo or death certificate
