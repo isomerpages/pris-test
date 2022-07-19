@@ -13,5 +13,5 @@ Buffer inmates from depressive symptoms due to isolation and adjustment to priso
 ##### Reduce Inmates Misconduct
 Consistent visits significantly reduce misconduct in general and major violent acts of misconduct.
 
-**Rebuild Support Networks**<br>
+##### Rebuild Support Networks<br>
 Visit is an allocated time for inmates to reconcile and improve relationships with family. The quality of relationships between inmates and their families is an important consideration to rehabilitative outcomes.
