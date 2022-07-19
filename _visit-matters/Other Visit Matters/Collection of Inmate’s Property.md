@@ -9,10 +9,12 @@ There are two ways to submit a request to collect an inmate’s property – via
 **Online Request**<br>
 The Main Visit Card Holder or any authorised person, may submit an online request for the inmate’s consent to collect his/her personal property via FormSG: *Login with Singpass* or *without Singpass*
 
-The applicant will be required to upload an image of the Visit Card for verification. Once the request is approved, a Letter of Authorisation signed by the inmate will be sent to the applicant via the email address provided.
+The applicant will be required to upload an image of the Visit Card for verification. Once the request is approved, a Letter of Authorisation signed by the inmate will be sent to the applicant via email.
 
 **Hardcopy LOA**<br>
-The applicant may submit a hardcopy Letter of Authorisation Form (LOA) in person to request for consent to collect the inmate’s property. Please take note that the LOA Form will only be made available at Prison Link Centre, Changi (PLCC). Upon submission of the completed form at PLCC, there will be a processing time of at least five days, before the applicant is contacted to collect the signed form at PLCC.
+The applicant may submit a hardcopy LOA in person to request for consent to collect the inmate’s property. The LOA form is available at Prison Link Centre, Changi (PLCC). 
+
+Upon submission of the completed form at PLCC, there will be a processing time of at least five days, before the applicant is contacted to collect the signed form at PLCC.
 
 [For Registered Visitor] You may submit the request during your visit at PLCC.
 
