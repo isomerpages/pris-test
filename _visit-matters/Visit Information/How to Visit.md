@@ -30,11 +30,11 @@ Visitors who are late for registration, will not be allowed to proceed with your
 The following items are required for visit registration:
 
 **For first visit**
-* Identification documents (NRIC/ Passport/ Birth Certificate)
-* Documentary proof of relationships (Birth Certificates/ Marriage certificates etc)
+* Identification documents (NRIC / Passport / Birth Certificate)
+* Documentary proof of relationships (Birth Certificate / Marriage certificate etc)
 
 **For subsequent visits**
-* Identification documents (NRIC/ Passport/ Birth Certificate)
+* Identification documents (NRIC / Passport / Birth Certificate)
 * Visit Card
 
 <u><strong>Personal Belonging</strong></u><br>
