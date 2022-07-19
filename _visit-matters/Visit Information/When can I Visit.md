@@ -12,19 +12,19 @@ There are two modes of visits:
 |Tele-visit |30 minutes |All Prison Link Centres and Satellite Centres|
 |
 
-##### Face to Face Visit
+##### Face-to-face Visits
 ![](/images/Placeholder%20for%20Image.png)
 [Image of Face to Face visit (Re-enacted)]
 
-**The scheduled Face-to-Face Visit days for the different institutions are as follow:**
+**The scheduled Face-to-face Visit days for the different institutions are as follow:**
 
 Information on the visit days of Face-to-Face Visit for Penal inmates (Short Sentence and Long Sentence), Drug Rehabilitation Centre (DRC) inmates & Inhalant Abusers (IA) can be viewed via this link: < To redesign visit days to pdf>
 
-##### Televisit<br>
+##### Tele-visit<br>
 ![](/images/Placeholder%20for%20Image.png)
 [ Image of tele-visit (re-enacted)]
 
-Televisit is available:
+Tele-visit is available:
 
 | | | 
 | -------- | -------- | 
