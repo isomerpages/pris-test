@@ -18,8 +18,3 @@ Once the form has been submitted, a processing time of at least five days is req
 
 **Collection of Inmate Property**<br>
 With the signed LOA, the applicant can then arrange with ST Logistics for a suitable timing to pick up the inmate's belongings at their warehouse in Clementi.
-
-
-[For Registered Visitor] You may submit the request during your visit at PLCC.
-
-[For Non-Registered Visitor] Please contact Visit Booking Hotline at 1800-PRISONS (1800-774-7667) to make an appointment for this purpose.
