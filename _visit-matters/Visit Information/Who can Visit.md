@@ -12,7 +12,7 @@ A maximum of <u>three</u> visitors are allowed per visit session.
 
 Family members and relatives are allowed to visit the inmate. You can use the online visit request form below to submit your application for visits. The result of the application will be sent to you via SMS. 
 
-Documentary proof (e.g. Marriage Certificate, Birth Certificate, Singpass) of your relationship with the inmate will be required for application and as a form of verification during the first visit.
+[Documentary proof ](/visit-matters/documents)(e.g. Marriage Certificate, Birth Certificate, Singpass) of your relationship with the inmate will be required for application and as a form of verification during the first visit.
 
 ||  | 
 | -------- | -------- | 
