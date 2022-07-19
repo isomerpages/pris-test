@@ -27,7 +27,6 @@ Operating Hours:
 |**[Prison Link Centre Geylang Bahru (PLCGB)](http://www.onemap.gov.sg/main/v2/?lat=1.32188556952378&lng=103.870318564881)** <br>Block 70 Geylang Bahru <br>#02-2719 <br>Singapore 330070
 ||
 
-
 **Satellite Visit Centres**
 
 The operating days and hours for our satellite visit centres differs from centre to centre.
