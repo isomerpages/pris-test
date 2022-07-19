@@ -3,7 +3,7 @@ title: E Letters
 permalink: /visit-matters/e-letters
 description: ""
 ---
-Good communication is important to maintain a healthy relationship. DIRECT allows inmates to connect with their families and friends through e-letters in addition to  the regular visits.
+Good communication is important to maintain a healthy relationship. DIRECT allows inmates to connect with their families and friends through e-letters in addition to regular visits.
 
 As inmates using DIRECT e-letters are able to view their incoming letters and greeting cards on their electronic tablets, they no longer receive their incoming letters and greeting cards in hardcopy format from Jan 2022. The hardcopy letters and greeting cards will be scanned and made available to inmates on their electronic tablets. 
 
