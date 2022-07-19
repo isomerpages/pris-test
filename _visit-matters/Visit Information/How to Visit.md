@@ -27,7 +27,7 @@ You are required to arrive and get a queue number for your visit:
 Visitors who are late for registration, will not be allowed to proceed with your original scheduled visit session and will need to have the visits rescheduled.
 
 <u><strong>Documentation</strong></u><br>
-Visitors will be required to bring the following items for the visit registration:
+The following items are required for visit registration:
 
 **For first visit (for visitor’s registration)**
 * Identification documents (NRIC/ Passport/ Birth Certificate)
