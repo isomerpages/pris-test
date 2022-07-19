@@ -4,7 +4,7 @@ permalink: /visit-matters/Visit-Information/who-can-visit
 description: ""
 third_nav_title: Visit Information
 ---
-Visits by loved ones is important in the rehabilitation and reintegration of inmates. It is where the inmate and his/her loved ones, are engaged to enhance family bonding and develop positive social support towards the inmates' rehabilitation and eventual re-integration into the community. Family visits can positively impact offenders by;
+Visits by loved ones are important in the rehabilitation and reintegration of inmates. Through bonding with their loved ones, inmates continue to keep in touch with their families and develop positive social support towards their motivation to change.
 
 **Helping Inmates cope with imprisonment**<br>
 Buffer inmates from depressive symptoms due to isolation and adjustment to prison life.
