@@ -23,5 +23,7 @@ For other items such as spectacles, dentures, photographs and medications, the i
 
 Unapproved items will not be accepted.
 
-**Payment of Items purchased by inmates**<br>
-For items available for inmates to purchase such as spectacles and dentures, they must submit a request first to the institution. The request has to be approved before the visitor is allowed to make payment via NETS or PayNow at our Prison Link Centres.
+**Payment of Items required by inmates**<br>
+For items that inmates are required to make payment for, such as spectacles and dentures, they must submit a request first through institutions. 
+
+The requests are subject to approval before the visitors are allowed to make payment via NETS or PayNow at any of the five Prison Link Centres.
