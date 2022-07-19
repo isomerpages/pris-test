@@ -32,7 +32,7 @@ Tele-visits are available:
 |Mondays to Fridays|for Remand inmates| 
 | | | 
 
-**Visit frequency** differs for different category of inmates:
+**Visit frequencies differ for different categories of inmates**
 
 | Category | Frequency per month|Limitation|
 | -------- | -------- | -------- |
