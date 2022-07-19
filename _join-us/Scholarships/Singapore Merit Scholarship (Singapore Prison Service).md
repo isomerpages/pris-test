@@ -8,7 +8,7 @@ The Singapore Merit Scholarship (SMS) is offered to individuals with excellent a
 
 |  | | 
 | -------- | -------- |
-|<b>ELIGIBILITY</b> | ‣ Singapore Citizen or Singapore Permanent Resident who intends to take up Singapore Citizenship<br>&nbsp;<br>‣ Have strong leadership qualities and potential<br>&nbsp;<br>‣ Possess strong interest in safeguarding the safety and security of Singapore<br>&nbsp;<br>‣ Have good academic and Co-Curricular Activities (CCAs) records<br>&nbsp;<br>‣ Have a GCE A-Levels, International Baccalaureate, Polytechnic, NUS High School, or other high school diploma/certificate<br>&nbsp;<br>‣ Qualify and excel in Officer Cadet School | 
+|<b>ELIGIBILITY</b> | ‣ Singapore Citizen or Permanent Resident who intends to take up Singapore Citizenship<br>&nbsp;<br>‣ Have strong leadership qualities and potential<br>&nbsp;<br>‣ Possess strong interest in safeguarding the safety and security of Singapore<br>&nbsp;<br>‣ Have good academic and Co-Curricular Activities (CCAs) records<br>&nbsp;<br>‣ Have a GCE A-Levels, International Baccalaureate, Polytechnic, NUS High School, or other high school diploma/certificate<br>&nbsp;<br>‣ Qualify and excel in Officer Cadet School <br>&nbsp;<br>| 
 |<b>VALUE OF AWARD</b>| ‣ Tuition fees and other approved charges<br>&nbsp;<br>‣ Monthly overseas or local maintenance allowance (including accommodation)<br>&nbsp;<br>‣ Pre-studies allowance e.g. settling in, warm clothing, computer<br>&nbsp;<br>‣ Return economy class airfare (if studying overseas)<br>&nbsp;<br>‣ NS disruption<br>&nbsp;<br>‣ Sponsorship of Master’s and exchange programmes (if requirements are met)<br>&nbsp;<br>‣ Full salary for the duration of your studies (including bonuses) | 
 || | 
 
