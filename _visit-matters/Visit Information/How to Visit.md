@@ -41,4 +41,4 @@ The following items are required for visit registration:
 Visitors will only be allowed to bring in their identification documents for the visit session.  All other personal belongings are to be kept in the lockers provided.
 
 <u><strong>Dress Code</strong></u><br>
-Visitors are advised to be properly attired as you may be turned away from the visit. Revealing clothing such as short shorts, mini skirt, short dresses, bare back, halter top, low cut clothing, see-through garments are not acceptable. If in doubt, please bring along a jacket and wear a knee-length bottom.
+Visitors must be properly attired as you may be turned away from the visit. Revealing clothing such as short shorts, mini skirt, short dresses, bare back, halter top, low cut clothing, see-through garments are not acceptable. If in doubt, please bring along a jacket and wear a knee-length bottom.
