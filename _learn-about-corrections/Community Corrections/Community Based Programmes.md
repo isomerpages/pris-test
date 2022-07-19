@@ -4,10 +4,11 @@ permalink: /corrections-process/Community-Transition/CBP
 description: ""
 third_nav_title: Community Corrections
 ---
-
 Community-Based Programme (CBP) promotes the reintegration of amenable inmates into society with the help of their family members and the community, by emplacing them within the community towards the tail-end of their sentence. It provides an opportunity for the inmates to gradually reintegrate in the community by building up their capacities to reconnect with their families and be gainfully employed as contributing members of the society.
 
 ![](/images/Rehabilitation/CBP%20Infographic.png)
+
+![](/images/CBP%20Quick%20Info.jpeg)
 
 <strong><u>Is my loved one suitable for CBP?</u></strong><br>
 **Penal inmates:** All penal inmates will be screened and assessed for their eligibility and suitability. Eligible inmates will only be assessed for CBP after they have served half their sentence in prison. Some inmates are legally excluded from CBP consideration due to the type of offence committed. Eligible inmates assessed to be suitable for CBP may be emplaced for a maximum period of 12 months prior to their release.
