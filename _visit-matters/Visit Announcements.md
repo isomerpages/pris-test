@@ -3,11 +3,11 @@ title: Visit Announcements
 permalink: /visit-matters/visit-announcements
 description: ""
 ---
-**Visit Arrangement from 15 March 2022**
+**Visit Arrangements **
 
 The visit arrangement details are as follows:
 
-|  |  |  |
+|  |Face-to-Face  | Tele-visit  |
 | -------- | -------- | -------- |
 |**Visit Mode & Frequency<br>(For all inmates except remand inmates)**| Face-to-Face visit<br>- Limited to once per month |Tele-visit<br>- Up to twice per month <u>if</u> no face-to face visit is booked for the month|
 |**Visit Mode & Frequency<br>(For remand inmates)**|Face-to-Face visit<br>- Limited to once per month|Tele-visit<br>- Up to twice per week <u>if</u> no face-to-face visit is booked for the week|
