@@ -5,10 +5,10 @@ description: ""
 third_nav_title: Other Visit Matters
 ---
 Compassionate leave allows an inmate to:
-* Visit a family member who is seriously ill either at home or in the hospital or at any other place in Singapore
+* Visit a family member* who is seriously ill either at home or in the hospital or at any other place in Singapore
 * Pay last respect to a deceased family member
 
-The definition of ’family member’ shall be confined to a family line of descent which includes great-grandparents and grandparents (both paternal and maternal), parents, siblings (including step-siblings), spouse, children (including step children), grandchildren and great-grandchildren. 
+*Family member shall be confined to a family line of descent which includes great-grandparents and grandparents (both paternal and maternal), parents, siblings (including step-siblings), spouse, children (including step children), grandchildren and great-grandchildren. 
 
 Family members who wish to apply for the compassionate leave may do so electronically via (Login with SingPass) or (without SingPass).
 
