@@ -24,10 +24,7 @@ You are required to arrive and get a queue number for your visit:
 * **30 - 45 minutes** before your scheduled Face-to-face visit timing
 * **15 - 30 minutes** before your scheduled Tele-visit timing
 
-Visitors who are late (unable to adhere to the above cut-off timing), will be issued with a queue number starting with the letter “L”. You will not be allowed to proceed with your original scheduled visit session but will need to have the visits rescheduled.
-
-Entry into our premise will only be allowed 30 mins to 45 mins before the scheduled visit timing for **Face-to-Face Visit**, and<br>
-Entry into our premise will only be allowed 15 mins to 30 mins before the scheduled visit timing for **Tele-visit**.
+Visitors who are late for registration, will be issued with a queue number starting with the letter “L”. You will not be allowed to proceed with your original scheduled visit session but will need to have the visits rescheduled.
 
 <u><strong>Documentation</strong></u><br>
 Visitors will be required to bring the following items for the visit registration:
