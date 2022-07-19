@@ -21,8 +21,8 @@ Note:
 ##### Step 2: Register your Visit (On Visit Day) 
 <u><strong>Arrive Early</strong></u><br>
 Please be informed that you are required to arrive and get a queue number for your visit:
-* At least 30mins before your scheduled Face-to-face visit timing; or
-* At least 15mins before your scheduled Tele-visit timing
+* At least 30 minutes before your scheduled Face-to-face visit timing; or
+* At least 15 minutes before your scheduled Tele-visit timing
 
 Visitors who are late (unable to adhere to the above cut-off timing), will be issued with a queue number starting with the letter “L”. You will not be allowed to proceed with your original scheduled visit session but will need to have the visits rescheduled.
 
