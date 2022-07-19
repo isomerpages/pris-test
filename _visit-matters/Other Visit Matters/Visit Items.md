@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Other Visit Matters
 ---
 **Reading Materials**<br>
-SPS provides reading materials and resources to all our inmates. However, upon request by inmates, visitors are allowed to bring in three reading materials during each visit. For remand inmates, the three reading materials can be brought in on a weekly basis.
+SPS provides reading materials and resources to all inmates. However, upon request by inmates, visitors are allowed to bring in three reading materials during each visit. For remand inmates, the three reading materials can be brought in on a weekly basis.
 
 In view of operational security, all materials received will be screened.
 
