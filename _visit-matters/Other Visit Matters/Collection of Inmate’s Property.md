@@ -14,7 +14,11 @@ The applicant will be required to upload an image of the Visit Card for verifica
 **Hardcopy LOA**<br>
 The applicant may submit a hardcopy LOA in person to request for consent to collect the inmate’s property. The LOA form is available at Prison Link Centre, Changi (PLCC). 
 
-Once the form has been submitted, a processing time of at least five daysis required, before the applicant is contacted to collect the signed form at PLCC.
+Once the form has been submitted, a processing time of at least five days is required, before the applicant is contacted to collect the signed form at PLCC.
+
+**Collection of Inmate Property**<br>
+With the signed LOA, the applicant can then arrange with ST Logistics for a suitable timing to pick up the inmate's belongings at their warehouse in Clementi.
+
 
 [For Registered Visitor] You may submit the request during your visit at PLCC.
 
