@@ -4,7 +4,7 @@ permalink: /visit-matters/Visit-Information/how-to-visit
 description: ""
 third_nav_title: Visit Information
 ---
-##### Step 1: Make a Visit Booking
+##### Step 1: Make a Visit Booking (at least two days prior to visit)
 
 |  | |
 | -------- | -------- |
@@ -18,7 +18,7 @@ Note:
 * All bookings, cancellations or modifications to visit bookings need to be made at least two days in advance. 
 * Walk-in visit requests are not allowed.
 
-##### Step 2: Visit Registration (Visit Day) 
+##### Step 2: Register your Visit (Visit Day) 
 <u><strong>Arrive Early</strong></u><br>
 Please be informed that you are required to arrive and get a queue number for your visit:
 * At least 30mins before your scheduled Face-to-Face visit timing; or
