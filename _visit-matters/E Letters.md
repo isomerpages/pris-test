@@ -5,7 +5,6 @@ description: ""
 ---
 Good communication is important to maintain a healthy relationship. DIRECT allows inmates to connect with their families and friends through e-letters in addition to regular visits.
 
-
 From January 2022, inmates are able to view their incoming letters and greeting cards on their DIRECT electronic tablets. Hence, they no longer receive hardcopies of incoming letters and greeting cards. The hardcopy letters and greeting cards will be scanned and made available to inmates on their electronic tablets. 
 
 Letters from legal counsel or other official government agencies will continue to be provided to all inmates in hardcopy format.
