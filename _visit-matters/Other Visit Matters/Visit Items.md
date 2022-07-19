@@ -19,7 +19,9 @@ Visitors can hand over a set of clothing and footwear for inmates at least two w
 The clothing can be handed over during any visit session at Prison Link Centre Changi, Prison Link Centre Tanah Merah or Prison Link Centre Selarang Park as early as two months before the release date.
 
 **Other items**<br>
-For other items such as spectacles, dentures, photographs and medications, the inmate has to submit his / her request through the institutions. The requests have to be approved, before the visitor is allowed to send in the item when visiting.  Unapproved items will not be accepted via mail.
+For other items such as spectacles, dentures, photographs and medications, the inmates are required to submit their request through the institutions. The requests are subject to approval, before the visitor is allowed to hand over the item during visit sessions.  
+
+Unapproved items will not be accepted.
 
 **Payment of items purchased by inmates**<br>
 For items available for inmates to purchase such as spectacles and dentures, he / she has to submit a request first to the institution. The request has to be approved before the visitor is allowed to make payment via NETS or PayNow at our Prison Link Centres.
