@@ -16,7 +16,7 @@ The Singapore Merit Scholarship (SMS) is offered to individuals with excellent a
 Most countries and disciplines (except medicine, dentistry and architecture).  
 \* _Applicants intending to pursue a degree in Law will not be called to the Bar while serving in the SPS._
 
-##### CONDITION OF AWARD
+##### CONDITIONS OF AWARD
 Scholarship holders need to fulfil a bond of:
 
 *   Have strong leadership qualities and potential
