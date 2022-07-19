@@ -11,9 +11,10 @@ There are five Prison Link Centres and five Satellite Visit Centres.
 
 Operating Hours:
 
-| Mondays to Fridays| 	8:00am to 5:00pm |
+| | |
 | -------- | -------- | 
-| Saturday:    | 8:00am to 4:00pm   | 
+| Mondays to Fridays| 	8.00am to 5.00pm |
+| Saturday:    | 8.00am to 4.00pm   | 
 | (Closed on Sundays and Public Holidays)|  |
 |
 
