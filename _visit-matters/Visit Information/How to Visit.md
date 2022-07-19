@@ -37,7 +37,7 @@ The following items are required for visit registration:
 * Identification documents (NRIC / Passport / Birth Certificate)
 * Visit Card
 
-<u><strong>Personal Belonging</strong></u><br>
+<u><strong>Personal Belongings</strong></u><br>
 Visitors will only be allowed to bring in their identification document for the visit session.  All other personal belongings with need to be kept in the lockers provided.
 
 <u><strong>Dress Code</strong></u><br>
