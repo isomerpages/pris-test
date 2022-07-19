@@ -14,8 +14,8 @@ The applicant will be required to upload an image of the Visit Card for verifica
 **Hardcopy LOA**<br>
 The applicant may submit a hardcopy LOA in person to request for consent to collect the inmate’s property. The LOA form is available at Prison Link Centre, Changi (PLCC). 
 
-Upon submission of the completed form at PLCC, there will be a processing time of at least five days, before the applicant is contacted to collect the signed form at PLCC.
+Once the form has been submitted, a processing time of at least five daysis required, before the applicant is contacted to collect the signed form at PLCC.
 
 [For Registered Visitor] You may submit the request during your visit at PLCC.
 
-[For Non-Registered Visitor] Please contact Visit Booking Hotline at 1800-PRISONS (1800-7747667) to make an appointment for this purpose.
+[For Non-Registered Visitor] Please contact Visit Booking Hotline at 1800-PRISONS (1800-774-7667) to make an appointment for this purpose.
