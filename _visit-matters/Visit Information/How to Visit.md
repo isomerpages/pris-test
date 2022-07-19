@@ -4,7 +4,7 @@ permalink: /visit-matters/Visit-Information/how-to-visit
 description: ""
 third_nav_title: Visit Information
 ---
-##### Step 1: Visit Booking
+##### Step 1: Make a Visit Booking
 
 There are three modes for visit booking:
 
