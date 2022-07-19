@@ -20,11 +20,13 @@ Operating Hours:
 
 **Prison Link Centres**
 
-||||
-| -------- | -------- | -------- |
-|**[Prison Link Centre Changi (PLCC)](http://www.onemap.gov.sg/main/v2/?lat=1.35866557661503&lng=103.970054202183)**<br>990 Upper Changi Road North<br>Singapore 506968|**[Prison Link Centre Tanah Merah (PLCTM)](http://www.onemap.gov.sg/main/v2/?lat=1.35967751759632&lng=103.97332407933)**<br>10 Tanah Merah Besar Road<br>Singapore 498834|**[Prison Link Centre Geylang Bahru (PLCGB)](http://www.onemap.gov.sg/main/v2/?lat=1.32188556952378&lng=103.870318564881)**<br>Block 70 Geylang Bahru<br>#02-2719<br>Singapore 330070|
+|||
+| -------- | -------- |
+|**[Prison Link Centre Changi (PLCC)](http://www.onemap.gov.sg/main/v2/?lat=1.35866557661503&lng=103.970054202183)**<br>990 Upper Changi Road North<br>Singapore 506968|**[Prison Link Centre Tanah Merah (PLCTM)](http://www.onemap.gov.sg/main/v2/?lat=1.35967751759632&lng=103.97332407933)**<br>10 Tanah Merah Besar Road<br>Singapore 498834|
 |**[Prison Link Centre Jurong (PLCJ)](http://www.onemap.gov.sg/main/v2/?lat=1.33399413849743&lng=103.738819152518)**<br>Block 134 Jurong Gateway<br>#04-309A<br>Singapore 600134|**[Prison Link Centre Selarang Park (PLCSP)](http://www.onemap.gov.sg/main/v2/?lat=1.36937610158501&lng=103.977673721075)**<br>1819 Upper Changi Road North<br>Singapore 506793||
+|**[Prison Link Centre Geylang Bahru (PLCGB)](http://www.onemap.gov.sg/main/v2/?lat=1.32188556952378&lng=103.870318564881)** Block 70 Geylang Bahru <br>#02-2719 <br>Singapore 330070
 |
+
 
 **Satellite Visit Centres**
 
