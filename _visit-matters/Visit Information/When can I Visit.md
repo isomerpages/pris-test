@@ -18,13 +18,13 @@ There are two modes of visits:
 
 **The scheduled Face-to-face Visit days for the different institutions are as follow:**
 
-Information on the visit days of Face-to-Face Visit for Penal inmates (Short Sentence and Long Sentence), Drug Rehabilitation Centre (DRC) inmates & Inhalant Abusers (IA) can be viewed via this link: < To redesign visit days to pdf>
+Information on the visit days of Face-to-face Visit for Penal inmates (Short Sentence and Long Sentence), Drug Rehabilitation Centre (DRC) inmates & Inhalant Abusers (IA) can be viewed via this link: < To redesign visit days to pdf>
 
-##### Tele-visit<br>
+##### Tele-visits<br>
 ![](/images/Placeholder%20for%20Image.png)
 [ Image of tele-visit (re-enacted)]
 
-Tele-visit is available:
+Tele-visits are available:
 
 | | | 
 | -------- | -------- | 
