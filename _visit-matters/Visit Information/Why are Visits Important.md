@@ -13,7 +13,7 @@ Alleviate inmates from depressive symptoms that may arise from adjusting to pris
 Regular visits can improve attitudes and moods of inmates, which can reduce misconduct.
 
 ##### Rebuild Support Networks<br>
-Visit is an allocated time for inmates to reconcile and improve relationships with family. The quality of relationships between inmates and their families is an important consideration to rehabilitative outcomes.
+Visits are dedicated times for inmates to reconcile and improve relationships with their families. The quality of relationships between inmates and their families lead to positive rehabilitative outcomes.
 
 ![](/images/Visit%20Matters/Visit%20Family%20Support.png)
 [To edit to corporate colours]
