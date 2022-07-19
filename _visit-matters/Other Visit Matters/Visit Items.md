@@ -5,18 +5,13 @@ description: ""
 third_nav_title: Other Visit Matters
 ---
 **Reading Materials**<br>
-SPS provides reading materials and resources to all inmates. However, upon request by inmates, visitors are allowed to bring in three reading materials during each visit. For remand inmates, the three reading materials can be brought in on a weekly basis.
-
-In view of operational security, all materials received will be screened.
+SPS provides reading materials and resources to all inmates. Upon request by inmates, visitors are also allowed to bring in three reading materials during each visit. For remand inmates, the three reading materials can be brought in on a weekly basis. All materials received will be screened.
 
 **Food Items**<br>
-Visitors are allowed to purchase pre-approved snack packs for the following category of inmates during each visit.
-1. *Remand inmates
+Pre-approved snack packs can be purchased at any of the five  Prison Link Centres via NETS Payment. Visitors are allowed to purchase these snack packs for the following categories of inmates during each visit;
+1. Remand inmates (allowed to receive one snack pack through visits weekly.)
 2. Inmates undergoing the Drug Rehabilitation Regime
 3. Inmates undergoing the Inhalant Abuse Regime
-*Remand inmates are allowed to receive one snack pack through visit only a weekly basis.
-
-These snack packs can be purchased at any of the Prison Link Centres via NETS payment.
 
 **Pre-Release Clothing**<br>
 Visitors are allowed to hand over a set of clothing and footwear for the inmate during any visit session at Prison Link Centre Changi, Prison Link Centre Tanah Merah or Prison Link Centre Selarang Park, as early as two months up to two weeks prior to the release date.
