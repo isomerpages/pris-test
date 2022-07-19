@@ -23,6 +23,8 @@ For other items such as spectacles, dentures, photographs and medications, the i
 
 Unapproved items will not be accepted.
 
+(Books that can be purchased at PLCC)
+
 **Payment of Items required by inmates**<br>
 For items that inmates are required to make payment for, such as spectacles and dentures, they must submit a request first through institutions. 
 
