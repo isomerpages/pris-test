@@ -14,7 +14,7 @@ Operating Hours:
 | | |
 | -------- | -------- | 
 | Mondays to Fridays| 	8am - 5pm |
-| Saturday:    | 8am - 4pm   | 
+| Saturdays    | 8am - 4pm   | 
 | (Closed on Sundays and Public Holidays)|  |
 |
 
