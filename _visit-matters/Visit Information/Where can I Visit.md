@@ -7,7 +7,7 @@ third_nav_title: Visit Information
 ![](/images/Placeholder%20for%20Info.jpg)
 < Graphic map of PLCs and Satelite visit centres >
 
-There are five Prison Link Centres and five Satellite Visit Centres providing visit facilities.
+There are five Prison Link Centres and five Satellite Visit Centres.
 
 Operating Hours:
 
