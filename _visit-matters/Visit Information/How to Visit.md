@@ -15,7 +15,7 @@ third_nav_title: Visit Information
 Note:
 
 * Visit slots are available on a first come first serve basis.
-* Booking needs to be made at least two days in advance.
+* Bookings need to be made at least two days in advance.
 * Cancellations or modifications to visit bookings need to be made at least two days in advance. 
 * Walk-in visit requests will not be entertained.
 
