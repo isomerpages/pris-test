@@ -28,8 +28,8 @@ Tele-visits are available:
 
 | | | 
 | -------- | -------- | 
-|Monday to Saturday:|for Penal inmate, DRC inmate and IAs| 
-|Monday to Friday:|for Remand inmates| 
+|Mondays to Saturdays|for Penal inmate, DRC inmate and Inhalant Abusers| 
+|Mondays to Fridays|for Remand inmates| 
 | | | 
 
 **Visit frequency** differs for different category of inmates:
