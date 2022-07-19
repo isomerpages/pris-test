@@ -4,6 +4,8 @@ permalink: /visit-matters/Visit-Information/who-can-visit
 description: ""
 third_nav_title: Visit Information
 ---
+A maximum of <u>three</u> visitors are allowed per visit session.
+
 **Visits by Family members and Relatives**<br>
 ![](/images/Placeholder%20for%20Image.png)
 [Image of Face to face visit (re-enacted)]
@@ -30,6 +32,3 @@ Visit Request Form (VRF) for online application:
 (To check if same form)
 
 Alternatively, visitors can obtain the hardcopy application form from any of the Prison Link Centres and submit the application onsite. On-site submission will also be subject to approval and require three weeks for processing.
-
-**Numbers of Visitors Allowed**<br>
-A maximum of <u>three</u> visitors are allowed per visit session.
