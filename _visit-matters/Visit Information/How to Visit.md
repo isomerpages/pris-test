@@ -33,7 +33,7 @@ The following items are required for visit registration:
 * Identification documents (NRIC/ Passport/ Birth Certificate)
 * Documentary proof of relationships (Birth Certificates/ Marriage certificates etc)
 
-**For subsequent visit**
+**For subsequent visits**
 * Identification documents (NRIC/ Passport/ Birth Certificate)
 * Visit Card
 
