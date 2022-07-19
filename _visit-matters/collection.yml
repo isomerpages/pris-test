@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Visit Announcements.md
+      - Visit Information/Why are Visits Important.md
       - Visit Information/.keep
       - Visit Information/Who can Visit.md
       - Visit Information/Where can I Visit.md
