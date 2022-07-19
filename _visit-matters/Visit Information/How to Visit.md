@@ -6,8 +6,6 @@ third_nav_title: Visit Information
 ---
 ##### Step 1: Make a Visit Booking
 
-There are three modes for visit booking:
-
 |  | |
 | -------- | -------- |
 | ![](/images/Placeholder%20for%20Image.png) |**Online Booking Portal**<br>Main Card Holder and visitors authorised by the Main Card Holders can conveniently make visit bookings with their SingPass via our online booking portal:<br> [www.ipris.sps.sg](www.ipris.sps.sg)|
