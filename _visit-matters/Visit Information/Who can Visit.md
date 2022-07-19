@@ -8,9 +8,11 @@ third_nav_title: Visit Information
 ![](/images/Placeholder%20for%20Image.png)
 [Image of Face to face visit (re-enacted)]
 
-Family members and relatives are allowed to visit the inmate. Family members and relatives can use the online visit request form below to submit your applications for visits. The result of the application will be sent to you via SMS. Documentary proof of your relationship with the inmate will be required for application and as a form of verification during the first visit.
+Family members and relatives are allowed to visit the inmate. You can use the online visit request form below to submit your application for visits. The result of the application will be sent to you via SMS. 
 
-|For Singaporeans/ Singapore PR/ Work Permit Holder (SingPass eligible users)| [VRF for Local/PR](https://form.gov.sg/#!/5fbb510b2bcec70011435e8b) | 
+Documentary proof of your relationship with the inmate will be required for application and as a form of verification during the first visit.
+
+|For Singaporeans/ Singapore PR/ Work Permit Holders (SingPass eligible users)| [VRF for Local/PR](https://form.gov.sg/#!/5fbb510b2bcec70011435e8b) | 
 | -------- | -------- | 
 | For Foreigners (non- Singpass eligible users)|[VRF for Foreigners](https://form.gov.sg/#!/5c88baed9a3a3c0010c18c70)|
 
