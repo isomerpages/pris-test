@@ -8,7 +8,7 @@ There are two modes of visits:
 
 |Visit Mode|Visit Duration |Visit Locations|
 | -------- | -------- | -------- |
-|Face-to-Face Visit|20 minutes |Prison Link Centre, Changi<br>Prison Link Centre, Tanah Merah<br>Prison Link Centre, Selarang Park|
+|Face-to-face Visit|20 minutes |Prison Link Centre, Changi<br>Prison Link Centre, Tanah Merah<br>Prison Link Centre, Selarang Park|
 |Televisit |30 minutes |All Prison Link Centres and Satellite Centres|
 |
 
