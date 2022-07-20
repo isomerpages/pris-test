@@ -25,8 +25,7 @@ In 2018, SPS and UNODC jointly organised a training workshop on correctional reh
 In 2021, SPS and Yellow Ribbon Singapore organised a virtual event at the 64th United Nations Commission on Narcotic Drugs, titled “Inspiring Community Action in the Rehabilitation and Reintegration of Offenders”, that was attended by over 125 international and local participants.
 
 **Asian Prisons Lockdown Challenge**
-![](/images/Placeholder%20for%20Image.png)
-[ photo of APLC 2018]
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/M8RN9R14va4" width="100%" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 SPS initiated the biennial Asian Prisons Lockdown Challenge (APLC), a tactical competition for correctional services in the Asia Pacific region to exchange best practices in the field of operational knowledge and tactical skills. The APLC is the first of its kind in the Asia Pacific region, encompassing competition segments that test participants’ tactical know-how through a series of mentally and physically challenging scenarios. Concurrent tactical workshops helmed by professional trainers are also conducted during the event to share with participants the latest developments in tactical response within correctional settings. 
 
