@@ -15,5 +15,5 @@ links:
   - title: Make a Visit Booking
     url: https://www.ipris.sps.gov.sg/sps-vms3-web/#/home/index
     sublinks:
-      - title: Submenu Title
-        url: /permalink
+      - title: Visit Booking
+        url: https://www.ipris.sps.gov.sg/sps-vms3-web/#/home/index
