@@ -42,35 +42,44 @@ SPS supports the professional and personal growth of our Captains of Lives throu
 |  | | 
 | -------- | -------- | 
 | MHA Degree Scholarship | Full sponsorship for full-time Degree programs, including full pay during course of study | 
-| Professional Development Leave\*| Up to 10 weeks paid leave to take courses relevant to SPS | 
+| MHA Sponsorship/MHA Study Award\*| Part-time studies (PhD, Masters, Graduate Diploma, Degree, Diploma & formal certificate) | 
+| Professional Development Leave\*| Up to 10 weeks paid leave to take courses relevant to SPS| 
 | Learning & Development Subsidy Scheme | $700 per annum to support lifelong learning and personal development| 
 | Enhanced Learning & Development Subsidy Scheme | $2,000 per annum in the last five years prior to an officer’s retirement to support transition to a second career post retirement| 
 |  | |
 
+\* All permanent and confirmed officers are eligible to apply, subject to the criteria and guidelines.
+
+##### Benefits
+
+* Annual Leave 14 – 18 days (Sergeant)
+* Annual medical leave of 14 days or 60 days with hospitalisation
+* Annual study leave of 12 days (subject to approval)
+* Subsidised medical and dental care
+* Marriage/Child birth benefits
+
 ##### INVEST Retirement Benefits
 
-As a uniformed officer, you will also be eligible for retirement benefits under the INVEST scheme. A contribution equivalent to 13.25% of your gross salary will be credited monthly into your retirement account, starting from your fifth year in service and will cease when you reach 55 years old. The monies are invested to earn investment returns. Upon retirement, you can withdraw the full sum in your account.
+As a uniformed officer, you will also be eligible for retirement benefits under the INVEST scheme. A contribution equivalent to 7.75% of your gross salary will be credited monthly into your retirement account, starting from your fifth year in service and will cease when you reach 55 years old. The monies are invested to earn investment returns. Upon retirement, you can withdraw the full sum in your account.
 
 ##### Strategic Payment Scheme
 
-New officers (ASP and below) can look forward to cash payouts of 3 months quantum upon reaching their 3rd, 6th, 9th, 12th, 15th, 20th, and 25th year in service.
+New officers can look forward to cash payouts of 3 months (ASP and below) quantum upon reaching their 3rd, 6th, 9th, 12th, 15th, 20th, and 25th year in service.
 
 ##### Training
 
-New Captains of Lives are required to undergo a 35-week Basic Officer Course (Rehabilitation Officer) at the Home Team Academy. The Prison Officer Course (RO) comprises physical training, tactical readiness and academic components to prepare new Captains of Lives with the mindset, skillsets and toolsets for work in SPS.
+New Entrant Captains of Lives are required to undergo a 28-week Basic Officer Course (Sergeant) at the Home Team Academy.
 
-All new Captains of Lives are required to serve a 2-year bond upon their graduation.
+The Prison Officer Course (SGT) comprise physical training, tactical readiness and academic components to prepare new Captains of Lives with the mindset, skillsets and toolsets for work in SPS.
+
+All new Captains of Lives are required to serve a 2-year bond after they graduate from the course.
 
 ##### Career Development
 
-SPS provides a dynamic and structured career advancement route map to groom you as a leader in Corrections. After the foundational posting as a team leader (Correctional Unit) in an institution, you may be posted to different operational roles or to staff divisions for exposure and career development. You will undergo the relevant leadership milestone programs and training, as you advance in your career.
+SPS provides a dynamic and structured career advancement route map for our Captains of Lives. Besides operational roles in an institution, you may also be posted to different functional areas such as in Intelligence, Provost, community corrections, programme management, technology, training, corporate services, Prison Special Operations etc. for your career development. You will undergo the relevant leadership milestone programs and training at each stage, as you advance in your career.
 
-##### Postings
+Under the Expert Career Tracks for Prison Special Operations and Intelligence respectively, officers selected for these tracks will hone their expertise to develop deep specialisation and receive recognition for their expertise (i.e. Senior Specialist, Principal Specialist and Expert).
 
-Captains of Lives can look forward to a wide range of career choices and opportunities
-
-| (A) Foundation Posting | 	(B) Developmental Posting | 
-| -------- | -------- | 
-|Correctional Unit Officer (upon graduation from the Prison Officer Course) | Captains of Lives are given diverse career and advancement opportunities to grow and develop in various divisions: <br>&nbsp;<br>‣ Community Corrections Command<br>&nbsp;<br>‣ Corporate Communications & Relations Division<br>&nbsp;<br>‣ Intelligence Division<br>&nbsp;<br>‣ Investigation Division<br>&nbsp;<br>‣ Logistics & Finance Division<br>&nbsp;<br>‣Operations Division<br>&nbsp;<br>‣ Operations & Security Command<br>&nbsp;<br>‣ Psychological & Correctional Rehabilitation Division<br>&nbsp;<br>‣ Rehabilitation & Reintegration Division<br>&nbsp;<br>‣ Risk Management & Assurance Division<br>&nbsp;<br>‣ Staff Development Division<br>&nbsp;<br>‣ Strategic Planning Division<br>&nbsp;<br>‣ Transformation & Technology Division| 
+<iframe title="YouTube video player" src="https://www.youtube.com/embed/HnyTLHCYBo0" width="100%" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ![](/images/career-tabs-application-button.png)
