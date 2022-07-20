@@ -8,11 +8,11 @@ The Singapore Merit Scholarship (SMS) is offered to individuals with excellent a
 
 |  | | 
 | -------- | -------- |
-|<b>ELIGIBILITY</b> | ‣ Singapore Citizen or Permanent Resident who intends to take up Singapore Citizenship<br>&nbsp;<br>‣ Have strong leadership qualities and potential<br>&nbsp;<br>‣ Possess strong interest in safeguarding the safety and security of Singapore<br>&nbsp;<br>‣ Have good academic and Co-Curricular Activities (CCAs) records<br>&nbsp;<br>‣ Have a GCE A-Levels, International Baccalaureate, Polytechnic, NUS High School, or other high school diploma/certificate<br>&nbsp;<br>‣ Qualify and excel in Officer Cadet School <br>&nbsp;<br>| 
-|<b>VALUE OF AWARD</b>| ‣ Tuition fees and other approved charges<br>&nbsp;<br>‣ Monthly overseas or local maintenance allowance (including accommodation)<br>&nbsp;<br>‣ Pre-studies allowance e.g. settling in, warm clothing, computer<br>&nbsp;<br>‣ Return economy class airfare (if studying overseas)<br>&nbsp;<br>‣ NS disruption<br>&nbsp;<br>‣ Sponsorship of Master’s and exchange programmes (if requirements are met)<br>&nbsp;<br>‣ Full salary for the duration of your studies (including bonuses) | 
+|<b>Eligibility</b> | ‣ Singapore Citizen or Permanent Resident who intends to take up Singapore Citizenship<br>&nbsp;<br>‣ Have strong leadership qualities and potential<br>&nbsp;<br>‣ Possess strong interest in safeguarding the safety and security of Singapore<br>&nbsp;<br>‣ Have good academic and Co-Curricular Activities (CCAs) records<br>&nbsp;<br>‣ Have a GCE A-Levels, International Baccalaureate, Polytechnic, NUS High School, or other high school diploma/certificate<br>&nbsp;<br>‣ Qualify and excel in Officer Cadet School <br>&nbsp;<br>| 
+|<b>Value of Award</b>| ‣ Tuition fees and other approved charges<br>&nbsp;<br>‣ Monthly overseas or local maintenance allowance (including accommodation)<br>&nbsp;<br>‣ Pre-studies allowance e.g. settling in, warm clothing, computer<br>&nbsp;<br>‣ Return economy class airfare (if studying overseas)<br>&nbsp;<br>‣ NS disruption<br>&nbsp;<br>‣ Sponsorship of Master’s and exchange programmes (if requirements are met)<br>&nbsp;<br>‣ Full salary for the duration of your studies (including bonuses) | 
 || | 
 
-##### COUNTRIES AND COURSES OF STUDY
+##### Countries and Courses of Study
 Most countries and disciplines (except medicine, dentistry and architecture).  
 \* _Applicants intending to pursue a degree in Law will not be called to the Bar while serving in the SPS._
 
@@ -26,7 +26,7 @@ Scholarship holders need to fulfil a bond of:
 
 The bond period starts on the day they assume official duty after completing their studies.
 
-##### YOUR LEADERSHIP JOURNEY
+##### Your Leadership Journey
 You will be exposed to various areas of work through regular postings to develop staff and command competencies.
 
 You will also have the opportunity to be placed on the Public Service Leadership Programme (PSLP) where you will acquire specialist knowledge and capabilities to take on key leadership positions in SPS.
