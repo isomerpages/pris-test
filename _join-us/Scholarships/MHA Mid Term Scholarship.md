@@ -10,8 +10,8 @@ Tuition and compulsory fees you incurred before the award will be back-paid.
 
 |  | | 
 | -------- | -------- |
-|<b>ELIGIBILITY</b> | ‣ Be pursuing full-time undergraduate studies<br>&nbsp;<br>‣ Be on track for graduation with at least 2nd Upper Honours or equivalent<br>&nbsp;<br>‣ Have completed at least 1 semester and not be in the final year of undergraduate study | 
-|<b>VALUE OF AWARD</b>| ‣ Tuition fees and other approved charges (Tuition fees and compulsory fees incurred before the award will be back-paid)<br>&nbsp;<br>‣ Monthly overseas or local maintenance allowance<br>&nbsp;<br>‣ Return economy class airfare (if studying overseas)<br>&nbsp;<br>‣ Sponsorship of Master’s and exchange programmes (if requirements are met)| 
+|<b>Eligibility</b> | ‣ Be pursuing full-time undergraduate studies<br>&nbsp;<br>‣ Be on track for graduation with at least 2nd Upper Honours or equivalent<br>&nbsp;<br>‣ Have completed at least 1 semester and not be in the final year of undergraduate study | 
+|<b>Value of Award</b>| ‣ Tuition fees and other approved charges (Tuition fees and compulsory fees incurred before the award will be back-paid)<br>&nbsp;<br>‣ Monthly overseas or local maintenance allowance<br>&nbsp;<br>‣ Return economy class airfare (if studying overseas)<br>&nbsp;<br>‣ Sponsorship of Master’s and exchange programmes (if requirements are met)| 
 || | 
 
 The scholarships below are available as mid-term scholarships. To find out about eligibility and terms, visit the individual scholarship pages.
