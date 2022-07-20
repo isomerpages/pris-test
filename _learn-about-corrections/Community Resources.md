@@ -16,6 +16,8 @@ These partners help integrate a range of services available in a timely and coor
 Yellow Ribbon Singapore or YRSG, is a statutory board under the Ministry of Home Affairs. SPS partners closely with YRSG to provide skills training and employment assistance for offenders and ex-offenders, and to engage the community through the Yellow Ribbon Project.
 
 **Career Coaches**<br>
+![](/images/Rehabilitation/Bryan%20-%20CCH.png)
+
 Career coaches conduct assessments, job profiling and matching of offenders with suitable jobs. They also provide career coaching to help offenders understand their employment pathways and address potential work challenges. Suitable CBP supervisees may be assigned to career coaches to assist them in their employment matters.
 
 **Other Community Partners**<br>
