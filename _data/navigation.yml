@@ -12,3 +12,8 @@ links:
     resource_room: true
   - title: e-Services
     url: /e-services
+  - title: Make a Visit Booking
+    url: https://www.ipris.sps.gov.sg/sps-vms3-web/#/home/index
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
