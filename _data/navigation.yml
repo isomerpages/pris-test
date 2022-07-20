@@ -13,7 +13,7 @@ links:
   - title: e-Services
     url: /e-services
   - title: E-Services
-    url: /home
+    url: /e-services
     sublinks:
       - title: Visit Booking
         url: https://www.ipris.sps.gov.sg/sps-vms3-web/#/home/index
