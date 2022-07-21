@@ -5,7 +5,7 @@ permalink: /about-us/vision-mission-values
 ![](/images/Placeholder%20for%20Image.png)
 [Collage of staff in prison setting doing prison ops to reflect throughcare]
 
-### **Vision**
+#### **Vision**
 
 As Captains of Lives, we inspire everyone, at every chance, towards a society without <br>re-offending.
 
