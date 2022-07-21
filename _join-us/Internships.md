@@ -17,14 +17,10 @@ SPS-IP can offer you a broader perspective in correctional work, and allow you t
 Join the SPS-IP today! Express your interest through **this link**.
 
 ##### **Testimonials**<br>
-##### “I really appreciate the opportunity to be able to observe the assessment/interview sessions between Psychologist and the inmates.”
-– Foo Qi En, NUS, Yr 2 Psychology & Life Sciences 
+###### “I really appreciate the opportunity to be able to observe the assessment/interview sessions between Psychologist and the inmates.” <br> – Foo Qi En, NUS, Yr 2 Psychology & Life Sciences 
 
-> “I like the idea that SPS is moving towards a Correctional Agency and I personally believe that this can impact many lives in many ways.”
-> – Teo Kai Xin, NTU, Yr 2 Psychology
-> 
-> “The staff I got to meet has shown their dedication, care and concern for the inmates.”
-> – Sharon Ng, NUS, YR 2 Social Work
+###### “I like the idea that SPS is moving towards a Correctional Agency and I personally believe that this can impact many lives in many ways.”<br> – Teo Kai Xin, NTU, Yr 2 Psychology
 
-> “The professionalism of the Psychologist and their drive to make a positive change in the lives of inmates give me a positive impression.”
-> – Chelsea Ye, NTU, Yr 2 Psychology.
+###### "The staff I got to meet has shown their dedication, care and concern for the inmates.” <br> –  Sharon Ng, NUS, YR 2 Social Work
+
+###### “The professionalism of the Psychologist and their drive to make a positive change in the lives of inmates give me a positive impression.” <br> – Chelsea Ye, NTU, Yr 2 Psychology.
