@@ -37,7 +37,7 @@ description: ""
     </div>
   </div>
  </div>
-	<td style="width: 50%; vertical-align: middle"><h5>AON Best Employer</h5></td>
+	<td style="width: 50%; vertical-align: middle"><h5>QA International</h5></td>
 <td style="width: 50%;"><div class="container">
   <div class="row">
     <div class="col">
