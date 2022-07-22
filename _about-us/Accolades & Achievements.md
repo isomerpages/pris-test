@@ -41,7 +41,7 @@ description: ""
 <td style="width: 50%;"><div class="container">
   <div class="row">
     <div class="col">
-    <img style="float: t; width: 160px; height: 280px;" src="https://pris-test-staging.netlify.app/images/About%20Us/SQA.jpeg" alt="" /> 
+    <img style="float: ; width: 160px; height: 280px;" src="https://pris-test-staging.netlify.app/images/About%20Us/SQA.jpeg" alt="" /> 
     </div>
     <div class="col">
       <strong>Awarded in 2019 with Special Commendation</strong><br />
