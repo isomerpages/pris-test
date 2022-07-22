@@ -48,7 +48,7 @@ description: ""
     </div>
   </div>
  </div>
-	<td style="width: 50%; vertical-align: middle"><h5>AON Best Employer</h5></td>
+	<td style="width: 50%; vertical-align: middle"><h5>Singapore Service Class</h5></td>
 <td style="width: 50%;"><div class="container">
   <div class="row">
     <div class="col">
@@ -59,7 +59,7 @@ description: ""
     </div>
   </div>
  </div>
-	<td style="width: 50%; vertical-align: middle"><h5>AON Best Employer</h5></td>
+	<td style="width: 50%; vertical-align: middle"><h5>People Developer Singapore</h5></td>
 <td style="width: 50%;"><div class="container">
   <div class="row">
     <div class="col">
@@ -70,7 +70,7 @@ description: ""
     </div>
   </div>
  </div>
-	<td style="width: 50%; vertical-align: middle"><h5>AON Best Employer</h5></td>
+	<td style="width: 50%; vertical-align: middle"><h5>Singapore Innovation Class</h5></td>
 <td style="width: 50%;"><div class="container">
   <div class="row">
     <div class="col">
