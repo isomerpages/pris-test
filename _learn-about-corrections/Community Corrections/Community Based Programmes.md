@@ -17,7 +17,7 @@ Community-Based Programme (CBP) promotes the reintegration of amenable inmates i
 
 **What are the various types of CBP available?**
 
-![](/images/Rehabilitation/CBP%20Conditions.jpeg)
+![](/images/Rehabilitation/CBP%20Types.jpeg)
 
 The following provides a brief description of the CBP schemes available for <Strong><u>Penal Inmates</u></Strong>:
 <ul class="jekyllcodex_accordion">
