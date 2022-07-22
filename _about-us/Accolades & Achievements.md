@@ -46,3 +46,5 @@ description: ""
     </div>
   </div>
  </div>
+	
+<p><img style="float: left; width: 42px; height: 42px;" src="https://pris-test-staging.netlify.app/images/About%20Us/SQA.jpeg" alt="" /> The image will float to the right of the text.</p>
