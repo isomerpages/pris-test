@@ -38,14 +38,3 @@ SPS collaborates with many partners in the community to support families and off
 SPS encourages your participation as your involvement in your loved one’s rehabilitation will help to motivate them and strengthen their resolve to desist from a life of crime and return as responsible members of your families.
 
 [Community Resources Brochure](/files/SPS%20-%20Community%20Resources%20Brochure.pdf)
-
-<td style="width: 50%; vertical-align: middle"><h5></h5></td>
-<td style="width: 50%;"><div class="container">
-  <div class="row">
-    <div class="col">
-    <img src="/images/Rehabilitation/YRSG.png" alt="" />
-    </div>
-    <div class="col">
-      Yellow Ribbon Singapore or YRSG, is a statutory board under the Ministry of Home Affairs. SPS partners closely with YRSG to provide skills training and employment assistance for offenders and ex-offenders, and to engage the community through the Yellow Ribbon Project.
-    </div>
-  </div>
