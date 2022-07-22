@@ -5,7 +5,9 @@ description: ""
 ---
 |  |  | 
 | -------- | -------- | 
-| ![](/images/About%20Us/SQA.jpeg)| Singapore Quality Award<br>Award with Special Commendation in 2019| 
+| <img style="float: ; width: 160px; height: 280px;" src="https://pris-test-staging.netlify.app/images/About%20Us/SQA.jpeg" alt="" /> | Singapore Quality Award<br>Award with Special Commendation in 2019| 
+| <img style="float:; width: 280px; height: 136px;" src="/images/About%20Us/AON.jpeg" alt="" /> | AON Best Employer Awarded 2018| 
+
 
 
 
@@ -39,12 +41,10 @@ description: ""
 <td style="width: 50%;"><div class="container">
   <div class="row">
     <div class="col">
-    <img style="float: left; width: 180px; height: 280px;" src="https://pris-test-staging.netlify.app/images/About%20Us/SQA.jpeg" alt="" /> 
+    <img style="float: t; width: 160px; height: 280px;" src="https://pris-test-staging.netlify.app/images/About%20Us/SQA.jpeg" alt="" /> 
     </div>
     <div class="col">
       <strong>Awarded in 2019 with Special Commendation</strong><br />
     </div>
   </div>
  </div>
-	
-<p><img style="float: left; width: 300px; height: 510px;" src="https://pris-test-staging.netlify.app/images/About%20Us/SQA.jpeg" alt="" /> The image will float to the right of the text.</p>
