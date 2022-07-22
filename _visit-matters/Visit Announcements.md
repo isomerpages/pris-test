@@ -5,7 +5,7 @@ description: ""
 ---
 **Visit Arrangements**
 
-The visit entitlement for remand inmates will be increased to four visits per week.  
+The visit entitlement for remand inmates will be increased to four visits per week. 
 |  |Face-to-face  | Tele-visit  |
 | -------- | -------- | -------- |
 |**Visit Mode & Frequency<br>(For all inmates except remand inmates)** <br>&nbsp;<br>Maximum Two Visits a month| Limited to once per month |Up to twice per month <u>if</u> no face-to face visit is booked for the month|
