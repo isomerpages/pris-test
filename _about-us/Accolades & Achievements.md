@@ -12,7 +12,7 @@ Awarded in 2019 with Special Commendation
 <td style="width: 50%;"><div class="container">
   <div class="row">
     <div class="col">
-    <img src="/images/About%20Us/SQA.jpeg" alt=""style="width:200px;height:350px;" >
+    <img src="/images/About%20Us/SQA.jpeg" alt="" />
     </div>
     <div class="col">
       <strong>Singapore Quality Award</strong><br />Awarded with Special Commendation 2019.
