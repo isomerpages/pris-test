@@ -95,6 +95,6 @@ All CBP inmates will be assigned to Reintegration Officers during their programm
 **Correctional Rehabilitation Specialists**<br>
 Correctional Rehabilitation Specialists who are civilian staff, provide case management services to supervisees in the community. Case management services include assessments, counselling, advocacy, mediation, and making referrals.
 ![](/images/stock-photos/75A_1109.jpg)
-For further enquiries on Community Based Programme, you may write to us by filling in the online form at http://go.gov.sg/cbpenquiry.
+For further enquiries on Community Based Programme, you may write to us by filling in the online form at [http://go.gov.sg/cbpenquiry.]( http://go.gov.sg/cbpenquiry)
 
 For enquiries on the terms and conditions of the Halfway Houses and Work Release Centre, you may contact Selarang Park Community Supervision Centre (SPCSC) at <a href="tel:1800-543-1825">1800-543 1825</a>.
