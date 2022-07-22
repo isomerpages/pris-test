@@ -19,7 +19,7 @@ This will be in addition to any sentence that may be imposed for committing an o
 The implementation of the CRS will high-risk ex-inmates to be placed on a Mandatory Aftercare Scheme.
 
 #### Mandatory Aftercare Scheme
-![](/images/Rehabilitation/MAS.jpeg)
+![](/images/Rehabilitation/MAS%20new.jpeg)
 ![](/images/Rehabilitation/MAS%20Factsheet.png)
 
 The Mandatory Aftercare Scheme (MAS) is a compulsory structured aftercare regime that provides enhanced community support, counselling and case management with tight supervision for a selected group of ex-offenders at risk of re-offending and also those who need more support in reintegration into society. It aims to support ex-offenders in staying crime-free and deter them from re-offending.
