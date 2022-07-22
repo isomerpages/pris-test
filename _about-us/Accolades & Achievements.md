@@ -39,7 +39,7 @@ description: ""
 <td style="width: 50%;"><div class="container">
   <div class="row">
     <div class="col">
-    <img src="/images/About%20Us/SQA.jpeg" alt="" />
+    <img style="float: left; width: 180px; height: 280px;" src="https://pris-test-staging.netlify.app/images/About%20Us/SQA.jpeg" alt="" /> 
     </div>
     <div class="col">
       <strong>Awarded in 2019 with Special Commendation</strong><br />
@@ -47,4 +47,4 @@ description: ""
   </div>
  </div>
 	
-<p><img style="float: left; width: 42px; height: 42px;" src="https://pris-test-staging.netlify.app/images/About%20Us/SQA.jpeg" alt="" /> The image will float to the right of the text.</p>
+<p><img style="float: left; width: 300px; height: 510px;" src="https://pris-test-staging.netlify.app/images/About%20Us/SQA.jpeg" alt="" /> The image will float to the right of the text.</p>
