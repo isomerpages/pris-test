@@ -5,7 +5,7 @@ description: ""
 ---
 |  |  | 
 | -------- | -------- | 
-| ![](/images/Visit%20Matters/2022-PrisonTech-DIRECT-2.jpg) | To write e-Letters visit [this link.](https://www.eservice.sps.gov.sg/eletters/#/landing)| 
+| ![](/images/Visit%20Matters/2022-PrisonTech-DIRECT-2.jpg)<br>To write e-Letters visit [this link.](https://www.eservice.sps.gov.sg/eletters/#/landing) | | 
 | | | 
 
 Good communication is important to maintain a healthy relationship. DIRECT allows inmates to connect with their families and friends through e-letters in addition to regular visits.
