@@ -3,17 +3,7 @@ title: Accolades & Achievements
 permalink: /about-us/accolades-achievements
 description: ""
 ---
-<!Doctype Html>  
-<Html>     
-<Head>      
-<Title>     
-Add the Line using Html tags  
-</Title>  
-</Head>  
-<Body>   
-
-Singapore Quality Award
-<hr size="8" width="50%" color="blue">  
-Awarded with Special Commendation 2019.  
-</Body>   
-</Html>
+![](/images/About%20Us/SQA.jpeg)
+<hr size="8" width="100%" color="blue">  
+Singapore Quality Award 
+Awarded in 2019 with Special Commendation
