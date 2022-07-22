@@ -22,7 +22,7 @@ description: ""
     <img style="float: ; width: 160px; height: 280px;" src="https://pris-test-staging.netlify.app/images/About%20Us/SQA.jpeg" alt="" /> 
     </div>
     <div class="col">
-      <strong>Awarded in 2019 with Special Commendation</strong><br />
+      <strong>&nbsp;<br>&nbsp;<br>&nbsp;<br>Awarded in 2019 with Special Commendation</strong><br />
     </div>
   </div>
  </div>
@@ -34,6 +34,50 @@ description: ""
     </div>
     <div class="col">
       <strong>&nbsp;<br>&nbsp;<br>Awarded in 2019 with Special Commendation</strong><br />
+    </div>
+  </div>
+ </div>
+	<td style="width: 50%; vertical-align: middle"><h5>AON Best Employer</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+    <img style="float: ; width: 280px; height: px;" src="/images/About%20Us/QA.jpeg" alt="" /> 
+    </div>
+    <div class="col">
+      <strong>&nbsp;<br>&nbsp;<br>Awarded in 2019 with Special Commendation</strong><br />
+    </div>
+  </div>
+ </div>
+	<td style="width: 50%; vertical-align: middle"><h5>AON Best Employer</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+    <img style="float: ; width: 280px; height: px;" src="/images/About%20Us/Singapore%20Service%20Class.jpeg" alt="" /> 
+    </div>
+    <div class="col">
+      <strong>&nbsp;<br>&nbsp;<br>Awarded in 2019 with Special Commendation</strong><br />
+    </div>
+  </div>
+ </div>
+	<td style="width: 50%; vertical-align: middle"><h5>AON Best Employer</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+    <img style="float: ; width: 280px; height: px;" src="/images/About%20Us/People%20Developer.jpeg" alt="" /> 
+    </div>
+    <div class="col">
+      <strong>&nbsp;<br>&nbsp;<br>Awarded in 2019 with Special Commendation</strong><br />
+    </div>
+  </div>
+ </div>
+	<td style="width: 50%; vertical-align: middle"><h5>AON Best Employer</h5></td>
+<td style="width: 50%;"><div class="container">
+  <div class="row">
+    <div class="col">
+    <img style="float: ; width: 250px; height: px;" src="/images/About%20Us//S'pore%20Innovation%20Class.png" alt="" /> 
+    </div>
+    <div class="col">
+      <strong>&nbsp;<br>&nbsp;<br>&nbsp;<br>Awarded in 2019 with Special Commendation</strong><br />
     </div>
   </div>
  </div>
