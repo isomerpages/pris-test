@@ -18,22 +18,22 @@ Awarded in 2019 with Special Commendation
       <strong>Singapore Quality Award</strong><br />Awarded with Special Commendation 2019.
     </div>
 		
-<table style="width: 100%; border-collapse: collapse; border-style: inset; margin-left: auto; margin-right: auto;" border="1">
+<table style="height: 356px; width: 100%; border-collapse: collapse; border-style: none; margin-left: auto; margin-right: auto;" border="1">
 <tbody>
-<tr>
-<td style="width: 50%;"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/About%20Us/SQA.jpeg" alt="" width="200" height="320" /></td>
-<td style="width: 50%;">
+<tr style="height: 320px;">
+<td style="width: 50%; height: 320px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/About%20Us/SQA.jpeg" alt="" width="200" height="320" /></td>
+<td style="width: 50%; height: 320px;">
 <h4 style="text-align: center;">Singapore Quality Award</h4>
 <p style="text-align: center;">Awarded in 2019 with Special Commendation</p>
 </td>
 </tr>
-<tr>
-<td style="width: 50%;">&nbsp;</td>
-<td style="width: 50%;">&nbsp;</td>
+<tr style="height: 18px;">
+<td style="width: 50%; height: 18px;">&nbsp;</td>
+<td style="width: 50%; height: 18px;">&nbsp;</td>
 </tr>
-<tr>
-<td style="width: 50%;">&nbsp;</td>
-<td style="width: 50%;">&nbsp;</td>
+<tr style="height: 18px;">
+<td style="width: 50%; height: 18px;">&nbsp;</td>
+<td style="width: 50%; height: 18px;">&nbsp;</td>
 </tr>
 </tbody>
 </table>
