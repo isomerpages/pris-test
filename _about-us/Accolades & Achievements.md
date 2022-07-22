@@ -21,7 +21,7 @@ description: ""
     <img style="float: ; width: 280px; height: 136px;" src="/images/About%20Us/AON.jpeg" alt="" /> 
     </div>
     <div class="col">
-      <strong>&nbsp;<br>&nbsp;<br>Awarded in 2019 with Special Commendation</strong><br />
+      <strong>&nbsp;<br>&nbsp;<br>Awarded in 2013 and 2018. </strong><br />
     </div>
   </div>
  </div>
