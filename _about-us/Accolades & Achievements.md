@@ -11,8 +11,9 @@ Add the Line using Html tags
 </Title>  
 </Head>  
 <Body>   
-This page helps you to understand how to add the line in Html document.  
-<hr size="8" width="90%" color="red">  
-And, this section helps you to understand how to add the line using the Html tag.  
+
+Singapore Quality Award
+<hr size="8" width="90%" color="blue">  
+Awarded with Special Commendation 2019.  
 </Body>   
-</Html> 
+</Html>
