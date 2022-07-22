@@ -6,9 +6,7 @@ third_nav_title: Community Corrections
 ---
 Community-Based Programme (CBP) promotes the reintegration of amenable inmates into society with the help of their family members and the community, by emplacing them within the community towards the tail-end of their sentence. It provides an opportunity for the inmates to gradually reintegrate in the community by building up their capacities to reconnect with their families and be gainfully employed as contributing members of the society.
 
-![](/images/Rehabilitation/CBP%20Infographic.png)
-
-![](/images/CBP%20Quick%20Info.jpeg)
+![](/images/Rehabilitation/CBP%20Info.jpeg)
 
 <strong><u>Is my loved one suitable for CBP?</u></strong><br>
 **Penal inmates:** All penal inmates will be screened and assessed for their eligibility and suitability. Eligible inmates will only be assessed for CBP after they have served half their sentence in prison. Some inmates are legally excluded from CBP consideration due to the type of offence committed. Eligible inmates assessed to be suitable for CBP may be emplaced for a maximum period of 12 months prior to their release.
@@ -19,8 +17,7 @@ Community-Based Programme (CBP) promotes the reintegration of amenable inmates i
 
 **What are the various types of CBP available?**
 
-![](/images/Rehabilitation/Types%20of%20CBP.png)
-[To redesign]
+![](/images/Rehabilitation/CBP%20Conditions.jpeg)
 
 The following provides a brief description of the CBP schemes available for <Strong><u>Penal Inmates</u></Strong>:
 <ul class="jekyllcodex_accordion">
@@ -88,7 +85,7 @@ For emplacement to DRS/WRS/HWH scheme, a notification letter providing details o
 Inmates will be transferred to [Selarang Park Community Supervision Centre (SPCSC)](http://www.onemap.gov.sg/main/v2/?lat=1.3708718379447&lng=103.978312286363) on the day of emplacement. They will undergo a briefing on the supervision conditions by their assigned RO. Arrangement for electronic tagging will also be done on emplacement day.
 
 If you wish to send in clothing, you may make an appointment by calling the visit booking hotline at 6546 7169/70/71/72. Due to the ongoing Covid-19 situation, family members are advised not to receive the inmate from SPCSC. 
-![](/images/Rehabilitation/Emplacement%20Day.png)
+![](/images/Rehabilitation/Emplacement%20Day.jpeg)
 
 **Reintegration Officers** <br>
 Reintegration Officers are uniformed SPS staff that support supervisees in the community, by ensuring their compliance to supervision conditions. They also work closely with community partners and provide case management to the supervisees and ex-offenders under their charge. 
