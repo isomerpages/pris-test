@@ -4,9 +4,8 @@ permalink: /join-us/careers/our-employee-value-proposition
 description: ""
 third_nav_title: Careers
 ---
-![](/images/Recruitment/EVP%20Banner.jpg)
+![](/images/Recruitment/Recruitment%20Banner%20New.jpg)
 
-(VIDEO: Recruitment video – w.e.f October 2022)
 
 ##### **Contribute to a Safe and Secure Singapore**
 We are [Captains of Lives](/about-us/captain-of-lives) (COL) to offenders under our custody. We are committed to keeping Singapore safe and secure through enforcing the secure custody of inmates and facilitating their rehabilitation and reintegration into society.
