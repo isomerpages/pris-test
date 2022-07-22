@@ -4,7 +4,6 @@ permalink: /corrections-process/Community-Transition/CRS-MAS
 description: ""
 third_nav_title: Community Corrections
 ---
-
 #### Conditional Remission System
 Conditional Remission System (CRS) seeks to deter ex-offenders from re-offending by subjecting them to conditions upon their release. Under the CRS, all inmates will be issued with a Conditional Remission Order (CRO) which will be valid until the end of their sentence and this is known as the “remission period”. 
 
@@ -20,8 +19,8 @@ This will be in addition to any sentence that may be imposed for committing an o
 The implementation of the CRS will high-risk ex-inmates to be placed on a Mandatory Aftercare Scheme.
 
 #### Mandatory Aftercare Scheme
+![](/images/Rehabilitation/MAS.jpeg)
 ![](/images/Rehabilitation/MAS%20Factsheet.png)
-< To be redone in a top down scheme>
 
 The Mandatory Aftercare Scheme (MAS) is a compulsory structured aftercare regime that provides enhanced community support, counselling and case management with tight supervision for a selected group of ex-offenders at risk of re-offending and also those who need more support in reintegration into society. It aims to support ex-offenders in staying crime-free and deter them from re-offending.
 
