@@ -2,8 +2,7 @@
 title: Vision, Mission & Values
 permalink: /about-us/vision-mission-values
 ---
-![](/images/Placeholder%20for%20Image.png)
-[Collage of staff in prison setting doing prison ops to reflect throughcare]
+![](/images/About%20Us/Officer%20Collage%20Draft.jpeg)
 
 #### **Vision**
 
