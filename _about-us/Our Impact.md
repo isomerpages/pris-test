@@ -13,7 +13,7 @@ Singapore Prison Service (SPS) has come a long way from being a custodial agency
 ![](/images/Placeholder%20for%20Image.png)
 [CARE network]
 
-Started in 2004, the Yellow Ribbon Project [Yellow Ribbon Project](https://www.yellowribbon.gov.sg/community-engagement/yellow-ribbon-project) is a community initiative in Singapore that aims to create awareness of the need to give second chances to ex-offenders, generate acceptance of ex-offenders and their families in the community, and inspire community action to support the rehabilitation and reintegration of ex-offenders into society. 
+Started in 2004, the [Yellow Ribbon Project](https://www.yellowribbon.gov.sg/community-engagement/yellow-ribbon-project) is a community initiative in Singapore that aims to create awareness of the need to give second chances to ex-offenders, generate acceptance of ex-offenders and their families in the community, and inspire community action to support the rehabilitation and reintegration of ex-offenders into society. 
 
 The Yellow Ribbon Project is an initiative under the Community Action for the Rehabilitation of Ex-Offenders (CARE) Network, which comprises:
 * [Ministry of Home Affairs (MHA) ](https://www.mha.gov.sg/)
