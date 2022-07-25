@@ -4,7 +4,7 @@ permalink: /corrections-process/Community-Transition/Community-Based-Sentences
 description: ""
 third_nav_title: Community Corrections
 ---
-Community Based Sentences (CBS) are an alternative sentencing option by the Courts that does not result in a criminal record upon successful completion of sentence. CBS are suitable for low-risk first time offenders, taking into consideration the circumstances of the case and nature of the offence.
+Community Based Sentences (CBS) are alternative sentencing options by the Courts that does not result in a criminal records upon successful completion of the sentences. CBS are suitable for selected first time offenders, taking into consideration the circumstances of the cases and the nature of the offences.
 
 Cases that are suitable for CBS are generally sent to the Community Court. The Community Court adopts a problem-solving approach that combines criminal justice and community resources for a comprehensive response. 
 
@@ -14,8 +14,8 @@ Cases that are suitable for CBS are generally sent to the Community Court. The C
 The Singapore Prison Service (SPS) manages the Day Reporting Order (DRO) and Short Detention Order (SDO) of the CBS. 
 
 **Day Reporting Order (DRO)**
-* Offenders are required to report to Day Reporting Centres for counselling and rehabilitation programmes
-* Offenders will also be supervised by electronic monitoring service, including curfew hours
+* Offenders are required to report to Day Reporting Centres for counselling and rehabilitation programmes.
+* Offenders will also be supervised by electronic monitoring services, as well as curfew hours.
 
 **Short Detention Order (SDO)**
-* A community sentence in which offenders are detained in prison for up to 14 days
+* A community sentence where offenders are detained in prison for up to 14 days
