@@ -21,9 +21,7 @@ YRSG’s TAP (Train and Place) & Grow initiative enables a throughcare training 
     </div>
     <div class="col">
       <a href="https://raw.githubusercontent.com/isomerpages/pris-test/staging/images/Rehabilitation/VST%202.png">
-         <img alt="" src="https://raw.githubusercontent.com/isomerpages/pris-test/staging/images/Rehabilitation/VST%202.png">
-				</a>
-    </div>
+
   </div>
  </div>
  [ To Redesign ]
