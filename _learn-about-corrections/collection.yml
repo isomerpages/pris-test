@@ -2,7 +2,6 @@ collections:
   learn-about-corrections:
     output: true
     order:
-      - Community Partners.md
       - About Corrections/.keep
       - About Corrections/Throughcare Approach.md
       - About Corrections/Incare (In Prison).md
@@ -30,4 +29,5 @@ collections:
         Aftercare Scheme (MAS).md
       - Community Corrections/Youth Offenders.md
       - Community Corrections/Community Based Sentences (CBS).md
+      - Community Partners.md
       - Research Publications.md
