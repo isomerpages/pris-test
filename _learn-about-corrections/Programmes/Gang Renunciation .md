@@ -4,7 +4,7 @@ permalink: /corrections-process/Programmes/Gang-Renunciation
 description: ""
 third_nav_title: Programmes
 ---
-SPS has in place gang management strategies with supporting programmes to encourage inmates with gang affiliations to desist from gang involvement and sever their gang ties.  Some of the programmes implemented include the Gang Renunciation Programme and the Tattoo Removal Programme.
+The Singapore Prison Service has in place gang management strategies with supporting programmes to encourage inmates with gang affiliations to desist from gang involvement and sever their gang ties. Some of the programmes implemented include the Gang Renunciation Programme and the Tattoo Removal Programme.
 
 
 **Gang Renunciation Programme**
