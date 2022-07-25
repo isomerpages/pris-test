@@ -15,7 +15,7 @@ The Singapore Prison Service (SPS) manages the Day Reporting Order (DRO) and Sho
 
 **Day Reporting Order (DRO)**
 * Offenders are required to report to Day Reporting Centres for counselling and rehabilitation programmes.
-* Offenders will also be supervised by electronic monitoring services, as well as curfew hours.
+* Offenders are also electronically tagged and are required to adhere to curfew hours.
 
 **Short Detention Order (SDO)**
 * A community sentence where offenders are detained in prison for up to 14 days
