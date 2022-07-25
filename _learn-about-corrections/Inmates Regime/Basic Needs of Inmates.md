@@ -4,7 +4,7 @@ permalink: /corrections-process/Inmates-Regime/basic-needs
 description: ""
 third_nav_title: Inmates Regime
 ---
-SPS is committed to ensuring the safety and well-being of our inmates and will provide for basic needs of inmates.
+Singapore Prison Service is committed to ensuring the safety and well-being of inmates and will provide for basic needs of inmates.
 
 **Safety, Conduct and Discipline**<br>
 ![](/images/Prison%20Life/2022-PrisonRegime-MusterCheck-1.jpg)
@@ -31,4 +31,3 @@ SPS works with its medical service provider to attend to inmates’ medical need
 Inmates may also alert any prison officer at any time if they are feeling unwell, and they will be referred to medical staff for examination. While awaiting the arrival of medical personnel, inmates may also receive first aid and other medical attention from prison officers who are trained to provide such assistance. Inmates can raise with prison officers, if they have any issue with the medical help they are seeking.
 
 If assessed necessary by the PMO, inmates can be referred to public healthcare institutions for management of more complex medical issues.
-
