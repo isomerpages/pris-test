@@ -4,10 +4,10 @@ permalink: /corrections-process/About-Corrections/Incare
 description: ""
 third_nav_title: About Corrections
 ---
-Upon admission to prison, offenders undergo assessment to determine their risks and needs. Based on their identified risks and needs, appropriate programmes are charted for intervention. The programmes include [psychology-based correctional programmes](/corrections-process/programmes/psychology-programmes), [family programmes](/corrections-process/programmes/family-programmes) and religious services.
+Upon admission to prison, inmates undergo assessment to determine their risks and needs. Based on their identified risks and needs, appropriate programmes are charted for intervention. These programmes include [psychology-based correctional programmes](/corrections-process/programmes/psychology-programmes), [family programmes](/corrections-process/programmes/family-programmes) and religious services.
 
-<strong><u>Learning Prison</u></strong><br>
-As part of the [Corrections 2025 Masterplan](/about-us/strategic-plans), SPS implemented Learning Prison (LP) which seeks to transform offenders into better persons during their incarceration, by inculcating learning and change. For effective rehabilitation to take place, offenders must take ownership and responsibility to learn prosocial coping strategies and turn their lives around. 
+###### Learning Prison
+Singapore Prison Service (SPS) implemented Learning Prison (LP), which seeks to transform inmates into better persons during their incarceration, by inculcating learning and change. For effective rehabilitation to take place, inmates must take ownership and responsibility to learn prosocial coping strategies and turn their lives around. 
 
 ![](/images/Placeholder%20for%20Image.png)
 [ representation of MAP and its key questions ]
