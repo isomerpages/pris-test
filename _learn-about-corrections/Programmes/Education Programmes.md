@@ -6,6 +6,7 @@ third_nav_title: Programmes
 ---
 ![](/images/Placeholder%20for%20Image.png)
 [ Image of Prison School teacher-student setting]
+(Photos of GCE from facebook)
 
 Education programes have been offered in prisons since the 1960s. The Singapore Prison Service (SPS) strongly advocates and recognises that education in prisons is one of the vital elements to reintegrate inmates into society.
 
