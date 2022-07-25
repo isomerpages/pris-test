@@ -11,6 +11,7 @@ CBPs provide opportunities for supervisees, to gradually reintegrate in the comm
 Eligible inmates will be assessed for CBP. The Singapore Prison Service (SPS) makes a holistic assessment their suitability for CBP, taking into consideration their latest rehabilitation progress, general conduct, and reintegration plans. If your loved ones are assessed to be suitable for CBP, the next-of-kin or person appointed will be informed in due course.
 
 ![](/images/Rehabilitation/CBP%20Info.jpeg)
+(add logo)
 
 <strong><u>Is my loved one suitable for CBP?</u></strong><br>
 **Penal inmates:** All penal inmates will be screened and assessed for their eligibility and suitability. Eligible inmates will only be assessed for CBP after they have served half their sentence in prison. Some inmates are legally excluded from CBP consideration due to the type of offence committed. Eligible inmates assessed to be suitable for CBP may be emplaced for a maximum period of 12 months prior to their release.
