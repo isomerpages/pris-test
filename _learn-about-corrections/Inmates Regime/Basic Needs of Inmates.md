@@ -19,7 +19,7 @@ Inmates are provided with three meals daily, which are planned based on a dietic
 Special dietary requirements are considered. For example, inmates who are diabetic are given a sugar-free diet, while inmates who are vegetarian request for a vegetarian diet. 
 
 **Basic Necessities**  <br>
-Inmates will be issued with the following necessities for their daily living:
+Inmates will be issued with the following necessities:
 
 ![](/images/Prison%20Life/2022-PrisonAdmission-KitBox-4.jpg)
 
