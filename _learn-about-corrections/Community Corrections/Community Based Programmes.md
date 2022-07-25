@@ -92,6 +92,8 @@ Inmates will be transferred to [Selarang Park Community Supervision Centre (SPCS
 If you wish to send in clothing, you may make an appointment by calling the visit booking hotline at 6546 7169/70/71/72. Due to the ongoing Covid-19 situation, family members are advised not to receive the inmate from SPCSC. 
 ![](/images/Rehabilitation/Emplacement%20Day.jpeg)
 
+
+(To Remove RO / CRS)
 **Reintegration Officers** <br>
 Reintegration Officers are uniformed SPS staff that support supervisees in the community, by ensuring their compliance to supervision conditions. They also work closely with community partners and provide case management to the supervisees and ex-offenders under their charge. 
 ![](/images/Recruitment/RO.jpg)
