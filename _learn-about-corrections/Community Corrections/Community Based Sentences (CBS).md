@@ -18,4 +18,4 @@ The Singapore Prison Service (SPS) manages the Day Reporting Order (DRO) and Sho
 * Offenders are also electronically tagged and are required to adhere to curfew hours.
 
 **Short Detention Order (SDO)**
-* A community sentence where offenders are detained in prison for up to 14 days
+* A community sentence where offenders are detained in the prisons for up to 14 days
