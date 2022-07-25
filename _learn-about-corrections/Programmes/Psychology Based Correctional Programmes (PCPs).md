@@ -6,11 +6,17 @@ third_nav_title: Programmes
 ---
 ![](/images/Rehabilitation/PCRD-2022-CRS-B4-2.jpg)
 
-Singapore Prison Service provides a range of rehabilitation programmes for offenders under our care. These programmes are psychology-based and aims to: <br>(1) Motivate offenders to change and <br>
-(2) Work on their negative thinking patterns that leads to their offending. <br> 
-These programmes also provide opportunities for offenders to practice and enhance their ability to communicate with others better and manage their emotions, so that they can work towards a live free from drugs and crime.
+The Singapore Prison Service provides a range of rehabilitation programmes for inmates under our care. These programmes are psychology-based and aims to: 
+* Motivate inmates to change and 
+* Work on their negative thinking patterns that led to their offending. 
+
+These programmes also provide opportunities for inmates to practice and enhance their ability to communicate with others and manage their emotions, so that they can work towards a life free from drugs and crime.
  
-The development of our psychology-based correctional programmes (PCPs) are guided by: <br> (1) Research on the needs of our offenders, <br>(2) Established rehabilitation frameworks, and <br>(3) Best practices from overseas correctional programmes. <br>Specifically, our programmes are guided by the Risk-Need-Responsivity (RNR) model, the Good Lives Model (GLM) and the Desistance Approach. For specific populations such as the women and youth, relevant intervention strategies are incorporated in the programmes to meet their unique needs.
+The development of our psychology-based correctional programmes (PCPs) are guided by: 
+* (1) Research on the needs of our inmates 
+* (2) Established rehabilitation frameworks
+* (3) Best practices from overseas correctional programmes
+Specifically, our programmes are guided by the ( to link to specific research) Risk-Need-Responsivity (RNR) model, the Good Lives Model (GLM) and the Desistance Approach. For specific populations such as women and youth, relevant intervention strategies are incorporated in the programmes to meet their unique needs.
 
 <ul class="jekyllcodex_accordion">
   <li>
