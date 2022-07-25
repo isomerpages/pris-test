@@ -14,6 +14,6 @@ One of the ways that SPS achieves this is through My Action Plan (MAP), a person
 ![](/images/Placeholder%20for%20Image.png)
 [ representation of MAP and its key questions (get from RRD)]
 
-SPS also partners [Yellow Ribbon Singapore (YRSG)](https://www.yellowribbon.gov.sg/) to offer offenders opportunities to attend Skills Training courses. These courses serve to improve offenders’ employability and increase their chances of securing a job after their release, by enabling them to develop foundational skills and attain competencies to help them perform jobs at higher levels.
+SPS also partners [Yellow Ribbon Singapore](https://www.yellowribbon.gov.sg/) (YRSG) to offer inmates opportunities to attend Skills Training courses. These courses serve to improve inmates’ employability and increase their chances of securing a job after their release, by enabling them to develop foundational skills and attain competencies to help them perform jobs at higher levels.
 
-At the pre-release phase, offenders are provided the relevant support to secure jobs and maintain their employment upon their release. Through skills deepening and career progression, offenders will be better prepared for their reintegration into the community.
+At the pre-release phase, inmates are provided the relevant support to secure jobs and maintain their employment upon their release. Through skills deepening and career progression, inmates will be better prepared for their reintegration into the community.
