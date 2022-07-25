@@ -9,7 +9,7 @@ Upon admission to prison, inmates undergo assessment to determine their risks an
 ##### Learning Prison
 Singapore Prison Service (SPS) implemented Learning Prison (LP), which seeks to transform inmates into better persons during their incarceration, by inculcating learning and change. For effective rehabilitation to take place, inmates must take ownership and responsibility to learn pro-social coping strategies and turn their lives around. 
 
-One of the ways that SPS achieves this is through My Action Plan (MAP), a personal planning tool that charts the rehabilitation of each inmate. The inmates' Correctional Unit Officer (CUO) guides them in this process with discussions on goals and designing an action plan meeting them. The CUO also discusses the inmates' learning and reflections after they attend programmes that reinforce the learning and action plan.  
+One of the ways that SPS achieves this is through My Action Plan (MAP), a personal planning tool that charts the rehabilitation of each inmate. The inmates' Correctional Unit Officer (CUO) guides them in this process with discussions on their goals and designing their action plans. The CUO also discusses the inmates' learning and reflections after they attend programmes that reinforce the learning and action plan.  
 
 ![](/images/Placeholder%20for%20Image.png)
 [ representation of MAP and its key questions (get from RRD)]
