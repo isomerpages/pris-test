@@ -17,6 +17,3 @@ In 2018, in collaboration with Ngee Ann Polytechnic, Prison School started offer
 Since July 2020, a self-study and self-funding degree programme has been offered as a progression opportunity for those who have completed their Diploma course in prisons. In partnership with the Singapore University of Social Sciences, the Bachelor of Science in Logistics & Supply Chain Management programme is conducted. Despite being a self-study programme, the students get to meet their lecturers weekly for lessons.
 
 [Yellow Ribbon Fund](https://www.yellowribbon.gov.sg/yellow-ribbon-fund) collaborates with Singapore Federation of Chinese Clan Association (SFCCA) to fund GCE ‘A’ level or Diploma students of any race who wish to continue their studies and take up the Bachelor of Science programme in Logistics and Supply Chain Management.
-
-![](/images/Rehabilitation/Education.jpg)
-< To Redesign>
