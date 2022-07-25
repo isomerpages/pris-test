@@ -7,18 +7,18 @@ third_nav_title: Community Corrections
 (Split up both schemes)
 
 #### Conditional Remission System
-Conditional Remission System (CRS) seeks to deter ex-offenders from re-offending by subjecting them to conditions upon their release. Under the CRS, all inmates will be issued with a Conditional Remission Order (CRO) which will be valid until the end of their sentence and this is known as the “remission period”. 
+Conditional Remission System seeks to deter ex-offenders from re-offending by subjecting them to conditions upon their release. Under the System, all inmates will be issued with a Conditional Remission Order (CRO), which will be valid until the end of their sentences and this is known as the “remission period”. 
 
-Most ex-offenders will generally still be released after they have served two-thirds of their sentence, if they had displayed good conduct and behaviour in prison. When they are released, they will be issued with a CRO with the basic condition of not to re-offend during this remission period and must also not be convicted and sentenced to any of the following:
+Most inmates will be released after they have served two-thirds of their sentence, if they had displayed good conduct and behaviour in prisons. When they are released, they will be issued with a CRO with the basic condition that they do not re-offend during this remission period, and must also not be convicted and sentenced to any of the following:
 
 * A sentence of imprisonment (excluding a default sentence)
 * Reformative Training
 * Corrective Training
 * Preventive Detention
 
-This will be in addition to any sentence that may be imposed for committing an offence in breach of the basic condition, and there shall be no one-third remission for the enhanced sentence. The maximum length of the enhanced sentence shall not exceed the remaining duration of the CRO from the date of the “new” offence. 
+This will be in addition to any sentence that may be imposed for committing an offence in breach of the basic condition, and there shall be no one-third remission for the enhanced sentence. The maximum length of the enhanced sentence shall not exceed the remaining duration of the CRO from the date of the new offence. 
 
-The implementation of the CRS will high-risk ex-inmates to be placed on a Mandatory Aftercare Scheme.
+The implementation of the Conditional Remission System will high-risk ex-inmates to be placed on a Mandatory Aftercare Scheme.
 
 #### Mandatory Aftercare Scheme
 ![](/images/Rehabilitation/MAS%20new.jpeg)
