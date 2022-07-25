@@ -28,4 +28,4 @@ The Mandatory Aftercare Scheme (MAS) aims to support ex-offenders in staying cri
 
 MAS comprises supervision and restrictions, which may include a mandatory residential phase, curfew hours and electronic monitoring. Upon release, ex-offenders who are required to undergo MAS will be placed progressively through step-down aftercare support and supervision.
 
-In 2019, the Selarang Halfway House was established by SPS as the first Government-run facility to provide structured aftercare support for selected ex-offenders. It is a secular residential, step-down facility set up to offer a residential programme as part of the MAS.
+In 2019, the Selarang Halfway House was established by SPS as the first Government-run facility to provide structured aftercare support for selected ex-offenders. It is a secular residential, facility set up to offer a residential programme as part of the MAS.
