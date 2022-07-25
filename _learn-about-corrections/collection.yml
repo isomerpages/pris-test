@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - About Corrections/.keep
-      - About Corrections/Rehabilitation Process.md
+      - About Corrections/Throughcare Approach.md
       - About Corrections/Incare (In Prison).md
       - About Corrections/Aftercare (In the Community).md
       - Inmates Regime/.keep
