@@ -4,7 +4,7 @@ permalink: /corrections-process/Inmates-Regime/basic-needs
 description: ""
 third_nav_title: Inmates Regime
 ---
-Singapore Prison Service is committed to ensuring the safety and well-being of inmates and will provide for their basic needs.
+Singapore Prison Service (SPS) is committed to ensuring the safety and well-being of inmates and will provide for their basic needs.
 
 **Safety, Conduct and Discipline**<br>
 ![](/images/Prison%20Life/2022-PrisonRegime-MusterCheck-1.jpg)
