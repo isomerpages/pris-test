@@ -6,6 +6,6 @@ third_nav_title: Inmates Regime
 ---
 ![](/images/Prison%20Life/SPC-5.jpg)
 
-Upon incarceration, all inmates undergo an admission process. All personal belongings will be taken and documented for safekeeping. Inmates are then subjected to a thorough search for injuries, contraband, and any other items. 
+Upon incarceration, all inmates undergo an admission process. All personal belongings will be taken and documented for safekeeping. Inmates are checked throughly for injuries, contraband and any other items. 
 
 Next, they will be informed of their length of sentence and date of release (details of inmate’s sentences meted out by the Courts will be verified to ensure there are no discrepancies), after which they will be medically screened and examined by a Prison Medical Officer (PMO). An admission briefing and interview will also be conducted.
