@@ -2,7 +2,6 @@ collections:
   learn-about-corrections:
     output: true
     order:
-      - Community Resources/Community Partners.md
       - Community Resources/.keep
       - About Corrections/.keep
       - About Corrections/Throughcare Approach.md
