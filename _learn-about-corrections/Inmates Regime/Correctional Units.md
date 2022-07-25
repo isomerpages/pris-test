@@ -9,6 +9,6 @@ Inmates are housed in Correctional Units (CUs) within prison institutions, based
 ![](/images/Placeholder%20for%20Image.png)
 [Image of CU during day unlocking]
 
-Each CU is managed by a team of Correctional Unit Officers (CUOs) enforce the security custody of inmates as well as aim to influence positive change in their behaviour and attitudes. The CUOs motivate inmates to take greater ownership of their rehabilitation from the onset of incarceration, guiding inmates in setting their personal development goals, and reviewing their [rehabilitation progress](/throughcare-approach). 
+Each CU is managed by a team of Correctional Unit Officers (CUOs) enforce the security custody of inmates. The CUOs also influence positive change in their behaviour and attitudes, and provide assistance to inmates who require them.
 
-Inmates can approach their CUOs if they require any assistance.
+Inmates are also encouraged to take greater ownership of their rehabilitation from the onset of incarceration, guiding inmates in establishing their personal development goals, and reviewing their [rehabilitation progress](/throughcare-approach). 
