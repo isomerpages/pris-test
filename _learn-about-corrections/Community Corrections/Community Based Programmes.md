@@ -4,7 +4,7 @@ permalink: /corrections-process/Community-Transition/CBP
 description: ""
 third_nav_title: Community Corrections
 ---
-Inmates may be emplaced as supervisees for Community-Based Programmes (CBP) towards the tail-end of their sentence. CBPs promotes their reintegration into society with the help of their family members and the community. 
+Inmates may be emplaced as supervisees for Community Based Programmes (CBP) towards the tail-end of their sentence. CBPs promotes their reintegration into society with the help of their family members and the community. 
 
 CBPs provide opportunities for supervisees, to gradually reintegrate in the community by building up their capacities to reconnect with their families and be gainfully employed as contributing members of the society.
 
