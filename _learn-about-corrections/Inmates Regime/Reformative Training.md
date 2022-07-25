@@ -4,7 +4,7 @@ permalink: /corrections-process/Prison-Regime/Reformative-Training
 description: ""
 third_nav_title: Inmates Regime
 ---
-(To confirm if it will be here)
+(To confirm if it will be here - cause penal and drc is not stated)
 
 A Reformative Training (RT) sentence comprises a residential phase of up to 36 months and a statutory supervision phase up to 54 months from the date of sentence.  All reformative trainees admitted to Reformative Training Centre (RTC) will undergo the RT regime, with a minimum detention period of either 6 or 12 months as deemed appropriate by the court for their rehabilitation. All RTs are encouraged to maintain good conduct, take ownership of their rehabilitation and complete the required rehabilitation programmes. After serving the minimum period of detention and completing the required rehabilitation programmes, the RT will be reviewed by the RTC Review Committee to determine their suitability for release under a supervision order (community supervision phase). 
 
