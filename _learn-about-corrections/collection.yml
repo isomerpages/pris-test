@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Community Partners.md
-      - Community Resources/.keep
       - About Corrections/.keep
       - About Corrections/Throughcare Approach.md
       - About Corrections/Incare (In Prison).md
