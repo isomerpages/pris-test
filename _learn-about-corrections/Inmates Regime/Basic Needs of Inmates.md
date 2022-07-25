@@ -28,6 +28,7 @@ These are washed, replenished or exchanged on a regular basis.
 
 **Medical Care**<br> 
 ![](/images/Prison%20Life/2022-PrisonRegime-MedicalCare-1.jpg)
+(reshoot)
 
 SPS works with its medical service provider to attend to inmates’ medical needs. There are daily in-house clinics on weekdays, and the Prison Medical Officer (PMO) will attend to inmates who report sick. After office hours, on weekends and on public holidays, nurses and an on-call doctor are available.
 
