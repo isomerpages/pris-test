@@ -8,9 +8,11 @@ third_nav_title: Community Corrections
 ![](/images/Placeholder%20for%20Image.png)
 [ Image of Intervention session with youth offender]
 
-Release on Supervision (ROS) is a mandatory component of [Reformative Training](/corrections-process/prison-regime/reformative-training) (RT) to ensure that the RT inmate’s rehabilitation needs are addressed and is well reintegrated before he/she is considered for discharge from RT. A RT inmate will be reviewed regularly by the RTC Review Committee (RTCRC) to determine his/her suitability for release on supervision, depending on his/her rehabilitation needs identified, conduct and progress in RTC.
+Release on Supervision (ROS) is a mandatory component of [Reformative Training](/corrections-process/prison-regime/reformative-training) (RT) to ensure that the RT inmates' rehabilitation needs are addressed and are well reintegrated before they can be considered for discharge from RT. 
 
-During ROS, Reintegration Officers and Case Workers will be assigned to the RT inmate to provide the intervention and guidance in their reintegration to the community. When the RT inmate fails to comply with any of the requirements stipulated in the supervision order, he/she is subjected to disciplinary actions leading to a recall back to RTC. Actions will be taken in accordance with the severity of the breach, from verbal warning to reflective thinking process to a recall.
+All RT inmates are reviewed regularly by the Reformative Training Centre (RTC) Review Committee to determine their suitability for ROS, depending on their identified rehabilitation needs, conduct and progress in RTC.
+
+During ROS, Reintegration Officers and Case Workers are assigned to the RT inmates to provide intervention and guidance in their reintegration to the community. If they fail to comply with any of the requirements stipulated in the supervision order, they are subjected to disciplinary actions in accordance with the severity of the breach, from verbal warning to a possible recall back to RTC.
 
 Recalled RT inmates whose supervision order has been revoked will be reviewed regularly on their suitability for ROS. Recalled RT inmates will also be required to attend a Recallee Programme to address key reintegration challenges and prepare them better for the next ROS.
 
