@@ -84,7 +84,7 @@ Specifically, our programmes are guided by the ( to link to specific research) R
     <div>
       <ul>
         <li>Address issues related to self-esteem, shame and guilt</li>
-        <li>Identify and dispute unhelpful thinking patterns that lead them to sexual offending</li>
+        <li>Identify and dispute unhelpful thinking patterns that led them to sexual offending</li>
         <li>Develop healthy emotional and sexual self-regulation skills</li>
 				<li>Improve problem-solving, interpersonal, and relational skills</li>
         <li>Increase empathy towards victims and others</li>
