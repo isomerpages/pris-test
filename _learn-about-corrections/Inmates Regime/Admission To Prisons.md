@@ -8,4 +8,6 @@ third_nav_title: Inmates Regime
 
 Upon incarceration, all inmates undergo an admission process. All personal belongings will be taken and documented for safekeeping. Inmates are checked throughly for injuries, contraband and any other items. 
 
-Next, they will be informed of their length of sentence and date of release (details of inmate’s sentences meted out by the Courts will be verified to ensure there are no discrepancies), after which they will be medically screened and examined by a Prison Medical Officer (PMO). An admission briefing and interview will also be conducted.
+They will be informed of their length of sentence and date of release*, after which they will be medically screened and examined by a Prison Medical Officer. An admission briefing and interview will also be conducted.
+
+*\*Details of inmate’s sentences meted out by the Courts will be verified to ensure there are no discrepancies*
