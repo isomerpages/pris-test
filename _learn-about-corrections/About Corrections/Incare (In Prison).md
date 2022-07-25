@@ -6,7 +6,7 @@ third_nav_title: About Corrections
 ---
 Upon admission to prison, inmates undergo assessment to determine their risks and needs. Based on their identified risks and needs, appropriate programmes are charted for intervention. These programmes include [psychology-based correctional programmes](/corrections-process/programmes/psychology-programmes), [family programmes](/corrections-process/programmes/family-programmes) and religious services.
 
-###### Learning Prison
+##### Learning Prison
 Singapore Prison Service (SPS) implemented Learning Prison (LP), which seeks to transform inmates into better persons during their incarceration, by inculcating learning and change. For effective rehabilitation to take place, inmates must take ownership and responsibility to learn pro-social coping strategies and turn their lives around. 
 
 One of the ways that SPS achieves this is through My Action Plan (MAP), a personal planning tool that charts the rehabilitation of each inmate. The offender’s Correctional Unit Officer (CUO) guides him/her in this process with discussions on concerns, goals and designing an action plan towards the goals. The CUO also discusses the offender’s learning and reflections after he/she attends programmes to reinforce the learning and action plan.  
