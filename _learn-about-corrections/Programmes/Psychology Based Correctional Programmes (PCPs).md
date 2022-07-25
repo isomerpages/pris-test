@@ -13,9 +13,9 @@ The Singapore Prison Service provides a range of rehabilitation programmes for i
 These programmes also provide opportunities for inmates to practice and enhance their ability to communicate with others and manage their emotions, so that they can work towards a life free from drugs and crime.
  
 The development of our psychology-based correctional programmes (PCPs) are guided by: 
-* (1) Research on the needs of our inmates 
-* (2) Established rehabilitation frameworks
-* (3) Best practices from overseas correctional programmes
+* Research on the needs of our inmates 
+* Established rehabilitation frameworks
+* Best practices from overseas correctional programmes
 Specifically, our programmes are guided by the ( to link to specific research) Risk-Need-Responsivity (RNR) model, the Good Lives Model (GLM) and the Desistance Approach. For specific populations such as women and youth, relevant intervention strategies are incorporated in the programmes to meet their unique needs.
 
 <ul class="jekyllcodex_accordion">
