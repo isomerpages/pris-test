@@ -26,7 +26,7 @@ Specifically, our programmes are guided by the ( to link to specific research) R
       <ul>
         <li>Develop skills to solve problems</li>
         <li>Develop plans to achieve their goals and values to desist from crime</li>
-        <li>Identify and dispute unhelpful thinking patterns that lead to their crimes</li>
+        <li>Identify and dispute unhelpful thinking patterns that led to their crimes</li>
       </ul>
     </div>
 	</li>  
