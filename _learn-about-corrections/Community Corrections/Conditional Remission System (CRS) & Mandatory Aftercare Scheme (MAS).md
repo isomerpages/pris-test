@@ -4,6 +4,8 @@ permalink: /corrections-process/Community-Transition/CRS-MAS
 description: ""
 third_nav_title: Community Corrections
 ---
+(Split up both schemes)
+
 #### Conditional Remission System
 Conditional Remission System (CRS) seeks to deter ex-offenders from re-offending by subjecting them to conditions upon their release. Under the CRS, all inmates will be issued with a Conditional Remission Order (CRO) which will be valid until the end of their sentence and this is known as the “remission period”. 
 
