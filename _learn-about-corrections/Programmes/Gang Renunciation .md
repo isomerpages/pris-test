@@ -10,4 +10,6 @@ Under the Gang Renunciation Programme, inmates who make the resolve to sever tie
 
 The programme enables them to rebuild family relationships and develop a pro-social lifestyle through relevant rehabilitation programmes while in prison and after their release.
 
-Volunteer doctors also provide tattoo removal services to inmates who have undergone the Gang Renunciation Programme during their incarceration. The removal of gang tattoos helps to reduce the inmates’ stigma associated with their gang affiliations. 
+Volunteer doctors also provide tattoo removal services to inmates who have undergone the Gang Renunciation Programme during their incarceration. The removal of gang tattoos helps to reduce the inmates’ stigma associated with their gang affiliations.
+
+(Photos from Joel)
