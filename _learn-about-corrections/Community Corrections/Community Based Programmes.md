@@ -4,9 +4,11 @@ permalink: /corrections-process/Community-Transition/CBP
 description: ""
 third_nav_title: Community Corrections
 ---
-Community-Based Programme (CBP) promotes the reintegration of amenable inmates into society with the help of their family members and the community, by emplacing them within the community towards the tail-end of their sentence. It provides an opportunity for the inmates to gradually reintegrate in the community by building up their capacities to reconnect with their families and be gainfully employed as contributing members of the society.
+Inmates may be emplaced as supervisees for Community-Based Programmes (CBP) towards the tail-end of their sentence. CBPs promotes their reintegration into society with the help of their family members and the community. 
 
-Eligible inmates will be assessed for CBP towards the tail-end of their sentences. SPS makes a holistic assessment of the inmate’s suitability for CBP, taking into consideration his/her latest rehabilitation progress, general conduct, and reintegration plans. If your loved ones are assessed suitable for CBP, the next-of-kin or person appointed will be informed in due course.
+CBPs provide opportunities for supervisees, to gradually reintegrate in the community by building up their capacities to reconnect with their families and be gainfully employed as contributing members of the society.
+
+Eligible inmates will be assessed for CBP. The Singapore Prison Service (SPS) makes a holistic assessment their suitability for CBP, taking into consideration their latest rehabilitation progress, general conduct, and reintegration plans. If your loved ones are assessed suitable for CBP, the next-of-kin or person appointed will be informed in due course.
 
 ![](/images/Rehabilitation/CBP%20Info.jpeg)
 
