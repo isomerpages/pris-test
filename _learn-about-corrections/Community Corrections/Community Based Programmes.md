@@ -89,7 +89,7 @@ For emplacement to DRS/WRS/HWH scheme, a notification letter providing details o
 
 Inmates will be transferred to [Selarang Park Community Supervision Centre (SPCSC)](http://www.onemap.gov.sg/main/v2/?lat=1.3708718379447&lng=103.978312286363) on the day of emplacement. They will undergo a briefing on the supervision conditions by their assigned RO. Arrangement for electronic tagging will also be done on emplacement day.
 
-If you wish to send in clothing, you may make an appointment by calling the visit booking hotline at 6546 7169/70/71/72. Due to the ongoing Covid-19 situation, family members are advised not to receive the inmate from SPCSC. 
+(To link and chekc on number) If you wish to send in clothing, you may make an appointment by calling the visit booking hotline at 6546 7169/70/71/72. Due to the ongoing Covid-19 situation, family members are advised not to receive the inmate from SPCSC. 
 ![](/images/Rehabilitation/Emplacement%20Day.jpeg)
 
 
@@ -104,4 +104,4 @@ Correctional Rehabilitation Specialists who are civilian staff, provide case man
 ![](/images/stock-photos/75A_1109.jpg)
 For further enquiries on Community Based Programme, you may write to us by filling in the online form at [http://go.gov.sg/cbpenquiry.]( http://go.gov.sg/cbpenquiry)
 
-For enquiries on the terms and conditions of the Halfway Houses and Work Release Centre, you may contact Selarang Park Community Supervision Centre (SPCSC) at <a href="tel:1800-543-1825">1800-543 1825</a>.
+For enquiries on the terms and conditions of the Halfway Houses and Work Release Centre, you may contact Selarang Park Community Supervision Centre (SPCSC) at <a href="tel:1800-543-1825">1800-543-1825</a>.
