@@ -2,7 +2,6 @@ collections:
   learn-about-corrections:
     output: true
     order:
-      - Resources for Families.md
       - About Corrections/.keep
       - About Corrections/Throughcare Approach.md
       - About Corrections/Incare (In Prison).md
@@ -31,4 +30,5 @@ collections:
       - Community Corrections/Youth Offenders.md
       - Community Corrections/Community Based Sentences (CBS).md
       - Community Partners.md
+      - Resources for Families.md
       - Research Publications.md
