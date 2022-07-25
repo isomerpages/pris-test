@@ -22,6 +22,7 @@ Special dietary requirements are considered. For example, inmates who are diabet
 Inmates will be issued with the following necessities:
 
 ![](/images/Prison%20Life/2022-PrisonAdmission-KitBox-4.jpg)
+(missing toilet paper, slipper, clothes, towel)
 
 These are washed, replenished or exchanged on a regular basis.
 
