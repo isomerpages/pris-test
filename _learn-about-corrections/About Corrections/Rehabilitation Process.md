@@ -8,7 +8,7 @@ The Singapore Prison Service adopts a throughcare approach in the rehabilitation
 
 Through rehabilitation, offenders undergo positive transformation and return to society as contributing citizens, keeping Singapore a safe and secure home.
 
-The rehabilitation journey for offenders can be divided into two key phases – [Incare (in prison)](/corrections-process/about-corrections/incare) and [Aftercare (in the community)](/corrections-process/about-corrections/aftercare).
+The rehabilitation journey for offenders can be divided into two key phases ;<br> – [Incare](/corrections-process/about-corrections/incare) (in prison) and <br> - [Aftercare](/corrections-process/about-corrections/aftercare) (in the community).
 
 [![](/images/Rehabilitation/Reintegration%20Roadmap.jpg)](/images/Rehabilitation/Reintegration%20Roadmap.jpg)
 < To Redesign >
