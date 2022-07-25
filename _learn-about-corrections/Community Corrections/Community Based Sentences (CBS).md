@@ -14,7 +14,7 @@ Cases that are suitable for CBS are generally sent to the Community Court. The C
 The Singapore Prison Service (SPS) manages the Day Reporting Order (DRO) and Short Detention Order (SDO) of the CBS. 
 
 **Day Reporting Order (DRO)**
-* Offenders are required to report to the Day Reporting Centres to attending counselling and rehabilitation programmes
+* Offenders are required to report to Day Reporting Centres for counselling and rehabilitation programmes
 * Offenders will also be supervised by electronic monitoring service, including curfew hours
 
 **Short Detention Order (SDO)**
