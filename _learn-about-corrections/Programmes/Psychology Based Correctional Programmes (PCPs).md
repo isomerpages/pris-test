@@ -37,8 +37,8 @@ Specifically, our programmes are guided by the ( to link to specific research) R
      <ul>
         <li>Develop skills to manage their emotions</li>
         <li>Develop plans to manage their slips and relapses</li>
-        <li>Form new prosocial habits, in replacement of their habit of using drugs</li>
-			 <li>Identify and dispute unhelpful thinking patterns that lead to their abuse of drugs</li>
+        <li>Form new pro-social habits, in replacement of their habit of using drugs</li>
+			 <li>Identify and dispute unhelpful thinking patterns that led to their abuse of drugs</li>
       </ul>
     </div>
   </li>
@@ -50,7 +50,7 @@ Specifically, our programmes are guided by the ( to link to specific research) R
         <li>Build skills to manage conflicts constructively</li>
         <li>Develop skills to resist antisocial peer influence</li>
         <li>Explore their values and goals to achieve healthy self-development</li>
-			 <li>Identify and dispute unhelpful thinking patterns that lead to their misconduct</li>
+			 <li>Identify and dispute unhelpful thinking patterns that led to their misconduct</li>
       </ul>
     </div>
   </li>
