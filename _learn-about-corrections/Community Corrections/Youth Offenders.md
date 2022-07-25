@@ -14,7 +14,7 @@ All RT inmates are reviewed regularly by the Reformative Training Centre (RTC) R
 
 During ROS, Reintegration Officers and Case Workers are assigned to the RT inmates to provide intervention and guidance in their reintegration to the community. If they fail to comply with any of the requirements stipulated in the supervision order, they are subjected to disciplinary actions in accordance with the severity of the breach, from verbal warning to a possible recall back to RTC.
 
-Recalled RT inmates whose supervision order has been revoked will be reviewed regularly on their suitability for ROS. Recalled RT inmates will also be required to attend a Recallee Programme to address key reintegration challenges and prepare them better for the next ROS.
+Recalled RT inmates whose supervision order has been revoked will be reviewed regularly on their suitability for ROS. Recalled RT inmates are required to attend a Recallee Programme to address key reintegration challenges. They will be reviewed for their suitability for the next ROS.
 
 **Community Rehabilitation Centre (CRC)**<br>
 The Community Rehabilitation Centre (CRC) was officially launched in January 2015, to help first time young drug offenders to rehabilitate into society with minimal disruptions after they have completed a short detention at the Drug Rehabilitation Centre (DRC). This is part of the Singapore Prison Service’s mission to offer tailored rehabilitation programmes based on their risk profiles to better address the needs of these drug offenders based on their risk profiles.
