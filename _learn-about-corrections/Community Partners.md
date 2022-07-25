@@ -3,8 +3,7 @@ title: Community Partners
 permalink: /corrections-process/Community-Partners
 description: ""
 ---
-
-
+(RRD - Introductory para for community partner)
 
 **Case Management Partners**<br> 
 SPS partners closely with these case management partners to provide case management services and support for supervisees and their families. 
