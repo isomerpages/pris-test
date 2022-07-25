@@ -10,6 +10,6 @@ Work programmes aim to instil good discipline and inculcate good work ethics in 
 
 The Singapore Prison Service (SPS) partners [Yellow Ribbon Singapore](https://www.yellowribbon.gov.sg/) (YRSG) to provide work programmes for inmates. Across SPS, inmates engage in work programmes across various areas such as the prison kitchen, bakery, laundry facility, logistics workshop, multimedia workshop and call centre. 
 
-Inmates who are engaged in work programmes are also given an allowance, which they can use to purchase items which include personal grooming items and snacks.
+Inmates who are engaged in work programmes are given an allowance, which they can use to purchase personal items and snacks.
 
 Inmates can also remit part of their work allowance to their families, under the Inmates’ Caring Act through Remittance of Earning (iCARE) scheme. The Inmates’ Families Support Fund (IFSF) provides a dollar-to-dollar matching to the families, capped at $400 per year. This scheme provides the opportunity for inmates to continue contributing to their families financially despite their incarceration, while instilling in them a sense of responsibility towards their families.
