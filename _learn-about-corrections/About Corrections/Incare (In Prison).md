@@ -7,7 +7,7 @@ third_nav_title: About Corrections
 Upon admission to prison, inmates undergo assessment to determine their risks and needs. Based on their identified risks and needs, appropriate programmes are charted for intervention. These programmes include [psychology-based correctional programmes](/corrections-process/programmes/psychology-programmes), [family programmes](/corrections-process/programmes/family-programmes) and religious services.
 
 ###### Learning Prison
-Singapore Prison Service (SPS) implemented Learning Prison (LP), which seeks to transform inmates into better persons during their incarceration, by inculcating learning and change. For effective rehabilitation to take place, inmates must take ownership and responsibility to learn prosocial coping strategies and turn their lives around. 
+Singapore Prison Service (SPS) implemented Learning Prison (LP), which seeks to transform inmates into better persons during their incarceration, by inculcating learning and change. For effective rehabilitation to take place, inmates must take ownership and responsibility to learn pro-social coping strategies and turn their lives around. 
 
 ![](/images/Placeholder%20for%20Image.png)
 [ representation of MAP and its key questions ]
