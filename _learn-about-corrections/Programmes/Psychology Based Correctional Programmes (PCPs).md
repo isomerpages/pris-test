@@ -48,7 +48,7 @@ Specifically, our programmes are guided by the ( to link to specific research) R
     <div>
       <ul>
         <li>Build skills to manage conflicts constructively</li>
-        <li>Develop skills to resist antisocial peer influence</li>
+        <li>Develop skills to resist anti-social peer influence</li>
         <li>Explore their values and goals to achieve healthy self-development</li>
 			 <li>Identify and dispute unhelpful thinking patterns that led to their misconduct</li>
       </ul>
@@ -60,9 +60,9 @@ Specifically, our programmes are guided by the ( to link to specific research) R
     <div>
       <ul>
         <li>Build skills to manage their unhelpful emotions</li>
-        <li>Develop their prosocial identity by encouraging and affirming them</li>
+        <li>Develop their pro-social identity by encouraging and affirming them</li>
         <li>Build healthy relationships with significant others to develop their support network</li>
-				<li>Identify and dispute unhelpful thinking patterns that lead to their offending behaviours</li>
+				<li>Identify and dispute unhelpful thinking patterns that led to their offending behaviours</li>
       </ul>
     </div>
   </li>    
@@ -71,9 +71,9 @@ Specifically, our programmes are guided by the ( to link to specific research) R
     <label for="accordion5">Violent Offending Programmes</label>
     <div>
       <ul>
-        <li>Identify and dispute unhelpful thinking patterns that lead them to violence</li>
+        <li>Identify and dispute unhelpful thinking patterns that led them to violence</li>
         <li>Develop skills to manage their emotions</li>
-        <li>Develop prosocial conflict resolution and communication skills</li>
+        <li>Develop pro-social conflict resolution and communication skills</li>
 				<li>Develop relapse prevention plans for their violent offending</li>
       </ul>
     </div>
@@ -83,7 +83,7 @@ Specifically, our programmes are guided by the ( to link to specific research) R
     <label for="accordion6">Sexual Offending Programmes</label>
     <div>
       <ul>
-        <li>Address issues related to self-esteem, shame, and guilt</li>
+        <li>Address issues related to self-esteem, shame and guilt</li>
         <li>Identify and dispute unhelpful thinking patterns that lead them to sexual offending</li>
         <li>Develop healthy emotional and sexual self-regulation skills</li>
 				<li>Improve problem-solving, interpersonal, and relational skills</li>
