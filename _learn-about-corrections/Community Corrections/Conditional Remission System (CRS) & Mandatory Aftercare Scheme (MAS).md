@@ -18,7 +18,7 @@ Most inmates will be released after they have served two-thirds of their sentenc
 
 This will be in addition to any sentence that may be imposed for committing an offence in breach of the basic condition, and there shall be no one-third remission for the enhanced sentence. The maximum length of the enhanced sentence shall not exceed the remaining duration of the CRO from the date of the new offence. 
 
-The implementation of the Conditional Remission System will high-risk ex-inmates to be placed on a Mandatory Aftercare Scheme.
+A selected group of ex-offenders will have to undergo the Mandatory Aftercare Scheme with conditions imposed in addition to the basic condition. 
 
 #### Mandatory Aftercare Scheme
 ![](/images/Rehabilitation/MAS%20new.jpeg)
