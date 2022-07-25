@@ -16,6 +16,4 @@ Letters from legal counsel or other official government agencies will continue t
 
 Inmates with no access to DIRECT e-letters will continue to receive their incoming correspondences in hardcopy format.
 
-![](/images/Visit%20Matters/2022-PrisonTech-DIRECT-2.jpg)
-
 Please refer to the [FAQs](https://www.sps.gov.sg/faq) pertaining to e-Letters.
