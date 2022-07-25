@@ -30,8 +30,8 @@ These are washed, replenished or exchanged on a regular basis.
 ![](/images/Prison%20Life/2022-PrisonRegime-MedicalCare-1.jpg)
 (reshoot)
 
-SPS works with its medical service provider to attend to inmates’ medical needs. There are daily in-house clinics on weekdays, and the Prison Medical Officer (PMO) will attend to inmates who report sick. After office hours, on weekends and on public holidays, nurses and an on-call doctor are available.
+SPS works with its medical service provider to attend to inmates’ medical needs. There are daily in-house clinics on weekdays, and the Prison Medical Officer (PMO) will attend to inmates who report sick. After office hours, on weekends and on public holidays, nurses and an on-call PMO are available.
 
-Inmates may also alert any prison officer at any time if they are feeling unwell, and they will be referred to medical staff for examination. While awaiting the arrival of medical personnel, inmates may also receive first aid and other medical attention from prison officers who are trained to provide such assistance. Inmates can raise with prison officers, if they have any issue with the medical help they are seeking.
+Inmates may also alert any prison officer, at any time if they feel unwell, and they will be referred to medical staff for examination. While awaiting the arrival of medical staff, inmates may also receive first aid and other medical attention from trained prison officers.
 
-If assessed necessary by the PMO, inmates can be referred to public healthcare institutions for management of more complex medical issues.
+If assessed necessary by the PMO, inmates can be referred to public healthcare institutions for management of more complex medical issues. Inmates who have any issues with the medical assistance received may approach prison officers.
