@@ -4,6 +4,13 @@ permalink: /corrections-process/Community-Partners
 description: ""
 ---
 (RRD - Introductory para for community partner)
+- different categories of partners
+
+- CARE Network 
+- Case management partners
+-  halfway houses
+-  religious volunteers
+
 
 **Case Management Partners**<br> 
 SPS partners closely with these case management partners to provide case management services and support for supervisees and their families. 
