@@ -9,8 +9,8 @@ The visit entitlement for remand inmates will be increased to four visits per we
 
 |  |Face-to-face  | Tele-visit  |
 | -------- | -------- | -------- |
-|**Visit Mode & Frequency<br>(For all inmates except remand inmates)** <br>&nbsp;<br>Maximum Two Visits per month| Limited to once per month |Up to twice per month ***if***  no face-to face visit is booked for the month|
-|**Visit Mode & Frequency<br>(For remand inmates)** <br>&nbsp;<br>Maximum four visits per week|Limited to once per month|Up to twice per week ***if***  no face-to-face visit is booked for the week|
+|**Visit Mode & Frequency<br>(For all inmates except remand inmates)** <br>&nbsp;<br>Maximum Two Visits per month| Limited to once per month |Up to twice per month ***if***   no face-to face visit is booked for the month|
+|**Visit Mode & Frequency<br>(For remand inmates)** <br>&nbsp;<br>Maximum Four visits per week|Limited to once per month|Up to twice per week ***if***  no face-to-face visit is booked for the week|
 |**Duration**|20 minutes|30 minutes  |
 
 |  |  |
